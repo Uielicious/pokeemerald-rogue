@@ -1,0 +1,344 @@
+{
+    "Species": "SPECIES_FLORGES",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_SOLAR_BEAM",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_PETAL_DANCE",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_SAFEGUARD",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_SYNTHESIS",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_WISH",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_MAGICAL_LEAF",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_GRASS_KNOT",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_PETAL_BLIZZARD",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_DISARMING_VOICE",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_GRASSY_TERRAIN",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_MISTY_TERRAIN",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_MOONBLAST",
+            "Level": 5
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_HELPING_HAND",
+        "MOVE_GIGA_DRAIN",
+        "MOVE_CHILLING_WATER",
+        "MOVE_TOXIC",
+        "MOVE_LIGHT_SCREEN",
+        "MOVE_POLLEN_PUFF",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_PROTECT",
+        "MOVE_BATON_PASS",
+        "MOVE_SKILL_SWAP",
+        "MOVE_CALM_MIND",
+        "MOVE_SEED_BOMB",
+        "MOVE_HYPER_BEAM",
+        "MOVE_SUBSTITUTE",
+        "MOVE_METRONOME",
+        "MOVE_SUNNY_DAY",
+        "MOVE_ENDEAVOR",
+        "MOVE_FACADE",
+        "MOVE_TRICK",
+        "MOVE_SWIFT",
+        "MOVE_SLEEP_TALK",
+        "MOVE_ENERGY_BALL",
+        "MOVE_STORED_POWER",
+        "MOVE_PSYCHIC",
+        "MOVE_TRAILBLAZE",
+        "MOVE_DRAINING_KISS",
+        "MOVE_GIGA_IMPACT",
+        "MOVE_AROMATHERAPY",
+        "MOVE_TERA_BLAST",
+        "MOVE_ENDURE",
+        "MOVE_DAZZLING_GLEAM",
+        "MOVE_MISTY_EXPLOSION",
+        "MOVE_CHARM",
+        "MOVE_RAIN_DANCE",
+        "MOVE_REST"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_WISH",
+                "MOVE_SYNTHESIS",
+                "MOVE_MOONBLAST",
+                "MOVE_AROMATHERAPY"
+            ],
+            "Ability": "ABILITY_FLOWER_VEIL",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Defensive Support",
+            "SourceTiers": [
+                "GEN6UU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_CALM_MIND",
+                "MOVE_MOONBLAST",
+                "MOVE_SYNTHESIS",
+                "MOVE_AROMATHERAPY"
+            ],
+            "Ability": "ABILITY_FLOWER_VEIL",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Defensive Calm Mind",
+            "SourceTiers": [
+                "GEN6UU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_MOONBLAST",
+                "MOVE_AROMATHERAPY",
+                "MOVE_WISH",
+                "MOVE_PROTECT"
+            ],
+            "Ability": "ABILITY_FLOWER_VEIL",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6UU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_MOONBLAST",
+                "MOVE_SYNTHESIS",
+                "MOVE_AROMATHERAPY",
+                "MOVE_TOXIC"
+            ],
+            "Ability": "ABILITY_NATURAL_CURE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Cleric",
+            "SourceTiers": [
+                "GEN7UU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_MOONBLAST",
+                "MOVE_WISH",
+                "MOVE_AROMATHERAPY",
+                "MOVE_PROTECT"
+            ],
+            "Ability": "ABILITY_FLOWER_VEIL",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_CALM",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7UU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_MOONBLAST",
+                "MOVE_SYNTHESIS",
+                "MOVE_AROMATHERAPY",
+                "MOVE_WISH"
+            ],
+            "Ability": "ABILITY_NATURAL_CURE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Cleric",
+            "SourceTiers": [
+                "GEN7RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_MOONBLAST",
+                "MOVE_AROMATHERAPY",
+                "MOVE_WISH",
+                "MOVE_SYNTHESIS"
+            ],
+            "Ability": "ABILITY_FLOWER_VEIL",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_MOONBLAST",
+                "MOVE_CALM_MIND",
+                "MOVE_WISH",
+                "MOVE_PROTECT"
+            ],
+            "Ability": "ABILITY_FLOWER_VEIL",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN9RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_MOONBLAST",
+                "MOVE_PSYCHIC",
+                "MOVE_TRICK",
+                "MOVE_TERA_BLAST"
+            ],
+            "Ability": "ABILITY_FLOWER_VEIL",
+            "Item": "ITEM_CHOICE_SPECS",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": "TYPE_GROUND",
+            "Name": "Choice Item",
+            "SourceTiers": [
+                "GEN9NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_CALM_MIND",
+                "MOVE_MOONBLAST",
+                "MOVE_SYNTHESIS"
+            ],
+            "Ability": "ABILITY_FLOWER_VEIL",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": "TYPE_STEEL",
+            "Name": "Calm Mind",
+            "SourceTiers": [
+                "GEN9NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_WISH",
+                "MOVE_SYNTHESIS",
+                "MOVE_MOONBLAST"
+            ],
+            "Ability": "ABILITY_FLOWER_VEIL",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": "TYPE_POISON",
+            "Name": "Wish",
+            "SourceTiers": [
+                "GEN9PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_CALM_MIND",
+                "MOVE_MOONBLAST",
+                "MOVE_SYNTHESIS"
+            ],
+            "Ability": "ABILITY_FLOWER_VEIL",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": "TYPE_POISON",
+            "Name": "Calm Mind",
+            "SourceTiers": [
+                "GEN9PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_MOONBLAST",
+                "MOVE_SYNTHESIS",
+                "MOVE_TRICK",
+                "MOVE_PSYCHIC"
+            ],
+            "Ability": "ABILITY_FLOWER_VEIL",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": "TYPE_FAIRY",
+            "Name": "Choice Scarf",
+            "SourceTiers": [
+                "GEN9PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_CALM_MIND",
+                "MOVE_GIGA_DRAIN",
+                "MOVE_DRAINING_KISS",
+                "MOVE_TOXIC"
+            ],
+            "Item": "ITEM_LEFTOVERS",
+            "Ability": "ABILITY_NATURAL_CURE",
+            "HiddenPower": null,
+            "SourceTiers": [
+                "GEN7UU"
+            ],
+            "Name": "Calm Mind",
+            "Nature": "NATURE_HARDY",
+            "TeraType": null
+        },
+        {
+            "Moves": [
+                "MOVE_WISH",
+                "MOVE_SYNTHESIS",
+                "MOVE_MOONBLAST",
+                "MOVE_AROMATHERAPY"
+            ],
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Ability": "ABILITY_NATURAL_CURE",
+            "HiddenPower": null,
+            "SourceTiers": [
+                "GEN8NATIONALDEXRU"
+            ],
+            "Name": "Defensive Utility",
+            "Nature": "NATURE_HARDY",
+            "TeraType": null
+        }
+    ]
+}

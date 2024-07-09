@@ -6104,6 +6104,16 @@ const struct ContestMove gContestMoves[MOVES_COUNT] =
     [MOVE_UPPER_HAND] = {0}, // TODO
 
     [MOVE_MALIGNANT_CHAIN] = {0}, // TODO
+
+#ifdef ROGUE_DRAYANO
+    [MOVE_SWIRLING_BLADE] =
+    {
+        .effect = CONTEST_EFFECT_AFFECTED_BY_PREV_APPEAL,
+        .contestCategory = CONTEST_CATEGORY_CUTE,
+        .comboStarterId = 0,
+        .comboMoves = {0}
+    },
+#endif
 };
 
 const struct ContestEffect gContestEffects[] =

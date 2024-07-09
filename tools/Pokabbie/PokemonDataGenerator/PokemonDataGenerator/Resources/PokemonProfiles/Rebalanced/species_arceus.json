@@ -1,0 +1,545 @@
+{
+    "Species": "SPECIES_ARCEUS",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_ROAR_OF_TIME",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_SPACIAL_REND",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_SHADOW_FORCE",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_SEISMIC_TOSS",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_COSMIC_POWER",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_NATURAL_GIFT",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_PUNISHMENT",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_GRAVITY",
+            "Level": "10"
+        },
+        {
+            "Move": "MOVE_EARTH_POWER",
+            "Level": "20"
+        },
+        {
+            "Move": "MOVE_HYPER_VOICE",
+            "Level": "30"
+        },
+        {
+            "Move": "MOVE_EXTREME_SPEED",
+            "Level": "40"
+        },
+        {
+            "Move": "MOVE_REFRESH",
+            "Level": "50"
+        },
+        {
+            "Move": "MOVE_FUTURE_SIGHT",
+            "Level": "60"
+        },
+        {
+            "Move": "MOVE_RECOVER",
+            "Level": "70"
+        },
+        {
+            "Move": "MOVE_HYPER_BEAM",
+            "Level": "80"
+        },
+        {
+            "Move": "MOVE_PERISH_SONG",
+            "Level": "90"
+        },
+        {
+            "Move": "MOVE_JUDGMENT",
+            "Level": "100"
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_ICE_BEAM",
+        "MOVE_GRASSY_TERRAIN",
+        "MOVE_GIGA_DRAIN",
+        "MOVE_DARK_PULSE",
+        "MOVE_DRACO_METEOR",
+        "MOVE_SOLAR_BEAM",
+        "MOVE_GRASS_KNOT",
+        "MOVE_IRON_HEAD",
+        "MOVE_CHILLING_WATER",
+        "MOVE_ROCK_TOMB",
+        "MOVE_STONE_EDGE",
+        "MOVE_DRAGON_DANCE",
+        "MOVE_WILL_O_WISP",
+        "MOVE_DOUBLE_EDGE",
+        "MOVE_CALM_MIND",
+        "MOVE_SUBSTITUTE",
+        "MOVE_SUNNY_DAY",
+        "MOVE_TAILWIND",
+        "MOVE_BRICK_BREAK",
+        "MOVE_STOMPING_TANTRUM",
+        "MOVE_FACADE",
+        "MOVE_PHANTOM_FORCE",
+        "MOVE_DRAGON_PULSE",
+        "MOVE_STEALTH_ROCK",
+        "MOVE_IMPRISON",
+        "MOVE_SLEEP_TALK",
+        "MOVE_STORED_POWER",
+        "MOVE_ENERGY_BALL",
+        "MOVE_PSYCHIC",
+        "MOVE_FLY",
+        "MOVE_SLUDGE_BOMB",
+        "MOVE_WILD_CHARGE",
+        "MOVE_CONFUSE_RAY",
+        "MOVE_THUNDERBOLT",
+        "MOVE_BUG_BUZZ",
+        "MOVE_LIQUIDATION",
+        "MOVE_TERA_BLAST",
+        "MOVE_WATER_PULSE",
+        "MOVE_SNARL",
+        "MOVE_ENDURE",
+        "MOVE_X_SCISSOR",
+        "MOVE_DAZZLING_GLEAM",
+        "MOVE_THUNDER",
+        "MOVE_HEAVY_SLAM",
+        "MOVE_SCARY_FACE",
+        "MOVE_AURA_SPHERE",
+        "MOVE_BLIZZARD",
+        "MOVE_HURRICANE",
+        "MOVE_ROCK_SLIDE",
+        "MOVE_RAIN_DANCE",
+        "MOVE_BULK_UP",
+        "MOVE_FLAMETHROWER",
+        "MOVE_FIRE_BLAST",
+        "MOVE_BODY_PRESS",
+        "MOVE_REST",
+        "MOVE_FLASH_CANNON",
+        "MOVE_GUNK_SHOT",
+        "MOVE_REFLECT",
+        "MOVE_SWORDS_DANCE",
+        "MOVE_AGILITY",
+        "MOVE_ACID_SPRAY",
+        "MOVE_OVERHEAT",
+        "MOVE_ZEN_HEADBUTT",
+        "MOVE_OUTRAGE",
+        "MOVE_BULLDOZE",
+        "MOVE_SUPERCELL_SLAM",
+        "MOVE_LIGHT_SCREEN",
+        "MOVE_WATERFALL",
+        "MOVE_STEEL_BEAM",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_PROTECT",
+        "MOVE_HYDRO_PUMP",
+        "MOVE_BULLET_SEED",
+        "MOVE_TAKE_DOWN",
+        "MOVE_IRON_DEFENSE",
+        "MOVE_PSYSHOCK",
+        "MOVE_SHADOW_CLAW",
+        "MOVE_SCORCHING_SANDS",
+        "MOVE_MAGICAL_LEAF",
+        "MOVE_TRICK",
+        "MOVE_AIR_SLASH",
+        "MOVE_SHADOW_BALL",
+        "MOVE_MISTY_TERRAIN",
+        "MOVE_SWIFT",
+        "MOVE_ICY_WIND",
+        "MOVE_TRAILBLAZE",
+        "MOVE_ROAR",
+        "MOVE_AVALANCHE",
+        "MOVE_GIGA_IMPACT",
+        "MOVE_FLARE_BLITZ",
+        "MOVE_EARTHQUAKE",
+        "MOVE_POWER_GEM",
+        "MOVE_HEAT_WAVE",
+        "MOVE_ELECTRIC_TERRAIN",
+        "MOVE_CHARGE_BEAM",
+        "MOVE_DRAGON_CLAW",
+        "MOVE_HEX",
+        "MOVE_METEOR_BEAM",
+        "MOVE_FOCUS_BLAST",
+        "MOVE_FOUL_PLAY",
+        "MOVE_POISON_JAB",
+        "MOVE_SURF",
+        "MOVE_THUNDER_WAVE",
+        "MOVE_PSYCHIC_TERRAIN",
+        "MOVE_TRICK_ROOM",
+        "MOVE_DRAGON_TAIL",
+        "MOVE_SANDSTORM",
+        "MOVE_PSYCH_UP",
+        "MOVE_TAUNT",
+        "MOVE_BODY_SLAM"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_SWORDS_DANCE",
+                "MOVE_EXTREME_SPEED",
+                "MOVE_SHADOW_CLAW",
+                "MOVE_EARTHQUAKE"
+            ],
+            "Ability": "ABILITY_MULTITYPE",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Extreme Killer",
+            "SourceTiers": [
+                "GEN6UBERS"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SWORDS_DANCE",
+                "MOVE_EXTREME_SPEED",
+                "MOVE_SHADOW_CLAW",
+                "MOVE_RECOVER"
+            ],
+            "Ability": "ABILITY_MULTITYPE",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Bulky Extreme Killer",
+            "SourceTiers": [
+                "GEN6UBERS"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_EXTREME_SPEED",
+                "MOVE_SWORDS_DANCE",
+                "MOVE_SHADOW_CLAW",
+                "MOVE_EARTHQUAKE"
+            ],
+            "Ability": "ABILITY_MULTITYPE",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6UBERS"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SWORDS_DANCE",
+                "MOVE_EXTREME_SPEED",
+                "MOVE_EARTHQUAKE",
+                "MOVE_STONE_EDGE"
+            ],
+            "Ability": "ABILITY_MULTITYPE",
+            "Item": "ITEM_LUM_BERRY",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Extreme Killer",
+            "SourceTiers": [
+                "GEN6ANYTHINGGOES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_STEALTH_ROCK",
+                "MOVE_RECOVER",
+                "MOVE_WILL_O_WISP",
+                "MOVE_ROAR"
+            ],
+            "Ability": "ABILITY_MULTITYPE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Wallceus",
+            "SourceTiers": [
+                "GEN6ANYTHINGGOES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_EXTREME_SPEED",
+                "MOVE_SWORDS_DANCE",
+                "MOVE_EARTHQUAKE",
+                "MOVE_SHADOW_CLAW"
+            ],
+            "Ability": "ABILITY_MULTITYPE",
+            "Item": "ITEM_LUM_BERRY",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6ANYTHINGGOES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SWORDS_DANCE",
+                "MOVE_EXTREME_SPEED",
+                "MOVE_SHADOW_CLAW",
+                "MOVE_RECOVER"
+            ],
+            "Ability": "ABILITY_MULTITYPE",
+            "Item": "ITEM_CHOPLE_BERRY",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Extreme Killer",
+            "SourceTiers": [
+                "GEN7UBERS",
+                "GEN7ANYTHINGGOES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SWORDS_DANCE",
+                "MOVE_EXTREME_SPEED",
+                "MOVE_REFRESH",
+                "MOVE_SHADOW_CLAW"
+            ],
+            "Ability": "ABILITY_MULTITYPE",
+            "Item": "ITEM_NORMALIUM_Z",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Normalium Z",
+            "SourceTiers": [
+                "GEN7UBERS"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_EXTREME_SPEED",
+                "MOVE_SWORDS_DANCE",
+                "MOVE_SHADOW_CLAW",
+                "MOVE_EARTHQUAKE"
+            ],
+            "Ability": "ABILITY_MULTITYPE",
+            "Item": "ITEM_CHOPLE_BERRY",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7UBERS"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SWORDS_DANCE",
+                "MOVE_EXTREME_SPEED",
+                "MOVE_SHADOW_CLAW",
+                "MOVE_GIGA_IMPACT"
+            ],
+            "Ability": "ABILITY_MULTITYPE",
+            "Item": "ITEM_NORMALIUM_Z",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Fast Swords Dance",
+            "SourceTiers": [
+                "GEN7ANYTHINGGOES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_EXTREME_SPEED",
+                "MOVE_SWORDS_DANCE",
+                "MOVE_EARTHQUAKE",
+                "MOVE_SHADOW_CLAW"
+            ],
+            "Ability": "ABILITY_MULTITYPE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_MILD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7ANYTHINGGOES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SWORDS_DANCE",
+                "MOVE_EXTREME_SPEED",
+                "MOVE_SHADOW_CLAW",
+                "MOVE_TAUNT"
+            ],
+            "Ability": "ABILITY_MULTITYPE",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": "TYPE_FIRE",
+            "Name": "Swords Dance Extreme Killer",
+            "SourceTiers": [
+                "GEN9UBERS"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_BULK_UP",
+                "MOVE_EXTREME_SPEED",
+                "MOVE_SHADOW_CLAW",
+                "MOVE_TAUNT"
+            ],
+            "Ability": "ABILITY_MULTITYPE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": "TYPE_FIRE",
+            "Name": "Bulk Up",
+            "SourceTiers": [
+                "GEN9UBERS"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_EXTREME_SPEED",
+                "MOVE_SWORDS_DANCE",
+                "MOVE_SHADOW_CLAW",
+                "MOVE_TAUNT"
+            ],
+            "Ability": "ABILITY_MULTITYPE",
+            "Item": "ITEM_SILK_SCARF",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN9UBERS"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SWORDS_DANCE",
+                "MOVE_EXTREME_SPEED",
+                "MOVE_SHADOW_CLAW",
+                "MOVE_RECOVER"
+            ],
+            "Ability": "ABILITY_MULTITYPE",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": "TYPE_FIRE",
+            "Name": "Bulky Swords Dance",
+            "SourceTiers": [
+                "GEN9ANYTHINGGOES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_BULK_UP",
+                "MOVE_EXTREME_SPEED",
+                "MOVE_SHADOW_CLAW",
+                "MOVE_RECOVER"
+            ],
+            "Ability": "ABILITY_MULTITYPE",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": "TYPE_FIRE",
+            "Name": "Bulk Up",
+            "SourceTiers": [
+                "GEN9ANYTHINGGOES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SWORDS_DANCE",
+                "MOVE_EXTREME_SPEED",
+                "MOVE_SHADOW_CLAW",
+                "MOVE_STONE_EDGE"
+            ],
+            "Ability": "ABILITY_MULTITYPE",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": "TYPE_NORMAL",
+            "Name": "Offensive Swords Dance",
+            "SourceTiers": [
+                "GEN9ANYTHINGGOES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SWORDS_DANCE",
+                "MOVE_EXTREME_SPEED",
+                "MOVE_SHADOW_CLAW",
+                "MOVE_RECOVER"
+            ],
+            "Ability": "ABILITY_MULTITYPE",
+            "Item": "ITEM_SILK_SCARF",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": "TYPE_NORMAL",
+            "Name": "Offensive Setup",
+            "SourceTiers": [
+                "GEN9ANYTHINGGOES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SWORDS_DANCE",
+                "MOVE_EXTREME_SPEED",
+                "MOVE_SHADOW_CLAW",
+                "MOVE_RECOVER"
+            ],
+            "Ability": "ABILITY_MULTITYPE",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": "TYPE_GHOST",
+            "Name": "Bulky Extreme Killer",
+            "SourceTiers": [
+                "GEN9ANYTHINGGOES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_EXTREME_SPEED",
+                "MOVE_SHADOW_CLAW",
+                "MOVE_SWORDS_DANCE",
+                "MOVE_RECOVER"
+            ],
+            "Ability": "ABILITY_MULTITYPE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN9ANYTHINGGOES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_EXTREME_SPEED",
+                "MOVE_SWORDS_DANCE",
+                "MOVE_SHADOW_CLAW",
+                "MOVE_EARTHQUAKE"
+            ],
+            "Ability": "ABILITY_MULTITYPE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN9NATIONALDEXAG"
+            ]
+        }
+    ]
+}

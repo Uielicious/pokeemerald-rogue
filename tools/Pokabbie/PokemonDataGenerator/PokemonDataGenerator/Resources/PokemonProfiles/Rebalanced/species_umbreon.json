@@ -1,0 +1,502 @@
+{
+    "Species": "SPECIES_UMBREON",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_PURSUIT",
+            "Level": "0"
+        },
+        {
+            "Move": "MOVE_PURSUIT",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_HELPING_HAND",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_TACKLE",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_TAIL_WHIP",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_SAND_ATTACK",
+            "Level": "5"
+        },
+        {
+            "Move": "MOVE_BABY_DOLL_EYES",
+            "Level": "9"
+        },
+        {
+            "Move": "MOVE_QUICK_ATTACK",
+            "Level": "13"
+        },
+        {
+            "Move": "MOVE_CONFUSE_RAY",
+            "Level": "17"
+        },
+        {
+            "Move": "MOVE_FEINT_ATTACK",
+            "Level": "20"
+        },
+        {
+            "Move": "MOVE_ASSURANCE",
+            "Level": "23"
+        },
+        {
+            "Move": "MOVE_SNARL",
+            "Level": "26"
+        },
+        {
+            "Move": "MOVE_SCREECH",
+            "Level": "29"
+        },
+        {
+            "Move": "MOVE_PLAY_ROUGH",
+            "Level": "33"
+        },
+        {
+            "Move": "MOVE_MOONLIGHT",
+            "Level": "37"
+        },
+        {
+            "Move": "MOVE_MEAN_LOOK",
+            "Level": "41"
+        },
+        {
+            "Move": "MOVE_LAST_RESORT",
+            "Level": "45"
+        },
+        {
+            "Move": "MOVE_FOUL_PLAY",
+            "Level": "50"
+        },
+        {
+            "Move": "MOVE_GUARD_SWAP",
+            "Level": "55"
+        },
+        {
+            "Move": "MOVE_BADDY_BAD",
+            "Level": "60"
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_DARK_PULSE",
+        "MOVE_GUNK_SHOT",
+        "MOVE_REFLECT",
+        "MOVE_LASH_OUT",
+        "MOVE_GRASS_KNOT",
+        "MOVE_TOXIC",
+        "MOVE_LIGHT_SCREEN",
+        "MOVE_QUASH",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_PROTECT",
+        "MOVE_BATON_PASS",
+        "MOVE_SKILL_SWAP",
+        "MOVE_DOUBLE_EDGE",
+        "MOVE_TAKE_DOWN",
+        "MOVE_CALM_MIND",
+        "MOVE_THIEF",
+        "MOVE_THROAT_CHOP",
+        "MOVE_HYPER_BEAM",
+        "MOVE_SUBSTITUTE",
+        "MOVE_PSYSHOCK",
+        "MOVE_SUNNY_DAY",
+        "MOVE_FACADE",
+        "MOVE_SHADOW_BALL",
+        "MOVE_SWIFT",
+        "MOVE_SLEEP_TALK",
+        "MOVE_STORED_POWER",
+        "MOVE_TRAILBLAZE",
+        "MOVE_PSYCHIC",
+        "MOVE_ROAR",
+        "MOVE_MYSTICAL_FIRE",
+        "MOVE_REST",
+        "MOVE_GIGA_IMPACT",
+        "MOVE_DIG",
+        "MOVE_HYPER_VOICE",
+        "MOVE_FAKE_TEARS",
+        "MOVE_YAWN",
+        "MOVE_POWER_GEM",
+        "MOVE_TERA_BLAST",
+        "MOVE_WISH",
+        "MOVE_CURSE",
+        "MOVE_ENDURE",
+        "MOVE_SPITE",
+        "MOVE_CHARM",
+        "MOVE_SCARY_FACE",
+        "MOVE_HEAL_BELL",
+        "MOVE_THUNDER_WAVE",
+        "MOVE_RAIN_DANCE",
+        "MOVE_PSYCH_UP",
+        "MOVE_CRUNCH",
+        "MOVE_TAUNT",
+        "MOVE_WEATHER_BALL",
+        "MOVE_BODY_SLAM"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_PROTECT",
+                "MOVE_WISH",
+                "MOVE_HEAL_BELL",
+                "MOVE_FOUL_PLAY"
+            ],
+            "Ability": "ABILITY_SYNCHRONIZE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_CALM",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6OU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_WISH",
+                "MOVE_PROTECT",
+                "MOVE_HEAL_BELL",
+                "MOVE_FOUL_PLAY"
+            ],
+            "Ability": "ABILITY_SYNCHRONIZE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_CALM",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Cleric / Wish Pass",
+            "SourceTiers": [
+                "GEN6UU",
+                "GEN7RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FOUL_PLAY",
+                "MOVE_HEAL_BELL",
+                "MOVE_WISH",
+                "MOVE_PROTECT"
+            ],
+            "Ability": "ABILITY_SYNCHRONIZE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_CALM",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6UU",
+                "GEN7UU",
+                "GEN7UU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FOUL_PLAY",
+                "MOVE_MOONLIGHT",
+                "MOVE_TOXIC",
+                "MOVE_HEAL_BELL"
+            ],
+            "Ability": "ABILITY_SYNCHRONIZE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_CALM",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6BATTLESPOTSINGLES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FOUL_PLAY",
+                "MOVE_MOONLIGHT",
+                "MOVE_SNARL",
+                "MOVE_CHARM"
+            ],
+            "Ability": "ABILITY_SYNCHRONIZE",
+            "Item": "ITEM_ROCKY_HELMET",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Standard",
+            "SourceTiers": [
+                "GEN61V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_TOXIC",
+                "MOVE_FOUL_PLAY",
+                "MOVE_WISH",
+                "MOVE_MOONLIGHT"
+            ],
+            "Ability": "ABILITY_SYNCHRONIZE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_CAREFUL",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6ANYTHINGGOES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_WISH",
+                "MOVE_FOUL_PLAY",
+                "MOVE_HEAL_BELL",
+                "MOVE_TOXIC"
+            ],
+            "Ability": "ABILITY_SYNCHRONIZE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_CALM",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_WISH",
+                "MOVE_FOUL_PLAY",
+                "MOVE_PROTECT",
+                "MOVE_HEAL_BELL"
+            ],
+            "Ability": "ABILITY_SYNCHRONIZE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_CALM",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7RU",
+                "GEN8RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FOUL_PLAY",
+                "MOVE_MOONLIGHT",
+                "MOVE_TOXIC",
+                "MOVE_HEAL_BELL"
+            ],
+            "Ability": "ABILITY_SYNCHRONIZE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7BATTLESPOTSINGLES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_CHARM",
+                "MOVE_MOONLIGHT",
+                "MOVE_FOUL_PLAY",
+                "MOVE_SNARL"
+            ],
+            "Ability": "ABILITY_INNER_FOCUS",
+            "Item": "ITEM_FAIRIUM_Z",
+            "Nature": "NATURE_CALM",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Z-Charm",
+            "SourceTiers": [
+                "GEN71V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_WISH",
+                "MOVE_PROTECT",
+                "MOVE_FOUL_PLAY",
+                "MOVE_TOXIC"
+            ],
+            "Ability": "ABILITY_SYNCHRONIZE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_CALM",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_WISH",
+                "MOVE_PROTECT",
+                "MOVE_FOUL_PLAY",
+                "MOVE_TOXIC"
+            ],
+            "Ability": "ABILITY_SYNCHRONIZE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_IMPISH",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8OU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FOUL_PLAY",
+                "MOVE_TOXIC",
+                "MOVE_WISH",
+                "MOVE_PROTECT"
+            ],
+            "Ability": "ABILITY_INNER_FOCUS",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Physically Defensive",
+            "SourceTiers": [
+                "GEN8UU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_WISH",
+                "MOVE_FOUL_PLAY",
+                "MOVE_PROTECT",
+                "MOVE_HEAL_BELL"
+            ],
+            "Ability": "ABILITY_SYNCHRONIZE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8UU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FOUL_PLAY",
+                "MOVE_WISH",
+                "MOVE_PROTECT",
+                "MOVE_HEAL_BELL"
+            ],
+            "Ability": "ABILITY_SYNCHRONIZE",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_CALM",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Defensive",
+            "SourceTiers": [
+                "GEN8RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FOUL_PLAY",
+                "MOVE_PROTECT",
+                "MOVE_WISH",
+                "MOVE_HEAL_BELL"
+            ],
+            "Ability": "ABILITY_SYNCHRONIZE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_CALM",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8NATIONALDEX"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FOUL_PLAY",
+                "MOVE_YAWN",
+                "MOVE_WISH",
+                "MOVE_PROTECT"
+            ],
+            "Ability": "ABILITY_SYNCHRONIZE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_CAREFUL",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8BATTLESTADIUMSINGLES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FOUL_PLAY",
+                "MOVE_WISH",
+                "MOVE_TOXIC",
+                "MOVE_PROTECT"
+            ],
+            "Ability": "ABILITY_INNER_FOCUS",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_CALM",
+            "HiddenPower": null,
+            "TeraType": "TYPE_POISON",
+            "Name": "Wish Support",
+            "SourceTiers": [
+                "GEN9RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FOUL_PLAY",
+                "MOVE_WISH",
+                "MOVE_TOXIC",
+                "MOVE_PROTECT"
+            ],
+            "Ability": "ABILITY_SYNCHRONIZE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_CALM",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN9RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FOUL_PLAY",
+                "MOVE_WISH",
+                "MOVE_PROTECT",
+                "MOVE_TOXIC"
+            ],
+            "Ability": "ABILITY_SYNCHRONIZE",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_CALM",
+            "HiddenPower": null,
+            "TeraType": "TYPE_POISON",
+            "Name": "Utility",
+            "SourceTiers": [
+                "GEN9NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FOUL_PLAY",
+                "MOVE_WISH",
+                "MOVE_SUBSTITUTE",
+                "MOVE_PROTECT"
+            ],
+            "Ability": "ABILITY_SYNCHRONIZE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_CALM",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN9NATIONALDEXAG"
+            ]
+        }
+    ]
+}

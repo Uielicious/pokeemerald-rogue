@@ -1,0 +1,78 @@
+{
+    "Species": "SPECIES_WOOLOO",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_TACKLE",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_GROWL",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_DEFENSE_CURL",
+            "Level": 4
+        },
+        {
+            "Move": "MOVE_COPYCAT",
+            "Level": 8
+        },
+        {
+            "Move": "MOVE_GUARD_SPLIT",
+            "Level": 12
+        },
+        {
+            "Move": "MOVE_DOUBLE_KICK",
+            "Level": 16
+        },
+        {
+            "Move": "MOVE_HEADBUTT",
+            "Level": 21
+        },
+        {
+            "Move": "MOVE_TAKE_DOWN",
+            "Level": 25
+        },
+        {
+            "Move": "MOVE_GUARD_SWAP",
+            "Level": 28
+        },
+        {
+            "Move": "MOVE_REVERSAL",
+            "Level": 32
+        },
+        {
+            "Move": "MOVE_COTTON_GUARD",
+            "Level": 36
+        },
+        {
+            "Move": "MOVE_DOUBLE_EDGE",
+            "Level": 40
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_FRUSTRATION",
+        "MOVE_ATTRACT",
+        "MOVE_AGILITY",
+        "MOVE_TOXIC",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_SWAGGER",
+        "MOVE_PAYBACK",
+        "MOVE_PROTECT",
+        "MOVE_GRASSY_GLIDE",
+        "MOVE_STOMP",
+        "MOVE_SUBSTITUTE",
+        "MOVE_FACADE",
+        "MOVE_SLEEP_TALK",
+        "MOVE_WILD_CHARGE",
+        "MOVE_ENDURE",
+        "MOVE_RETURN",
+        "MOVE_ELECTRO_BALL",
+        "MOVE_COUNTER",
+        "MOVE_ROUND",
+        "MOVE_THUNDER_WAVE",
+        "MOVE_SNORE",
+        "MOVE_REST"
+    ],
+    "CompetitiveSets": []
+}

@@ -1,0 +1,211 @@
+{
+    "Species": "SPECIES_ELDEGOSS",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_COTTON_SPORE",
+            "Level": 0
+        },
+        {
+            "Move": "MOVE_SING",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_RAPID_SPIN",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_SWEET_SCENT",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_LEAFAGE",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_RAZOR_LEAF",
+            "Level": 12
+        },
+        {
+            "Move": "MOVE_ROUND",
+            "Level": 16
+        },
+        {
+            "Move": "MOVE_LEAF_TORNADO",
+            "Level": 23
+        },
+        {
+            "Move": "MOVE_SYNTHESIS",
+            "Level": 28
+        },
+        {
+            "Move": "MOVE_HYPER_VOICE",
+            "Level": 34
+        },
+        {
+            "Move": "MOVE_AROMATHERAPY",
+            "Level": 40
+        },
+        {
+            "Move": "MOVE_LEAF_STORM",
+            "Level": 46
+        },
+        {
+            "Move": "MOVE_COTTON_GUARD",
+            "Level": 52
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_GRASSY_TERRAIN",
+        "MOVE_HELPING_HAND",
+        "MOVE_GIGA_DRAIN",
+        "MOVE_SOLAR_BEAM",
+        "MOVE_SLEEP_POWDER",
+        "MOVE_GRASS_KNOT",
+        "MOVE_ATTRACT",
+        "MOVE_FRUSTRATION",
+        "MOVE_TOXIC",
+        "MOVE_LIGHT_SCREEN",
+        "MOVE_POLLEN_PUFF",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_PROTECT",
+        "MOVE_BULLET_SEED",
+        "MOVE_GRASSY_GLIDE",
+        "MOVE_SEED_BOMB",
+        "MOVE_HYPER_BEAM",
+        "MOVE_SUBSTITUTE",
+        "MOVE_MAGICAL_LEAF",
+        "MOVE_FACADE",
+        "MOVE_SUNNY_DAY",
+        "MOVE_SLEEP_TALK",
+        "MOVE_ENERGY_BALL",
+        "MOVE_GIGA_IMPACT",
+        "MOVE_ENDURE",
+        "MOVE_RETURN",
+        "MOVE_CHARM",
+        "MOVE_SNORE",
+        "MOVE_LEECH_SEED",
+        "MOVE_WEATHER_BALL",
+        "MOVE_REST"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_GIGA_DRAIN",
+                "MOVE_RAPID_SPIN",
+                "MOVE_AROMATHERAPY",
+                "MOVE_LEECH_SEED"
+            ],
+            "Ability": "ABILITY_REGENERATOR",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_CALM",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Defensive Utility",
+            "SourceTiers": [
+                "GEN8NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_RAPID_SPIN",
+                "MOVE_GIGA_DRAIN",
+                "MOVE_AROMATHERAPY",
+                "MOVE_SLEEP_POWDER"
+            ],
+            "Ability": "ABILITY_REGENERATOR",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_CALM",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_GIGA_DRAIN",
+                "MOVE_RAPID_SPIN",
+                "MOVE_SLEEP_POWDER",
+                "MOVE_LEECH_SEED"
+            ],
+            "Ability": "ABILITY_REGENERATOR",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Defensive Spinner",
+            "SourceTiers": [
+                "GEN8PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_LEAF_STORM",
+                "MOVE_RAPID_SPIN",
+                "MOVE_SLEEP_POWDER",
+                "MOVE_POLLEN_PUFF"
+            ],
+            "Ability": "ABILITY_REGENERATOR",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Offensive Spinner",
+            "SourceTiers": [
+                "GEN8PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_RAPID_SPIN",
+                "MOVE_LEECH_SEED",
+                "MOVE_GIGA_DRAIN",
+                "MOVE_AROMATHERAPY"
+            ],
+            "Ability": "ABILITY_REGENERATOR",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_GIGA_DRAIN",
+                "MOVE_RAPID_SPIN",
+                "MOVE_TOXIC",
+                "MOVE_LEECH_SEED"
+            ],
+            "Item": "ITEM_EJECT_BUTTON",
+            "Ability": "ABILITY_REGENERATOR",
+            "HiddenPower": null,
+            "SourceTiers": [
+                "GEN8PU"
+            ],
+            "Name": "Defensive Spinner",
+            "Nature": "NATURE_HARDY",
+            "TeraType": null
+        },
+        {
+            "Moves": [
+                "MOVE_GIGA_DRAIN",
+                "MOVE_RAPID_SPIN",
+                "MOVE_TOXIC",
+                "MOVE_SYNTHESIS"
+            ],
+            "Item": "ITEM_EJECT_PACK",
+            "Ability": "ABILITY_REGENERATOR",
+            "HiddenPower": null,
+            "SourceTiers": [
+                "GEN8NU"
+            ],
+            "Name": "Defensive Utility",
+            "Nature": "NATURE_HARDY",
+            "TeraType": null
+        }
+    ]
+}

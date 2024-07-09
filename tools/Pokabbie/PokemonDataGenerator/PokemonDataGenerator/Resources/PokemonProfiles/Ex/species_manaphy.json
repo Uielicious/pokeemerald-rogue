@@ -113,6 +113,7 @@
       "Item": "ITEM_LEFTOVERS",
       "Nature": "NATURE_MODEST",
       "HiddenPower": null,
+      "Name": "Tail Glow + 3 Attacks",
       "SourceTiers": [
         "GEN6OU"
       ]
@@ -128,6 +129,7 @@
       "Item": "ITEM_LEFTOVERS",
       "Nature": "NATURE_MODEST",
       "HiddenPower": null,
+      "Name": "Tail Glow + Rain Dance",
       "SourceTiers": [
         "GEN6OU"
       ]
@@ -143,6 +145,7 @@
       "Item": "ITEM_LEFTOVERS",
       "Nature": "NATURE_MODEST",
       "HiddenPower": null,
+      "Name": "Showdown Usage",
       "SourceTiers": [
         "GEN6OU"
       ]
@@ -158,6 +161,7 @@
       "Item": "ITEM_SAFETY_GOGGLES",
       "Nature": "NATURE_MODEST",
       "HiddenPower": null,
+      "Name": "Tail Glow",
       "SourceTiers": [
         "GEN6DOUBLESOU"
       ]
@@ -173,6 +177,7 @@
       "Item": "ITEM_SITRUS_BERRY",
       "Nature": "NATURE_TIMID",
       "HiddenPower": null,
+      "Name": "Fast Stall",
       "SourceTiers": [
         "GEN61V1"
       ]
@@ -188,6 +193,7 @@
       "Item": "ITEM_CUSTAP_BERRY",
       "Nature": "NATURE_MODEST",
       "HiddenPower": null,
+      "Name": "Bold Stall",
       "SourceTiers": [
         "GEN61V1"
       ]
@@ -203,6 +209,7 @@
       "Item": "ITEM_LEFTOVERS",
       "Nature": "NATURE_TIMID",
       "HiddenPower": null,
+      "Name": "Showdown Usage",
       "SourceTiers": [
         "GEN6MONOTYPE",
         "GEN9MONOTYPE"
@@ -219,6 +226,7 @@
       "Item": "ITEM_WATERIUM_Z",
       "Nature": "NATURE_MODEST",
       "HiddenPower": null,
+      "Name": "2 Attacks + Rest",
       "SourceTiers": [
         "GEN7OU"
       ]
@@ -234,6 +242,7 @@
       "Item": "ITEM_WATERIUM_Z",
       "Nature": "NATURE_TIMID",
       "HiddenPower": null,
+      "Name": "Three Attacks",
       "SourceTiers": [
         "GEN7OU"
       ]
@@ -249,6 +258,7 @@
       "Item": "ITEM_WATERIUM_Z",
       "Nature": "NATURE_TIMID",
       "HiddenPower": null,
+      "Name": "Showdown Usage",
       "SourceTiers": [
         "GEN7OU"
       ]
@@ -264,6 +274,7 @@
       "Item": "ITEM_WATERIUM_Z",
       "Nature": "NATURE_MODEST",
       "HiddenPower": null,
+      "Name": "Tail Glow + 3 Attacks",
       "SourceTiers": [
         "GEN71V1"
       ]
@@ -279,6 +290,7 @@
       "Item": "ITEM_WATERIUM_Z",
       "Nature": "NATURE_TIMID",
       "HiddenPower": null,
+      "Name": "Waterium Z",
       "SourceTiers": [
         "GEN7MONOTYPE"
       ]
@@ -294,6 +306,7 @@
       "Item": "ITEM_WATERIUM_Z",
       "Nature": "NATURE_TIMID",
       "HiddenPower": null,
+      "Name": "Showdown Usage",
       "SourceTiers": [
         "GEN7MONOTYPE"
       ]
@@ -309,6 +322,7 @@
       "Item": "ITEM_LEFTOVERS",
       "Nature": "NATURE_TIMID",
       "HiddenPower": null,
+      "Name": "Tail Glow",
       "SourceTiers": [
         "GEN9OU"
       ]
@@ -324,6 +338,7 @@
       "Item": "ITEM_LEFTOVERS",
       "Nature": "NATURE_BOLD",
       "HiddenPower": null,
+      "Name": "Double Dance",
       "SourceTiers": [
         "GEN9OU"
       ]
@@ -339,6 +354,7 @@
       "Item": "ITEM_LEFTOVERS",
       "Nature": "NATURE_TIMID",
       "HiddenPower": null,
+      "Name": "Showdown Usage",
       "SourceTiers": [
         "GEN9OU"
       ]
@@ -354,6 +370,7 @@
       "Item": "ITEM_WATERIUM_Z",
       "Nature": "NATURE_TIMID",
       "HiddenPower": null,
+      "Name": "Rain Wallbreaker",
       "SourceTiers": [
         "GEN9NATIONALDEX"
       ]
@@ -369,6 +386,7 @@
       "Item": "ITEM_LEFTOVERS",
       "Nature": "NATURE_TIMID",
       "HiddenPower": null,
+      "Name": "Tail Glow",
       "SourceTiers": [
         "GEN9NATIONALDEX"
       ]
@@ -384,6 +402,7 @@
       "Item": "ITEM_LEFTOVERS",
       "Nature": "NATURE_TIMID",
       "HiddenPower": null,
+      "Name": "Tank",
       "SourceTiers": [
         "GEN9NATIONALDEX"
       ]
@@ -399,6 +418,7 @@
       "Item": "ITEM_LEFTOVERS",
       "Nature": "NATURE_TIMID",
       "HiddenPower": null,
+      "Name": "Showdown Usage",
       "SourceTiers": [
         "GEN9NATIONALDEX"
       ]
@@ -414,6 +434,7 @@
       "Item": "ITEM_CUSTAP_BERRY",
       "Nature": "NATURE_TIMID",
       "HiddenPower": null,
+      "Name": "Showdown Usage",
       "SourceTiers": [
         "GEN91V1"
       ]
@@ -429,6 +450,7 @@
       "Item": "ITEM_HEAVY_DUTY_BOOTS",
       "Nature": "NATURE_TIMID",
       "HiddenPower": null,
+      "Name": "Offensive Setup Sweeper",
       "SourceTiers": [
         "GEN9MONOTYPE"
       ]

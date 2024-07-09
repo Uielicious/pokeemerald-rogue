@@ -1,0 +1,312 @@
+{
+    "Species": "SPECIES_MIENSHAO",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_AURA_SPHERE",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_REVERSAL",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_POUND",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_MEDITATE",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_DETECT",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_FAKE_OUT",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_MEDITATE",
+            "Level": "5"
+        },
+        {
+            "Move": "MOVE_DETECT",
+            "Level": "9"
+        },
+        {
+            "Move": "MOVE_FAKE_OUT",
+            "Level": "13"
+        },
+        {
+            "Move": "MOVE_DOUBLE_SLAP",
+            "Level": "17"
+        },
+        {
+            "Move": "MOVE_SWIFT",
+            "Level": "21"
+        },
+        {
+            "Move": "MOVE_CALM_MIND",
+            "Level": "25"
+        },
+        {
+            "Move": "MOVE_FORCE_PALM",
+            "Level": "29"
+        },
+        {
+            "Move": "MOVE_DRAIN_PUNCH",
+            "Level": "33"
+        },
+        {
+            "Move": "MOVE_JUMP_KICK",
+            "Level": "37"
+        },
+        {
+            "Move": "MOVE_U_TURN",
+            "Level": "41"
+        },
+        {
+            "Move": "MOVE_WIDE_GUARD",
+            "Level": "45"
+        },
+        {
+            "Move": "MOVE_BOUNCE",
+            "Level": "49"
+        },
+        {
+            "Move": "MOVE_HIGH_JUMP_KICK",
+            "Level": "56"
+        },
+        {
+            "Move": "MOVE_REVERSAL",
+            "Level": "63"
+        },
+        {
+            "Move": "MOVE_AURA_SPHERE",
+            "Level": "70"
+        },
+        {
+            "Move": "MOVE_CLOSE_COMBAT",
+            "Level": "75"
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_FEINT",
+        "MOVE_HELPING_HAND",
+        "MOVE_VACUUM_WAVE",
+        "MOVE_FLING",
+        "MOVE_GRASS_KNOT",
+        "MOVE_AGILITY",
+        "MOVE_SWORDS_DANCE",
+        "MOVE_ROCK_TOMB",
+        "MOVE_COACHING",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_STONE_EDGE",
+        "MOVE_KNOCK_OFF",
+        "MOVE_PROTECT",
+        "MOVE_BATON_PASS",
+        "MOVE_DOUBLE_EDGE",
+        "MOVE_TAKE_DOWN",
+        "MOVE_HYPER_BEAM",
+        "MOVE_SUBSTITUTE",
+        "MOVE_SUNNY_DAY",
+        "MOVE_BRICK_BREAK",
+        "MOVE_FACADE",
+        "MOVE_ACROBATICS",
+        "MOVE_TRIPLE_AXEL",
+        "MOVE_SLEEP_TALK",
+        "MOVE_TRAILBLAZE",
+        "MOVE_GIGA_IMPACT",
+        "MOVE_DIG",
+        "MOVE_TERA_BLAST",
+        "MOVE_ENDURE",
+        "MOVE_BLAZE_KICK",
+        "MOVE_ROCK_CLIMB",
+        "MOVE_FOCUS_BLAST",
+        "MOVE_LOW_SWEEP",
+        "MOVE_LOW_KICK",
+        "MOVE_POISON_JAB",
+        "MOVE_ICE_SPINNER",
+        "MOVE_RAIN_DANCE",
+        "MOVE_BULK_UP",
+        "MOVE_PSYCH_UP",
+        "MOVE_AERIAL_ACE",
+        "MOVE_TAUNT",
+        "MOVE_FOCUS_PUNCH",
+        "MOVE_REST"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_HIGH_JUMP_KICK",
+                "MOVE_U_TURN",
+                "MOVE_KNOCK_OFF",
+                "MOVE_STONE_EDGE"
+            ],
+            "Ability": "ABILITY_RECKLESS",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Scarf",
+            "SourceTiers": [
+                "GEN6UU",
+                "GEN7UU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_HIGH_JUMP_KICK",
+                "MOVE_KNOCK_OFF",
+                "MOVE_U_TURN",
+                "MOVE_POISON_JAB"
+            ],
+            "Ability": "ABILITY_REGENERATOR",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Life Orb",
+            "SourceTiers": [
+                "GEN6UU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_U_TURN",
+                "MOVE_HIGH_JUMP_KICK",
+                "MOVE_KNOCK_OFF",
+                "MOVE_STONE_EDGE"
+            ],
+            "Ability": "ABILITY_REGENERATOR",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6UU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_HIGH_JUMP_KICK",
+                "MOVE_KNOCK_OFF",
+                "MOVE_U_TURN",
+                "MOVE_FAKE_OUT"
+            ],
+            "Ability": "ABILITY_REGENERATOR",
+            "Item": "ITEM_ASSAULT_VEST",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Assault Vest",
+            "SourceTiers": [
+                "GEN7UU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_U_TURN",
+                "MOVE_HIGH_JUMP_KICK",
+                "MOVE_KNOCK_OFF",
+                "MOVE_FAKE_OUT"
+            ],
+            "Ability": "ABILITY_REGENERATOR",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8OU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_CLOSE_COMBAT",
+                "MOVE_KNOCK_OFF",
+                "MOVE_U_TURN",
+                "MOVE_TRIPLE_AXEL"
+            ],
+            "Ability": "ABILITY_REGENERATOR",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": "TYPE_FIGHTING",
+            "Name": "Choice Scarf",
+            "SourceTiers": [
+                "GEN9UU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_U_TURN",
+                "MOVE_KNOCK_OFF",
+                "MOVE_CLOSE_COMBAT",
+                "MOVE_ICE_SPINNER"
+            ],
+            "Ability": "ABILITY_REGENERATOR",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN9UU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_CLOSE_COMBAT",
+                "MOVE_KNOCK_OFF",
+                "MOVE_U_TURN",
+                "MOVE_STONE_EDGE"
+            ],
+            "Ability": "ABILITY_REGENERATOR",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": "TYPE_STEEL",
+            "Name": "Life Orb",
+            "SourceTiers": [
+                "GEN9RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_CLOSE_COMBAT",
+                "MOVE_KNOCK_OFF",
+                "MOVE_U_TURN",
+                "MOVE_STONE_EDGE"
+            ],
+            "Ability": "ABILITY_REGENERATOR",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": "TYPE_FIGHTING",
+            "Name": "Choice Scarf",
+            "SourceTiers": [
+                "GEN9RU",
+                "GEN9NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_CLOSE_COMBAT",
+                "MOVE_KNOCK_OFF",
+                "MOVE_POISON_JAB",
+                "MOVE_SWORDS_DANCE"
+            ],
+            "Ability": "ABILITY_REGENERATOR",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": "TYPE_POISON",
+            "Name": "Wallbreaker",
+            "SourceTiers": [
+                "GEN9NU"
+            ]
+        }
+    ]
+}

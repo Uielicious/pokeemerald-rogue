@@ -1,0 +1,176 @@
+{
+    "Species": "SPECIES_LITWICK",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_SMOG",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_ASTONISH",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_EMBER",
+            "Level": 4
+        },
+        {
+            "Move": "MOVE_MINIMIZE",
+            "Level": 8
+        },
+        {
+            "Move": "MOVE_CONFUSE_RAY",
+            "Level": 12
+        },
+        {
+            "Move": "MOVE_HEX",
+            "Level": 16
+        },
+        {
+            "Move": "MOVE_WILL_O_WISP",
+            "Level": 20
+        },
+        {
+            "Move": "MOVE_FIRE_SPIN",
+            "Level": 24
+        },
+        {
+            "Move": "MOVE_NIGHT_SHADE",
+            "Level": 28
+        },
+        {
+            "Move": "MOVE_CURSE",
+            "Level": 32
+        },
+        {
+            "Move": "MOVE_SHADOW_BALL",
+            "Level": 36
+        },
+        {
+            "Move": "MOVE_INFERNO",
+            "Level": 40
+        },
+        {
+            "Move": "MOVE_IMPRISON",
+            "Level": 44
+        },
+        {
+            "Move": "MOVE_PAIN_SPLIT",
+            "Level": 48
+        },
+        {
+            "Move": "MOVE_OVERHEAT",
+            "Level": 52
+        },
+        {
+            "Move": "MOVE_MEMENTO",
+            "Level": 56
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_BURNING_JEALOUSY",
+        "MOVE_DARK_PULSE",
+        "MOVE_POWER_SPLIT",
+        "MOVE_ACID_ARMOR",
+        "MOVE_SOLAR_BEAM",
+        "MOVE_SKITTER_SMACK",
+        "MOVE_TEMPER_FLARE",
+        "MOVE_PSYCH_UP",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_POLTERGEIST",
+        "MOVE_CLEAR_SMOG",
+        "MOVE_PROTECT",
+        "MOVE_THIEF",
+        "MOVE_CALM_MIND",
+        "MOVE_SUBSTITUTE",
+        "MOVE_SUNNY_DAY",
+        "MOVE_FACADE",
+        "MOVE_TRICK",
+        "MOVE_SLEEP_TALK",
+        "MOVE_ENERGY_BALL",
+        "MOVE_PSYCHIC",
+        "MOVE_HAZE",
+        "MOVE_MYSTICAL_FIRE",
+        "MOVE_FLARE_BLITZ",
+        "MOVE_HEAT_WAVE",
+        "MOVE_TERA_BLAST",
+        "MOVE_ENDURE",
+        "MOVE_SPITE",
+        "MOVE_DAZZLING_GLEAM",
+        "MOVE_TRICK_ROOM",
+        "MOVE_FLAMETHROWER",
+        "MOVE_FLAME_CHARGE",
+        "MOVE_FIRE_BLAST",
+        "MOVE_TAUNT",
+        "MOVE_REST"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_FIRE_BLAST",
+                "MOVE_SHADOW_BALL",
+                "MOVE_TRICK_ROOM",
+                "MOVE_ENERGY_BALL"
+            ],
+            "Ability": "ABILITY_FLASH_FIRE",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_QUIET",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Trick Room Sweeper",
+            "SourceTiers": [
+                "GEN6LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SHADOW_BALL",
+                "MOVE_ENERGY_BALL",
+                "MOVE_FLAMETHROWER",
+                "MOVE_FIRE_BLAST"
+            ],
+            "Ability": "ABILITY_FLASH_FIRE",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_QUIET",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_MEMENTO",
+                "MOVE_TRICK_ROOM",
+                "MOVE_FIRE_BLAST",
+                "MOVE_WILL_O_WISP"
+            ],
+            "Ability": "ABILITY_FLAME_BODY",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_QUIET",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Trick Room",
+            "SourceTiers": [
+                "GEN7LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SHADOW_BALL",
+                "MOVE_ENERGY_BALL",
+                "MOVE_FLAMETHROWER",
+                "MOVE_WILL_O_WISP"
+            ],
+            "Ability": "ABILITY_FLASH_FIRE",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_QUIET",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8LC"
+            ]
+        }
+    ]
+}

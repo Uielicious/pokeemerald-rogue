@@ -1,0 +1,182 @@
+{
+    "Species": "SPECIES_GOREBYSS",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_CONFUSION",
+            "Level": "0"
+        },
+        {
+            "Move": "MOVE_WHIRLPOOL",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_CONFUSION",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_WATER_SPORT",
+            "Level": "5"
+        },
+        {
+            "Move": "MOVE_AGILITY",
+            "Level": "9"
+        },
+        {
+            "Move": "MOVE_DRAINING_KISS",
+            "Level": "11"
+        },
+        {
+            "Move": "MOVE_WATER_PULSE",
+            "Level": "14"
+        },
+        {
+            "Move": "MOVE_AMNESIA",
+            "Level": "16"
+        },
+        {
+            "Move": "MOVE_AQUA_RING",
+            "Level": "19"
+        },
+        {
+            "Move": "MOVE_CAPTIVATE",
+            "Level": "23"
+        },
+        {
+            "Move": "MOVE_DIVE",
+            "Level": "26"
+        },
+        {
+            "Move": "MOVE_BATON_PASS",
+            "Level": "29"
+        },
+        {
+            "Move": "MOVE_PSYCHIC",
+            "Level": "34"
+        },
+        {
+            "Move": "MOVE_AQUA_TAIL",
+            "Level": "39"
+        },
+        {
+            "Move": "MOVE_COIL",
+            "Level": "45"
+        },
+        {
+            "Move": "MOVE_HYDRO_PUMP",
+            "Level": "50"
+        },
+        {
+            "Move": "MOVE_DARK_PULSE",
+            "Level": "55"
+        },
+        {
+            "Move": "MOVE_LIQUIDATION",
+            "Level": "60"
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_ICE_BEAM",
+        "MOVE_FRUSTRATION",
+        "MOVE_ATTRACT",
+        "MOVE_WATERFALL",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_SWAGGER",
+        "MOVE_PROTECT",
+        "MOVE_PSYSHOCK",
+        "MOVE_HYPER_BEAM",
+        "MOVE_SUBSTITUTE",
+        "MOVE_FACADE",
+        "MOVE_CONFIDE",
+        "MOVE_SAFEGUARD",
+        "MOVE_SHADOW_BALL",
+        "MOVE_ICY_WIND",
+        "MOVE_INFESTATION",
+        "MOVE_SLEEP_TALK",
+        "MOVE_BOUNCE",
+        "MOVE_GIGA_IMPACT",
+        "MOVE_SHELL_SMASH",
+        "MOVE_TERA_BLAST",
+        "MOVE_RETURN",
+        "MOVE_SIGNAL_BEAM",
+        "MOVE_DOUBLE_TEAM",
+        "MOVE_ROUND",
+        "MOVE_BLIZZARD",
+        "MOVE_SURF",
+        "MOVE_SNORE",
+        "MOVE_BIND",
+        "MOVE_SNOWSCAPE",
+        "MOVE_RAIN_DANCE",
+        "MOVE_PSYCH_UP",
+        "MOVE_REST"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_SHELL_SMASH",
+                "MOVE_HYDRO_PUMP",
+                "MOVE_ICE_BEAM",
+                "MOVE_HIDDEN_POWER"
+            ],
+            "Ability": "ABILITY_SWIFT_SWIM",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": "TYPE_GRASS",
+            "TeraType": null,
+            "Name": "Shell Smash",
+            "SourceTiers": [
+                "GEN6NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SHELL_SMASH",
+                "MOVE_HYDRO_PUMP",
+                "MOVE_ICE_BEAM",
+                "MOVE_PSYCHIC"
+            ],
+            "Ability": "ABILITY_SWIFT_SWIM",
+            "Item": "ITEM_WHITE_HERB",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Shell Smash",
+            "SourceTiers": [
+                "GEN6PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_ICE_BEAM",
+                "MOVE_SHELL_SMASH",
+                "MOVE_PSYCHIC",
+                "MOVE_HYDRO_PUMP"
+            ],
+            "Ability": "ABILITY_SWIFT_SWIM",
+            "Item": "ITEM_WHITE_HERB",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SHELL_SMASH",
+                "MOVE_HYDRO_PUMP",
+                "MOVE_ICE_BEAM",
+                "MOVE_PSYCHIC"
+            ],
+            "Ability": "ABILITY_REGENERATOR",
+            "Item": "ITEM_WATERIUM_Z",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Shell Smash",
+            "SourceTiers": [
+                "GEN7PU"
+            ]
+        }
+    ]
+}

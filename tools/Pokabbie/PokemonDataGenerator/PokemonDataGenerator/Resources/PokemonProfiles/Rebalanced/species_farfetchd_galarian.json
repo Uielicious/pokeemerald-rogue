@@ -1,0 +1,181 @@
+{
+    "Species": "SPECIES_FARFETCHD_GALARIAN",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_SAND_ATTACK",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_PECK",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_LEER",
+            "Level": 5
+        },
+        {
+            "Move": "MOVE_FURY_CUTTER",
+            "Level": 10
+        },
+        {
+            "Move": "MOVE_ROCK_SMASH",
+            "Level": 15
+        },
+        {
+            "Move": "MOVE_BRUTAL_SWING",
+            "Level": 20
+        },
+        {
+            "Move": "MOVE_DETECT",
+            "Level": 25
+        },
+        {
+            "Move": "MOVE_KNOCK_OFF",
+            "Level": 30
+        },
+        {
+            "Move": "MOVE_DEFOG",
+            "Level": 35
+        },
+        {
+            "Move": "MOVE_BRICK_BREAK",
+            "Level": 40
+        },
+        {
+            "Move": "MOVE_SWORDS_DANCE",
+            "Level": 45
+        },
+        {
+            "Move": "MOVE_SLAM",
+            "Level": 50
+        },
+        {
+            "Move": "MOVE_LEAF_BLADE",
+            "Level": 55
+        },
+        {
+            "Move": "MOVE_FINAL_GAMBIT",
+            "Level": 60
+        },
+        {
+            "Move": "MOVE_BRAVE_BIRD",
+            "Level": 65
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_FEINT",
+        "MOVE_SUPERPOWER",
+        "MOVE_HELPING_HAND",
+        "MOVE_FRUSTRATION",
+        "MOVE_ATTRACT",
+        "MOVE_REVENGE",
+        "MOVE_DRILL_RUN",
+        "MOVE_TOXIC",
+        "MOVE_SKY_ATTACK",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_SIMPLE_BEAM",
+        "MOVE_WORK_UP",
+        "MOVE_PROTECT",
+        "MOVE_ASSURANCE",
+        "MOVE_DOUBLE_EDGE",
+        "MOVE_FLAIL",
+        "MOVE_THROAT_CHOP",
+        "MOVE_BODY_SLAM",
+        "MOVE_STEEL_WING",
+        "MOVE_SUBSTITUTE",
+        "MOVE_SUNNY_DAY",
+        "MOVE_FACADE",
+        "MOVE_DUAL_WINGBEAT",
+        "MOVE_SLEEP_TALK",
+        "MOVE_COVET",
+        "MOVE_CLOSE_COMBAT",
+        "MOVE_QUICK_GUARD",
+        "MOVE_SOLAR_BLADE",
+        "MOVE_CURSE",
+        "MOVE_ENDURE",
+        "MOVE_RETURN",
+        "MOVE_COUNTER",
+        "MOVE_QUICK_ATTACK",
+        "MOVE_ROOST",
+        "MOVE_POISON_JAB",
+        "MOVE_ROUND",
+        "MOVE_FOCUS_ENERGY",
+        "MOVE_SNORE",
+        "MOVE_RETALIATE",
+        "MOVE_NIGHT_SLASH",
+        "MOVE_CUT",
+        "MOVE_REST",
+        "MOVE_SACRED_SWORD",
+        "MOVE_SWIRLING_BLADE"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_CLOSE_COMBAT",
+                "MOVE_BRAVE_BIRD",
+                "MOVE_FINAL_GAMBIT",
+                "MOVE_KNOCK_OFF"
+            ],
+            "Ability": "ABILITY_SCRAPPY",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Scarf",
+            "SourceTiers": [
+                "GEN8LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_CLOSE_COMBAT",
+                "MOVE_KNOCK_OFF",
+                "MOVE_BRAVE_BIRD",
+                "MOVE_QUICK_ATTACK"
+            ],
+            "Ability": "ABILITY_SCRAPPY",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Life Orb",
+            "SourceTiers": [
+                "GEN8LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_CLOSE_COMBAT",
+                "MOVE_KNOCK_OFF",
+                "MOVE_BRAVE_BIRD",
+                "MOVE_LEAF_BLADE"
+            ],
+            "Ability": "ABILITY_SCRAPPY",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SACRED_SWORD",
+                "MOVE_NIGHT_SLASH",
+                "MOVE_AERIAL_ACE",
+                "MOVE_LEAF_BLADE"
+            ],
+            "Ability": "ABILITY_SHARPNESS",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Sharpness 4 Attacks",
+            "SourceTiers": [
+                "GEN9LC"
+            ]
+        }
+    ]
+}

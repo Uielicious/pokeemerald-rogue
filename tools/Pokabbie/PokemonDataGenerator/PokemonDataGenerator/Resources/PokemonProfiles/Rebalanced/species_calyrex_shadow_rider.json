@@ -1,0 +1,405 @@
+{
+    "Species": "SPECIES_CALYREX_SHADOW_RIDER",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_POUND",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_STOMP",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_DOUBLE_KICK",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_TACKLE",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_TAKE_DOWN",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_THRASH",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_DOUBLE_EDGE",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_TAIL_WHIP",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_DISABLE",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_MEGA_DRAIN",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_GROWTH",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_CONFUSION",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_AGILITY",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_CONFUSE_RAY",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_HAZE",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_SHADOW_BALL",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_NASTY_PLOT",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_HEX",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_ASTRAL_BARRAGE",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_LIFE_DEW",
+            "Level": 8
+        },
+        {
+            "Move": "MOVE_GIGA_DRAIN",
+            "Level": 16
+        },
+        {
+            "Move": "MOVE_PSYSHOCK",
+            "Level": 24
+        },
+        {
+            "Move": "MOVE_HELPING_HAND",
+            "Level": 32
+        },
+        {
+            "Move": "MOVE_GRASSY_TERRAIN",
+            "Level": 40
+        },
+        {
+            "Move": "MOVE_PSYCHIC_TERRAIN",
+            "Level": 40
+        },
+        {
+            "Move": "MOVE_ENERGY_BALL",
+            "Level": 48
+        },
+        {
+            "Move": "MOVE_PSYCHIC",
+            "Level": 56
+        },
+        {
+            "Move": "MOVE_LEECH_SEED",
+            "Level": 64
+        },
+        {
+            "Move": "MOVE_HEAL_PULSE",
+            "Level": 72
+        },
+        {
+            "Move": "MOVE_SOLAR_BEAM",
+            "Level": 80
+        },
+        {
+            "Move": "MOVE_FUTURE_SIGHT",
+            "Level": 88
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_DARK_PULSE",
+        "MOVE_REFLECT",
+        "MOVE_GRASS_KNOT",
+        "MOVE_LEAF_STORM",
+        "MOVE_ZEN_HEADBUTT",
+        "MOVE_FRUSTRATION",
+        "MOVE_TOXIC",
+        "MOVE_BULLDOZE",
+        "MOVE_LIGHT_SCREEN",
+        "MOVE_POLLEN_PUFF",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_WILL_O_WISP",
+        "MOVE_PROTECT",
+        "MOVE_BATON_PASS",
+        "MOVE_SKILL_SWAP",
+        "MOVE_BULLET_SEED",
+        "MOVE_CALM_MIND",
+        "MOVE_SEED_BOMB",
+        "MOVE_HYPER_BEAM",
+        "MOVE_SUBSTITUTE",
+        "MOVE_METRONOME",
+        "MOVE_MAGICAL_LEAF",
+        "MOVE_FACADE",
+        "MOVE_PHANTOM_FORCE",
+        "MOVE_STOMPING_TANTRUM",
+        "MOVE_SUNNY_DAY",
+        "MOVE_TRICK",
+        "MOVE_SWIFT",
+        "MOVE_IMPRISON",
+        "MOVE_SLEEP_TALK",
+        "MOVE_STORED_POWER",
+        "MOVE_REST",
+        "MOVE_DRAINING_KISS",
+        "MOVE_ENCORE",
+        "MOVE_GIGA_IMPACT",
+        "MOVE_AROMATHERAPY",
+        "MOVE_SNARL",
+        "MOVE_TERA_BLAST",
+        "MOVE_ENDURE",
+        "MOVE_RETURN",
+        "MOVE_MUD_SHOT",
+        "MOVE_NIGHT_SHADE",
+        "MOVE_PSYBEAM",
+        "MOVE_FOUL_PLAY",
+        "MOVE_SCARY_FACE",
+        "MOVE_TRICK_ROOM",
+        "MOVE_CRUNCH",
+        "MOVE_TAUNT",
+        "MOVE_BODY_SLAM"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_ASTRAL_BARRAGE",
+                "MOVE_PSYSHOCK",
+                "MOVE_TRICK",
+                "MOVE_AROMATHERAPY"
+            ],
+            "Ability": "ABILITY_AS_ONE_SHADOW_RIDER",
+            "Item": "ITEM_CHOICE_SPECS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Item",
+            "SourceTiers": [
+                "GEN8UBERS",
+                "GEN8ANYTHINGGOES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_ASTRAL_BARRAGE",
+                "MOVE_NASTY_PLOT",
+                "MOVE_SUBSTITUTE",
+                "MOVE_LEECH_SEED"
+            ],
+            "Ability": "ABILITY_AS_ONE_SHADOW_RIDER",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "SubSeed",
+            "SourceTiers": [
+                "GEN8UBERS"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_ASTRAL_BARRAGE",
+                "MOVE_PSYSHOCK",
+                "MOVE_NASTY_PLOT",
+                "MOVE_DRAINING_KISS"
+            ],
+            "Ability": "ABILITY_AS_ONE_SHADOW_RIDER",
+            "Item": "ITEM_FOCUS_SASH",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Nasty Plot",
+            "SourceTiers": [
+                "GEN8UBERS"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_ASTRAL_BARRAGE",
+                "MOVE_DISABLE",
+                "MOVE_SUBSTITUTE",
+                "MOVE_NASTY_PLOT"
+            ],
+            "Ability": "ABILITY_AS_ONE_SHADOW_RIDER",
+            "Item": "ITEM_MENTAL_HERB",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Disable",
+            "SourceTiers": [
+                "GEN8UBERS"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_ASTRAL_BARRAGE",
+                "MOVE_PSYSHOCK",
+                "MOVE_DRAINING_KISS",
+                "MOVE_NASTY_PLOT"
+            ],
+            "Ability": "ABILITY_AS_ONE_SHADOW_RIDER",
+            "Item": "ITEM_FOCUS_SASH",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8UBERS",
+                "GEN9NATIONALDEXAG"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_ASTRAL_BARRAGE",
+                "MOVE_PSYSHOCK",
+                "MOVE_TRICK",
+                "MOVE_DRAINING_KISS"
+            ],
+            "Ability": "ABILITY_AS_ONE_SHADOW_RIDER",
+            "Item": "ITEM_FOCUS_SASH",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8BATTLESTADIUMSINGLES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_NASTY_PLOT",
+                "MOVE_ASTRAL_BARRAGE",
+                "MOVE_DRAINING_KISS",
+                "MOVE_SUBSTITUTE"
+            ],
+            "Ability": "ABILITY_AS_ONE_SHADOW_RIDER",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Nasty Plot",
+            "SourceTiers": [
+                "GEN8ANYTHINGGOES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_ASTRAL_BARRAGE",
+                "MOVE_PSYSHOCK",
+                "MOVE_TRICK",
+                "MOVE_AROMATHERAPY"
+            ],
+            "Ability": "ABILITY_AS_ONE_SHADOW_RIDER",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Scarf",
+            "SourceTiers": [
+                "GEN8ANYTHINGGOES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_ASTRAL_BARRAGE",
+                "MOVE_SUBSTITUTE",
+                "MOVE_LEECH_SEED",
+                "MOVE_NASTY_PLOT"
+            ],
+            "Ability": "ABILITY_AS_ONE_SHADOW_RIDER",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "SubSeed",
+            "SourceTiers": [
+                "GEN8ANYTHINGGOES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_ASTRAL_BARRAGE",
+                "MOVE_DRAINING_KISS",
+                "MOVE_PSYSHOCK",
+                "MOVE_PSYCHIC"
+            ],
+            "Ability": "ABILITY_AS_ONE_SHADOW_RIDER",
+            "Item": "ITEM_FOCUS_SASH",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8ANYTHINGGOES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_ASTRAL_BARRAGE",
+                "MOVE_GRASS_KNOT",
+                "MOVE_PSYCHIC",
+                "MOVE_TRICK"
+            ],
+            "Ability": "ABILITY_AS_ONE_SHADOW_RIDER",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": "TYPE_GHOST",
+            "Name": "Choice Scarf",
+            "SourceTiers": [
+                "GEN9ANYTHINGGOES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_NASTY_PLOT",
+                "MOVE_ASTRAL_BARRAGE",
+                "MOVE_GRASS_KNOT",
+                "MOVE_PSYCHIC"
+            ],
+            "Ability": "ABILITY_AS_ONE_SHADOW_RIDER",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": "TYPE_STELLAR",
+            "Name": "Nasty Plot",
+            "SourceTiers": [
+                "GEN9ANYTHINGGOES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_ASTRAL_BARRAGE",
+                "MOVE_PSYCHIC",
+                "MOVE_NASTY_PLOT",
+                "MOVE_DRAINING_KISS"
+            ],
+            "Ability": "ABILITY_AS_ONE_SHADOW_RIDER",
+            "Item": "ITEM_FOCUS_SASH",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN9ANYTHINGGOES"
+            ]
+        }
+    ]
+}

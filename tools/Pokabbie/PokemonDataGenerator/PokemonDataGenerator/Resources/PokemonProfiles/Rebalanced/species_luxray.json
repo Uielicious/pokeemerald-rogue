@@ -1,0 +1,353 @@
+{
+    "Species": "SPECIES_LUXRAY",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_SUCKER_PUNCH",
+            "Level": "0"
+        },
+        {
+            "Move": "MOVE_SUCKER_PUNCH",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_PSYCHIC_FANGS",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_ELECTRIC_TERRAIN",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_TACKLE",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_LEER",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_CHARGE",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_THUNDER_SHOCK",
+            "Level": "5"
+        },
+        {
+            "Move": "MOVE_BABY_DOLL_EYES",
+            "Level": "9"
+        },
+        {
+            "Move": "MOVE_NUZZLE",
+            "Level": "13"
+        },
+        {
+            "Move": "MOVE_SPARK",
+            "Level": "17"
+        },
+        {
+            "Move": "MOVE_BITE",
+            "Level": "21"
+        },
+        {
+            "Move": "MOVE_ROAR",
+            "Level": "25"
+        },
+        {
+            "Move": "MOVE_SWAGGER",
+            "Level": "30"
+        },
+        {
+            "Move": "MOVE_THUNDER_FANG",
+            "Level": "35"
+        },
+        {
+            "Move": "MOVE_CRUNCH",
+            "Level": "41"
+        },
+        {
+            "Move": "MOVE_SCARY_FACE",
+            "Level": "47"
+        },
+        {
+            "Move": "MOVE_DISCHARGE",
+            "Level": "54"
+        },
+        {
+            "Move": "MOVE_WILD_CHARGE",
+            "Level": "61"
+        },
+        {
+            "Move": "MOVE_PLAY_ROUGH",
+            "Level": "68"
+        },
+        {
+            "Move": "MOVE_VOLT_TACKLE",
+            "Level": "75"
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_SUPERPOWER",
+        "MOVE_HELPING_HAND",
+        "MOVE_DARK_PULSE",
+        "MOVE_FIRE_FANG",
+        "MOVE_AGILITY",
+        "MOVE_EERIE_IMPULSE",
+        "MOVE_SUPERCELL_SLAM",
+        "MOVE_LIGHT_SCREEN",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_PROTECT",
+        "MOVE_THIEF",
+        "MOVE_DOUBLE_EDGE",
+        "MOVE_TAKE_DOWN",
+        "MOVE_THROAT_CHOP",
+        "MOVE_HYPER_BEAM",
+        "MOVE_SUBSTITUTE",
+        "MOVE_SUNNY_DAY",
+        "MOVE_FACADE",
+        "MOVE_SWIFT",
+        "MOVE_SLEEP_TALK",
+        "MOVE_TRAILBLAZE",
+        "MOVE_REST",
+        "MOVE_CONFUSE_RAY",
+        "MOVE_GIGA_IMPACT",
+        "MOVE_THUNDERBOLT",
+        "MOVE_FAKE_TEARS",
+        "MOVE_SNARL",
+        "MOVE_TERA_BLAST",
+        "MOVE_CHARGE_BEAM",
+        "MOVE_ELECTROWEB",
+        "MOVE_ENDURE",
+        "MOVE_NASTY_PLOT",
+        "MOVE_ELECTRO_BALL",
+        "MOVE_THUNDER",
+        "MOVE_VOLT_SWITCH",
+        "MOVE_THUNDER_WAVE",
+        "MOVE_RAIN_DANCE",
+        "MOVE_ICE_FANG",
+        "MOVE_BODY_SLAM"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_WILD_CHARGE",
+                "MOVE_CRUNCH",
+                "MOVE_ICE_FANG",
+                "MOVE_SUPERPOWER"
+            ],
+            "Ability": "ABILITY_INTIMIDATE",
+            "Item": "ITEM_FLAME_ORB",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_WILD_CHARGE",
+                "MOVE_ICE_FANG",
+                "MOVE_SUPERPOWER",
+                "MOVE_VOLT_SWITCH"
+            ],
+            "Ability": "ABILITY_INTIMIDATE",
+            "Item": "ITEM_CHOICE_BAND",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Band",
+            "SourceTiers": [
+                "GEN6PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_WILD_CHARGE",
+                "MOVE_SUPERPOWER",
+                "MOVE_CRUNCH",
+                "MOVE_ICE_FANG"
+            ],
+            "Ability": "ABILITY_INTIMIDATE",
+            "Item": "ITEM_FLAME_ORB",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_WILD_CHARGE",
+                "MOVE_SUPERPOWER",
+                "MOVE_FACADE",
+                "MOVE_ICE_FANG"
+            ],
+            "Ability": "ABILITY_GUTS",
+            "Item": "ITEM_TOXIC_ORB",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Physical Wallbreaker",
+            "SourceTiers": [
+                "GEN6ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_VOLT_TACKLE",
+                "MOVE_CRUNCH",
+                "MOVE_SUPERPOWER",
+                "MOVE_VOLT_SWITCH"
+            ],
+            "Ability": "ABILITY_GUTS",
+            "Item": "ITEM_FLAME_ORB",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "All-Out Attacker",
+            "SourceTiers": [
+                "GEN7PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_WILD_CHARGE",
+                "MOVE_ICE_FANG",
+                "MOVE_CRUNCH",
+                "MOVE_VOLT_SWITCH"
+            ],
+            "Ability": "ABILITY_GUTS",
+            "Item": "ITEM_FLAME_ORB",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_WILD_CHARGE",
+                "MOVE_CRUNCH",
+                "MOVE_SUPERPOWER",
+                "MOVE_FACADE"
+            ],
+            "Ability": "ABILITY_GUTS",
+            "Item": "ITEM_FLAME_ORB",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_VOLT_TACKLE",
+                "MOVE_FACADE",
+                "MOVE_PLAY_ROUGH",
+                "MOVE_SUCKER_PUNCH"
+            ],
+            "Ability": "ABILITY_GUTS",
+            "Item": "ITEM_FLAME_ORB",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Wallbreaker",
+            "SourceTiers": [
+                "GEN8ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_WILD_CHARGE",
+                "MOVE_FACADE",
+                "MOVE_VOLT_SWITCH",
+                "MOVE_SUPERPOWER"
+            ],
+            "Ability": "ABILITY_GUTS",
+            "Item": "ITEM_FLAME_ORB",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_VOLT_SWITCH",
+                "MOVE_WILD_CHARGE",
+                "MOVE_TERA_BLAST",
+                "MOVE_FACADE"
+            ],
+            "Ability": "ABILITY_INTIMIDATE",
+            "Item": "ITEM_FLAME_ORB",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN9PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_WILD_CHARGE",
+                "MOVE_FACADE",
+                "MOVE_TRAILBLAZE",
+                "MOVE_CRUNCH"
+            ],
+            "Ability": "ABILITY_GUTS",
+            "Item": "ITEM_FLAME_ORB",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN9ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_NASTY_PLOT",
+                "MOVE_THUNDERBOLT",
+                "MOVE_DARK_PULSE",
+                "MOVE_VOLT_SWITCH"
+            ],
+            "Item": "ITEM_LIFE_ORB",
+            "Ability": "ABILITY_INTIMIDATE",
+            "HiddenPower": null,
+            "SourceTiers": [
+                "GEN7PU"
+            ],
+            "Name": "Nasty Plot",
+            "Nature": "NATURE_HARDY",
+            "TeraType": null
+        },
+        {
+            "Moves": [
+                "MOVE_CRUNCH",
+                "MOVE_NUZZLE",
+                "MOVE_VOLT_SWITCH",
+                "MOVE_VOLT_TACKLE"
+            ],
+            "Item": "ITEM_LEFTOVERS",
+            "Ability": "ABILITY_INTIMIDATE",
+            "HiddenPower": null,
+            "SourceTiers": [
+                "GEN7PU"
+            ],
+            "Name": "Nuzzle Utility",
+            "Nature": "NATURE_HARDY",
+            "TeraType": null
+        }
+    ]
+}

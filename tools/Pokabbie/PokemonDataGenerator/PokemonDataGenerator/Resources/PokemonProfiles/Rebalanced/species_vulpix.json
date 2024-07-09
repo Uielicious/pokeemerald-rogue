@@ -1,0 +1,214 @@
+{
+    "Species": "SPECIES_VULPIX",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_TAIL_WHIP",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_EMBER",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_DISABLE",
+            "Level": 4
+        },
+        {
+            "Move": "MOVE_QUICK_ATTACK",
+            "Level": 8
+        },
+        {
+            "Move": "MOVE_SPITE",
+            "Level": 12
+        },
+        {
+            "Move": "MOVE_INCINERATE",
+            "Level": 16
+        },
+        {
+            "Move": "MOVE_CONFUSE_RAY",
+            "Level": 20
+        },
+        {
+            "Move": "MOVE_WILL_O_WISP",
+            "Level": 24
+        },
+        {
+            "Move": "MOVE_EXTRASENSORY",
+            "Level": 28
+        },
+        {
+            "Move": "MOVE_FLAMETHROWER",
+            "Level": 32
+        },
+        {
+            "Move": "MOVE_IMPRISON",
+            "Level": 36
+        },
+        {
+            "Move": "MOVE_FIRE_SPIN",
+            "Level": 40
+        },
+        {
+            "Move": "MOVE_SAFEGUARD",
+            "Level": 44
+        },
+        {
+            "Move": "MOVE_INFERNO",
+            "Level": 48
+        },
+        {
+            "Move": "MOVE_FIRE_BLAST",
+            "Level": 52
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_PAIN_SPLIT",
+        "MOVE_BURNING_JEALOUSY",
+        "MOVE_HELPING_HAND",
+        "MOVE_BABY_DOLL_EYES",
+        "MOVE_DARK_PULSE",
+        "MOVE_HEALING_WISH",
+        "MOVE_HYPNOSIS",
+        "MOVE_AGILITY",
+        "MOVE_ZEN_HEADBUTT",
+        "MOVE_OVERHEAT",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_PROTECT",
+        "MOVE_BATON_PASS",
+        "MOVE_FLAIL",
+        "MOVE_DOUBLE_EDGE",
+        "MOVE_TAKE_DOWN",
+        "MOVE_BODY_SLAM",
+        "MOVE_SUBSTITUTE",
+        "MOVE_SUNNY_DAY",
+        "MOVE_FACADE",
+        "MOVE_SWIFT",
+        "MOVE_SLEEP_TALK",
+        "MOVE_ENERGY_BALL",
+        "MOVE_ROAR",
+        "MOVE_MEMENTO",
+        "MOVE_ENCORE",
+        "MOVE_FLARE_BLITZ",
+        "MOVE_DIG",
+        "MOVE_HOWL",
+        "MOVE_HEAT_WAVE",
+        "MOVE_HEX",
+        "MOVE_NASTY_PLOT",
+        "MOVE_ENDURE",
+        "MOVE_SNARL",
+        "MOVE_TERA_BLAST",
+        "MOVE_MOONBLAST",
+        "MOVE_DAZZLING_GLEAM",
+        "MOVE_FOUL_PLAY",
+        "MOVE_CHARM",
+        "MOVE_FLAME_CHARGE",
+        "MOVE_PSYCH_UP",
+        "MOVE_WEATHER_BALL",
+        "MOVE_REST"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_WILL_O_WISP",
+                "MOVE_FLAMETHROWER",
+                "MOVE_ENERGY_BALL",
+                "MOVE_QUICK_ATTACK"
+            ],
+            "Ability": "ABILITY_DROUGHT",
+            "Item": "ITEM_HEAT_ROCK",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Sun Setter",
+            "SourceTiers": [
+                "GEN6LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_ENERGY_BALL",
+                "MOVE_WILL_O_WISP",
+                "MOVE_FIRE_BLAST",
+                "MOVE_FLAMETHROWER"
+            ],
+            "Ability": "ABILITY_DROUGHT",
+            "Item": "ITEM_HEAT_ROCK",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_WEATHER_BALL",
+                "MOVE_OVERHEAT",
+                "MOVE_ENERGY_BALL",
+                "MOVE_HYPNOSIS"
+            ],
+            "Ability": "ABILITY_DROUGHT",
+            "Item": "ITEM_HEAT_ROCK",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Sun Setter",
+            "SourceTiers": [
+                "GEN8LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_WEATHER_BALL",
+                "MOVE_OVERHEAT",
+                "MOVE_ENERGY_BALL",
+                "MOVE_FIRE_BLAST"
+            ],
+            "Ability": "ABILITY_DROUGHT",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Scarf",
+            "SourceTiers": [
+                "GEN8LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_ENERGY_BALL",
+                "MOVE_WEATHER_BALL",
+                "MOVE_OVERHEAT",
+                "MOVE_HYPNOSIS"
+            ],
+            "Ability": "ABILITY_DROUGHT",
+            "Item": "ITEM_HEAT_ROCK",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_WILL_O_WISP",
+                "MOVE_ENCORE",
+                "MOVE_HEALING_WISH",
+                "MOVE_MEMENTO"
+            ],
+            "Ability": "ABILITY_DROUGHT",
+            "Item": "ITEM_HEAT_ROCK",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN9RU"
+            ]
+        }
+    ]
+}

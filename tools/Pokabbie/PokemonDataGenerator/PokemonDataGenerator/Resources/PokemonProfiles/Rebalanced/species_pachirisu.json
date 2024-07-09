@@ -1,0 +1,205 @@
+{
+    "Species": "SPECIES_PACHIRISU",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_GROWL",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_THUNDER_SHOCK",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_QUICK_ATTACK",
+            "Level": 5
+        },
+        {
+            "Move": "MOVE_CHARM",
+            "Level": 9
+        },
+        {
+            "Move": "MOVE_SPARK",
+            "Level": 13
+        },
+        {
+            "Move": "MOVE_ENDURE",
+            "Level": 17
+        },
+        {
+            "Move": "MOVE_NUZZLE",
+            "Level": 19
+        },
+        {
+            "Move": "MOVE_SWIFT",
+            "Level": 21
+        },
+        {
+            "Move": "MOVE_ELECTRO_BALL",
+            "Level": 25
+        },
+        {
+            "Move": "MOVE_SWEET_KISS",
+            "Level": 29
+        },
+        {
+            "Move": "MOVE_THUNDER_WAVE",
+            "Level": 33
+        },
+        {
+            "Move": "MOVE_SUPER_FANG",
+            "Level": 37
+        },
+        {
+            "Move": "MOVE_DISCHARGE",
+            "Level": 41
+        },
+        {
+            "Move": "MOVE_LAST_RESORT",
+            "Level": 45
+        },
+        {
+            "Move": "MOVE_THUNDER",
+            "Level": 49
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_BITE",
+        "MOVE_HELPING_HAND",
+        "MOVE_FOLLOW_ME",
+        "MOVE_THUNDER_PUNCH",
+        "MOVE_BABY_DOLL_EYES",
+        "MOVE_FLING",
+        "MOVE_THUNDER_FANG",
+        "MOVE_FLATTER",
+        "MOVE_GUNK_SHOT",
+        "MOVE_REFLECT",
+        "MOVE_GRASS_KNOT",
+        "MOVE_AGILITY",
+        "MOVE_EERIE_IMPULSE",
+        "MOVE_LIGHT_SCREEN",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_PROTECT",
+        "MOVE_FLAIL",
+        "MOVE_THIEF",
+        "MOVE_TAKE_DOWN",
+        "MOVE_SEED_BOMB",
+        "MOVE_HYPER_BEAM",
+        "MOVE_SUBSTITUTE",
+        "MOVE_UPROAR",
+        "MOVE_SUNNY_DAY",
+        "MOVE_ENDEAVOR",
+        "MOVE_FACADE",
+        "MOVE_SLEEP_TALK",
+        "MOVE_TAIL_WHIP",
+        "MOVE_TRAILBLAZE",
+        "MOVE_MUD_SLAP",
+        "MOVE_WILD_CHARGE",
+        "MOVE_ENCORE",
+        "MOVE_GIGA_IMPACT",
+        "MOVE_DIG",
+        "MOVE_THUNDERBOLT",
+        "MOVE_FAKE_TEARS",
+        "MOVE_ROLLOUT",
+        "MOVE_COVET",
+        "MOVE_ELECTRIC_TERRAIN",
+        "MOVE_CHARGE_BEAM",
+        "MOVE_ELECTROWEB",
+        "MOVE_TERA_BLAST",
+        "MOVE_MUD_SHOT",
+        "MOVE_PLAY_ROUGH",
+        "MOVE_VOLT_SWITCH",
+        "MOVE_DEFENSE_CURL",
+        "MOVE_RAIN_DANCE",
+        "MOVE_CHARGE",
+        "MOVE_U_TURN",
+        "MOVE_AERIAL_ACE",
+        "MOVE_REST"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_U_TURN",
+                "MOVE_NUZZLE",
+                "MOVE_THUNDER_WAVE",
+                "MOVE_SUPER_FANG"
+            ],
+            "Ability": "ABILITY_VOLT_ABSORB",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_IMPISH",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Pachiraichu",
+            "SourceTiers": [
+                "GEN6PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_NUZZLE",
+                "MOVE_THUNDER_WAVE",
+                "MOVE_U_TURN",
+                "MOVE_SUPER_FANG"
+            ],
+            "Ability": "ABILITY_VOLT_ABSORB",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_IMPISH",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Utility",
+            "SourceTiers": [
+                "GEN7PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_PROTECT",
+                "MOVE_NUZZLE",
+                "MOVE_FOLLOW_ME",
+                "MOVE_SUPER_FANG"
+            ],
+            "Ability": "ABILITY_VOLT_ABSORB",
+            "Item": "ITEM_SITRUS_BERRY",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7BATTLESPOTDOUBLES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_NUZZLE",
+                "MOVE_SUPER_FANG",
+                "MOVE_U_TURN",
+                "MOVE_ENCORE"
+            ],
+            "Ability": "ABILITY_VOLT_ABSORB",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN9ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_REFLECT",
+                "MOVE_LIGHT_SCREEN",
+                "MOVE_THUNDER_WAVE",
+                "MOVE_U_TURN"
+            ],
+            "Item": "ITEM_LEFTOVERS",
+            "Ability": "ABILITY_PRANKSTER",
+            "HiddenPower": null,
+            "SourceTiers": [
+                "GEN7PU"
+            ],
+            "Name": "Dual Screens",
+            "Nature": "NATURE_HARDY",
+            "TeraType": null
+        }
+    ]
+}

@@ -1,0 +1,176 @@
+{
+    "Species": "SPECIES_FALINKS",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_TACKLE",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_PROTECT",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_BUG_BITE",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_ROCK_SMASH",
+            "Level": "5"
+        },
+        {
+            "Move": "MOVE_FOCUS_ENERGY",
+            "Level": "10"
+        },
+        {
+            "Move": "MOVE_HEADBUTT",
+            "Level": "15"
+        },
+        {
+            "Move": "MOVE_BULK_UP",
+            "Level": "20"
+        },
+        {
+            "Move": "MOVE_ENDURE",
+            "Level": "25"
+        },
+        {
+            "Move": "MOVE_REVERSAL",
+            "Level": "30"
+        },
+        {
+            "Move": "MOVE_FIRST_IMPRESSION",
+            "Level": "35"
+        },
+        {
+            "Move": "MOVE_NO_RETREAT",
+            "Level": "40"
+        },
+        {
+            "Move": "MOVE_IRON_DEFENSE",
+            "Level": "45"
+        },
+        {
+            "Move": "MOVE_CLOSE_COMBAT",
+            "Level": "50"
+        },
+        {
+            "Move": "MOVE_MEGAHORN",
+            "Level": "55"
+        },
+        {
+            "Move": "MOVE_COUNTER",
+            "Level": "60"
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_SMART_STRIKE",
+        "MOVE_HELPING_HAND",
+        "MOVE_SWORDS_DANCE",
+        "MOVE_AGILITY",
+        "MOVE_IRON_HEAD",
+        "MOVE_ZEN_HEADBUTT",
+        "MOVE_ROCK_TOMB",
+        "MOVE_FRUSTRATION",
+        "MOVE_TOXIC",
+        "MOVE_COACHING",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_HIGH_HORSEPOWER",
+        "MOVE_KNOCK_OFF",
+        "MOVE_THROAT_CHOP",
+        "MOVE_TAKE_DOWN",
+        "MOVE_BODY_SLAM",
+        "MOVE_HYPER_BEAM",
+        "MOVE_SUBSTITUTE",
+        "MOVE_UPROAR",
+        "MOVE_LUNGE",
+        "MOVE_BRICK_BREAK",
+        "MOVE_ENDEAVOR",
+        "MOVE_FACADE",
+        "MOVE_SUNNY_DAY",
+        "MOVE_LEECH_LIFE",
+        "MOVE_FALSE_SWIPE",
+        "MOVE_SLEEP_TALK",
+        "MOVE_TRAILBLAZE",
+        "MOVE_GIGA_IMPACT",
+        "MOVE_TERA_BLAST",
+        "MOVE_RETURN",
+        "MOVE_ROCK_CLIMB",
+        "MOVE_FOCUS_BLAST",
+        "MOVE_POISON_JAB",
+        "MOVE_RAIN_DANCE",
+        "MOVE_ROCK_SLIDE",
+        "MOVE_PSYCH_UP",
+        "MOVE_BODY_PRESS",
+        "MOVE_REST"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_CLOSE_COMBAT",
+                "MOVE_NO_RETREAT",
+                "MOVE_THROAT_CHOP",
+                "MOVE_IRON_HEAD"
+            ],
+            "Ability": "ABILITY_DEFIANT",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_CLOSE_COMBAT",
+                "MOVE_LEECH_LIFE",
+                "MOVE_THROAT_CHOP",
+                "MOVE_ROCK_CLIMB"
+            ],
+            "Ability": "ABILITY_DEFIANT",
+            "Item": "ITEM_CHOICE_BAND",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Band",
+            "SourceTiers": [
+                "GEN8ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_CLOSE_COMBAT",
+                "MOVE_NO_RETREAT",
+                "MOVE_THROAT_CHOP",
+                "MOVE_POISON_JAB"
+            ],
+            "Ability": "ABILITY_DEFIANT",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_CLOSE_COMBAT",
+                "MOVE_NO_RETREAT",
+                "MOVE_KNOCK_OFF",
+                "MOVE_IRON_HEAD"
+            ],
+            "Ability": "ABILITY_DEFIANT",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN9PU"
+            ]
+        }
+    ]
+}

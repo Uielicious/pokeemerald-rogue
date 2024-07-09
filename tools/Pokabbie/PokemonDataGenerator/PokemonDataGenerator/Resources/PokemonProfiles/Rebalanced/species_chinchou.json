@@ -1,0 +1,317 @@
+{
+    "Species": "SPECIES_CHINCHOU",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_BUBBLE",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_SUPERSONIC",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_THUNDER_WAVE",
+            "Level": "6"
+        },
+        {
+            "Move": "MOVE_ELECTRO_BALL",
+            "Level": "9"
+        },
+        {
+            "Move": "MOVE_WATER_GUN",
+            "Level": "12"
+        },
+        {
+            "Move": "MOVE_CONFUSE_RAY",
+            "Level": "17"
+        },
+        {
+            "Move": "MOVE_BUBBLE_BEAM",
+            "Level": "20"
+        },
+        {
+            "Move": "MOVE_SPARK",
+            "Level": "23"
+        },
+        {
+            "Move": "MOVE_SIGNAL_BEAM",
+            "Level": "28"
+        },
+        {
+            "Move": "MOVE_FLAIL",
+            "Level": "31"
+        },
+        {
+            "Move": "MOVE_DISCHARGE",
+            "Level": "34"
+        },
+        {
+            "Move": "MOVE_PARABOLIC_CHARGE",
+            "Level": "39"
+        },
+        {
+            "Move": "MOVE_AQUA_RING",
+            "Level": "42"
+        },
+        {
+            "Move": "MOVE_HYDRO_PUMP",
+            "Level": "45"
+        },
+        {
+            "Move": "MOVE_ION_DELUGE",
+            "Level": "47"
+        },
+        {
+            "Move": "MOVE_CHARGE",
+            "Level": "50"
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_ICE_BEAM",
+        "MOVE_SUCKER_PUNCH",
+        "MOVE_AMNESIA",
+        "MOVE_AGILITY",
+        "MOVE_CHILLING_WATER",
+        "MOVE_EERIE_IMPULSE",
+        "MOVE_WATERFALL",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_PROTECT",
+        "MOVE_DOUBLE_EDGE",
+        "MOVE_TAKE_DOWN",
+        "MOVE_SUBSTITUTE",
+        "MOVE_FACADE",
+        "MOVE_WHIRLPOOL",
+        "MOVE_ICY_WIND",
+        "MOVE_SLEEP_TALK",
+        "MOVE_SOAK",
+        "MOVE_WILD_CHARGE",
+        "MOVE_THUNDERBOLT",
+        "MOVE_MUDDY_WATER",
+        "MOVE_LIQUIDATION",
+        "MOVE_ELECTRIC_TERRAIN",
+        "MOVE_CHARGE_BEAM",
+        "MOVE_CURSE",
+        "MOVE_ELECTROWEB",
+        "MOVE_ENDURE",
+        "MOVE_TERA_BLAST",
+        "MOVE_WATER_PULSE",
+        "MOVE_DAZZLING_GLEAM",
+        "MOVE_PSYBEAM",
+        "MOVE_THUNDER",
+        "MOVE_VOLT_SWITCH",
+        "MOVE_BLIZZARD",
+        "MOVE_HEAL_BELL",
+        "MOVE_SURF",
+        "MOVE_FLIP_TURN",
+        "MOVE_SCALD",
+        "MOVE_RAIN_DANCE",
+        "MOVE_MIST",
+        "MOVE_REST"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_SCALD",
+                "MOVE_VOLT_SWITCH",
+                "MOVE_REST",
+                "MOVE_SLEEP_TALK"
+            ],
+            "Ability": "ABILITY_VOLT_ABSORB",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_CALM",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Specially Defensive Pivot",
+            "SourceTiers": [
+                "GEN6PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_REST",
+                "MOVE_SLEEP_TALK",
+                "MOVE_VOLT_SWITCH",
+                "MOVE_SCALD"
+            ],
+            "Ability": "ABILITY_VOLT_ABSORB",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_CALM",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Special Pivot",
+            "SourceTiers": [
+                "GEN6ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SCALD",
+                "MOVE_VOLT_SWITCH",
+                "MOVE_ICE_BEAM",
+                "MOVE_HIDDEN_POWER"
+            ],
+            "Ability": "ABILITY_VOLT_ABSORB",
+            "Item": "ITEM_BERRY_JUICE",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": "TYPE_GRASS",
+            "TeraType": null,
+            "Name": "Defensive",
+            "SourceTiers": [
+                "GEN6LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SCALD",
+                "MOVE_VOLT_SWITCH",
+                "MOVE_ICE_BEAM",
+                "MOVE_HIDDEN_POWER"
+            ],
+            "Ability": "ABILITY_VOLT_ABSORB",
+            "Item": "ITEM_BERRY_JUICE",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": "TYPE_GRASS",
+            "TeraType": null,
+            "Name": "Fast Berry Juice",
+            "SourceTiers": [
+                "GEN6LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_VOLT_SWITCH",
+                "MOVE_HYDRO_PUMP",
+                "MOVE_ICE_BEAM",
+                "MOVE_THUNDERBOLT"
+            ],
+            "Ability": "ABILITY_VOLT_ABSORB",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Scarf",
+            "SourceTiers": [
+                "GEN6LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_VOLT_SWITCH",
+                "MOVE_SCALD",
+                "MOVE_ICE_BEAM",
+                "MOVE_HEAL_BELL"
+            ],
+            "Ability": "ABILITY_VOLT_ABSORB",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SCALD",
+                "MOVE_VOLT_SWITCH",
+                "MOVE_ICE_BEAM",
+                "MOVE_THUNDER_WAVE"
+            ],
+            "Ability": "ABILITY_VOLT_ABSORB",
+            "Item": "ITEM_BERRY_JUICE",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Bulky Pivot",
+            "SourceTiers": [
+                "GEN7LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_HYDRO_PUMP",
+                "MOVE_VOLT_SWITCH",
+                "MOVE_ICE_BEAM",
+                "MOVE_SCALD"
+            ],
+            "Ability": "ABILITY_VOLT_ABSORB",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Scarf Pivot",
+            "SourceTiers": [
+                "GEN7LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_VOLT_SWITCH",
+                "MOVE_SCALD",
+                "MOVE_ICE_BEAM",
+                "MOVE_THUNDERBOLT"
+            ],
+            "Ability": "ABILITY_VOLT_ABSORB",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_VOLT_SWITCH",
+                "MOVE_ICE_BEAM",
+                "MOVE_PARABOLIC_CHARGE",
+                "MOVE_SCALD"
+            ],
+            "Ability": "ABILITY_VOLT_ABSORB",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Offensive Pivot",
+            "SourceTiers": [
+                "GEN8LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_VOLT_SWITCH",
+                "MOVE_ICE_BEAM",
+                "MOVE_SCALD",
+                "MOVE_THUNDERBOLT"
+            ],
+            "Ability": "ABILITY_VOLT_ABSORB",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SCALD",
+                "MOVE_THUNDERBOLT",
+                "MOVE_ICE_BEAM",
+                "MOVE_FLIP_TURN"
+            ],
+            "Ability": "ABILITY_VOLT_ABSORB",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": "TYPE_GRASS",
+            "Name": "Pivot",
+            "SourceTiers": [
+                "GEN9LC"
+            ]
+        }
+    ]
+}

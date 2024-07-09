@@ -1,0 +1,246 @@
+{
+    "Species": "SPECIES_POLTEAGEIST",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_TEATIME",
+            "Level": 0
+        },
+        {
+            "Move": "MOVE_MEGA_DRAIN",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_WITHDRAW",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_ASTONISH",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_AROMATIC_MIST",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_STRENGTH_SAP",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_PROTECT",
+            "Level": 18
+        },
+        {
+            "Move": "MOVE_SUCKER_PUNCH",
+            "Level": 24
+        },
+        {
+            "Move": "MOVE_SWEET_SCENT",
+            "Level": 30
+        },
+        {
+            "Move": "MOVE_GIGA_DRAIN",
+            "Level": 36
+        },
+        {
+            "Move": "MOVE_NASTY_PLOT",
+            "Level": 42
+        },
+        {
+            "Move": "MOVE_SHADOW_BALL",
+            "Level": 48
+        },
+        {
+            "Move": "MOVE_MEMENTO",
+            "Level": 54
+        },
+        {
+            "Move": "MOVE_SHELL_SMASH",
+            "Level": 60
+        },
+        {
+            "Move": "MOVE_CURSE",
+            "Level": 66
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_PAIN_SPLIT",
+        "MOVE_DARK_PULSE",
+        "MOVE_REFLECT",
+        "MOVE_FRUSTRATION",
+        "MOVE_TOXIC",
+        "MOVE_LIGHT_SCREEN",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_POLTERGEIST",
+        "MOVE_WILL_O_WISP",
+        "MOVE_BATON_PASS",
+        "MOVE_SKILL_SWAP",
+        "MOVE_PSYSHOCK",
+        "MOVE_CALM_MIND",
+        "MOVE_HYPER_BEAM",
+        "MOVE_SUBSTITUTE",
+        "MOVE_METRONOME",
+        "MOVE_MAGICAL_LEAF",
+        "MOVE_FACADE",
+        "MOVE_PHANTOM_FORCE",
+        "MOVE_TRICK",
+        "MOVE_IMPRISON",
+        "MOVE_SLEEP_TALK",
+        "MOVE_STORED_POWER",
+        "MOVE_PSYCHIC",
+        "MOVE_CONFUSE_RAY",
+        "MOVE_GIGA_IMPACT",
+        "MOVE_HEX",
+        "MOVE_TERA_BLAST",
+        "MOVE_ENDURE",
+        "MOVE_SPITE",
+        "MOVE_RETURN",
+        "MOVE_NIGHT_SHADE",
+        "MOVE_PSYBEAM",
+        "MOVE_FOUL_PLAY",
+        "MOVE_TRICK_ROOM",
+        "MOVE_REST"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_SHELL_SMASH",
+                "MOVE_SHADOW_BALL",
+                "MOVE_STORED_POWER",
+                "MOVE_GIGA_DRAIN"
+            ],
+            "Ability": "ABILITY_WEAK_ARMOR",
+            "Item": "ITEM_FOCUS_SASH",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Shell Smash",
+            "SourceTiers": [
+                "GEN8OU",
+                "GEN8OU",
+                "GEN8NATIONALDEXMONOTYPE",
+                "GEN9NATIONALDEXMONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SHELL_SMASH",
+                "MOVE_SHADOW_BALL",
+                "MOVE_GIGA_DRAIN",
+                "MOVE_STORED_POWER"
+            ],
+            "Ability": "ABILITY_WEAK_ARMOR",
+            "Item": "ITEM_FOCUS_SASH",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8UU",
+                "GEN8RU",
+                "GEN8MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SHELL_SMASH",
+                "MOVE_SHADOW_BALL",
+                "MOVE_STRENGTH_SAP",
+                "MOVE_GIGA_DRAIN"
+            ],
+            "Ability": "ABILITY_CURSED_BODY",
+            "Item": "ITEM_WHITE_HERB",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Shell Smash",
+            "SourceTiers": [
+                "GEN8RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SHELL_SMASH",
+                "MOVE_SHADOW_BALL",
+                "MOVE_STORED_POWER",
+                "MOVE_GIGA_DRAIN"
+            ],
+            "Ability": "ABILITY_WEAK_ARMOR",
+            "Item": "ITEM_WHITE_HERB",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Shell Smash",
+            "SourceTiers": [
+                "GEN8MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SHELL_SMASH",
+                "MOVE_SHADOW_BALL",
+                "MOVE_STORED_POWER",
+                "MOVE_TERA_BLAST"
+            ],
+            "Ability": "ABILITY_WEAK_ARMOR",
+            "Item": "ITEM_FOCUS_SASH",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": "TYPE_FIGHTING",
+            "Name": "Shell Smash",
+            "SourceTiers": [
+                "GEN9OU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SHELL_SMASH",
+                "MOVE_SHADOW_BALL",
+                "MOVE_STORED_POWER",
+                "MOVE_TERA_BLAST"
+            ],
+            "Ability": "ABILITY_WEAK_ARMOR",
+            "Item": "ITEM_FOCUS_SASH",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": "TYPE_FIGHTING",
+            "Name": "Shell Smash",
+            "SourceTiers": [
+                "GEN9UU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SHELL_SMASH",
+                "MOVE_STORED_POWER",
+                "MOVE_SHADOW_BALL",
+                "MOVE_TERA_BLAST"
+            ],
+            "Ability": "ABILITY_WEAK_ARMOR",
+            "Item": "ITEM_FOCUS_SASH",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN9UU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SHADOW_BALL",
+                "MOVE_STORED_POWER",
+                "MOVE_TERA_BLAST",
+                "MOVE_SHELL_SMASH"
+            ],
+            "Ability": "ABILITY_WEAK_ARMOR",
+            "Item": "ITEM_FOCUS_SASH",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": "TYPE_FIGHTING",
+            "Name": "Shell Smash",
+            "SourceTiers": [
+                "GEN9NATIONALDEX"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "Species": "SPECIES_WHISMUR",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_POUND",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_ASTONISH",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_ECHOED_VOICE",
+            "Level": 5
+        },
+        {
+            "Move": "MOVE_HOWL",
+            "Level": 10
+        },
+        {
+            "Move": "MOVE_REST",
+            "Level": 15
+        },
+        {
+            "Move": "MOVE_SLEEP_TALK",
+            "Level": 15
+        },
+        {
+            "Move": "MOVE_STOMP",
+            "Level": 21
+        },
+        {
+            "Move": "MOVE_ROAR",
+            "Level": 25
+        },
+        {
+            "Move": "MOVE_SUPERSONIC",
+            "Level": 30
+        },
+        {
+            "Move": "MOVE_UPROAR",
+            "Level": 35
+        },
+        {
+            "Move": "MOVE_SCREECH",
+            "Level": 40
+        },
+        {
+            "Move": "MOVE_HYPER_VOICE",
+            "Level": 45
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_ICE_BEAM",
+        "MOVE_DISARMING_VOICE",
+        "MOVE_THUNDER_PUNCH",
+        "MOVE_FLING",
+        "MOVE_WHIRLWIND",
+        "MOVE_SOLAR_BEAM",
+        "MOVE_ATTRACT",
+        "MOVE_ZEN_HEADBUTT",
+        "MOVE_WORK_UP",
+        "MOVE_PROTECT",
+        "MOVE_TAKE_DOWN",
+        "MOVE_HAMMER_ARM",
+        "MOVE_SUBSTITUTE",
+        "MOVE_SUNNY_DAY",
+        "MOVE_ENDEAVOR",
+        "MOVE_FACADE",
+        "MOVE_SHADOW_BALL",
+        "MOVE_ICY_WIND",
+        "MOVE_MEGA_KICK",
+        "MOVE_FAKE_TEARS",
+        "MOVE_BUG_BUZZ",
+        "MOVE_ICE_PUNCH",
+        "MOVE_ENDURE",
+        "MOVE_CIRCLE_THROW",
+        "MOVE_FIRE_PUNCH",
+        "MOVE_ROUND",
+        "MOVE_BLIZZARD",
+        "MOVE_EXTRASENSORY",
+        "MOVE_SNORE",
+        "MOVE_MEGA_PUNCH",
+        "MOVE_RAIN_DANCE",
+        "MOVE_SMOKESCREEN",
+        "MOVE_RETALIATE",
+        "MOVE_FLAMETHROWER",
+        "MOVE_FIRE_BLAST",
+        "MOVE_BODY_SLAM"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_HYPER_VOICE",
+                "MOVE_SHADOW_BALL",
+                "MOVE_ICE_BEAM",
+                "MOVE_FIRE_BLAST"
+            ],
+            "Ability": "ABILITY_SOUNDPROOF",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_QUIET",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Trick Room Breaker",
+            "SourceTiers": [
+                "GEN7LC"
+            ]
+        }
+    ]
+}

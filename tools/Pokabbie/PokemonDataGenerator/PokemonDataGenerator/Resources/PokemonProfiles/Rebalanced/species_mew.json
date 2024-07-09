@@ -1,0 +1,1052 @@
+{
+    "Species": "SPECIES_MEW",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_POUND",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_REFLECT_TYPE",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_AMNESIA",
+            "Level": 10
+        },
+        {
+            "Move": "MOVE_BATON_PASS",
+            "Level": 20
+        },
+        {
+            "Move": "MOVE_ANCIENT_POWER",
+            "Level": 30
+        },
+        {
+            "Move": "MOVE_LIFE_DEW",
+            "Level": 40
+        },
+        {
+            "Move": "MOVE_NASTY_PLOT",
+            "Level": 50
+        },
+        {
+            "Move": "MOVE_METRONOME",
+            "Level": 60
+        },
+        {
+            "Move": "MOVE_IMPRISON",
+            "Level": 70
+        },
+        {
+            "Move": "MOVE_TRANSFORM",
+            "Level": 80
+        },
+        {
+            "Move": "MOVE_AURA_SPHERE",
+            "Level": 90
+        },
+        {
+            "Move": "MOVE_PSYCHIC",
+            "Level": 100
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_THUNDER_FANG",
+        "MOVE_DRACO_METEOR",
+        "MOVE_LASH_OUT",
+        "MOVE_FUTURE_SIGHT",
+        "MOVE_GRASS_KNOT",
+        "MOVE_LEAF_STORM",
+        "MOVE_IRON_HEAD",
+        "MOVE_PSYCHIC_FANGS",
+        "MOVE_ROCK_BLAST",
+        "MOVE_DRILL_RUN",
+        "MOVE_EARTH_POWER",
+        "MOVE_EERIE_IMPULSE",
+        "MOVE_TEMPER_FLARE",
+        "MOVE_BRAVE_BIRD",
+        "MOVE_HIGH_HORSEPOWER",
+        "MOVE_HYDRO_CANNON",
+        "MOVE_POLTERGEIST",
+        "MOVE_STONE_EDGE",
+        "MOVE_THROAT_CHOP",
+        "MOVE_DOUBLE_EDGE",
+        "MOVE_UPROAR",
+        "MOVE_SUNNY_DAY",
+        "MOVE_TAILWIND",
+        "MOVE_DUAL_WINGBEAT",
+        "MOVE_ICICLE_SPEAR",
+        "MOVE_STOMPING_TANTRUM",
+        "MOVE_BUG_BITE",
+        "MOVE_FALSE_SWIPE",
+        "MOVE_STEALTH_ROCK",
+        "MOVE_STORED_POWER",
+        "MOVE_FLY",
+        "MOVE_SLUDGE_BOMB",
+        "MOVE_CONFUSE_RAY",
+        "MOVE_DRAINING_KISS",
+        "MOVE_THUNDERBOLT",
+        "MOVE_DIG",
+        "MOVE_CLOSE_COMBAT",
+        "MOVE_MUDDY_WATER",
+        "MOVE_LIQUIDATION",
+        "MOVE_TERA_BLAST",
+        "MOVE_WATER_PULSE",
+        "MOVE_MUD_SHOT",
+        "MOVE_X_SCISSOR",
+        "MOVE_NIGHT_SHADE",
+        "MOVE_DAZZLING_GLEAM",
+        "MOVE_ROOST",
+        "MOVE_THUNDER",
+        "MOVE_SCARY_FACE",
+        "MOVE_LOW_KICK",
+        "MOVE_BLIZZARD",
+        "MOVE_SMACK_DOWN",
+        "MOVE_ROCK_SLIDE",
+        "MOVE_U_TURN",
+        "MOVE_FIRE_BLAST",
+        "MOVE_WATER_PLEDGE",
+        "MOVE_BODY_PRESS",
+        "MOVE_SOFT_BOILED",
+        "MOVE_DISARMING_VOICE",
+        "MOVE_BURNING_JEALOUSY",
+        "MOVE_SUPERPOWER",
+        "MOVE_FAKE_OUT",
+        "MOVE_HELPING_HAND",
+        "MOVE_SMART_STRIKE",
+        "MOVE_GUNK_SHOT",
+        "MOVE_FIRE_FANG",
+        "MOVE_REFLECT",
+        "MOVE_SWORDS_DANCE",
+        "MOVE_ACID_SPRAY",
+        "MOVE_OVERHEAT",
+        "MOVE_OUTRAGE",
+        "MOVE_SUPERCELL_SLAM",
+        "MOVE_WATERFALL",
+        "MOVE_KNOCK_OFF",
+        "MOVE_HARD_PRESS",
+        "MOVE_PROTECT",
+        "MOVE_SKILL_SWAP",
+        "MOVE_TAKE_DOWN",
+        "MOVE_FIRE_SPIN",
+        "MOVE_SCORCHING_SANDS",
+        "MOVE_TRICK",
+        "MOVE_LEECH_LIFE",
+        "MOVE_EXPANDING_FORCE",
+        "MOVE_AIR_SLASH",
+        "MOVE_SHADOW_BALL",
+        "MOVE_SWIFT",
+        "MOVE_TRAILBLAZE",
+        "MOVE_HAZE",
+        "MOVE_GIGA_IMPACT",
+        "MOVE_POWER_GEM",
+        "MOVE_FRENZY_PLANT",
+        "MOVE_METAL_CLAW",
+        "MOVE_BREAKING_SWIPE",
+        "MOVE_ELECTROWEB",
+        "MOVE_DRAGON_CLAW",
+        "MOVE_SPITE",
+        "MOVE_METEOR_BEAM",
+        "MOVE_PSYBEAM",
+        "MOVE_LOW_SWEEP",
+        "MOVE_FOUL_PLAY",
+        "MOVE_ICE_SPINNER",
+        "MOVE_POUNCE",
+        "MOVE_SURF",
+        "MOVE_THUNDER_WAVE",
+        "MOVE_FLIP_TURN",
+        "MOVE_PSYCHIC_TERRAIN",
+        "MOVE_SNOWSCAPE",
+        "MOVE_TRICK_ROOM",
+        "MOVE_DRAGON_TAIL",
+        "MOVE_GRAVITY",
+        "MOVE_PSYCH_UP",
+        "MOVE_AERIAL_ACE",
+        "MOVE_FOCUS_PUNCH",
+        "MOVE_ICE_BEAM",
+        "MOVE_GRASSY_TERRAIN",
+        "MOVE_SLUDGE_WAVE",
+        "MOVE_GIGA_DRAIN",
+        "MOVE_DARK_PULSE",
+        "MOVE_SOLAR_BEAM",
+        "MOVE_SPIKES",
+        "MOVE_CHILLING_WATER",
+        "MOVE_EXPLOSION",
+        "MOVE_ROCK_TOMB",
+        "MOVE_TOXIC",
+        "MOVE_COACHING",
+        "MOVE_POLLEN_PUFF",
+        "MOVE_VENOSHOCK",
+        "MOVE_FEATHER_DANCE",
+        "MOVE_DRAGON_DANCE",
+        "MOVE_POISON_TAIL",
+        "MOVE_WILL_O_WISP",
+        "MOVE_GRASSY_GLIDE",
+        "MOVE_CALM_MIND",
+        "MOVE_DEFOG",
+        "MOVE_SEED_BOMB",
+        "MOVE_SUBSTITUTE",
+        "MOVE_BRICK_BREAK",
+        "MOVE_FACADE",
+        "MOVE_PHANTOM_FORCE",
+        "MOVE_DRAGON_PULSE",
+        "MOVE_WHIRLPOOL",
+        "MOVE_ACROBATICS",
+        "MOVE_STRUGGLE_BUG",
+        "MOVE_TRIPLE_AXEL",
+        "MOVE_SLEEP_TALK",
+        "MOVE_ENERGY_BALL",
+        "MOVE_MUD_SLAP",
+        "MOVE_WILD_CHARGE",
+        "MOVE_HYPER_VOICE",
+        "MOVE_BUG_BUZZ",
+        "MOVE_PETAL_BLIZZARD",
+        "MOVE_SNARL",
+        "MOVE_ENDURE",
+        "MOVE_ROCK_CLIMB",
+        "MOVE_MISTY_EXPLOSION",
+        "MOVE_HEAVY_SLAM",
+        "MOVE_FIRE_PUNCH",
+        "MOVE_HURRICANE",
+        "MOVE_SCALD",
+        "MOVE_RAIN_DANCE",
+        "MOVE_BULK_UP",
+        "MOVE_CHARGE",
+        "MOVE_FLAMETHROWER",
+        "MOVE_TOXIC_SPIKES",
+        "MOVE_BLAST_BURN",
+        "MOVE_WEATHER_BALL",
+        "MOVE_REST",
+        "MOVE_FLASH_CANNON",
+        "MOVE_PAIN_SPLIT",
+        "MOVE_GRASS_PLEDGE",
+        "MOVE_AIR_CUTTER",
+        "MOVE_SEISMIC_TOSS",
+        "MOVE_SUPER_FANG",
+        "MOVE_THUNDER_PUNCH",
+        "MOVE_VACUUM_WAVE",
+        "MOVE_FLING",
+        "MOVE_DRAGON_CHEER",
+        "MOVE_AGILITY",
+        "MOVE_SKITTER_SMACK",
+        "MOVE_ZEN_HEADBUTT",
+        "MOVE_BULLDOZE",
+        "MOVE_LIGHT_SCREEN",
+        "MOVE_STEEL_BEAM",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_HEAT_CRASH",
+        "MOVE_HYDRO_PUMP",
+        "MOVE_BULLET_SEED",
+        "MOVE_IRON_DEFENSE",
+        "MOVE_PSYSHOCK",
+        "MOVE_SHADOW_CLAW",
+        "MOVE_METAL_SOUND",
+        "MOVE_HYPER_BEAM",
+        "MOVE_THIEF",
+        "MOVE_LUNGE",
+        "MOVE_ENDEAVOR",
+        "MOVE_MAGICAL_LEAF",
+        "MOVE_MISTY_TERRAIN",
+        "MOVE_ICY_WIND",
+        "MOVE_REVERSAL",
+        "MOVE_SAND_TOMB",
+        "MOVE_ROAR",
+        "MOVE_AVALANCHE",
+        "MOVE_ENCORE",
+        "MOVE_FLARE_BLITZ",
+        "MOVE_FAKE_TEARS",
+        "MOVE_EARTHQUAKE",
+        "MOVE_HEAT_WAVE",
+        "MOVE_ELECTRIC_TERRAIN",
+        "MOVE_CHARGE_BEAM",
+        "MOVE_CURSE",
+        "MOVE_FIRE_PLEDGE",
+        "MOVE_HEX",
+        "MOVE_ICE_PUNCH",
+        "MOVE_SOLAR_BLADE",
+        "MOVE_ELECTRO_BALL",
+        "MOVE_PLAY_ROUGH",
+        "MOVE_FOCUS_BLAST",
+        "MOVE_VOLT_SWITCH",
+        "MOVE_CHARM",
+        "MOVE_COSMIC_POWER",
+        "MOVE_POISON_JAB",
+        "MOVE_ROCK_POLISH",
+        "MOVE_GYRO_BALL",
+        "MOVE_SCALE_SHOT",
+        "MOVE_DRAIN_PUNCH",
+        "MOVE_ICE_FANG",
+        "MOVE_FLAME_CHARGE",
+        "MOVE_SANDSTORM",
+        "MOVE_CRUNCH",
+        "MOVE_TAUNT",
+        "MOVE_BODY_SLAM",
+        "MOVE_BARRIER"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_TAUNT",
+                "MOVE_SOFT_BOILED",
+                "MOVE_WILL_O_WISP",
+                "MOVE_KNOCK_OFF"
+            ],
+            "Ability": "ABILITY_SYNCHRONIZE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_CAREFUL",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Stallbreaker",
+            "SourceTiers": [
+                "GEN6OU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_DEFOG",
+                "MOVE_SOFT_BOILED",
+                "MOVE_WILL_O_WISP",
+                "MOVE_PSYCHIC"
+            ],
+            "Ability": "ABILITY_SYNCHRONIZE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_CALM",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Defog",
+            "SourceTiers": [
+                "GEN6OU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_WILL_O_WISP",
+                "MOVE_DEFOG",
+                "MOVE_SOFT_BOILED",
+                "MOVE_KNOCK_OFF"
+            ],
+            "Ability": "ABILITY_SYNCHRONIZE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_CAREFUL",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6OU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FAKE_OUT",
+                "MOVE_TRANSFORM",
+                "MOVE_WILL_O_WISP",
+                "MOVE_PROTECT"
+            ],
+            "Ability": "ABILITY_SYNCHRONIZE",
+            "Item": "ITEM_SITRUS_BERRY",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Transform Support",
+            "SourceTiers": [
+                "GEN6DOUBLESOU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_TAUNT",
+                "MOVE_WILL_O_WISP",
+                "MOVE_SEISMIC_TOSS",
+                "MOVE_ROOST"
+            ],
+            "Ability": "ABILITY_SYNCHRONIZE",
+            "Item": "ITEM_SITRUS_BERRY",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Sitrus Berry",
+            "SourceTiers": [
+                "GEN61V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SOFT_BOILED",
+                "MOVE_BARRIER",
+                "MOVE_TAUNT",
+                "MOVE_SEISMIC_TOSS"
+            ],
+            "Ability": "ABILITY_SYNCHRONIZE",
+            "Item": "ITEM_ROCKY_HELMET",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Rocky Helmet",
+            "SourceTiers": [
+                "GEN61V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_AMNESIA",
+                "MOVE_IRON_DEFENSE",
+                "MOVE_SOFT_BOILED",
+                "MOVE_SEISMIC_TOSS"
+            ],
+            "Ability": "ABILITY_SYNCHRONIZE",
+            "Item": "ITEM_SITRUS_BERRY",
+            "Nature": "NATURE_IMPISH",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Stall",
+            "SourceTiers": [
+                "GEN61V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_ZEN_HEADBUTT",
+                "MOVE_GUNK_SHOT",
+                "MOVE_SUPERPOWER",
+                "MOVE_WILD_CHARGE"
+            ],
+            "Ability": "ABILITY_SYNCHRONIZE",
+            "Item": "ITEM_CHOICE_BAND",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Band",
+            "SourceTiers": [
+                "GEN61V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_WILL_O_WISP",
+                "MOVE_STEALTH_ROCK",
+                "MOVE_ROOST",
+                "MOVE_DEFOG"
+            ],
+            "Ability": "ABILITY_SYNCHRONIZE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_CAREFUL",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_STEALTH_ROCK",
+                "MOVE_TAUNT",
+                "MOVE_ICE_BEAM",
+                "MOVE_THUNDER_WAVE"
+            ],
+            "Ability": "ABILITY_SYNCHRONIZE",
+            "Item": "ITEM_MENTAL_HERB",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Lead",
+            "SourceTiers": [
+                "GEN7OU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_EARTHQUAKE",
+                "MOVE_WILL_O_WISP",
+                "MOVE_SOFT_BOILED",
+                "MOVE_STEALTH_ROCK"
+            ],
+            "Ability": "ABILITY_SYNCHRONIZE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Defensive",
+            "SourceTiers": [
+                "GEN7OU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_NASTY_PLOT",
+                "MOVE_PSYCHIC",
+                "MOVE_FIRE_BLAST",
+                "MOVE_ROCK_POLISH"
+            ],
+            "Ability": "ABILITY_SYNCHRONIZE",
+            "Item": "ITEM_MEWNIUM_Z",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Nasty Plot",
+            "SourceTiers": [
+                "GEN7OU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_STEALTH_ROCK",
+                "MOVE_ICE_BEAM",
+                "MOVE_TAUNT",
+                "MOVE_PSYCHIC"
+            ],
+            "Ability": "ABILITY_SYNCHRONIZE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7OU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SEISMIC_TOSS",
+                "MOVE_TAUNT",
+                "MOVE_WILL_O_WISP",
+                "MOVE_SOFT_BOILED"
+            ],
+            "Ability": "ABILITY_SYNCHRONIZE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Stallbreaker",
+            "SourceTiers": [
+                "GEN7UU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SEISMIC_TOSS",
+                "MOVE_DEFOG",
+                "MOVE_TAUNT",
+                "MOVE_SOFT_BOILED"
+            ],
+            "Ability": "ABILITY_SYNCHRONIZE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Defensive Utility",
+            "SourceTiers": [
+                "GEN7UU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_DEFOG",
+                "MOVE_ICE_BEAM",
+                "MOVE_WILL_O_WISP",
+                "MOVE_ROOST"
+            ],
+            "Ability": "ABILITY_SYNCHRONIZE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_CALM",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7UU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FAKE_OUT",
+                "MOVE_ICE_BEAM",
+                "MOVE_STEALTH_ROCK",
+                "MOVE_TAILWIND"
+            ],
+            "Ability": "ABILITY_SYNCHRONIZE",
+            "Item": "ITEM_WIKI_BERRY",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Bulky Utility",
+            "SourceTiers": [
+                "GEN7DOUBLESOU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_PSYCHIC",
+                "MOVE_WILL_O_WISP",
+                "MOVE_ROOST",
+                "MOVE_U_TURN"
+            ],
+            "Ability": null,
+            "Item": null,
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Defensive Pivot",
+            "SourceTiers": [
+                "GEN7LETSGOOU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_PSYCHIC",
+                "MOVE_THUNDERBOLT",
+                "MOVE_NASTY_PLOT",
+                "MOVE_ROOST"
+            ],
+            "Ability": null,
+            "Item": null,
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Nasty Plot",
+            "SourceTiers": [
+                "GEN7LETSGOOU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SCALD",
+                "MOVE_CALM_MIND",
+                "MOVE_TAUNT",
+                "MOVE_ROOST"
+            ],
+            "Ability": null,
+            "Item": null,
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Calm Mind",
+            "SourceTiers": [
+                "GEN7LETSGOOU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SCALD",
+                "MOVE_STEALTH_ROCK",
+                "MOVE_U_TURN",
+                "MOVE_ROOST"
+            ],
+            "Ability": null,
+            "Item": null,
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Stealth Rock",
+            "SourceTiers": [
+                "GEN7LETSGOOU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_ROOST",
+                "MOVE_PSYCHIC",
+                "MOVE_STEALTH_ROCK",
+                "MOVE_WILL_O_WISP"
+            ],
+            "Ability": null,
+            "Item": null,
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7LETSGOOU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_KNOCK_OFF",
+                "MOVE_WILL_O_WISP",
+                "MOVE_TAUNT",
+                "MOVE_ROOST"
+            ],
+            "Ability": "ABILITY_SYNCHRONIZE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_CAREFUL",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Stallbreaker",
+            "SourceTiers": [
+                "GEN7MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_PSYCHIC",
+                "MOVE_NASTY_PLOT",
+                "MOVE_ROCK_POLISH",
+                "MOVE_FOCUS_BLAST"
+            ],
+            "Ability": "ABILITY_SYNCHRONIZE",
+            "Item": "ITEM_MEWNIUM_Z",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Double Dance",
+            "SourceTiers": [
+                "GEN7MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_PSYCHIC",
+                "MOVE_NASTY_PLOT",
+                "MOVE_ROCK_POLISH",
+                "MOVE_WILL_O_WISP"
+            ],
+            "Ability": "ABILITY_SYNCHRONIZE",
+            "Item": "ITEM_MEWNIUM_Z",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_STEALTH_ROCK",
+                "MOVE_SPIKES",
+                "MOVE_TAUNT",
+                "MOVE_MISTY_EXPLOSION"
+            ],
+            "Ability": "ABILITY_SYNCHRONIZE",
+            "Item": "ITEM_FOCUS_SASH",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Lead",
+            "SourceTiers": [
+                "GEN8UBERS"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SPIKES",
+                "MOVE_KNOCK_OFF",
+                "MOVE_TAUNT",
+                "MOVE_ROOST"
+            ],
+            "Ability": "ABILITY_SYNCHRONIZE",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Utility",
+            "SourceTiers": [
+                "GEN8OU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_COSMIC_POWER",
+                "MOVE_STORED_POWER",
+                "MOVE_BODY_PRESS",
+                "MOVE_ROOST"
+            ],
+            "Ability": "ABILITY_SYNCHRONIZE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Cosmic Power",
+            "SourceTiers": [
+                "GEN8OU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_STEALTH_ROCK",
+                "MOVE_SPIKES",
+                "MOVE_TAUNT",
+                "MOVE_THUNDER_WAVE"
+            ],
+            "Ability": "ABILITY_SYNCHRONIZE",
+            "Item": "ITEM_COLBUR_BERRY",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Suicide Lead",
+            "SourceTiers": [
+                "GEN8OU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_TAUNT",
+                "MOVE_STEALTH_ROCK",
+                "MOVE_SPIKES",
+                "MOVE_THUNDER_WAVE"
+            ],
+            "Ability": "ABILITY_SYNCHRONIZE",
+            "Item": "ITEM_COLBUR_BERRY",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8OU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SPIKES",
+                "MOVE_ICE_BEAM",
+                "MOVE_WILL_O_WISP",
+                "MOVE_SOFT_BOILED"
+            ],
+            "Ability": "ABILITY_SYNCHRONIZE",
+            "Item": "ITEM_ROCKY_HELMET",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Defensive Spiker",
+            "SourceTiers": [
+                "GEN8NATIONALDEX"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_STEALTH_ROCK",
+                "MOVE_SPIKES",
+                "MOVE_TAUNT",
+                "MOVE_EXPLOSION"
+            ],
+            "Ability": "ABILITY_SYNCHRONIZE",
+            "Item": "ITEM_RED_CARD",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Suicide Lead",
+            "SourceTiers": [
+                "GEN8NATIONALDEX"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_STEALTH_ROCK",
+                "MOVE_TAUNT",
+                "MOVE_SPIKES",
+                "MOVE_FLARE_BLITZ"
+            ],
+            "Ability": "ABILITY_SYNCHRONIZE",
+            "Item": "ITEM_FOCUS_SASH",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8NATIONALDEX"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FAKE_OUT",
+                "MOVE_ICE_BEAM",
+                "MOVE_TAILWIND",
+                "MOVE_STEALTH_ROCK"
+            ],
+            "Ability": "ABILITY_SYNCHRONIZE",
+            "Item": "ITEM_SITRUS_BERRY",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Tailwind Support",
+            "SourceTiers": [
+                "GEN8DOUBLESOU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_TRANSFORM",
+                "MOVE_PSYCHIC",
+                "MOVE_FAKE_OUT",
+                "MOVE_TAILWIND"
+            ],
+            "Ability": "ABILITY_SYNCHRONIZE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8DOUBLESOU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_BATON_PASS",
+                "MOVE_SPIKES",
+                "MOVE_TOXIC_SPIKES",
+                "MOVE_STEALTH_ROCK"
+            ],
+            "Ability": "ABILITY_SYNCHRONIZE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8ANYTHINGGOES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_TAUNT",
+                "MOVE_KNOCK_OFF",
+                "MOVE_WILL_O_WISP",
+                "MOVE_ROOST"
+            ],
+            "Ability": "ABILITY_SYNCHRONIZE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Stallbreaker",
+            "SourceTiers": [
+                "GEN8MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_COSMIC_POWER",
+                "MOVE_STORED_POWER",
+                "MOVE_TAUNT",
+                "MOVE_ROOST"
+            ],
+            "Ability": "ABILITY_SYNCHRONIZE",
+            "Item": "ITEM_WEAKNESS_POLICY",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Cosmic Power (Psychic)",
+            "SourceTiers": [
+                "GEN8MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_NASTY_PLOT",
+                "MOVE_PSYCHIC",
+                "MOVE_FIRE_BLAST",
+                "MOVE_FOCUS_BLAST"
+            ],
+            "Ability": "ABILITY_SYNCHRONIZE",
+            "Item": "ITEM_COLBUR_BERRY",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Nasty Plot",
+            "SourceTiers": [
+                "GEN8MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_PSYCHIC_FANGS",
+                "MOVE_TRANSFORM",
+                "MOVE_BRICK_BREAK",
+                "MOVE_PLAY_ROUGH"
+            ],
+            "Ability": "ABILITY_SYNCHRONIZE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_STEALTH_ROCK",
+                "MOVE_SPIKES",
+                "MOVE_DRAINING_KISS",
+                "MOVE_STORED_POWER"
+            ],
+            "Ability": "ABILITY_SYNCHRONIZE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN9UU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_NASTY_PLOT",
+                "MOVE_FIRE_BLAST",
+                "MOVE_DRAINING_KISS"
+            ],
+            "Ability": "ABILITY_SYNCHRONIZE",
+            "Item": "ITEM_SITRUS_BERRY",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": "TYPE_FAIRY",
+            "Name": "Nasty Plot",
+            "SourceTiers": [
+                "GEN9RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_CALM_MIND",
+                "MOVE_IRON_DEFENSE",
+                "MOVE_STORED_POWER",
+                "MOVE_DRAINING_KISS"
+            ],
+            "Ability": "ABILITY_SYNCHRONIZE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": "TYPE_FAIRY",
+            "Name": "Double Dance",
+            "SourceTiers": [
+                "GEN9RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_BATON_PASS",
+                "MOVE_SOFT_BOILED",
+                "MOVE_TAUNT",
+                "MOVE_COSMIC_POWER"
+            ],
+            "Ability": "ABILITY_SYNCHRONIZE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_CALM",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN9NATIONALDEXAG"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_NASTY_PLOT",
+                "MOVE_ICE_BEAM",
+                "MOVE_THUNDERBOLT",
+                "MOVE_VACUUM_WAVE"
+            ],
+            "Ability": "ABILITY_SYNCHRONIZE",
+            "Item": "ITEM_EXPERT_BELT",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Nasty Plot",
+            "SourceTiers": [
+                "GEN9MONOTYPE"
+            ]
+        }
+    ]
+}

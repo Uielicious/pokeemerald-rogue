@@ -1,0 +1,154 @@
+{
+    "Species": "SPECIES_FINNEON",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_POUND",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_SOAK",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_WATER_GUN",
+            "Level": "4"
+        },
+        {
+            "Move": "MOVE_ATTRACT",
+            "Level": "8"
+        },
+        {
+            "Move": "MOVE_RAIN_DANCE",
+            "Level": "11"
+        },
+        {
+            "Move": "MOVE_GUST",
+            "Level": "15"
+        },
+        {
+            "Move": "MOVE_WATER_PULSE",
+            "Level": "18"
+        },
+        {
+            "Move": "MOVE_CAPTIVATE",
+            "Level": "22"
+        },
+        {
+            "Move": "MOVE_AIR_CUTTER",
+            "Level": "25"
+        },
+        {
+            "Move": "MOVE_SAFEGUARD",
+            "Level": "29"
+        },
+        {
+            "Move": "MOVE_AQUA_RING",
+            "Level": "32"
+        },
+        {
+            "Move": "MOVE_WHIRLPOOL",
+            "Level": "36"
+        },
+        {
+            "Move": "MOVE_U_TURN",
+            "Level": "39"
+        },
+        {
+            "Move": "MOVE_BOUNCE",
+            "Level": "43"
+        },
+        {
+            "Move": "MOVE_SILVER_WIND",
+            "Level": "46"
+        },
+        {
+            "Move": "MOVE_AIR_SLASH",
+            "Level": "50"
+        },
+        {
+            "Move": "MOVE_HYDRO_PUMP",
+            "Level": "53"
+        },
+        {
+            "Move": "MOVE_TAIL_GLOW",
+            "Level": "57"
+        },
+        {
+            "Move": "MOVE_HURRICANE",
+            "Level": "60"
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_ICE_BEAM",
+        "MOVE_HELPING_HAND",
+        "MOVE_AGILITY",
+        "MOVE_CHILLING_WATER",
+        "MOVE_WATERFALL",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_PROTECT",
+        "MOVE_FLAIL",
+        "MOVE_THIEF",
+        "MOVE_TAKE_DOWN",
+        "MOVE_DEFOG",
+        "MOVE_SUBSTITUTE",
+        "MOVE_TAILWIND",
+        "MOVE_FACADE",
+        "MOVE_ACROBATICS",
+        "MOVE_ICY_WIND",
+        "MOVE_SWIFT",
+        "MOVE_SLEEP_TALK",
+        "MOVE_CONFUSE_RAY",
+        "MOVE_TERA_BLAST",
+        "MOVE_ENDURE",
+        "MOVE_ROOST",
+        "MOVE_DAZZLING_GLEAM",
+        "MOVE_PSYBEAM",
+        "MOVE_SWEET_KISS",
+        "MOVE_CHARM",
+        "MOVE_AQUA_TAIL",
+        "MOVE_BLIZZARD",
+        "MOVE_SURF",
+        "MOVE_FLIP_TURN",
+        "MOVE_SCALD",
+        "MOVE_TICKLE",
+        "MOVE_PSYCH_UP",
+        "MOVE_AURORA_BEAM",
+        "MOVE_REST"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_DEFOG",
+                "MOVE_HYDRO_PUMP",
+                "MOVE_U_TURN",
+                "MOVE_HIDDEN_POWER"
+            ],
+            "Ability": "ABILITY_STORM_DRAIN",
+            "Item": "ITEM_BERRY_JUICE",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": "TYPE_FIGHTING",
+            "TeraType": null,
+            "Name": "Defog",
+            "SourceTiers": [
+                "GEN6LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_DEFOG",
+                "MOVE_SCALD",
+                "MOVE_U_TURN",
+                "MOVE_ROOST"
+            ],
+            "Ability": "ABILITY_STORM_DRAIN",
+            "Item": "ITEM_BERRY_JUICE",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Defog",
+            "SourceTiers": [
+                "GEN7LC"
+            ]
+        }
+    ]
+}

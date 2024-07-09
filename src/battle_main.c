@@ -3335,6 +3335,9 @@ const u8* FaintClearSetData(u32 battler)
     gProtectStructs[battler].statRaised = FALSE;
     gProtectStructs[battler].statFell = FALSE;
     gProtectStructs[battler].pranksterElevated = FALSE;
+#ifdef ROGUE_DRAYANO
+    gProtectStructs[battler].sheltered = FALSE;
+#endif
 
     gDisableStructs[battler].isFirstTurn = 2;
 
@@ -5061,6 +5064,9 @@ static void TurnValuesCleanUp(bool8 var0)
             gProtectStructs[i].quash = FALSE;
             gProtectStructs[i].usedCustapBerry = FALSE;
             gProtectStructs[i].quickDraw = FALSE;
+        #ifdef ROGUE_DRAYANO
+            gProtectStructs[i].sheltered = FALSE;
+        #endif
         }
         else
         {

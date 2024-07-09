@@ -1,0 +1,598 @@
+{
+    "Species": "SPECIES_TORNADUS_THERIAN",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_GUST",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_ASTONISH",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_LEER",
+            "Level": 5
+        },
+        {
+            "Move": "MOVE_SWAGGER",
+            "Level": 10
+        },
+        {
+            "Move": "MOVE_BITE",
+            "Level": 15
+        },
+        {
+            "Move": "MOVE_AIR_CUTTER",
+            "Level": 20
+        },
+        {
+            "Move": "MOVE_AGILITY",
+            "Level": 25
+        },
+        {
+            "Move": "MOVE_TAILWIND",
+            "Level": 30
+        },
+        {
+            "Move": "MOVE_AIR_SLASH",
+            "Level": 35
+        },
+        {
+            "Move": "MOVE_CRUNCH",
+            "Level": 40
+        },
+        {
+            "Move": "MOVE_EXTRASENSORY",
+            "Level": 45
+        },
+        {
+            "Move": "MOVE_UPROAR",
+            "Level": 50
+        },
+        {
+            "Move": "MOVE_HAMMER_ARM",
+            "Level": 55
+        },
+        {
+            "Move": "MOVE_RAIN_DANCE",
+            "Level": 60
+        },
+        {
+            "Move": "MOVE_HURRICANE",
+            "Level": 65
+        },
+        {
+            "Move": "MOVE_THRASH",
+            "Level": 70
+        },
+        {
+            "Move": "MOVE_BLEAKWIND_STORM",
+            "Level": 77
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_SUPERPOWER",
+        "MOVE_SLUDGE_WAVE",
+        "MOVE_DARK_PULSE",
+        "MOVE_FLING",
+        "MOVE_LASH_OUT",
+        "MOVE_GRASS_KNOT",
+        "MOVE_CHILLING_WATER",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_KNOCK_OFF",
+        "MOVE_PROTECT",
+        "MOVE_THIEF",
+        "MOVE_TAKE_DOWN",
+        "MOVE_DEFOG",
+        "MOVE_HYPER_BEAM",
+        "MOVE_SUBSTITUTE",
+        "MOVE_METRONOME",
+        "MOVE_SUNNY_DAY",
+        "MOVE_BRICK_BREAK",
+        "MOVE_FACADE",
+        "MOVE_ACROBATICS",
+        "MOVE_ICY_WIND",
+        "MOVE_REVERSAL",
+        "MOVE_SLEEP_TALK",
+        "MOVE_PSYCHIC",
+        "MOVE_FLY",
+        "MOVE_SLUDGE_BOMB",
+        "MOVE_REST",
+        "MOVE_GIGA_IMPACT",
+        "MOVE_HEAT_WAVE",
+        "MOVE_NASTY_PLOT",
+        "MOVE_TERA_BLAST",
+        "MOVE_ENDURE",
+        "MOVE_FOCUS_BLAST",
+        "MOVE_FOUL_PLAY",
+        "MOVE_SCARY_FACE",
+        "MOVE_SMACK_DOWN",
+        "MOVE_SNOWSCAPE",
+        "MOVE_BULK_UP",
+        "MOVE_SANDSTORM",
+        "MOVE_U_TURN",
+        "MOVE_TAUNT",
+        "MOVE_WEATHER_BALL",
+        "MOVE_BODY_SLAM"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_HURRICANE",
+                "MOVE_HEAT_WAVE",
+                "MOVE_KNOCK_OFF",
+                "MOVE_U_TURN"
+            ],
+            "Ability": "ABILITY_REGENERATOR",
+            "Item": "ITEM_ASSAULT_VEST",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Assault Vest Pivot",
+            "SourceTiers": [
+                "GEN6OU",
+                "GEN9MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_HURRICANE",
+                "MOVE_SUPERPOWER",
+                "MOVE_TAUNT",
+                "MOVE_KNOCK_OFF"
+            ],
+            "Ability": "ABILITY_REGENERATOR",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_NAIVE",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Offensive Wallbreaker",
+            "SourceTiers": [
+                "GEN6OU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_U_TURN",
+                "MOVE_HURRICANE",
+                "MOVE_KNOCK_OFF",
+                "MOVE_HEAT_WAVE"
+            ],
+            "Ability": "ABILITY_REGENERATOR",
+            "Item": "ITEM_ASSAULT_VEST",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6OU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_HURRICANE",
+                "MOVE_U_TURN",
+                "MOVE_KNOCK_OFF",
+                "MOVE_HEAT_WAVE"
+            ],
+            "Ability": "ABILITY_REGENERATOR",
+            "Item": "ITEM_ASSAULT_VEST",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Assault Vest Pivot (Flying)",
+            "SourceTiers": [
+                "GEN6MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_HURRICANE",
+                "MOVE_KNOCK_OFF",
+                "MOVE_U_TURN",
+                "MOVE_DEFOG"
+            ],
+            "Ability": "ABILITY_REGENERATOR",
+            "Item": "ITEM_ROCKY_HELMET",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Bulky Pivot",
+            "SourceTiers": [
+                "GEN7OU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_HURRICANE",
+                "MOVE_KNOCK_OFF",
+                "MOVE_U_TURN",
+                "MOVE_DEFOG"
+            ],
+            "Ability": "ABILITY_REGENERATOR",
+            "Item": "ITEM_FLYINIUM_Z",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Offensive Z-Move",
+            "SourceTiers": [
+                "GEN7OU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_HURRICANE",
+                "MOVE_U_TURN",
+                "MOVE_DEFOG",
+                "MOVE_KNOCK_OFF"
+            ],
+            "Ability": "ABILITY_REGENERATOR",
+            "Item": "ITEM_ROCKY_HELMET",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7OU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_HURRICANE",
+                "MOVE_U_TURN",
+                "MOVE_KNOCK_OFF",
+                "MOVE_DEFOG"
+            ],
+            "Ability": "ABILITY_REGENERATOR",
+            "Item": "ITEM_FLYINIUM_Z",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Offensive Utility",
+            "SourceTiers": [
+                "GEN7MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_HURRICANE",
+                "MOVE_KNOCK_OFF",
+                "MOVE_U_TURN",
+                "MOVE_DEFOG"
+            ],
+            "Ability": "ABILITY_REGENERATOR",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Utility",
+            "SourceTiers": [
+                "GEN8OU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_HURRICANE",
+                "MOVE_FOCUS_BLAST",
+                "MOVE_HEAT_WAVE",
+                "MOVE_NASTY_PLOT"
+            ],
+            "Ability": "ABILITY_REGENERATOR",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Nasty Plot",
+            "SourceTiers": [
+                "GEN8OU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_HURRICANE",
+                "MOVE_KNOCK_OFF",
+                "MOVE_U_TURN",
+                "MOVE_HEAT_WAVE"
+            ],
+            "Ability": "ABILITY_REGENERATOR",
+            "Item": "ITEM_ASSAULT_VEST",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Assault Vest",
+            "SourceTiers": [
+                "GEN8OU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_U_TURN",
+                "MOVE_KNOCK_OFF",
+                "MOVE_HURRICANE",
+                "MOVE_DEFOG"
+            ],
+            "Ability": "ABILITY_REGENERATOR",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8OU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_U_TURN",
+                "MOVE_HURRICANE",
+                "MOVE_KNOCK_OFF",
+                "MOVE_TAUNT"
+            ],
+            "Ability": "ABILITY_REGENERATOR",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Pivot",
+            "SourceTiers": [
+                "GEN8MONOTYPE",
+                "GEN8NATIONALDEXMONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_NASTY_PLOT",
+                "MOVE_HURRICANE",
+                "MOVE_HEAT_WAVE",
+                "MOVE_KNOCK_OFF"
+            ],
+            "Ability": "ABILITY_REGENERATOR",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Nasty Plot (Flying)",
+            "SourceTiers": [
+                "GEN8MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_GRASS_KNOT",
+                "MOVE_HEAT_WAVE",
+                "MOVE_KNOCK_OFF",
+                "MOVE_U_TURN"
+            ],
+            "Ability": "ABILITY_REGENERATOR",
+            "Item": "ITEM_ASSAULT_VEST",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Assault Vest (Flying)",
+            "SourceTiers": [
+                "GEN8MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_NASTY_PLOT",
+                "MOVE_HURRICANE",
+                "MOVE_FOCUS_BLAST",
+                "MOVE_KNOCK_OFF"
+            ],
+            "Ability": "ABILITY_REGENERATOR",
+            "Item": "ITEM_FLYINIUM_Z",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Nasty Plot",
+            "SourceTiers": [
+                "GEN8NATIONALDEXMONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_U_TURN",
+                "MOVE_HURRICANE",
+                "MOVE_KNOCK_OFF",
+                "MOVE_DEFOG"
+            ],
+            "Ability": "ABILITY_REGENERATOR",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8NATIONALDEXMONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_BLEAKWIND_STORM",
+                "MOVE_U_TURN",
+                "MOVE_KNOCK_OFF",
+                "MOVE_HEAT_WAVE"
+            ],
+            "Ability": "ABILITY_REGENERATOR",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": "TYPE_STEEL",
+            "Name": "Pivot",
+            "SourceTiers": [
+                "GEN9OU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_U_TURN",
+                "MOVE_BLEAKWIND_STORM",
+                "MOVE_KNOCK_OFF",
+                "MOVE_HEAT_WAVE"
+            ],
+            "Ability": "ABILITY_REGENERATOR",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN9OU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_BLEAKWIND_STORM",
+                "MOVE_HEAT_WAVE",
+                "MOVE_KNOCK_OFF",
+                "MOVE_U_TURN"
+            ],
+            "Ability": "ABILITY_REGENERATOR",
+            "Item": "ITEM_ASSAULT_VEST",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": "TYPE_STEEL",
+            "Name": "Pivot",
+            "SourceTiers": [
+                "GEN9UU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_NASTY_PLOT",
+                "MOVE_HURRICANE",
+                "MOVE_HEAT_WAVE",
+                "MOVE_FOCUS_BLAST"
+            ],
+            "Ability": "ABILITY_REGENERATOR",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": "TYPE_ELECTRIC",
+            "Name": "Nasty Plot",
+            "SourceTiers": [
+                "GEN9UU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_U_TURN",
+                "MOVE_KNOCK_OFF",
+                "MOVE_BLEAKWIND_STORM",
+                "MOVE_HEAT_WAVE"
+            ],
+            "Ability": "ABILITY_REGENERATOR",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN9UU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_HURRICANE",
+                "MOVE_KNOCK_OFF",
+                "MOVE_DEFOG",
+                "MOVE_U_TURN"
+            ],
+            "Ability": "ABILITY_REGENERATOR",
+            "Item": "ITEM_FLYINIUM_Z",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": "TYPE_STEEL",
+            "Name": "Utility",
+            "SourceTiers": [
+                "GEN9NATIONALDEX"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_NASTY_PLOT",
+                "MOVE_HURRICANE",
+                "MOVE_FOCUS_BLAST",
+                "MOVE_TAUNT"
+            ],
+            "Ability": "ABILITY_REGENERATOR",
+            "Item": "ITEM_FLYINIUM_Z",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": "TYPE_FLYING",
+            "Name": "Nasty Plot",
+            "SourceTiers": [
+                "GEN9NATIONALDEX"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_HURRICANE",
+                "MOVE_U_TURN",
+                "MOVE_KNOCK_OFF",
+                "MOVE_HEAT_WAVE"
+            ],
+            "Ability": "ABILITY_REGENERATOR",
+            "Item": "ITEM_ASSAULT_VEST",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": "TYPE_STEEL",
+            "Name": "Assault Vest",
+            "SourceTiers": [
+                "GEN9NATIONALDEX"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_U_TURN",
+                "MOVE_DEFOG",
+                "MOVE_KNOCK_OFF",
+                "MOVE_HURRICANE"
+            ],
+            "Ability": "ABILITY_REGENERATOR",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN9NATIONALDEX"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_NASTY_PLOT",
+                "MOVE_BLEAKWIND_STORM",
+                "MOVE_FOCUS_BLAST",
+                "MOVE_HEAT_WAVE"
+            ],
+            "Ability": "ABILITY_REGENERATOR",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Nasty Plot",
+            "SourceTiers": [
+                "GEN9MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_NASTY_PLOT",
+                "MOVE_HURRICANE",
+                "MOVE_FOCUS_BLAST",
+                "MOVE_TAUNT"
+            ],
+            "Ability": "ABILITY_REGENERATOR",
+            "Item": "ITEM_FLYINIUM_Z",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Nasty Plot Wallbreaker",
+            "SourceTiers": [
+                "GEN9NATIONALDEXMONOTYPE"
+            ]
+        }
+    ]
+}

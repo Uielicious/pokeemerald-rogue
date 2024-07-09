@@ -1,0 +1,282 @@
+{
+    "Species": "SPECIES_VIVILLON",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_GUST",
+            "Level": 0
+        },
+        {
+            "Move": "MOVE_POISON_POWDER",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_STUN_SPORE",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_SLEEP_POWDER",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_STRUGGLE_BUG",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_LIGHT_SCREEN",
+            "Level": 12
+        },
+        {
+            "Move": "MOVE_PSYBEAM",
+            "Level": 17
+        },
+        {
+            "Move": "MOVE_SUPERSONIC",
+            "Level": 21
+        },
+        {
+            "Move": "MOVE_DRAINING_KISS",
+            "Level": 25
+        },
+        {
+            "Move": "MOVE_SAFEGUARD",
+            "Level": 31
+        },
+        {
+            "Move": "MOVE_BUG_BUZZ",
+            "Level": 35
+        },
+        {
+            "Move": "MOVE_QUIVER_DANCE",
+            "Level": 45
+        },
+        {
+            "Move": "MOVE_HURRICANE",
+            "Level": 50
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_AIR_CUTTER",
+        "MOVE_GIGA_DRAIN",
+        "MOVE_SOLAR_BEAM",
+        "MOVE_SKITTER_SMACK",
+        "MOVE_POLLEN_PUFF",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_PROTECT",
+        "MOVE_THIEF",
+        "MOVE_IRON_DEFENSE",
+        "MOVE_HYPER_BEAM",
+        "MOVE_SUBSTITUTE",
+        "MOVE_SUNNY_DAY",
+        "MOVE_FACADE",
+        "MOVE_TAILWIND",
+        "MOVE_DUAL_WINGBEAT",
+        "MOVE_AIR_SLASH",
+        "MOVE_ACROBATICS",
+        "MOVE_BUG_BITE",
+        "MOVE_SWIFT",
+        "MOVE_SLEEP_TALK",
+        "MOVE_ENERGY_BALL",
+        "MOVE_PSYCHIC",
+        "MOVE_FLY",
+        "MOVE_CONFUSE_RAY",
+        "MOVE_GIGA_IMPACT",
+        "MOVE_TERA_BLAST",
+        "MOVE_ENDURE",
+        "MOVE_POUNCE",
+        "MOVE_RAIN_DANCE",
+        "MOVE_U_TURN",
+        "MOVE_WEATHER_BALL",
+        "MOVE_REST"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_QUIVER_DANCE",
+                "MOVE_HURRICANE",
+                "MOVE_ENERGY_BALL",
+                "MOVE_SLEEP_POWDER"
+            ],
+            "Ability": "ABILITY_COMPOUND_EYES",
+            "Item": "ITEM_FOCUS_SASH",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Quiver Dance",
+            "SourceTiers": [
+                "GEN6RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_QUIVER_DANCE",
+                "MOVE_HURRICANE",
+                "MOVE_SLEEP_POWDER",
+                "MOVE_BUG_BUZZ"
+            ],
+            "Ability": "ABILITY_COMPOUND_EYES",
+            "Item": "ITEM_FOCUS_SASH",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6RU",
+                "GEN6NU",
+                "GEN6MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_QUIVER_DANCE",
+                "MOVE_HURRICANE",
+                "MOVE_SLEEP_POWDER",
+                "MOVE_ENERGY_BALL"
+            ],
+            "Ability": "ABILITY_COMPOUND_EYES",
+            "Item": "ITEM_FOCUS_SASH",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Quiver Dance",
+            "SourceTiers": [
+                "GEN6NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SUBSTITUTE",
+                "MOVE_SLEEP_POWDER",
+                "MOVE_QUIVER_DANCE",
+                "MOVE_HURRICANE"
+            ],
+            "Ability": "ABILITY_COMPOUND_EYES",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Substitute + Quiver Dance",
+            "SourceTiers": [
+                "GEN6NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_QUIVER_DANCE",
+                "MOVE_SLEEP_POWDER",
+                "MOVE_HURRICANE",
+                "MOVE_SUBSTITUTE"
+            ],
+            "Ability": "ABILITY_COMPOUND_EYES",
+            "Item": "ITEM_FLYINIUM_Z",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Quiver Dance",
+            "SourceTiers": [
+                "GEN7RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_QUIVER_DANCE",
+                "MOVE_HURRICANE",
+                "MOVE_ENERGY_BALL",
+                "MOVE_SLEEP_POWDER"
+            ],
+            "Ability": "ABILITY_COMPOUND_EYES",
+            "Item": "ITEM_FLYINIUM_Z",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Quiver Dance",
+            "SourceTiers": [
+                "GEN7NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_QUIVER_DANCE",
+                "MOVE_HURRICANE",
+                "MOVE_SLEEP_POWDER",
+                "MOVE_BUG_BUZZ"
+            ],
+            "Ability": "ABILITY_COMPOUND_EYES",
+            "Item": "ITEM_FOCUS_SASH",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SLEEP_POWDER",
+                "MOVE_SUBSTITUTE",
+                "MOVE_HURRICANE",
+                "MOVE_QUIVER_DANCE"
+            ],
+            "Ability": "ABILITY_COMPOUND_EYES",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Sleep Powder",
+            "SourceTiers": [
+                "GEN71V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SLEEP_POWDER",
+                "MOVE_SUBSTITUTE",
+                "MOVE_QUIVER_DANCE",
+                "MOVE_HURRICANE"
+            ],
+            "Ability": "ABILITY_COMPOUND_EYES",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "The Butterfly Effect (Quiver Dance)",
+            "SourceTiers": [
+                "GEN7ANYTHINGGOES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SLEEP_POWDER",
+                "MOVE_HURRICANE",
+                "MOVE_QUIVER_DANCE",
+                "MOVE_SUBSTITUTE"
+            ],
+            "Ability": "ABILITY_COMPOUND_EYES",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_NAIVE",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7ANYTHINGGOES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SLEEP_POWDER",
+                "MOVE_QUIVER_DANCE",
+                "MOVE_HURRICANE",
+                "MOVE_BUG_BUZZ"
+            ],
+            "Ability": "ABILITY_COMPOUND_EYES",
+            "Item": "ITEM_FOCUS_SASH",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN9NATIONALDEXMONOTYPE"
+            ]
+        }
+    ]
+}

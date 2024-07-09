@@ -1,0 +1,324 @@
+{
+    "Species": "SPECIES_CLAYDOL",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_HYPER_BEAM",
+            "Level": "0"
+        },
+        {
+            "Move": "MOVE_HYPER_BEAM",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_TELEPORT",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_HARDEN",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_CONFUSION",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_RAPID_SPIN",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_RAPID_SPIN",
+            "Level": "4"
+        },
+        {
+            "Move": "MOVE_MUD_SLAP",
+            "Level": "7"
+        },
+        {
+            "Move": "MOVE_HEAL_BLOCK",
+            "Level": "10"
+        },
+        {
+            "Move": "MOVE_ROCK_TOMB",
+            "Level": "13"
+        },
+        {
+            "Move": "MOVE_PSYBEAM",
+            "Level": "16"
+        },
+        {
+            "Move": "MOVE_ANCIENT_POWER",
+            "Level": "19"
+        },
+        {
+            "Move": "MOVE_COSMIC_POWER",
+            "Level": "22"
+        },
+        {
+            "Move": "MOVE_POWER_TRICK",
+            "Level": "25"
+        },
+        {
+            "Move": "MOVE_SELF_DESTRUCT",
+            "Level": "28"
+        },
+        {
+            "Move": "MOVE_EXTRASENSORY",
+            "Level": "31"
+        },
+        {
+            "Move": "MOVE_GUARD_SPLIT",
+            "Level": "34"
+        },
+        {
+            "Move": "MOVE_POWER_SPLIT",
+            "Level": "34"
+        },
+        {
+            "Move": "MOVE_RECOVER",
+            "Level": "38"
+        },
+        {
+            "Move": "MOVE_EARTH_POWER",
+            "Level": "42"
+        },
+        {
+            "Move": "MOVE_SANDSTORM",
+            "Level": "46"
+        },
+        {
+            "Move": "MOVE_IMPRISON",
+            "Level": "52"
+        },
+        {
+            "Move": "MOVE_EXPLOSION",
+            "Level": "58"
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_ICE_BEAM",
+        "MOVE_SOLAR_BEAM",
+        "MOVE_REFLECT",
+        "MOVE_FUTURE_SIGHT",
+        "MOVE_GRASS_KNOT",
+        "MOVE_ZEN_HEADBUTT",
+        "MOVE_DRILL_RUN",
+        "MOVE_EERIE_IMPULSE",
+        "MOVE_BULLDOZE",
+        "MOVE_LIGHT_SCREEN",
+        "MOVE_STONE_EDGE",
+        "MOVE_PROTECT",
+        "MOVE_SKILL_SWAP",
+        "MOVE_IRON_DEFENSE",
+        "MOVE_PSYSHOCK",
+        "MOVE_CALM_MIND",
+        "MOVE_SUBSTITUTE",
+        "MOVE_SCORCHING_SANDS",
+        "MOVE_SUNNY_DAY",
+        "MOVE_FACADE",
+        "MOVE_TRICK",
+        "MOVE_EXPANDING_FORCE",
+        "MOVE_ALLY_SWITCH",
+        "MOVE_SHADOW_BALL",
+        "MOVE_SAFEGUARD",
+        "MOVE_STEALTH_ROCK",
+        "MOVE_SAND_TOMB",
+        "MOVE_SLEEP_TALK",
+        "MOVE_STORED_POWER",
+        "MOVE_PSYCHIC",
+        "MOVE_FLY",
+        "MOVE_GIGA_IMPACT",
+        "MOVE_DIG",
+        "MOVE_EARTHQUAKE",
+        "MOVE_POWER_GEM",
+        "MOVE_HEX",
+        "MOVE_NASTY_PLOT",
+        "MOVE_ENDURE",
+        "MOVE_DAZZLING_GLEAM",
+        "MOVE_GUARD_SWAP",
+        "MOVE_TRI_ATTACK",
+        "MOVE_ROUND",
+        "MOVE_GYRO_BALL",
+        "MOVE_POWER_SWAP",
+        "MOVE_PSYCHIC_TERRAIN",
+        "MOVE_SNORE",
+        "MOVE_RAIN_DANCE",
+        "MOVE_ROCK_SLIDE",
+        "MOVE_TRICK_ROOM",
+        "MOVE_WONDER_ROOM",
+        "MOVE_BODY_PRESS",
+        "MOVE_REST"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_RAPID_SPIN",
+                "MOVE_STEALTH_ROCK",
+                "MOVE_EARTH_POWER",
+                "MOVE_SUBSTITUTE"
+            ],
+            "Ability": "ABILITY_LEVITATE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_CALM",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6RU",
+                "GEN8PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_RAPID_SPIN",
+                "MOVE_EARTH_POWER",
+                "MOVE_SHADOW_BALL",
+                "MOVE_PSYSHOCK"
+            ],
+            "Ability": "ABILITY_LEVITATE",
+            "Item": "ITEM_COLBUR_BERRY",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Offensive Spinner",
+            "SourceTiers": [
+                "GEN6NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_RAPID_SPIN",
+                "MOVE_EARTH_POWER",
+                "MOVE_STEALTH_ROCK",
+                "MOVE_PSYCHIC"
+            ],
+            "Ability": "ABILITY_LEVITATE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_CALM",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_RAPID_SPIN",
+                "MOVE_STEALTH_ROCK",
+                "MOVE_EARTH_POWER",
+                "MOVE_PSYCHIC"
+            ],
+            "Ability": "ABILITY_LEVITATE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_CALM",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_RAPID_SPIN",
+                "MOVE_STEALTH_ROCK",
+                "MOVE_PSYCHIC",
+                "MOVE_EARTH_POWER"
+            ],
+            "Ability": "ABILITY_LEVITATE",
+            "Item": "ITEM_COLBUR_BERRY",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Rapid Spin",
+            "SourceTiers": [
+                "GEN7PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_RAPID_SPIN",
+                "MOVE_STEALTH_ROCK",
+                "MOVE_EARTH_POWER",
+                "MOVE_PSYCHIC"
+            ],
+            "Ability": "ABILITY_LEVITATE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_STEALTH_ROCK",
+                "MOVE_RAPID_SPIN",
+                "MOVE_SUBSTITUTE",
+                "MOVE_EARTH_POWER"
+            ],
+            "Ability": "ABILITY_LEVITATE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_CALM",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_STEALTH_ROCK",
+                "MOVE_SUBSTITUTE",
+                "MOVE_PSYCHIC",
+                "MOVE_TELEPORT"
+            ],
+            "Ability": "ABILITY_LEVITATE",
+            "Item": "ITEM_COLBUR_BERRY",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Defensive",
+            "SourceTiers": [
+                "GEN8PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_CALM_MIND",
+                "MOVE_RECOVER",
+                "MOVE_EARTH_POWER",
+                "MOVE_PSYCHIC"
+            ],
+            "Item": "ITEM_LEFTOVERS",
+            "Ability": "ABILITY_LEVITATE",
+            "HiddenPower": null,
+            "SourceTiers": [
+                "GEN7PU"
+            ],
+            "Name": "Calm Mind + Recover",
+            "Nature": "NATURE_HARDY",
+            "TeraType": null
+        },
+        {
+            "Moves": [
+                "MOVE_TELEPORT",
+                "MOVE_SCORCHING_SANDS",
+                "MOVE_RECOVER",
+                "MOVE_POWER_GEM"
+            ],
+            "Item": "ITEM_LEFTOVERS",
+            "Ability": "ABILITY_LEVITATE",
+            "HiddenPower": null,
+            "SourceTiers": [
+                "GEN7PU"
+            ],
+            "Name": "Scorching Sands Pivot",
+            "Nature": "NATURE_HARDY",
+            "TeraType": null
+        }
+    ]
+}

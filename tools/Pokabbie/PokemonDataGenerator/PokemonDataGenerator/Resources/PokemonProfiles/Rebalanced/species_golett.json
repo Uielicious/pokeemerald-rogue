@@ -1,0 +1,196 @@
+{
+    "Species": "SPECIES_GOLETT",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_POUND",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_ASTONISH",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_DEFENSE_CURL",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_MUD_SLAP",
+            "Level": "5"
+        },
+        {
+            "Move": "MOVE_ROLLOUT",
+            "Level": "9"
+        },
+        {
+            "Move": "MOVE_SHADOW_SNEAK",
+            "Level": "13"
+        },
+        {
+            "Move": "MOVE_IRON_DEFENSE",
+            "Level": "17"
+        },
+        {
+            "Move": "MOVE_STOMPING_TANTRUM",
+            "Level": "21"
+        },
+        {
+            "Move": "MOVE_MEGA_PUNCH",
+            "Level": "25"
+        },
+        {
+            "Move": "MOVE_MAGNITUDE",
+            "Level": "30"
+        },
+        {
+            "Move": "MOVE_DYNAMIC_PUNCH",
+            "Level": "35"
+        },
+        {
+            "Move": "MOVE_NIGHT_SHADE",
+            "Level": "40"
+        },
+        {
+            "Move": "MOVE_CURSE",
+            "Level": "45"
+        },
+        {
+            "Move": "MOVE_SHADOW_PUNCH",
+            "Level": "47"
+        },
+        {
+            "Move": "MOVE_EARTHQUAKE",
+            "Level": "50"
+        },
+        {
+            "Move": "MOVE_HAMMER_ARM",
+            "Level": "55"
+        },
+        {
+            "Move": "MOVE_FOCUS_PUNCH",
+            "Level": "61"
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_ICE_BEAM",
+        "MOVE_HELPING_HAND",
+        "MOVE_THUNDER_PUNCH",
+        "MOVE_FLING",
+        "MOVE_REFLECT",
+        "MOVE_GRASS_KNOT",
+        "MOVE_ROCK_TOMB",
+        "MOVE_EARTH_POWER",
+        "MOVE_BULLDOZE",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_POLTERGEIST",
+        "MOVE_KNOCK_OFF",
+        "MOVE_PROTECT",
+        "MOVE_STONE_EDGE",
+        "MOVE_THIEF",
+        "MOVE_DOUBLE_EDGE",
+        "MOVE_TAKE_DOWN",
+        "MOVE_SUBSTITUTE",
+        "MOVE_SCORCHING_SANDS",
+        "MOVE_SUNNY_DAY",
+        "MOVE_BRICK_BREAK",
+        "MOVE_FACADE",
+        "MOVE_PHANTOM_FORCE",
+        "MOVE_SHADOW_BALL",
+        "MOVE_ICY_WIND",
+        "MOVE_IMPRISON",
+        "MOVE_STEALTH_ROCK",
+        "MOVE_SLEEP_TALK",
+        "MOVE_PSYCHIC",
+        "MOVE_REST",
+        "MOVE_CONFUSE_RAY",
+        "MOVE_DIG",
+        "MOVE_HEX",
+        "MOVE_ICE_PUNCH",
+        "MOVE_TERA_BLAST",
+        "MOVE_ENDURE",
+        "MOVE_FOCUS_BLAST",
+        "MOVE_LOW_SWEEP",
+        "MOVE_HEAVY_SLAM",
+        "MOVE_FIRE_PUNCH",
+        "MOVE_LOW_KICK",
+        "MOVE_GYRO_BALL",
+        "MOVE_SMACK_DOWN",
+        "MOVE_RAIN_DANCE",
+        "MOVE_ROCK_SLIDE",
+        "MOVE_DRAIN_PUNCH",
+        "MOVE_GRAVITY",
+        "MOVE_SANDSTORM",
+        "MOVE_PSYCH_UP",
+        "MOVE_BODY_SLAM"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_DRAIN_PUNCH",
+                "MOVE_EARTHQUAKE",
+                "MOVE_STEALTH_ROCK",
+                "MOVE_SHADOW_PUNCH"
+            ],
+            "Ability": "ABILITY_IRON_FIST",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Tank",
+            "SourceTiers": [
+                "GEN6LC",
+                "GEN7LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_EARTHQUAKE",
+                "MOVE_DRAIN_PUNCH",
+                "MOVE_ICE_PUNCH",
+                "MOVE_STEALTH_ROCK"
+            ],
+            "Ability": "ABILITY_IRON_FIST",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_POLTERGEIST",
+                "MOVE_EARTHQUAKE",
+                "MOVE_DYNAMIC_PUNCH",
+                "MOVE_ROCK_SLIDE"
+            ],
+            "Ability": "ABILITY_NO_GUARD",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Scarf",
+            "SourceTiers": [
+                "GEN8LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_EARTHQUAKE",
+                "MOVE_POLTERGEIST",
+                "MOVE_DYNAMIC_PUNCH",
+                "MOVE_ROCK_SLIDE"
+            ],
+            "Ability": "ABILITY_NO_GUARD",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8LC"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,302 @@
+{
+    "Species": "SPECIES_SNUBBULL",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_ICE_FANG",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_FIRE_FANG",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_THUNDER_FANG",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_TACKLE",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_SCARY_FACE",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_TAIL_WHIP",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_CHARM",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_BITE",
+            "Level": "5"
+        },
+        {
+            "Move": "MOVE_LICK",
+            "Level": "9"
+        },
+        {
+            "Move": "MOVE_COVET",
+            "Level": "13"
+        },
+        {
+            "Move": "MOVE_HEADBUTT",
+            "Level": "17"
+        },
+        {
+            "Move": "MOVE_DOUBLE_KICK",
+            "Level": "21"
+        },
+        {
+            "Move": "MOVE_ROAR",
+            "Level": "25"
+        },
+        {
+            "Move": "MOVE_RAGE",
+            "Level": "29"
+        },
+        {
+            "Move": "MOVE_DYNAMIC_PUNCH",
+            "Level": "33"
+        },
+        {
+            "Move": "MOVE_PLAY_ROUGH",
+            "Level": "37"
+        },
+        {
+            "Move": "MOVE_PAYBACK",
+            "Level": "41"
+        },
+        {
+            "Move": "MOVE_CRUNCH",
+            "Level": "45"
+        },
+        {
+            "Move": "MOVE_SUPER_FANG",
+            "Level": "49"
+        },
+        {
+            "Move": "MOVE_CLOSE_COMBAT",
+            "Level": "53"
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_THUNDER_PUNCH",
+        "MOVE_HELPING_HAND",
+        "MOVE_FLING",
+        "MOVE_SOLAR_BEAM",
+        "MOVE_LASH_OUT",
+        "MOVE_PSYCHIC_FANGS",
+        "MOVE_TEMPER_FLARE",
+        "MOVE_OVERHEAT",
+        "MOVE_BULLDOZE",
+        "MOVE_MIMIC",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_PROTECT",
+        "MOVE_THIEF",
+        "MOVE_DOUBLE_EDGE",
+        "MOVE_TAKE_DOWN",
+        "MOVE_SUBSTITUTE",
+        "MOVE_UPROAR",
+        "MOVE_SUNNY_DAY",
+        "MOVE_BRICK_BREAK",
+        "MOVE_FACADE",
+        "MOVE_STOMPING_TANTRUM",
+        "MOVE_METRONOME",
+        "MOVE_ENDEAVOR",
+        "MOVE_SHADOW_BALL",
+        "MOVE_REVERSAL",
+        "MOVE_SLEEP_TALK",
+        "MOVE_TRAILBLAZE",
+        "MOVE_MUD_SLAP",
+        "MOVE_SLUDGE_BOMB",
+        "MOVE_WILD_CHARGE",
+        "MOVE_REST",
+        "MOVE_ENCORE",
+        "MOVE_THUNDERBOLT",
+        "MOVE_DIG",
+        "MOVE_HYPER_VOICE",
+        "MOVE_FAKE_TEARS",
+        "MOVE_EARTHQUAKE",
+        "MOVE_SNARL",
+        "MOVE_TERA_BLAST",
+        "MOVE_WATER_PULSE",
+        "MOVE_ENDURE",
+        "MOVE_ICE_PUNCH",
+        "MOVE_CURSE",
+        "MOVE_SPITE",
+        "MOVE_COUNTER",
+        "MOVE_DAZZLING_GLEAM",
+        "MOVE_THUNDER",
+        "MOVE_PRESENT",
+        "MOVE_FIRE_PUNCH",
+        "MOVE_LOW_KICK",
+        "MOVE_THUNDER_WAVE",
+        "MOVE_SNORE",
+        "MOVE_RAIN_DANCE",
+        "MOVE_BULK_UP",
+        "MOVE_RETALIATE",
+        "MOVE_FLAMETHROWER",
+        "MOVE_FIRE_BLAST",
+        "MOVE_TAUNT",
+        "MOVE_FOCUS_PUNCH",
+        "MOVE_BODY_SLAM"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_PLAY_ROUGH",
+                "MOVE_THUNDER_WAVE",
+                "MOVE_FIRE_PUNCH",
+                "MOVE_THIEF"
+            ],
+            "Ability": "ABILITY_INTIMIDATE",
+            "Item": "ITEM_BERRY_JUICE",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Berry Juice",
+            "SourceTiers": [
+                "GEN6LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_PLAY_ROUGH",
+                "MOVE_THUNDER_WAVE",
+                "MOVE_FIRE_PUNCH",
+                "MOVE_THIEF"
+            ],
+            "Ability": "ABILITY_INTIMIDATE",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Bulky Eviolite",
+            "SourceTiers": [
+                "GEN6LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_PLAY_ROUGH",
+                "MOVE_CLOSE_COMBAT",
+                "MOVE_FIRE_PUNCH",
+                "MOVE_THUNDER_WAVE"
+            ],
+            "Ability": "ABILITY_INTIMIDATE",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Offensive Eviolite",
+            "SourceTiers": [
+                "GEN6LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_PLAY_ROUGH",
+                "MOVE_EARTHQUAKE",
+                "MOVE_THIEF",
+                "MOVE_THUNDER_WAVE"
+            ],
+            "Ability": "ABILITY_INTIMIDATE",
+            "Item": "ITEM_BERRY_JUICE",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_PLAY_ROUGH",
+                "MOVE_CLOSE_COMBAT",
+                "MOVE_BULK_UP",
+                "MOVE_EARTHQUAKE"
+            ],
+            "Ability": "ABILITY_INTIMIDATE",
+            "Item": "ITEM_BERRY_JUICE",
+            "Nature": "NATURE_IMPISH",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Berry Juice",
+            "SourceTiers": [
+                "GEN7LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SUBSTITUTE",
+                "MOVE_PLAY_ROUGH",
+                "MOVE_CLOSE_COMBAT",
+                "MOVE_FIRE_PUNCH"
+            ],
+            "Ability": "ABILITY_INTIMIDATE",
+            "Item": "ITEM_BERRY_JUICE",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Sub Snub (Substitute)",
+            "SourceTiers": [
+                "GEN7LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_PLAY_ROUGH",
+                "MOVE_EARTHQUAKE",
+                "MOVE_CLOSE_COMBAT",
+                "MOVE_THIEF"
+            ],
+            "Ability": "ABILITY_INTIMIDATE",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Eviolite",
+            "SourceTiers": [
+                "GEN7LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_PLAY_ROUGH",
+                "MOVE_THIEF",
+                "MOVE_EARTHQUAKE",
+                "MOVE_FIRE_PUNCH"
+            ],
+            "Ability": "ABILITY_INTIMIDATE",
+            "Item": "ITEM_BERRY_JUICE",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_PLAY_ROUGH",
+                "MOVE_PSYCHIC_FANGS",
+                "MOVE_THUNDER_WAVE",
+                "MOVE_THIEF"
+            ],
+            "Ability": "ABILITY_INTIMIDATE",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": "TYPE_STEEL",
+            "Name": "Physically Defensive",
+            "SourceTiers": [
+                "GEN9LC"
+            ]
+        }
+    ]
+}

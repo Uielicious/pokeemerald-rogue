@@ -1,0 +1,53 @@
+{
+    "Species": "SPECIES_UNOWN",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_ANCIENT_POWER",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_COSMIC_POWER",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_EARTH_POWER",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_NATURE_POWER",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_SECRET_POWER",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_STORED_POWER",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_HIDDEN_POWER",
+            "Level": "1"
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_TERA_BLAST"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_HIDDEN_POWER"
+            ],
+            "Ability": "ABILITY_LEVITATE",
+            "Item": "ITEM_CHOICE_SPECS",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": "TYPE_PSYCHIC",
+            "TeraType": null,
+            "Name": "For Reasons Unown",
+            "SourceTiers": [
+                "GEN6PU",
+                "GEN7PU"
+            ]
+        }
+    ]
+}

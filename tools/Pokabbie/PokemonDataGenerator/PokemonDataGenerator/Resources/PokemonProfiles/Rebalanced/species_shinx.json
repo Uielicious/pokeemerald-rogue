@@ -1,0 +1,165 @@
+{
+    "Species": "SPECIES_SHINX",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_TACKLE",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_LEER",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_CHARGE",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_THUNDER_SHOCK",
+            "Level": "4"
+        },
+        {
+            "Move": "MOVE_BABY_DOLL_EYES",
+            "Level": "7"
+        },
+        {
+            "Move": "MOVE_NUZZLE",
+            "Level": "10"
+        },
+        {
+            "Move": "MOVE_SPARK",
+            "Level": "13"
+        },
+        {
+            "Move": "MOVE_BITE",
+            "Level": "16"
+        },
+        {
+            "Move": "MOVE_ROAR",
+            "Level": "19"
+        },
+        {
+            "Move": "MOVE_SWAGGER",
+            "Level": "23"
+        },
+        {
+            "Move": "MOVE_THUNDER_FANG",
+            "Level": "27"
+        },
+        {
+            "Move": "MOVE_CRUNCH",
+            "Level": "31"
+        },
+        {
+            "Move": "MOVE_SCARY_FACE",
+            "Level": "35"
+        },
+        {
+            "Move": "MOVE_DISCHARGE",
+            "Level": "39"
+        },
+        {
+            "Move": "MOVE_WILD_CHARGE",
+            "Level": "43"
+        },
+        {
+            "Move": "MOVE_PLAY_ROUGH",
+            "Level": "47"
+        },
+        {
+            "Move": "MOVE_VOLT_TACKLE",
+            "Level": "51"
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_DOUBLE_KICK",
+        "MOVE_HELPING_HAND",
+        "MOVE_FIRE_FANG",
+        "MOVE_PSYCHIC_FANGS",
+        "MOVE_EERIE_IMPULSE",
+        "MOVE_LIGHT_SCREEN",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_PROTECT",
+        "MOVE_THIEF",
+        "MOVE_DOUBLE_EDGE",
+        "MOVE_TAKE_DOWN",
+        "MOVE_SUBSTITUTE",
+        "MOVE_SUNNY_DAY",
+        "MOVE_FACADE",
+        "MOVE_SWIFT",
+        "MOVE_TRAILBLAZE",
+        "MOVE_SLEEP_TALK",
+        "MOVE_CONFUSE_RAY",
+        "MOVE_THUNDERBOLT",
+        "MOVE_FAKE_TEARS",
+        "MOVE_HOWL",
+        "MOVE_SNARL",
+        "MOVE_ELECTRIC_TERRAIN",
+        "MOVE_CHARGE_BEAM",
+        "MOVE_ELECTROWEB",
+        "MOVE_ENDURE",
+        "MOVE_TERA_BLAST",
+        "MOVE_SHOCK_WAVE",
+        "MOVE_ELECTRO_BALL",
+        "MOVE_QUICK_ATTACK",
+        "MOVE_THUNDER",
+        "MOVE_VOLT_SWITCH",
+        "MOVE_THUNDER_WAVE",
+        "MOVE_RAIN_DANCE",
+        "MOVE_ICE_FANG",
+        "MOVE_NIGHT_SLASH",
+        "MOVE_REST"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_WILD_CHARGE",
+                "MOVE_THIEF",
+                "MOVE_VOLT_SWITCH",
+                "MOVE_THUNDER_WAVE"
+            ],
+            "Ability": "ABILITY_INTIMIDATE",
+            "Item": "ITEM_BERRY_JUICE",
+            "Nature": "NATURE_RELAXED",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Intimidate Pivot",
+            "SourceTiers": [
+                "GEN6LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_VOLT_SWITCH",
+                "MOVE_VOLT_TACKLE",
+                "MOVE_THIEF",
+                "MOVE_FIRE_FANG"
+            ],
+            "Ability": "ABILITY_INTIMIDATE",
+            "Item": "ITEM_BERRY_JUICE",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Pivot",
+            "SourceTiers": [
+                "GEN7LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_VOLT_SWITCH",
+                "MOVE_VOLT_TACKLE",
+                "MOVE_NUZZLE",
+                "MOVE_ICE_FANG"
+            ],
+            "Item": "ITEM_EVIOLITE",
+            "Ability": "ABILITY_INTIMIDATE",
+            "HiddenPower": null,
+            "SourceTiers": [
+                "GEN7LC"
+            ],
+            "Name": "Pivot (Nuzzle + Ice Fang)",
+            "Nature": "NATURE_HARDY",
+            "TeraType": null
+        }
+    ]
+}

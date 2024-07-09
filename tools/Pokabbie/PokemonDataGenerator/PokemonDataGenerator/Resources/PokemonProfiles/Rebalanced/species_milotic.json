@@ -1,0 +1,691 @@
+{
+    "Species": "SPECIES_MILOTIC",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_DISARMING_VOICE",
+            "Level": "0"
+        },
+        {
+            "Move": "MOVE_DISARMING_VOICE",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_WRAP",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_WATER_GUN",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_WATER_SPORT",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_REFRESH",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_WATER_SPORT",
+            "Level": "4"
+        },
+        {
+            "Move": "MOVE_REFRESH",
+            "Level": "7"
+        },
+        {
+            "Move": "MOVE_TWISTER",
+            "Level": "11"
+        },
+        {
+            "Move": "MOVE_AQUA_RING",
+            "Level": "14"
+        },
+        {
+            "Move": "MOVE_CAPTIVATE",
+            "Level": "17"
+        },
+        {
+            "Move": "MOVE_WATER_PULSE",
+            "Level": "21"
+        },
+        {
+            "Move": "MOVE_DRAGON_TAIL",
+            "Level": "24"
+        },
+        {
+            "Move": "MOVE_RECOVER",
+            "Level": "27"
+        },
+        {
+            "Move": "MOVE_AQUA_TAIL",
+            "Level": "30"
+        },
+        {
+            "Move": "MOVE_ATTRACT",
+            "Level": "33"
+        },
+        {
+            "Move": "MOVE_SAFEGUARD",
+            "Level": "36"
+        },
+        {
+            "Move": "MOVE_COIL",
+            "Level": "40"
+        },
+        {
+            "Move": "MOVE_MOONBLAST",
+            "Level": "44"
+        },
+        {
+            "Move": "MOVE_HYDRO_PUMP",
+            "Level": "48"
+        },
+        {
+            "Move": "MOVE_RAIN_DANCE",
+            "Level": "52"
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_ICE_BEAM",
+        "MOVE_DRAGON_BREATH",
+        "MOVE_MIRROR_COAT",
+        "MOVE_HELPING_HAND",
+        "MOVE_DRAGON_CHEER",
+        "MOVE_HYPNOSIS",
+        "MOVE_SKITTER_SMACK",
+        "MOVE_IRON_HEAD",
+        "MOVE_CHILLING_WATER",
+        "MOVE_TOXIC",
+        "MOVE_BULLDOZE",
+        "MOVE_PSYCH_UP",
+        "MOVE_LIGHT_SCREEN",
+        "MOVE_WATERFALL",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_DRAGON_DANCE",
+        "MOVE_PROTECT",
+        "MOVE_DOUBLE_EDGE",
+        "MOVE_TAKE_DOWN",
+        "MOVE_HYPER_BEAM",
+        "MOVE_SUBSTITUTE",
+        "MOVE_FACADE",
+        "MOVE_WHIRLPOOL",
+        "MOVE_DRAGON_PULSE",
+        "MOVE_CONFIDE",
+        "MOVE_ICY_WIND",
+        "MOVE_SWIFT",
+        "MOVE_IMPRISON",
+        "MOVE_TRIPLE_AXEL",
+        "MOVE_SLEEP_TALK",
+        "MOVE_HAZE",
+        "MOVE_AVALANCHE",
+        "MOVE_CONFUSE_RAY",
+        "MOVE_REST",
+        "MOVE_DRAINING_KISS",
+        "MOVE_GIGA_IMPACT",
+        "MOVE_MUDDY_WATER",
+        "MOVE_BREAKING_SWIPE",
+        "MOVE_TERA_BLAST",
+        "MOVE_ENDURE",
+        "MOVE_MUD_SHOT",
+        "MOVE_DAZZLING_GLEAM",
+        "MOVE_BLIZZARD",
+        "MOVE_SURF",
+        "MOVE_SCALE_SHOT",
+        "MOVE_FLIP_TURN",
+        "MOVE_SCALD",
+        "MOVE_TICKLE",
+        "MOVE_MIST",
+        "MOVE_WEATHER_BALL",
+        "MOVE_BODY_SLAM"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_SCALD",
+                "MOVE_RECOVER",
+                "MOVE_ICE_BEAM",
+                "MOVE_HYPNOSIS"
+            ],
+            "Ability": "ABILITY_MARVEL_SCALE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6OU",
+                "GEN6UU",
+                "GEN8UU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SCALD",
+                "MOVE_ICE_BEAM",
+                "MOVE_HAZE",
+                "MOVE_RECOVER"
+            ],
+            "Ability": "ABILITY_MARVEL_SCALE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Defensive",
+            "SourceTiers": [
+                "GEN6UU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SCALD",
+                "MOVE_ICY_WIND",
+                "MOVE_RECOVER",
+                "MOVE_PROTECT"
+            ],
+            "Ability": "ABILITY_COMPETITIVE",
+            "Item": "ITEM_SITRUS_BERRY",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Defensive",
+            "SourceTiers": [
+                "GEN6DOUBLESOU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_HYDRO_PUMP",
+                "MOVE_ICE_BEAM",
+                "MOVE_RECOVER",
+                "MOVE_PROTECT"
+            ],
+            "Ability": "ABILITY_COMPETITIVE",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Offensive",
+            "SourceTiers": [
+                "GEN6DOUBLESOU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SCALD",
+                "MOVE_RECOVER",
+                "MOVE_ICE_BEAM",
+                "MOVE_PROTECT"
+            ],
+            "Ability": "ABILITY_COMPETITIVE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6DOUBLESOU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SCALD",
+                "MOVE_RECOVER",
+                "MOVE_ICE_BEAM",
+                "MOVE_MIRROR_COAT"
+            ],
+            "Ability": "ABILITY_COMPETITIVE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6BATTLESPOTSINGLES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SCALD",
+                "MOVE_ICE_BEAM",
+                "MOVE_RECOVER",
+                "MOVE_PROTECT"
+            ],
+            "Ability": "ABILITY_COMPETITIVE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Anti-Intimidate Tank",
+            "SourceTiers": [
+                "GEN6BATTLESPOTDOUBLES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SCALD",
+                "MOVE_PROTECT",
+                "MOVE_ICY_WIND",
+                "MOVE_RECOVER"
+            ],
+            "Ability": "ABILITY_COMPETITIVE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6VGC2016"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_RECOVER",
+                "MOVE_SCALD",
+                "MOVE_HYPNOSIS",
+                "MOVE_ICE_BEAM"
+            ],
+            "Ability": "ABILITY_MARVEL_SCALE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_CALM",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7UU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SCALD",
+                "MOVE_RECOVER",
+                "MOVE_TOXIC",
+                "MOVE_MOONBLAST"
+            ],
+            "Ability": "ABILITY_MARVEL_SCALE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_CALM",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Defensive",
+            "SourceTiers": [
+                "GEN7RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_RECOVER",
+                "MOVE_SCALD",
+                "MOVE_HYPNOSIS",
+                "MOVE_ICE_BEAM"
+            ],
+            "Ability": "ABILITY_MARVEL_SCALE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7RU",
+                "GEN8RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SCALD",
+                "MOVE_DAZZLING_GLEAM",
+                "MOVE_RECOVER",
+                "MOVE_PROTECT"
+            ],
+            "Ability": "ABILITY_COMPETITIVE",
+            "Item": "ITEM_PSYCHIC_SEED",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Defensive",
+            "SourceTiers": [
+                "GEN7DOUBLESOU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SCALD",
+                "MOVE_RECOVER",
+                "MOVE_ICY_WIND",
+                "MOVE_PROTECT"
+            ],
+            "Ability": "ABILITY_COMPETITIVE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7DOUBLESOU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_RECOVER",
+                "MOVE_SCALD",
+                "MOVE_ICE_BEAM",
+                "MOVE_HAZE"
+            ],
+            "Ability": "ABILITY_MARVEL_SCALE",
+            "Item": "ITEM_FLAME_ORB",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7BATTLESPOTSINGLES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SCALD",
+                "MOVE_PROTECT",
+                "MOVE_RECOVER",
+                "MOVE_ICY_WIND"
+            ],
+            "Ability": "ABILITY_COMPETITIVE",
+            "Item": "ITEM_WIKI_BERRY",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7BATTLESPOTDOUBLES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SCALD",
+                "MOVE_ICE_BEAM",
+                "MOVE_RECOVER",
+                "MOVE_PROTECT"
+            ],
+            "Ability": "ABILITY_COMPETITIVE",
+            "Item": "ITEM_SITRUS_BERRY",
+            "Nature": "NATURE_CALM",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Anti-Intimidate Tank",
+            "SourceTiers": [
+                "GEN7VGC2017"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SCALD",
+                "MOVE_ICE_BEAM",
+                "MOVE_RECOVER",
+                "MOVE_PROTECT"
+            ],
+            "Ability": "ABILITY_COMPETITIVE",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7VGC2017"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SCALD",
+                "MOVE_PROTECT",
+                "MOVE_RECOVER",
+                "MOVE_ICY_WIND"
+            ],
+            "Ability": "ABILITY_COMPETITIVE",
+            "Item": "ITEM_WIKI_BERRY",
+            "Nature": "NATURE_CALM",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7VGC2018"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SCALD",
+                "MOVE_RECOVER",
+                "MOVE_MOONBLAST",
+                "MOVE_HYPER_BEAM"
+            ],
+            "Ability": "ABILITY_COMPETITIVE",
+            "Item": "ITEM_NORMALIUM_Z",
+            "Nature": "NATURE_CALM",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Normalium Z",
+            "SourceTiers": [
+                "GEN71V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_RECOVER",
+                "MOVE_SCALD",
+                "MOVE_ICE_BEAM",
+                "MOVE_HYPNOSIS"
+            ],
+            "Ability": "ABILITY_MARVEL_SCALE",
+            "Item": "ITEM_FLAME_ORB",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8OU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SCALD",
+                "MOVE_RECOVER",
+                "MOVE_FLIP_TURN",
+                "MOVE_HYPNOSIS"
+            ],
+            "Ability": "ABILITY_MARVEL_SCALE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Defensive",
+            "SourceTiers": [
+                "GEN8RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SCALD",
+                "MOVE_ICE_BEAM",
+                "MOVE_RECOVER",
+                "MOVE_REST"
+            ],
+            "Ability": "ABILITY_MARVEL_SCALE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8NATIONALDEX"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_ICE_BEAM",
+                "MOVE_RECOVER",
+                "MOVE_SCALD",
+                "MOVE_PROTECT"
+            ],
+            "Ability": "ABILITY_COMPETITIVE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8DOUBLESOU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_RECOVER",
+                "MOVE_MUDDY_WATER",
+                "MOVE_HYPNOSIS",
+                "MOVE_COIL"
+            ],
+            "Ability": "ABILITY_COMPETITIVE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8VGC2020"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SCALD",
+                "MOVE_HAZE",
+                "MOVE_RECOVER",
+                "MOVE_MIRROR_COAT"
+            ],
+            "Ability": "ABILITY_MARVEL_SCALE",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_CALM",
+            "HiddenPower": null,
+            "TeraType": "TYPE_DRAGON",
+            "Name": "Defensive",
+            "SourceTiers": [
+                "GEN9OU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SCALD",
+                "MOVE_RECOVER",
+                "MOVE_HAZE",
+                "MOVE_ICE_BEAM"
+            ],
+            "Ability": "ABILITY_MARVEL_SCALE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_CALM",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN9OU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_RECOVER",
+                "MOVE_SCALD",
+                "MOVE_ICE_BEAM",
+                "MOVE_HAZE"
+            ],
+            "Ability": "ABILITY_MARVEL_SCALE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN9UU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SCALD",
+                "MOVE_DRAGON_TAIL",
+                "MOVE_FLIP_TURN",
+                "MOVE_RECOVER"
+            ],
+            "Ability": "ABILITY_MARVEL_SCALE",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_CALM",
+            "HiddenPower": null,
+            "TeraType": "TYPE_GROUND",
+            "Name": "Defensive",
+            "SourceTiers": [
+                "GEN9RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SCALD",
+                "MOVE_ICE_BEAM",
+                "MOVE_RECOVER",
+                "MOVE_FLIP_TURN"
+            ],
+            "Ability": "ABILITY_MARVEL_SCALE",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": "TYPE_FAIRY",
+            "Name": "Physical Wall",
+            "SourceTiers": [
+                "GEN9NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SCALD",
+                "MOVE_HAZE",
+                "MOVE_ICE_BEAM",
+                "MOVE_RECOVER"
+            ],
+            "Ability": "ABILITY_MARVEL_SCALE",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": "TYPE_DRAGON",
+            "Name": "Physically Defensive",
+            "SourceTiers": [
+                "GEN9PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SCALD",
+                "MOVE_ICE_BEAM",
+                "MOVE_MOONBLAST",
+                "MOVE_RECOVER"
+            ],
+            "Item": "ITEM_LEFTOVERS",
+            "Ability": "ABILITY_MARVEL_SCALE",
+            "HiddenPower": null,
+            "SourceTiers": [
+                "GEN8BDSPOU"
+            ],
+            "Name": "Physically Defensive",
+            "Nature": "NATURE_HARDY",
+            "TeraType": null
+        },
+        {
+            "Moves": [
+                "MOVE_RECOVER",
+                "MOVE_MUDDY_WATER",
+                "MOVE_HYPNOSIS",
+                "MOVE_MOONBLAST"
+            ],
+            "Item": "ITEM_FLAME_ORB",
+            "Ability": "ABILITY_COMPETITIVE",
+            "HiddenPower": null,
+            "SourceTiers": [
+                "GEN8VGC2020"
+            ],
+            "Name": "Moonblast Set",
+            "Nature": "NATURE_HARDY",
+            "TeraType": null
+        }
+    ]
+}

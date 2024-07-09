@@ -1,0 +1,142 @@
+{
+    "Species": "SPECIES_SKIPLOOM",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_SPLASH",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_ABSORB",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_SYNTHESIS",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_TAIL_WHIP",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_SYNTHESIS",
+            "Level": "4"
+        },
+        {
+            "Move": "MOVE_TAIL_WHIP",
+            "Level": "6"
+        },
+        {
+            "Move": "MOVE_TACKLE",
+            "Level": "8"
+        },
+        {
+            "Move": "MOVE_FAIRY_WIND",
+            "Level": "10"
+        },
+        {
+            "Move": "MOVE_POISON_POWDER",
+            "Level": "12"
+        },
+        {
+            "Move": "MOVE_STUN_SPORE",
+            "Level": "12"
+        },
+        {
+            "Move": "MOVE_SLEEP_POWDER",
+            "Level": "12"
+        },
+        {
+            "Move": "MOVE_AIR_CUTTER",
+            "Level": "14"
+        },
+        {
+            "Move": "MOVE_BULLET_SEED",
+            "Level": "16"
+        },
+        {
+            "Move": "MOVE_LEECH_SEED",
+            "Level": "20"
+        },
+        {
+            "Move": "MOVE_MEGA_DRAIN",
+            "Level": "24"
+        },
+        {
+            "Move": "MOVE_ACROBATICS",
+            "Level": "28"
+        },
+        {
+            "Move": "MOVE_RAGE_POWDER",
+            "Level": "32"
+        },
+        {
+            "Move": "MOVE_COTTON_SPORE",
+            "Level": "36"
+        },
+        {
+            "Move": "MOVE_U_TURN",
+            "Level": "40"
+        },
+        {
+            "Move": "MOVE_WORRY_SEED",
+            "Level": "44"
+        },
+        {
+            "Move": "MOVE_GIGA_DRAIN",
+            "Level": "48"
+        },
+        {
+            "Move": "MOVE_AIR_SLASH",
+            "Level": "52"
+        },
+        {
+            "Move": "MOVE_BOUNCE",
+            "Level": "56"
+        },
+        {
+            "Move": "MOVE_MEMENTO",
+            "Level": "60"
+        },
+        {
+            "Move": "MOVE_HYPER_VOICE",
+            "Level": "64"
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_GRASSY_TERRAIN",
+        "MOVE_HELPING_HAND",
+        "MOVE_FLING",
+        "MOVE_SOLAR_BEAM",
+        "MOVE_REFLECT",
+        "MOVE_GRASS_KNOT",
+        "MOVE_LEAF_STORM",
+        "MOVE_SWORDS_DANCE",
+        "MOVE_LIGHT_SCREEN",
+        "MOVE_POLLEN_PUFF",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_PROTECT",
+        "MOVE_BATON_PASS",
+        "MOVE_THIEF",
+        "MOVE_DOUBLE_EDGE",
+        "MOVE_TAKE_DOWN",
+        "MOVE_SEED_BOMB",
+        "MOVE_SUBSTITUTE",
+        "MOVE_LUNGE",
+        "MOVE_ENDEAVOR",
+        "MOVE_FACADE",
+        "MOVE_MAGICAL_LEAF",
+        "MOVE_SUNNY_DAY",
+        "MOVE_TAILWIND",
+        "MOVE_SLEEP_TALK",
+        "MOVE_ENERGY_BALL",
+        "MOVE_TRAILBLAZE",
+        "MOVE_ENCORE",
+        "MOVE_TERA_BLAST",
+        "MOVE_ENDURE",
+        "MOVE_DAZZLING_GLEAM",
+        "MOVE_CHARM",
+        "MOVE_AERIAL_ACE",
+        "MOVE_REST"
+    ],
+    "CompetitiveSets": []
+}

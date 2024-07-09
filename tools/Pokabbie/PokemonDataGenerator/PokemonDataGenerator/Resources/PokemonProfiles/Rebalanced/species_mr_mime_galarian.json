@@ -1,0 +1,183 @@
+{
+    "Species": "SPECIES_MR_MIME_GALARIAN",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_COPYCAT",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_ENCORE",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_ROLE_PLAY",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_PROTECT",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_RECYCLE",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_MIMIC",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_LIGHT_SCREEN",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_REFLECT",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_SAFEGUARD",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_DAZZLING_GLEAM",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_MISTY_TERRAIN",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_POUND",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_RAPID_SPIN",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_BATON_PASS",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_ICE_SHARD",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_CONFUSION",
+            "Level": "12"
+        },
+        {
+            "Move": "MOVE_ALLY_SWITCH",
+            "Level": "16"
+        },
+        {
+            "Move": "MOVE_ICY_WIND",
+            "Level": "20"
+        },
+        {
+            "Move": "MOVE_DOUBLE_KICK",
+            "Level": "24"
+        },
+        {
+            "Move": "MOVE_PSYBEAM",
+            "Level": "28"
+        },
+        {
+            "Move": "MOVE_HYPNOSIS",
+            "Level": "32"
+        },
+        {
+            "Move": "MOVE_MIRROR_COAT",
+            "Level": "36"
+        },
+        {
+            "Move": "MOVE_SUCKER_PUNCH",
+            "Level": "40"
+        },
+        {
+            "Move": "MOVE_FREEZE_DRY",
+            "Level": "44"
+        },
+        {
+            "Move": "MOVE_PSYCHIC",
+            "Level": "48"
+        },
+        {
+            "Move": "MOVE_TEETER_DANCE",
+            "Level": "52"
+        },
+        {
+            "Move": "MOVE_FREEZY_FROST",
+            "Level": "55"
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_ICE_BEAM",
+        "MOVE_MAGIC_ROOM",
+        "MOVE_FAKE_OUT",
+        "MOVE_HELPING_HAND",
+        "MOVE_FLING",
+        "MOVE_POWER_SPLIT",
+        "MOVE_SOLAR_BEAM",
+        "MOVE_FUTURE_SIGHT",
+        "MOVE_GRASS_KNOT",
+        "MOVE_FRUSTRATION",
+        "MOVE_ATTRACT",
+        "MOVE_ZEN_HEADBUTT",
+        "MOVE_TOXIC",
+        "MOVE_METRONOME",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_PAYBACK",
+        "MOVE_SKILL_SWAP",
+        "MOVE_THIEF",
+        "MOVE_IRON_DEFENSE",
+        "MOVE_CALM_MIND",
+        "MOVE_PSYSHOCK",
+        "MOVE_BODY_SLAM",
+        "MOVE_HYPER_BEAM",
+        "MOVE_SUBSTITUTE",
+        "MOVE_UPROAR",
+        "MOVE_SUNNY_DAY",
+        "MOVE_SCREECH",
+        "MOVE_TRICK",
+        "MOVE_ICICLE_SPEAR",
+        "MOVE_STOMPING_TANTRUM",
+        "MOVE_EXPANDING_FORCE",
+        "MOVE_SHADOW_BALL",
+        "MOVE_BRICK_BREAK",
+        "MOVE_FACADE",
+        "MOVE_MEGA_KICK",
+        "MOVE_TRIPLE_AXEL",
+        "MOVE_SLEEP_TALK",
+        "MOVE_STORED_POWER",
+        "MOVE_ENERGY_BALL",
+        "MOVE_AVALANCHE",
+        "MOVE_CONFUSE_RAY",
+        "MOVE_GIGA_IMPACT",
+        "MOVE_THUNDERBOLT",
+        "MOVE_NASTY_PLOT",
+        "MOVE_ICE_PUNCH",
+        "MOVE_ENDURE",
+        "MOVE_RETURN",
+        "MOVE_THUNDER",
+        "MOVE_FOCUS_BLAST",
+        "MOVE_FOUL_PLAY",
+        "MOVE_CHARM",
+        "MOVE_ROUND",
+        "MOVE_BLIZZARD",
+        "MOVE_THUNDER_WAVE",
+        "MOVE_POWER_SWAP",
+        "MOVE_WONDER_ROOM",
+        "MOVE_PSYCHIC_TERRAIN",
+        "MOVE_SNOWSCAPE",
+        "MOVE_TRICK_ROOM",
+        "MOVE_MEGA_PUNCH",
+        "MOVE_RAIN_DANCE",
+        "MOVE_SNORE",
+        "MOVE_DRAIN_PUNCH",
+        "MOVE_TICKLE",
+        "MOVE_TAUNT",
+        "MOVE_GUARD_SWAP",
+        "MOVE_REST"
+    ],
+    "CompetitiveSets": []
+}

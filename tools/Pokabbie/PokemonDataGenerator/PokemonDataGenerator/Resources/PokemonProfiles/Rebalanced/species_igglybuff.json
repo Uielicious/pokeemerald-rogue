@@ -1,0 +1,104 @@
+{
+    "Species": "SPECIES_IGGLYBUFF",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_SING",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_CHARM",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_DISARMING_VOICE",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_DEFENSE_CURL",
+            "Level": "3"
+        },
+        {
+            "Move": "MOVE_POUND",
+            "Level": "5"
+        },
+        {
+            "Move": "MOVE_SWEET_KISS",
+            "Level": "9"
+        },
+        {
+            "Move": "MOVE_COPYCAT",
+            "Level": "11"
+        },
+        {
+            "Move": "MOVE_DRAINING_KISS",
+            "Level": "13"
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_PAIN_SPLIT",
+        "MOVE_HELPING_HAND",
+        "MOVE_FLING",
+        "MOVE_LAST_RESORT",
+        "MOVE_SOLAR_BEAM",
+        "MOVE_REFLECT",
+        "MOVE_HEAL_PULSE",
+        "MOVE_GRASS_KNOT",
+        "MOVE_PSYCH_UP",
+        "MOVE_LIGHT_SCREEN",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_PROTECT",
+        "MOVE_DOUBLE_EDGE",
+        "MOVE_TAKE_DOWN",
+        "MOVE_SUBSTITUTE",
+        "MOVE_SUNNY_DAY",
+        "MOVE_ENDEAVOR",
+        "MOVE_FACADE",
+        "MOVE_SHADOW_BALL",
+        "MOVE_MISTY_TERRAIN",
+        "MOVE_ICY_WIND",
+        "MOVE_SWIFT",
+        "MOVE_SLEEP_TALK",
+        "MOVE_TRAILBLAZE",
+        "MOVE_PSYCHIC",
+        "MOVE_WILD_CHARGE",
+        "MOVE_REST",
+        "MOVE_ENCORE",
+        "MOVE_DIG",
+        "MOVE_HYPER_VOICE",
+        "MOVE_FAKE_TEARS",
+        "MOVE_PERISH_SONG",
+        "MOVE_COVET",
+        "MOVE_ROLLOUT",
+        "MOVE_TERA_BLAST",
+        "MOVE_WISH",
+        "MOVE_ENDURE",
+        "MOVE_DAZZLING_GLEAM",
+        "MOVE_PLAY_ROUGH",
+        "MOVE_PRESENT",
+        "MOVE_THUNDER_WAVE",
+        "MOVE_RAIN_DANCE",
+        "MOVE_FLAMETHROWER",
+        "MOVE_GRAVITY",
+        "MOVE_FIRE_BLAST",
+        "MOVE_BODY_SLAM"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_WISH",
+                "MOVE_PROTECT",
+                "MOVE_HYPER_VOICE",
+                "MOVE_FIRE_BLAST"
+            ],
+            "Ability": "ABILITY_COMPETITIVE",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_CALM",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Wish + Protect",
+            "SourceTiers": [
+                "GEN7LC"
+            ]
+        }
+    ]
+}

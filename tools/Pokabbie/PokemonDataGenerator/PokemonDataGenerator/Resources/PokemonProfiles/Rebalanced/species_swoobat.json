@@ -1,0 +1,381 @@
+{
+    "Species": "SPECIES_SWOOBAT",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_HEART_SWAP",
+            "Level": "0"
+        },
+        {
+            "Move": "MOVE_HEART_SWAP",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_CONFUSION",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_ODOR_SLEUTH",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_GUST",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_ASSURANCE",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_ODOR_SLEUTH",
+            "Level": "4"
+        },
+        {
+            "Move": "MOVE_GUST",
+            "Level": "8"
+        },
+        {
+            "Move": "MOVE_ASSURANCE",
+            "Level": "12"
+        },
+        {
+            "Move": "MOVE_HEART_STAMP",
+            "Level": "15"
+        },
+        {
+            "Move": "MOVE_IMPRISON",
+            "Level": "19"
+        },
+        {
+            "Move": "MOVE_AIR_CUTTER",
+            "Level": "21"
+        },
+        {
+            "Move": "MOVE_ATTRACT",
+            "Level": "25"
+        },
+        {
+            "Move": "MOVE_AMNESIA",
+            "Level": "29"
+        },
+        {
+            "Move": "MOVE_CALM_MIND",
+            "Level": "29"
+        },
+        {
+            "Move": "MOVE_AIR_SLASH",
+            "Level": "32"
+        },
+        {
+            "Move": "MOVE_FUTURE_SIGHT",
+            "Level": "36"
+        },
+        {
+            "Move": "MOVE_PSYCHIC",
+            "Level": "41"
+        },
+        {
+            "Move": "MOVE_ENDEAVOR",
+            "Level": "47"
+        },
+        {
+            "Move": "MOVE_SIMPLE_BEAM",
+            "Level": "51"
+        },
+        {
+            "Move": "MOVE_NASTY_PLOT",
+            "Level": "57"
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_HELPING_HAND",
+        "MOVE_GIGA_DRAIN",
+        "MOVE_REFLECT",
+        "MOVE_PSYCHIC_FANGS",
+        "MOVE_SPEED_SWAP",
+        "MOVE_ZEN_HEADBUTT",
+        "MOVE_LIGHT_SCREEN",
+        "MOVE_PROTECT",
+        "MOVE_BATON_PASS",
+        "MOVE_SKILL_SWAP",
+        "MOVE_PSYSHOCK",
+        "MOVE_THIEF",
+        "MOVE_HYPER_BEAM",
+        "MOVE_STEEL_WING",
+        "MOVE_SUBSTITUTE",
+        "MOVE_UPROAR",
+        "MOVE_FACADE",
+        "MOVE_TRICK",
+        "MOVE_DUAL_WINGBEAT",
+        "MOVE_EXPANDING_FORCE",
+        "MOVE_SHADOW_BALL",
+        "MOVE_ACROBATICS",
+        "MOVE_SAFEGUARD",
+        "MOVE_SWIFT",
+        "MOVE_SLEEP_TALK",
+        "MOVE_ENERGY_BALL",
+        "MOVE_STORED_POWER",
+        "MOVE_PSYCHO_CUT",
+        "MOVE_FLY",
+        "MOVE_MYSTICAL_FIRE",
+        "MOVE_REST",
+        "MOVE_GIGA_IMPACT",
+        "MOVE_FAKE_TEARS",
+        "MOVE_HEAT_WAVE",
+        "MOVE_ENDURE",
+        "MOVE_ROOST",
+        "MOVE_CHARM",
+        "MOVE_SIGNAL_BEAM",
+        "MOVE_ROUND",
+        "MOVE_HURRICANE",
+        "MOVE_GYRO_BALL",
+        "MOVE_SNORE",
+        "MOVE_THUNDER_WAVE",
+        "MOVE_TRICK_ROOM",
+        "MOVE_RAIN_DANCE",
+        "MOVE_VENOM_DRENCH",
+        "MOVE_U_TURN",
+        "MOVE_TAUNT",
+        "MOVE_ALLY_SWITCH"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_CALM_MIND",
+                "MOVE_STORED_POWER",
+                "MOVE_SIGNAL_BEAM",
+                "MOVE_SUBSTITUTE"
+            ],
+            "Ability": "ABILITY_SIMPLE",
+            "Item": "ITEM_SALAC_BERRY",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Calm Mind",
+            "SourceTiers": [
+                "GEN6PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_CALM_MIND",
+                "MOVE_AIR_SLASH",
+                "MOVE_STORED_POWER",
+                "MOVE_ROOST"
+            ],
+            "Ability": "ABILITY_SIMPLE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6PU",
+                "GEN7PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_PSYCHIC",
+                "MOVE_AIR_SLASH",
+                "MOVE_U_TURN",
+                "MOVE_SHADOW_BALL"
+            ],
+            "Ability": "ABILITY_UNAWARE",
+            "Item": "ITEM_CHOICE_SPECS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Specs",
+            "SourceTiers": [
+                "GEN6ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_REFLECT",
+                "MOVE_LIGHT_SCREEN",
+                "MOVE_TAUNT",
+                "MOVE_U_TURN"
+            ],
+            "Ability": "ABILITY_UNAWARE",
+            "Item": "ITEM_LIGHT_CLAY",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Dual Screens",
+            "SourceTiers": [
+                "GEN6ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_CALM_MIND",
+                "MOVE_STORED_POWER",
+                "MOVE_SIGNAL_BEAM",
+                "MOVE_SUBSTITUTE"
+            ],
+            "Ability": "ABILITY_SIMPLE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Calm Mind",
+            "SourceTiers": [
+                "GEN6ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_CALM_MIND",
+                "MOVE_SUBSTITUTE",
+                "MOVE_STORED_POWER",
+                "MOVE_AIR_SLASH"
+            ],
+            "Ability": "ABILITY_SIMPLE",
+            "Item": "ITEM_SALAC_BERRY",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Calm Mind",
+            "SourceTiers": [
+                "GEN7PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SUBSTITUTE",
+                "MOVE_CALM_MIND",
+                "MOVE_STORED_POWER",
+                "MOVE_HEAT_WAVE"
+            ],
+            "Ability": "ABILITY_SIMPLE",
+            "Item": "ITEM_SALAC_BERRY",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Substitute + Calm Mind",
+            "SourceTiers": [
+                "GEN7ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_CALM_MIND",
+                "MOVE_AIR_SLASH",
+                "MOVE_STORED_POWER",
+                "MOVE_SUBSTITUTE"
+            ],
+            "Ability": "ABILITY_SIMPLE",
+            "Item": "ITEM_SALAC_BERRY",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_CALM_MIND",
+                "MOVE_ROOST",
+                "MOVE_STORED_POWER",
+                "MOVE_SUBSTITUTE"
+            ],
+            "Ability": "ABILITY_SIMPLE",
+            "Item": "ITEM_GRASSY_SEED",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Simple Sweeper",
+            "SourceTiers": [
+                "GEN8PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_CALM_MIND",
+                "MOVE_STORED_POWER",
+                "MOVE_HEAT_WAVE",
+                "MOVE_AIR_SLASH"
+            ],
+            "Ability": "ABILITY_SIMPLE",
+            "Item": "ITEM_FOCUS_SASH",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_CALM_MIND",
+                "MOVE_STORED_POWER",
+                "MOVE_AIR_SLASH",
+                "MOVE_ROOST"
+            ],
+            "Ability": "ABILITY_SIMPLE",
+            "Item": "ITEM_ELECTRIC_SEED",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Terrain Sweeper",
+            "SourceTiers": [
+                "GEN8ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_CALM_MIND",
+                "MOVE_STORED_POWER",
+                "MOVE_AIR_SLASH",
+                "MOVE_HEAT_WAVE"
+            ],
+            "Ability": "ABILITY_SIMPLE",
+            "Item": "ITEM_ELECTRIC_SEED",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_NASTY_PLOT",
+                "MOVE_STORED_POWER",
+                "MOVE_MYSTICAL_FIRE",
+                "MOVE_ROOST"
+            ],
+            "Item": "ITEM_PSYCHIC_SEED",
+            "Ability": "ABILITY_SIMPLE",
+            "HiddenPower": null,
+            "SourceTiers": [
+                "GEN7PU"
+            ],
+            "Name": "Nasty Plot 1",
+            "Nature": "NATURE_HARDY",
+            "TeraType": null
+        },
+        {
+            "Moves": [
+                "MOVE_NASTY_PLOT",
+                "MOVE_STORED_POWER",
+                "MOVE_HURRICANE",
+                "MOVE_SUBSTITUTE"
+            ],
+            "Item": "ITEM_SALAC_BERRY",
+            "Ability": "ABILITY_SIMPLE",
+            "HiddenPower": null,
+            "SourceTiers": [
+                "GEN7PU"
+            ],
+            "Name": "Nasty Plot 2",
+            "Nature": "NATURE_HARDY",
+            "TeraType": null
+        }
+    ]
+}

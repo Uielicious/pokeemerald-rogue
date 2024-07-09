@@ -1,0 +1,683 @@
+{
+    "Species": "SPECIES_RAIKOU",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_LEER",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_THUNDER_SHOCK",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_QUICK_ATTACK",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_EXTREME_SPEED",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_CHARGE",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_SPARK",
+            "Level": 6
+        },
+        {
+            "Move": "MOVE_BITE",
+            "Level": 12
+        },
+        {
+            "Move": "MOVE_CALM_MIND",
+            "Level": 18
+        },
+        {
+            "Move": "MOVE_ROAR",
+            "Level": 24
+        },
+        {
+            "Move": "MOVE_THUNDER_FANG",
+            "Level": 30
+        },
+        {
+            "Move": "MOVE_HOWL",
+            "Level": 36
+        },
+        {
+            "Move": "MOVE_CRUNCH",
+            "Level": 42
+        },
+        {
+            "Move": "MOVE_EXTRASENSORY",
+            "Level": 48
+        },
+        {
+            "Move": "MOVE_DISCHARGE",
+            "Level": 54
+        },
+        {
+            "Move": "MOVE_REFLECT",
+            "Level": 60
+        },
+        {
+            "Move": "MOVE_RAIN_DANCE",
+            "Level": 66
+        },
+        {
+            "Move": "MOVE_THUNDER",
+            "Level": 72
+        },
+        {
+            "Move": "MOVE_ZAP_CANNON",
+            "Level": 78
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_HELPING_HAND",
+        "MOVE_LASER_FOCUS",
+        "MOVE_AGILITY",
+        "MOVE_IRON_HEAD",
+        "MOVE_EERIE_IMPULSE",
+        "MOVE_TOXIC",
+        "MOVE_SUPERCELL_SLAM",
+        "MOVE_LIGHT_SCREEN",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_PROTECT",
+        "MOVE_THROAT_CHOP",
+        "MOVE_DOUBLE_EDGE",
+        "MOVE_TAKE_DOWN",
+        "MOVE_HYPER_BEAM",
+        "MOVE_SUBSTITUTE",
+        "MOVE_SUNNY_DAY",
+        "MOVE_FACADE",
+        "MOVE_SHADOW_BALL",
+        "MOVE_SWIFT",
+        "MOVE_SLEEP_TALK",
+        "MOVE_TRAILBLAZE",
+        "MOVE_MUD_SLAP",
+        "MOVE_WILD_CHARGE",
+        "MOVE_REST",
+        "MOVE_GIGA_IMPACT",
+        "MOVE_THUNDERBOLT",
+        "MOVE_SNARL",
+        "MOVE_ELECTRIC_TERRAIN",
+        "MOVE_CHARGE_BEAM",
+        "MOVE_ELECTROWEB",
+        "MOVE_ENDURE",
+        "MOVE_TERA_BLAST",
+        "MOVE_ELECTRO_BALL",
+        "MOVE_VOLT_SWITCH",
+        "MOVE_SCARY_FACE",
+        "MOVE_AURA_SPHERE",
+        "MOVE_THUNDER_WAVE",
+        "MOVE_SCALD",
+        "MOVE_SANDSTORM",
+        "MOVE_WEATHER_BALL",
+        "MOVE_BODY_SLAM"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_CALM_MIND",
+                "MOVE_THUNDERBOLT",
+                "MOVE_HIDDEN_POWER",
+                "MOVE_VOLT_SWITCH"
+            ],
+            "Ability": "ABILITY_PRESSURE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": "TYPE_ICE",
+            "TeraType": null,
+            "Name": "Calm Mind",
+            "SourceTiers": [
+                "GEN6OU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_THUNDERBOLT",
+                "MOVE_VOLT_SWITCH",
+                "MOVE_HIDDEN_POWER",
+                "MOVE_SHADOW_BALL"
+            ],
+            "Ability": "ABILITY_PRESSURE",
+            "Item": "ITEM_CHOICE_SPECS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": "TYPE_ICE",
+            "TeraType": null,
+            "Name": "Choice Specs",
+            "SourceTiers": [
+                "GEN6OU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_THUNDERBOLT",
+                "MOVE_VOLT_SWITCH",
+                "MOVE_HIDDEN_POWER",
+                "MOVE_SHADOW_BALL"
+            ],
+            "Ability": "ABILITY_PRESSURE",
+            "Item": "ITEM_ASSAULT_VEST",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": "TYPE_ICE",
+            "TeraType": null,
+            "Name": "Assault Vest",
+            "SourceTiers": [
+                "GEN6OU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_HIDDEN_POWER",
+                "MOVE_THUNDERBOLT",
+                "MOVE_VOLT_SWITCH",
+                "MOVE_SHADOW_BALL"
+            ],
+            "Ability": "ABILITY_PRESSURE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": "TYPE_ICE",
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6OU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_CALM_MIND",
+                "MOVE_THUNDERBOLT",
+                "MOVE_HIDDEN_POWER",
+                "MOVE_SUBSTITUTE"
+            ],
+            "Ability": "ABILITY_PRESSURE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": "TYPE_ICE",
+            "TeraType": null,
+            "Name": "Calm Mind",
+            "SourceTiers": [
+                "GEN6BATTLESPOTSINGLES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_VOLT_SWITCH",
+                "MOVE_THUNDERBOLT",
+                "MOVE_HIDDEN_POWER",
+                "MOVE_SHADOW_BALL"
+            ],
+            "Ability": "ABILITY_PRESSURE",
+            "Item": "ITEM_CHOICE_SPECS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": "TYPE_ICE",
+            "TeraType": null,
+            "Name": "Choice Specs",
+            "SourceTiers": [
+                "GEN6BATTLESPOTSINGLES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_REFLECT",
+                "MOVE_LIGHT_SCREEN",
+                "MOVE_VOLT_SWITCH",
+                "MOVE_HIDDEN_POWER"
+            ],
+            "Ability": "ABILITY_PRESSURE",
+            "Item": "ITEM_LIGHT_CLAY",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": "TYPE_ICE",
+            "TeraType": null,
+            "Name": "Dual Screens",
+            "SourceTiers": [
+                "GEN6BATTLESPOTSINGLES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_THUNDERBOLT",
+                "MOVE_VOLT_SWITCH",
+                "MOVE_CALM_MIND",
+                "MOVE_SUBSTITUTE"
+            ],
+            "Ability": "ABILITY_PRESSURE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6BATTLESPOTSINGLES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_THUNDERBOLT",
+                "MOVE_HIDDEN_POWER",
+                "MOVE_EXTRASENSORY",
+                "MOVE_PROTECT"
+            ],
+            "Ability": "ABILITY_PRESSURE",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": "TYPE_ICE",
+            "TeraType": null,
+            "Name": "Special Attacker",
+            "SourceTiers": [
+                "GEN6BATTLESPOTDOUBLES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SUBSTITUTE",
+                "MOVE_THUNDER_WAVE",
+                "MOVE_PROTECT",
+                "MOVE_DISCHARGE"
+            ],
+            "Ability": "ABILITY_PRESSURE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Pressure Stall",
+            "SourceTiers": [
+                "GEN61V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SUBSTITUTE",
+                "MOVE_CALM_MIND",
+                "MOVE_THUNDERBOLT",
+                "MOVE_SHADOW_BALL"
+            ],
+            "Ability": "ABILITY_PRESSURE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Substitute + Calm Mind",
+            "SourceTiers": [
+                "GEN6MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_THUNDERBOLT",
+                "MOVE_HIDDEN_POWER",
+                "MOVE_CALM_MIND",
+                "MOVE_SHADOW_BALL"
+            ],
+            "Ability": "ABILITY_PRESSURE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": "TYPE_ICE",
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7UU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SUBSTITUTE",
+                "MOVE_CALM_MIND",
+                "MOVE_THUNDERBOLT",
+                "MOVE_HIDDEN_POWER"
+            ],
+            "Ability": "ABILITY_VOLT_ABSORB",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": "TYPE_ICE",
+            "TeraType": null,
+            "Name": "Substitute + Calm Mind",
+            "SourceTiers": [
+                "GEN7RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_CALM_MIND",
+                "MOVE_THUNDERBOLT",
+                "MOVE_AURA_SPHERE",
+                "MOVE_HIDDEN_POWER"
+            ],
+            "Ability": "ABILITY_VOLT_ABSORB",
+            "Item": "ITEM_FIGHTINIUM_Z",
+            "Nature": "NATURE_RASH",
+            "HiddenPower": "TYPE_ICE",
+            "TeraType": null,
+            "Name": "Calm Mind + 3 Attacks",
+            "SourceTiers": [
+                "GEN7RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_THUNDERBOLT",
+                "MOVE_HIDDEN_POWER",
+                "MOVE_CALM_MIND",
+                "MOVE_EXTRASENSORY"
+            ],
+            "Ability": "ABILITY_PRESSURE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": "TYPE_ICE",
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_ZAP_CANNON",
+                "MOVE_CALM_MIND",
+                "MOVE_LASER_FOCUS",
+                "MOVE_SUBSTITUTE"
+            ],
+            "Ability": "ABILITY_VOLT_ABSORB",
+            "Item": "ITEM_ELECTRIUM_Z",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Electrium Z",
+            "SourceTiers": [
+                "GEN71V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_VOLT_SWITCH",
+                "MOVE_THUNDERBOLT",
+                "MOVE_SCALD",
+                "MOVE_AURA_SPHERE"
+            ],
+            "Ability": "ABILITY_VOLT_ABSORB",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Offensive Pivot",
+            "SourceTiers": [
+                "GEN8UU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_THUNDERBOLT",
+                "MOVE_SCALD",
+                "MOVE_VOLT_SWITCH",
+                "MOVE_AURA_SPHERE"
+            ],
+            "Ability": "ABILITY_INNER_FOCUS",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8UU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_VOLT_SWITCH",
+                "MOVE_THUNDERBOLT",
+                "MOVE_SCALD",
+                "MOVE_TOXIC"
+            ],
+            "Ability": "ABILITY_VOLT_ABSORB",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Offensive Pivot",
+            "SourceTiers": [
+                "GEN8RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_CALM_MIND",
+                "MOVE_THUNDERBOLT",
+                "MOVE_SCALD",
+                "MOVE_SHADOW_BALL"
+            ],
+            "Ability": "ABILITY_VOLT_ABSORB",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Calm Mind",
+            "SourceTiers": [
+                "GEN8RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_THUNDERBOLT",
+                "MOVE_SCALD",
+                "MOVE_VOLT_SWITCH",
+                "MOVE_AURA_SPHERE"
+            ],
+            "Ability": "ABILITY_PRESSURE",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_CALM_MIND",
+                "MOVE_DISCHARGE",
+                "MOVE_SCALD",
+                "MOVE_SUBSTITUTE"
+            ],
+            "Ability": "ABILITY_PRESSURE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Calm Mind",
+            "SourceTiers": [
+                "GEN8BATTLESTADIUMSINGLES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_THUNDERBOLT",
+                "MOVE_VOLT_SWITCH",
+                "MOVE_SCALD",
+                "MOVE_EXTRASENSORY"
+            ],
+            "Ability": "ABILITY_VOLT_ABSORB",
+            "Item": "ITEM_CHOICE_SPECS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Specs",
+            "SourceTiers": [
+                "GEN8BATTLESTADIUMSINGLES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SUBSTITUTE",
+                "MOVE_PROTECT",
+                "MOVE_CALM_MIND",
+                "MOVE_THUNDERBOLT"
+            ],
+            "Ability": "ABILITY_PRESSURE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Pressure Stall",
+            "SourceTiers": [
+                "GEN81V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_CALM_MIND",
+                "MOVE_THUNDERBOLT",
+                "MOVE_SCALD",
+                "MOVE_TERA_BLAST"
+            ],
+            "Ability": "ABILITY_INNER_FOCUS",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": "TYPE_FAIRY",
+            "Name": "Calm Mind",
+            "SourceTiers": [
+                "GEN9UU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_CALM_MIND",
+                "MOVE_THUNDERBOLT",
+                "MOVE_SCALD",
+                "MOVE_AURA_SPHERE"
+            ],
+            "Ability": "ABILITY_PRESSURE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": "TYPE_WATER",
+            "Name": "Calm Mind",
+            "SourceTiers": [
+                "GEN9RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_THUNDERBOLT",
+                "MOVE_SCALD",
+                "MOVE_AURA_SPHERE",
+                "MOVE_VOLT_SWITCH"
+            ],
+            "Ability": "ABILITY_PRESSURE",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": "TYPE_FAIRY",
+            "Name": "Offensive Pivot",
+            "SourceTiers": [
+                "GEN9RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_CALM_MIND",
+                "MOVE_THUNDERBOLT",
+                "MOVE_TERA_BLAST",
+                "MOVE_VOLT_SWITCH"
+            ],
+            "Ability": "ABILITY_PRESSURE",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": "TYPE_GRASS",
+            "Name": "Calm Mind",
+            "SourceTiers": [
+                "GEN9NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_CALM_MIND",
+                "MOVE_DISCHARGE",
+                "MOVE_SCALD",
+                "MOVE_SUBSTITUTE"
+            ],
+            "Item": "ITEM_LIFE_ORB",
+            "Ability": "ABILITY_VOLT_ABSORB",
+            "HiddenPower": null,
+            "SourceTiers": [
+                "GEN8BATTLESTADIUMSINGLES"
+            ],
+            "Name": "Calm Mind",
+            "Nature": "NATURE_HARDY",
+            "TeraType": null
+        },
+        {
+            "Moves": [
+                "MOVE_VOLT_SWITCH",
+                "MOVE_THUNDERBOLT",
+                "MOVE_AURA_SPHERE",
+                "MOVE_SCALD"
+            ],
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Ability": "ABILITY_VOLT_ABSORB",
+            "HiddenPower": null,
+            "SourceTiers": [
+                "GEN8NATIONALDEXRU"
+            ],
+            "Name": "Offensive Pivot",
+            "Nature": "NATURE_HARDY",
+            "TeraType": null
+        },
+        {
+            "Moves": [
+                "MOVE_CALM_MIND",
+                "MOVE_THUNDERBOLT",
+                "MOVE_AURA_SPHERE",
+                "MOVE_HIDDEN_POWER"
+            ],
+            "Item": "ITEM_FIGHTINIUM_Z",
+            "Ability": "ABILITY_VOLT_ABSORB",
+            "HiddenPower": "TYPE_GRASS",
+            "SourceTiers": [
+                "GEN8NATIONALDEXRU"
+            ],
+            "Name": "Calm Mind",
+            "Nature": "NATURE_HARDY",
+            "TeraType": null
+        },
+        {
+            "Moves": [
+                "MOVE_THUNDERBOLT",
+                "MOVE_VOLT_SWITCH",
+                "MOVE_SCALD",
+                "MOVE_SHADOW_BALL"
+            ],
+            "Item": "ITEM_CHOICE_SPECS",
+            "Ability": "ABILITY_VOLT_ABSORB",
+            "HiddenPower": null,
+            "SourceTiers": [
+                "GEN8BDSPOU"
+            ],
+            "Name": "Choice Specs",
+            "Nature": "NATURE_HARDY",
+            "TeraType": null
+        },
+        {
+            "Moves": [
+                "MOVE_THUNDERBOLT",
+                "MOVE_SCALD",
+                "MOVE_CALM_MIND",
+                "MOVE_SHADOW_BALL"
+            ],
+            "Item": "ITEM_LEFTOVERS",
+            "Ability": "ABILITY_VOLT_ABSORB",
+            "HiddenPower": null,
+            "SourceTiers": [
+                "GEN8BDSPOU"
+            ],
+            "Name": "Calm Mind",
+            "Nature": "NATURE_HARDY",
+            "TeraType": null
+        }
+    ]
+}

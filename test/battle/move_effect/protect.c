@@ -188,6 +188,51 @@ SINGLE_BATTLE_TEST("Baneful Bunker poisons pokemon for moves making contact")
     }
 }
 
+#ifdef ROGUE_DRAYANO
+SINGLE_BATTLE_TEST("Shelter protects from damaging moves and raises user's defense upon being hit")
+{
+    u16 usedMove = MOVE_NONE;
+    u16 raisesBy = 0;
+
+    PARAMETRIZE { usedMove = MOVE_TACKLE; raisesBy = 1; }
+    PARAMETRIZE { usedMove = MOVE_LEER; raisesBy = 0; }
+    PARAMETRIZE { usedMove = MOVE_WATER_GUN; raisesBy = 0; }
+    
+    GIVEN {
+        PLAYER(SPECIES_WOBBUFFET);
+        OPPONENT(SPECIES_WOBBUFFET);
+    } WHEN {
+        TURN { MOVE(opponent, MOVE_SHELTER); MOVE(player, usedMove); }
+        TURN {}
+    } SCENE {        
+        ANIMATION(ANIM_TYPE_MOVE, MOVE_SHELTER, opponent);
+        MESSAGE("Foe Wobbuffet protected itself!");
+        if (usedMove == MOVE_LEER) {
+            ANIMATION(ANIM_TYPE_MOVE, usedMove, player);
+            ANIMATION(ANIM_TYPE_GENERAL, B_ANIM_STATS_CHANGE, opponent);
+            NOT MESSAGE("Foe Wobbuffet protected itself!");
+        } else {
+            NOT ANIMATION(ANIM_TYPE_MOVE, usedMove, player);
+            MESSAGE("Foe Wobbuffet protected itself!");
+            if (usedMove == MOVE_TACKLE) {
+                NOT HP_BAR(opponent);
+                ANIMATION(ANIM_TYPE_GENERAL, B_ANIM_STATS_CHANGE, opponent);
+                MESSAGE("Foe Wobbuffet's Defense rose!");
+            } else {
+                NONE_OF {
+                    HP_BAR(opponent);
+                    ANIMATION(ANIM_TYPE_GENERAL, B_ANIM_STATS_CHANGE, opponent);
+                }
+            }
+        }
+    } THEN {
+        if (usedMove == MOVE_TACKLE) {
+            EXPECT_EQ(opponent->statStages[STAT_DEF], DEFAULT_STAT_STAGE + raisesBy);
+        }
+    }
+}
+#endif
+
 SINGLE_BATTLE_TEST("Recoil damage is not applied if target was protected")
 {
     u32 j, k;

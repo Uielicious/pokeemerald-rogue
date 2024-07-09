@@ -1,0 +1,239 @@
+{
+    "Species": "SPECIES_LICKILICKY",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_SUPERSONIC",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_DEFENSE_CURL",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_LICK",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_ROLLOUT",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_WRAP",
+            "Level": 18
+        },
+        {
+            "Move": "MOVE_DISABLE",
+            "Level": 24
+        },
+        {
+            "Move": "MOVE_STOMP",
+            "Level": 30
+        },
+        {
+            "Move": "MOVE_KNOCK_OFF",
+            "Level": 36
+        },
+        {
+            "Move": "MOVE_SCREECH",
+            "Level": 42
+        },
+        {
+            "Move": "MOVE_SLAM",
+            "Level": 48
+        },
+        {
+            "Move": "MOVE_POWER_WHIP",
+            "Level": 54
+        },
+        {
+            "Move": "MOVE_BELLY_DRUM",
+            "Level": 60
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_ICE_BEAM",
+        "MOVE_SOLAR_BEAM",
+        "MOVE_ATTRACT",
+        "MOVE_ROCK_TOMB",
+        "MOVE_WORK_UP",
+        "MOVE_IRON_TAIL",
+        "MOVE_SUBSTITUTE",
+        "MOVE_SUNNY_DAY",
+        "MOVE_BRICK_BREAK",
+        "MOVE_FACADE",
+        "MOVE_STOMPING_TANTRUM",
+        "MOVE_WHIRLPOOL",
+        "MOVE_MEGA_KICK",
+        "MOVE_SLEEP_TALK",
+        "MOVE_THUNDERBOLT",
+        "MOVE_DIG",
+        "MOVE_MUDDY_WATER",
+        "MOVE_WISH",
+        "MOVE_ENDURE",
+        "MOVE_SELF_DESTRUCT",
+        "MOVE_RETURN",
+        "MOVE_ROCK_CLIMB",
+        "MOVE_THUNDER",
+        "MOVE_FIRE_PUNCH",
+        "MOVE_ROUND",
+        "MOVE_BLIZZARD",
+        "MOVE_MEGA_PUNCH",
+        "MOVE_RAIN_DANCE",
+        "MOVE_ROCK_SLIDE",
+        "MOVE_FLAMETHROWER",
+        "MOVE_FIRE_BLAST",
+        "MOVE_BODY_PRESS",
+        "MOVE_REST",
+        "MOVE_SEISMIC_TOSS",
+        "MOVE_THUNDER_PUNCH",
+        "MOVE_HELPING_HAND",
+        "MOVE_FLING",
+        "MOVE_AMNESIA",
+        "MOVE_BRUTAL_SWING",
+        "MOVE_SWORDS_DANCE",
+        "MOVE_ZEN_HEADBUTT",
+        "MOVE_BULLDOZE",
+        "MOVE_PROTECT",
+        "MOVE_HYDRO_PUMP",
+        "MOVE_THIEF",
+        "MOVE_STEEL_ROLLER",
+        "MOVE_HYPER_BEAM",
+        "MOVE_SHADOW_BALL",
+        "MOVE_ICY_WIND",
+        "MOVE_GIGA_IMPACT",
+        "MOVE_EARTHQUAKE",
+        "MOVE_ICE_PUNCH",
+        "MOVE_CURSE",
+        "MOVE_FOCUS_BLAST",
+        "MOVE_GYRO_BALL",
+        "MOVE_HEAL_BELL",
+        "MOVE_SNORE",
+        "MOVE_SURF",
+        "MOVE_RETALIATE",
+        "MOVE_SANDSTORM",
+        "MOVE_TERRAIN_PULSE",
+        "MOVE_BODY_SLAM"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_SWORDS_DANCE",
+                "MOVE_RETURN",
+                "MOVE_KNOCK_OFF",
+                "MOVE_EARTHQUAKE"
+            ],
+            "Ability": "ABILITY_OBLIVIOUS",
+            "Item": "ITEM_LUM_BERRY",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Swords Dance",
+            "SourceTiers": [
+                "GEN6PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_WISH",
+                "MOVE_HEAL_BELL",
+                "MOVE_KNOCK_OFF",
+                "MOVE_BODY_SLAM"
+            ],
+            "Ability": "ABILITY_OBLIVIOUS",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_CAREFUL",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_WISH",
+                "MOVE_PROTECT",
+                "MOVE_KNOCK_OFF",
+                "MOVE_SEISMIC_TOSS"
+            ],
+            "Ability": "ABILITY_OBLIVIOUS",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_CALM",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Wish",
+            "SourceTiers": [
+                "GEN7PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_WISH",
+                "MOVE_PROTECT",
+                "MOVE_KNOCK_OFF",
+                "MOVE_HEAL_BELL"
+            ],
+            "Ability": "ABILITY_OBLIVIOUS",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_CALM",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Wish Passer",
+            "SourceTiers": [
+                "GEN7ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_WISH",
+                "MOVE_PROTECT",
+                "MOVE_HEAL_BELL",
+                "MOVE_KNOCK_OFF"
+            ],
+            "Ability": "ABILITY_OBLIVIOUS",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_WISH",
+                "MOVE_PROTECT",
+                "MOVE_HEAL_BELL",
+                "MOVE_KNOCK_OFF"
+            ],
+            "Ability": "ABILITY_OBLIVIOUS",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_CAREFUL",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Cleric",
+            "SourceTiers": [
+                "GEN8ZU",
+                "GEN8ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_CURSE",
+                "MOVE_BODY_SLAM",
+                "MOVE_KNOCK_OFF",
+                "MOVE_WISH"
+            ],
+            "Item": "ITEM_LEFTOVERS",
+            "Ability": "ABILITY_UNAWARE",
+            "HiddenPower": null,
+            "SourceTiers": [
+                "GEN7ZU"
+            ],
+            "Name": "Curse + Unaware",
+            "Nature": "NATURE_HARDY",
+            "TeraType": null
+        }
+    ]
+}

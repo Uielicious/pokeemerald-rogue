@@ -1,0 +1,269 @@
+{
+    "Species": "SPECIES_SLURPUFF",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_SWEET_SCENT",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_TACKLE",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_FAIRY_WIND",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_PLAY_NICE",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_FAIRY_WIND",
+            "Level": "5"
+        },
+        {
+            "Move": "MOVE_PLAY_NICE",
+            "Level": "8"
+        },
+        {
+            "Move": "MOVE_FAKE_TEARS",
+            "Level": "10"
+        },
+        {
+            "Move": "MOVE_ROUND",
+            "Level": "13"
+        },
+        {
+            "Move": "MOVE_COTTON_SPORE",
+            "Level": "17"
+        },
+        {
+            "Move": "MOVE_ENDEAVOR",
+            "Level": "21"
+        },
+        {
+            "Move": "MOVE_AROMATHERAPY",
+            "Level": "25"
+        },
+        {
+            "Move": "MOVE_COVET",
+            "Level": "29"
+        },
+        {
+            "Move": "MOVE_DRAINING_KISS",
+            "Level": "33"
+        },
+        {
+            "Move": "MOVE_ENERGY_BALL",
+            "Level": "37"
+        },
+        {
+            "Move": "MOVE_COTTON_GUARD",
+            "Level": "41"
+        },
+        {
+            "Move": "MOVE_WISH",
+            "Level": "45"
+        },
+        {
+            "Move": "MOVE_PLAY_ROUGH",
+            "Level": "49"
+        },
+        {
+            "Move": "MOVE_LIGHT_SCREEN",
+            "Level": "58"
+        },
+        {
+            "Move": "MOVE_SAFEGUARD",
+            "Level": "67"
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_HELPING_HAND",
+        "MOVE_AMNESIA",
+        "MOVE_ATTRACT",
+        "MOVE_MAGIC_COAT",
+        "MOVE_PROTECT",
+        "MOVE_THIEF",
+        "MOVE_CALM_MIND",
+        "MOVE_HYPER_BEAM",
+        "MOVE_SUBSTITUTE",
+        "MOVE_METRONOME",
+        "MOVE_SUNNY_DAY",
+        "MOVE_FACADE",
+        "MOVE_SLEEP_TALK",
+        "MOVE_PSYCHIC",
+        "MOVE_GIGA_IMPACT",
+        "MOVE_THUNDERBOLT",
+        "MOVE_YAWN",
+        "MOVE_ENDURE",
+        "MOVE_RETURN",
+        "MOVE_DAZZLING_GLEAM",
+        "MOVE_THUNDER",
+        "MOVE_MISTY_EXPLOSION",
+        "MOVE_CHARM",
+        "MOVE_BELLY_DRUM",
+        "MOVE_SURF",
+        "MOVE_SNORE",
+        "MOVE_RAIN_DANCE",
+        "MOVE_DRAIN_PUNCH",
+        "MOVE_FLAMETHROWER",
+        "MOVE_REST"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_PLAY_ROUGH",
+                "MOVE_DRAIN_PUNCH",
+                "MOVE_BELLY_DRUM",
+                "MOVE_RETURN"
+            ],
+            "Ability": "ABILITY_UNBURDEN",
+            "Item": "ITEM_SITRUS_BERRY",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_BELLY_DRUM",
+                "MOVE_PLAY_ROUGH",
+                "MOVE_RETURN",
+                "MOVE_DRAIN_PUNCH"
+            ],
+            "Ability": "ABILITY_UNBURDEN",
+            "Item": "ITEM_SITRUS_BERRY",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Belly Drum Sweeper",
+            "SourceTiers": [
+                "GEN7RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_PLAY_ROUGH",
+                "MOVE_BELLY_DRUM",
+                "MOVE_DRAIN_PUNCH",
+                "MOVE_RETURN"
+            ],
+            "Ability": "ABILITY_UNBURDEN",
+            "Item": "ITEM_SITRUS_BERRY",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_STICKY_WEB",
+                "MOVE_YAWN",
+                "MOVE_MAGIC_COAT",
+                "MOVE_MISTY_EXPLOSION"
+            ],
+            "Ability": "ABILITY_UNBURDEN",
+            "Item": "ITEM_FOCUS_SASH",
+            "Nature": "NATURE_NAIVE",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Sticky Web Lead",
+            "SourceTiers": [
+                "GEN8UBERS"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_PLAY_ROUGH",
+                "MOVE_BELLY_DRUM",
+                "MOVE_DRAIN_PUNCH",
+                "MOVE_FACADE"
+            ],
+            "Ability": "ABILITY_UNBURDEN",
+            "Item": "ITEM_SITRUS_BERRY",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8UU",
+                "GEN8RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_BELLY_DRUM",
+                "MOVE_PLAY_ROUGH",
+                "MOVE_DRAIN_PUNCH",
+                "MOVE_FACADE"
+            ],
+            "Ability": "ABILITY_UNBURDEN",
+            "Item": "ITEM_SITRUS_BERRY",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Belly Drum",
+            "SourceTiers": [
+                "GEN8RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_STICKY_WEB",
+                "MOVE_YAWN",
+                "MOVE_ENDEAVOR",
+                "MOVE_MISTY_EXPLOSION"
+            ],
+            "Ability": "ABILITY_UNBURDEN",
+            "Item": "ITEM_FOCUS_SASH",
+            "Nature": "NATURE_HASTY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Sash Lead",
+            "SourceTiers": [
+                "GEN8RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_COTTON_GUARD",
+                "MOVE_REST",
+                "MOVE_BELLY_DRUM",
+                "MOVE_PLAY_ROUGH"
+            ],
+            "Ability": "ABILITY_UNBURDEN",
+            "Item": "ITEM_SITRUS_BERRY",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Cotton Guard + Belly Drum",
+            "SourceTiers": [
+                "GEN81V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_STICKY_WEB",
+                "MOVE_MAGIC_COAT",
+                "MOVE_MISTY_EXPLOSION",
+                "MOVE_YAWN"
+            ],
+            "Ability": "ABILITY_UNBURDEN",
+            "Item": "ITEM_FOCUS_SASH",
+            "Nature": "NATURE_NAIVE",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Sticky Web Lead",
+            "SourceTiers": [
+                "GEN8ANYTHINGGOES"
+            ]
+        }
+    ]
+}

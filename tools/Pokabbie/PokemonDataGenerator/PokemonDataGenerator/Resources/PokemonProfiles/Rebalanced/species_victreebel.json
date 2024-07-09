@@ -1,0 +1,290 @@
+{
+    "Species": "SPECIES_VICTREEBEL",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_LEAF_STORM",
+            "Level": 0
+        },
+        {
+            "Move": "MOVE_VINE_WHIP",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_RAZOR_LEAF",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_SLEEP_POWDER",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_SWEET_SCENT",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_LEAF_BLADE",
+            "Level": 44
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_INGRAIN",
+        "MOVE_GRASSY_TERRAIN",
+        "MOVE_SLUDGE_WAVE",
+        "MOVE_GIGA_DRAIN",
+        "MOVE_SUCKER_PUNCH",
+        "MOVE_SOLAR_BEAM",
+        "MOVE_POWER_WHIP",
+        "MOVE_REFLECT",
+        "MOVE_GRASS_KNOT",
+        "MOVE_ACID_SPRAY",
+        "MOVE_SWORDS_DANCE",
+        "MOVE_TOXIC",
+        "MOVE_STOCKPILE",
+        "MOVE_VENOSHOCK",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_CLEAR_SMOG",
+        "MOVE_KNOCK_OFF",
+        "MOVE_PROTECT",
+        "MOVE_THIEF",
+        "MOVE_BULLET_SEED",
+        "MOVE_GRASSY_GLIDE",
+        "MOVE_SEED_BOMB",
+        "MOVE_BODY_SLAM",
+        "MOVE_HYPER_BEAM",
+        "MOVE_SUBSTITUTE",
+        "MOVE_LUNGE",
+        "MOVE_FACADE",
+        "MOVE_MAGICAL_LEAF",
+        "MOVE_LEECH_LIFE",
+        "MOVE_SUNNY_DAY",
+        "MOVE_BUG_BITE",
+        "MOVE_SYNTHESIS",
+        "MOVE_SWIFT",
+        "MOVE_SLEEP_TALK",
+        "MOVE_ENERGY_BALL",
+        "MOVE_TRAILBLAZE",
+        "MOVE_SLUDGE_BOMB",
+        "MOVE_ENCORE",
+        "MOVE_GIGA_IMPACT",
+        "MOVE_SWALLOW",
+        "MOVE_WORRY_SEED",
+        "MOVE_GROWTH",
+        "MOVE_TERA_BLAST",
+        "MOVE_ENDURE",
+        "MOVE_SCARY_FACE",
+        "MOVE_POISON_JAB",
+        "MOVE_POUNCE",
+        "MOVE_TICKLE",
+        "MOVE_STRENGTH_SAP",
+        "MOVE_SPIT_UP",
+        "MOVE_WEATHER_BALL",
+        "MOVE_GASTRO_ACID",
+        "MOVE_REST"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_SOLAR_BEAM",
+                "MOVE_SLUDGE_BOMB",
+                "MOVE_WEATHER_BALL",
+                "MOVE_SLEEP_POWDER"
+            ],
+            "Ability": "ABILITY_CHLOROPHYLL",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Chlorophyll Sweeper",
+            "SourceTiers": [
+                "GEN6NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SLUDGE_BOMB",
+                "MOVE_WEATHER_BALL",
+                "MOVE_SOLAR_BEAM",
+                "MOVE_SLEEP_POWDER"
+            ],
+            "Ability": "ABILITY_CHLOROPHYLL",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_LEAF_STORM",
+                "MOVE_SLUDGE_BOMB",
+                "MOVE_STRENGTH_SAP",
+                "MOVE_SLEEP_POWDER"
+            ],
+            "Ability": "ABILITY_CHLOROPHYLL",
+            "Item": "ITEM_ROCKY_HELMET",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Defensive",
+            "SourceTiers": [
+                "GEN7NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SLUDGE_BOMB",
+                "MOVE_WEATHER_BALL",
+                "MOVE_GIGA_DRAIN",
+                "MOVE_GROWTH"
+            ],
+            "Ability": "ABILITY_CHLOROPHYLL",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_STRENGTH_SAP",
+                "MOVE_LEAF_STORM",
+                "MOVE_SLUDGE_BOMB",
+                "MOVE_HIDDEN_POWER"
+            ],
+            "Ability": "ABILITY_CHLOROPHYLL",
+            "Item": "ITEM_GRASSIUM_Z",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": "TYPE_FIRE",
+            "TeraType": null,
+            "Name": "Specially Offensive",
+            "SourceTiers": [
+                "GEN7PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SWORDS_DANCE",
+                "MOVE_STRENGTH_SAP",
+                "MOVE_POWER_WHIP",
+                "MOVE_POISON_JAB"
+            ],
+            "Ability": "ABILITY_CHLOROPHYLL",
+            "Item": "ITEM_GRASSIUM_Z",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Swords Dance",
+            "SourceTiers": [
+                "GEN7PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SLUDGE_BOMB",
+                "MOVE_STRENGTH_SAP",
+                "MOVE_HIDDEN_POWER",
+                "MOVE_LEAF_STORM"
+            ],
+            "Ability": "ABILITY_CHLOROPHYLL",
+            "Item": "ITEM_GRASSIUM_Z",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": "TYPE_FIRE",
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SUCKER_PUNCH",
+                "MOVE_POWER_WHIP",
+                "MOVE_SWORDS_DANCE",
+                "MOVE_SLEEP_POWDER"
+            ],
+            "Ability": null,
+            "Item": null,
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Swords Dance",
+            "SourceTiers": [
+                "GEN7LETSGOOU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SUCKER_PUNCH",
+                "MOVE_SWORDS_DANCE",
+                "MOVE_POWER_WHIP",
+                "MOVE_SLEEP_POWDER"
+            ],
+            "Ability": null,
+            "Item": null,
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7LETSGOOU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_GROWTH",
+                "MOVE_SLUDGE_BOMB",
+                "MOVE_GIGA_DRAIN",
+                "MOVE_WEATHER_BALL"
+            ],
+            "Ability": "ABILITY_CHLOROPHYLL",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": "TYPE_POISON",
+            "Name": "Sun Sweeper",
+            "SourceTiers": [
+                "GEN9NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SLUDGE_BOMB",
+                "MOVE_WEATHER_BALL",
+                "MOVE_KNOCK_OFF",
+                "MOVE_GIGA_DRAIN"
+            ],
+            "Ability": "ABILITY_CHLOROPHYLL",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN9NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_GROWTH",
+                "MOVE_SOLAR_BEAM",
+                "MOVE_SLUDGE_BOMB",
+                "MOVE_WEATHER_BALL"
+            ],
+            "Ability": "ABILITY_CHLOROPHYLL",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": "TYPE_FIRE",
+            "Name": "Sun Sweeper",
+            "SourceTiers": [
+                "GEN9ZU"
+            ]
+        }
+    ]
+}

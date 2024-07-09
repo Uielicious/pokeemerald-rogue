@@ -1,0 +1,136 @@
+{
+    "Species": "SPECIES_CHERUBI",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_MORNING_SUN",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_TACKLE",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_GROWTH",
+            "Level": "7"
+        },
+        {
+            "Move": "MOVE_LEECH_SEED",
+            "Level": "10"
+        },
+        {
+            "Move": "MOVE_HELPING_HAND",
+            "Level": "13"
+        },
+        {
+            "Move": "MOVE_STUN_SPORE",
+            "Level": "16"
+        },
+        {
+            "Move": "MOVE_SLEEP_POWDER",
+            "Level": "16"
+        },
+        {
+            "Move": "MOVE_MAGICAL_LEAF",
+            "Level": "19"
+        },
+        {
+            "Move": "MOVE_SUNNY_DAY",
+            "Level": "22"
+        },
+        {
+            "Move": "MOVE_WORRY_SEED",
+            "Level": "28"
+        },
+        {
+            "Move": "MOVE_TAKE_DOWN",
+            "Level": "31"
+        },
+        {
+            "Move": "MOVE_SOLAR_BEAM",
+            "Level": "37"
+        },
+        {
+            "Move": "MOVE_SOLAR_BLADE",
+            "Level": "35"
+        },
+        {
+            "Move": "MOVE_LUCKY_CHANT",
+            "Level": "40"
+        },
+        {
+            "Move": "MOVE_PETAL_BLIZZARD",
+            "Level": "47"
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_GRASSY_TERRAIN",
+        "MOVE_GIGA_DRAIN",
+        "MOVE_HEALING_WISH",
+        "MOVE_HEAL_PULSE",
+        "MOVE_GRASS_KNOT",
+        "MOVE_ATTRACT",
+        "MOVE_SWORDS_DANCE",
+        "MOVE_POLLEN_PUFF",
+        "MOVE_PROTECT",
+        "MOVE_BULLET_SEED",
+        "MOVE_GRASSY_GLIDE",
+        "MOVE_SEED_BOMB",
+        "MOVE_SUBSTITUTE",
+        "MOVE_FACADE",
+        "MOVE_SAFEGUARD",
+        "MOVE_SLEEP_TALK",
+        "MOVE_ENERGY_BALL",
+        "MOVE_FLOWER_SHIELD",
+        "MOVE_DRAINING_KISS",
+        "MOVE_ROLLOUT",
+        "MOVE_NATURE_POWER",
+        "MOVE_AROMATHERAPY",
+        "MOVE_ENDURE",
+        "MOVE_DAZZLING_GLEAM",
+        "MOVE_SWEET_SCENT",
+        "MOVE_PLAY_ROUGH",
+        "MOVE_ROUND",
+        "MOVE_DEFENSE_CURL",
+        "MOVE_SNORE",
+        "MOVE_TICKLE",
+        "MOVE_RAZOR_LEAF",
+        "MOVE_WEATHER_BALL",
+        "MOVE_REST"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_SOLAR_BEAM",
+                "MOVE_WEATHER_BALL",
+                "MOVE_DAZZLING_GLEAM",
+                "MOVE_HEALING_WISH"
+            ],
+            "Ability": "ABILITY_CHLOROPHYLL",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Chlorophyll Sweeper",
+            "SourceTiers": [
+                "GEN6LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SOLAR_BEAM",
+                "MOVE_WEATHER_BALL",
+                "MOVE_SUNNY_DAY",
+                "MOVE_HEALING_WISH"
+            ],
+            "Ability": "ABILITY_CHLOROPHYLL",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Sun 'Sweeper'",
+            "SourceTiers": [
+                "GEN7LC"
+            ]
+        }
+    ]
+}

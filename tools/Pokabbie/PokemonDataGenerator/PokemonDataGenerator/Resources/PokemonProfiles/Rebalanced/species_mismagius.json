@@ -1,0 +1,412 @@
+{
+    "Species": "SPECIES_MISMAGIUS",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_MYSTICAL_FIRE",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_POWER_GEM",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_PHANTOM_FORCE",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_LUCKY_CHANT",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_MAGICAL_LEAF",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_GROWL",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_PSYWAVE",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_SPITE",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_ASTONISH",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_FAIRY_WIND",
+            "Level": "1"
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_PAIN_SPLIT",
+        "MOVE_BURNING_JEALOUSY",
+        "MOVE_HELPING_HAND",
+        "MOVE_DARK_PULSE",
+        "MOVE_LASH_OUT",
+        "MOVE_FUTURE_SIGHT",
+        "MOVE_GRASS_KNOT",
+        "MOVE_DESTINY_BOND",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_POLTERGEIST",
+        "MOVE_WILL_O_WISP",
+        "MOVE_PROTECT",
+        "MOVE_SKILL_SWAP",
+        "MOVE_PSYSHOCK",
+        "MOVE_THIEF",
+        "MOVE_CALM_MIND",
+        "MOVE_HYPER_BEAM",
+        "MOVE_SUBSTITUTE",
+        "MOVE_FACADE",
+        "MOVE_SUNNY_DAY",
+        "MOVE_TRICK",
+        "MOVE_SHADOW_BALL",
+        "MOVE_ICY_WIND",
+        "MOVE_SWIFT",
+        "MOVE_IMPRISON",
+        "MOVE_SLEEP_TALK",
+        "MOVE_ENERGY_BALL",
+        "MOVE_STORED_POWER",
+        "MOVE_PSYCHIC",
+        "MOVE_CONFUSE_RAY",
+        "MOVE_MEMENTO",
+        "MOVE_DRAINING_KISS",
+        "MOVE_GIGA_IMPACT",
+        "MOVE_THUNDERBOLT",
+        "MOVE_HYPER_VOICE",
+        "MOVE_FAKE_TEARS",
+        "MOVE_HEX",
+        "MOVE_NASTY_PLOT",
+        "MOVE_CHARGE_BEAM",
+        "MOVE_CURSE",
+        "MOVE_ENDURE",
+        "MOVE_TERA_BLAST",
+        "MOVE_MOONBLAST",
+        "MOVE_NIGHT_SHADE",
+        "MOVE_DAZZLING_GLEAM",
+        "MOVE_PSYBEAM",
+        "MOVE_THUNDER",
+        "MOVE_FOUL_PLAY",
+        "MOVE_CHARM",
+        "MOVE_SCARY_FACE",
+        "MOVE_THUNDER_WAVE",
+        "MOVE_SNOWSCAPE",
+        "MOVE_TRICK_ROOM",
+        "MOVE_RAIN_DANCE",
+        "MOVE_PSYCH_UP",
+        "MOVE_TAUNT",
+        "MOVE_REST"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_SHADOW_BALL",
+                "MOVE_DAZZLING_GLEAM",
+                "MOVE_WILL_O_WISP",
+                "MOVE_ENERGY_BALL"
+            ],
+            "Ability": "ABILITY_LEVITATE",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_WILL_O_WISP",
+                "MOVE_TAUNT",
+                "MOVE_HEX",
+                "MOVE_PAIN_SPLIT"
+            ],
+            "Ability": "ABILITY_LEVITATE",
+            "Item": "ITEM_COLBUR_BERRY",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Bulky Support",
+            "SourceTiers": [
+                "GEN6NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SHADOW_BALL",
+                "MOVE_WILL_O_WISP",
+                "MOVE_DAZZLING_GLEAM",
+                "MOVE_HEX"
+            ],
+            "Ability": "ABILITY_LEVITATE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_NASTY_PLOT",
+                "MOVE_SHADOW_BALL",
+                "MOVE_THUNDERBOLT",
+                "MOVE_TAUNT"
+            ],
+            "Ability": "ABILITY_LEVITATE",
+            "Item": "ITEM_GHOSTIUM_Z",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Nasty Plot",
+            "SourceTiers": [
+                "GEN7RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SHADOW_BALL",
+                "MOVE_NASTY_PLOT",
+                "MOVE_THUNDERBOLT",
+                "MOVE_SUBSTITUTE"
+            ],
+            "Ability": "ABILITY_LEVITATE",
+            "Item": "ITEM_COLBUR_BERRY",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_NASTY_PLOT",
+                "MOVE_SHADOW_BALL",
+                "MOVE_POWER_GEM",
+                "MOVE_PROTECT"
+            ],
+            "Ability": "ABILITY_LEVITATE",
+            "Item": "ITEM_ROCKIUM_Z",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Nasty Plot",
+            "SourceTiers": [
+                "GEN7NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SHADOW_BALL",
+                "MOVE_NASTY_PLOT",
+                "MOVE_DAZZLING_GLEAM",
+                "MOVE_POWER_GEM"
+            ],
+            "Ability": "ABILITY_LEVITATE",
+            "Item": "ITEM_GHOSTIUM_Z",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SHADOW_BALL",
+                "MOVE_DAZZLING_GLEAM",
+                "MOVE_TRICK",
+                "MOVE_NASTY_PLOT"
+            ],
+            "Ability": "ABILITY_LEVITATE",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN9RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SHADOW_BALL",
+                "MOVE_TRICK",
+                "MOVE_DAZZLING_GLEAM",
+                "MOVE_DESTINY_BOND"
+            ],
+            "Ability": "ABILITY_LEVITATE",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": "TYPE_FAIRY",
+            "Name": "Choice Scarf",
+            "SourceTiers": [
+                "GEN9NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SUBSTITUTE",
+                "MOVE_DRAINING_KISS",
+                "MOVE_SHADOW_BALL",
+                "MOVE_NASTY_PLOT"
+            ],
+            "Ability": "ABILITY_LEVITATE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": "TYPE_FAIRY",
+            "Name": "Substitute + Draining Kiss",
+            "SourceTiers": [
+                "GEN9NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SHADOW_BALL",
+                "MOVE_DAZZLING_GLEAM",
+                "MOVE_TRICK",
+                "MOVE_MEMENTO"
+            ],
+            "Ability": "ABILITY_LEVITATE",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN9NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_NASTY_PLOT",
+                "MOVE_SHADOW_BALL",
+                "MOVE_DRAINING_KISS",
+                "MOVE_SUBSTITUTE"
+            ],
+            "Ability": "ABILITY_LEVITATE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": "TYPE_FAIRY",
+            "Name": "Nasty Plot",
+            "SourceTiers": [
+                "GEN9PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SHADOW_BALL",
+                "MOVE_THUNDERBOLT",
+                "MOVE_DAZZLING_GLEAM",
+                "MOVE_TRICK"
+            ],
+            "Ability": "ABILITY_LEVITATE",
+            "Item": "ITEM_CHOICE_SPECS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": "TYPE_ELECTRIC",
+            "Name": "Choice Specs",
+            "SourceTiers": [
+                "GEN9ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_NASTY_PLOT",
+                "MOVE_SHADOW_BALL",
+                "MOVE_THUNDERBOLT",
+                "MOVE_DAZZLING_GLEAM"
+            ],
+            "Ability": "ABILITY_LEVITATE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": "TYPE_ELECTRIC",
+            "Name": "Nasty Plot",
+            "SourceTiers": [
+                "GEN9ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_CALM_MIND",
+                "MOVE_SHADOW_BALL",
+                "MOVE_DRAINING_KISS",
+                "MOVE_TAUNT"
+            ],
+            "Ability": "ABILITY_LEVITATE",
+            "Item": "ITEM_GRASSY_SEED",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": "TYPE_FAIRY",
+            "Name": "Calm Mind",
+            "SourceTiers": [
+                "GEN9ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_NASTY_PLOT",
+                "MOVE_SHADOW_BALL",
+                "MOVE_MOONBLAST",
+                "MOVE_TAUNT"
+            ],
+            "Item": "ITEM_FAIRIUM_Z",
+            "Ability": "ABILITY_LEVITATE",
+            "HiddenPower": null,
+            "SourceTiers": [
+                "GEN7NU"
+            ],
+            "Name": "Nasty Plot",
+            "Nature": "NATURE_HARDY",
+            "TeraType": null
+        },
+        {
+            "Moves": [
+                "MOVE_NASTY_PLOT",
+                "MOVE_SHADOW_BALL",
+                "MOVE_DRAINING_KISS",
+                "MOVE_POWER_GEM"
+            ],
+            "Item": "ITEM_ROCKIUM_Z",
+            "Ability": "ABILITY_LEVITATE",
+            "HiddenPower": null,
+            "SourceTiers": [
+                "GEN7NU"
+            ],
+            "Name": "3 Attacks + Nasty Plot",
+            "Nature": "NATURE_HARDY",
+            "TeraType": null
+        },
+        {
+            "Moves": [
+                "MOVE_NASTY_PLOT",
+                "MOVE_MOONBLAST",
+                "MOVE_MYSTICAL_FIRE",
+                "MOVE_SUBSTITUTE"
+            ],
+            "Item": "ITEM_LEFTOVERS",
+            "Ability": "ABILITY_LEVITATE",
+            "HiddenPower": null,
+            "SourceTiers": [
+                "GEN8BDSPOU"
+            ],
+            "Name": "Setup Sweeper",
+            "Nature": "NATURE_HARDY",
+            "TeraType": null
+        }
+    ]
+}

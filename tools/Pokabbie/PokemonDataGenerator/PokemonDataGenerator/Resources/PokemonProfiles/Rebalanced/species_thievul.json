@@ -1,0 +1,208 @@
+{
+    "Species": "SPECIES_THIEVUL",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_THIEF",
+            "Level": "0"
+        },
+        {
+            "Move": "MOVE_THIEF",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_QUICK_ATTACK",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_TAIL_WHIP",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_BEAT_UP",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_HONE_CLAWS",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_SNARL",
+            "Level": "12"
+        },
+        {
+            "Move": "MOVE_ASSURANCE",
+            "Level": "16"
+        },
+        {
+            "Move": "MOVE_NASTY_PLOT",
+            "Level": "22"
+        },
+        {
+            "Move": "MOVE_SUCKER_PUNCH",
+            "Level": "28"
+        },
+        {
+            "Move": "MOVE_NIGHT_SLASH",
+            "Level": "34"
+        },
+        {
+            "Move": "MOVE_TAIL_SLAP",
+            "Level": "40"
+        },
+        {
+            "Move": "MOVE_FOUL_PLAY",
+            "Level": "46"
+        },
+        {
+            "Move": "MOVE_MYSTICAL_FIRE",
+            "Level": "49"
+        },
+        {
+            "Move": "MOVE_PARTING_SHOT",
+            "Level": "52"
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_BURNING_JEALOUSY",
+        "MOVE_THUNDER_FANG",
+        "MOVE_DARK_PULSE",
+        "MOVE_LASH_OUT",
+        "MOVE_FIRE_FANG",
+        "MOVE_GRASS_KNOT",
+        "MOVE_AGILITY",
+        "MOVE_ATTRACT",
+        "MOVE_FRUSTRATION",
+        "MOVE_TOXIC",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_PROTECT",
+        "MOVE_BATON_PASS",
+        "MOVE_SHADOW_CLAW",
+        "MOVE_HYPER_BEAM",
+        "MOVE_SUBSTITUTE",
+        "MOVE_FACADE",
+        "MOVE_SCREECH",
+        "MOVE_SHADOW_BALL",
+        "MOVE_ACROBATICS",
+        "MOVE_SWIFT",
+        "MOVE_SLEEP_TALK",
+        "MOVE_PSYCHIC",
+        "MOVE_GIGA_IMPACT",
+        "MOVE_DIG",
+        "MOVE_FAKE_TEARS",
+        "MOVE_ENDURE",
+        "MOVE_RETURN",
+        "MOVE_MUD_SHOT",
+        "MOVE_PLAY_ROUGH",
+        "MOVE_ROUND",
+        "MOVE_SNORE",
+        "MOVE_ICE_FANG",
+        "MOVE_U_TURN",
+        "MOVE_CRUNCH",
+        "MOVE_TAUNT",
+        "MOVE_REST"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_NASTY_PLOT",
+                "MOVE_DARK_PULSE",
+                "MOVE_BURNING_JEALOUSY",
+                "MOVE_GRASS_KNOT"
+            ],
+            "Ability": "ABILITY_UNBURDEN",
+            "Item": "ITEM_GRASSY_SEED",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Unburden Sweeper",
+            "SourceTiers": [
+                "GEN8PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_DARK_PULSE",
+                "MOVE_GRASS_KNOT",
+                "MOVE_PSYCHIC",
+                "MOVE_U_TURN"
+            ],
+            "Ability": "ABILITY_STAKEOUT",
+            "Item": "ITEM_CHOICE_SPECS",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Stakeout",
+            "SourceTiers": [
+                "GEN8PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_DARK_PULSE",
+                "MOVE_GRASS_KNOT",
+                "MOVE_PSYCHIC",
+                "MOVE_BURNING_JEALOUSY"
+            ],
+            "Ability": "ABILITY_STAKEOUT",
+            "Item": "ITEM_CHOICE_SPECS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_DARK_PULSE",
+                "MOVE_PSYCHIC",
+                "MOVE_PARTING_SHOT",
+                "MOVE_BURNING_JEALOUSY"
+            ],
+            "Ability": "ABILITY_STAKEOUT",
+            "Item": "ITEM_CHOICE_SPECS",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Specs",
+            "SourceTiers": [
+                "GEN8ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_DARK_PULSE",
+                "MOVE_PSYCHIC",
+                "MOVE_BURNING_JEALOUSY",
+                "MOVE_PARTING_SHOT"
+            ],
+            "Ability": "ABILITY_STAKEOUT",
+            "Item": "ITEM_CHOICE_SPECS",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_NASTY_PLOT",
+                "MOVE_DARK_PULSE",
+                "MOVE_MYSTICAL_FIRE",
+                "MOVE_GRASS_KNOT"
+            ],
+            "Item": "ITEM_SITRUS_BERRY",
+            "Ability": "ABILITY_UNBURDEN",
+            "HiddenPower": null,
+            "SourceTiers": [
+                "GEN8PU"
+            ],
+            "Name": "Unburden Sweeper",
+            "Nature": "NATURE_HARDY",
+            "TeraType": null
+        }
+    ]
+}

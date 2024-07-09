@@ -1,0 +1,465 @@
+{
+    "Species": "SPECIES_MANECTRIC",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_TACKLE",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_LEER",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_THUNDER_WAVE",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_HOWL",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_FIRE_FANG",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_QUICK_ATTACK",
+            "Level": 12
+        },
+        {
+            "Move": "MOVE_SHOCK_WAVE",
+            "Level": 16
+        },
+        {
+            "Move": "MOVE_BITE",
+            "Level": 20
+        },
+        {
+            "Move": "MOVE_THUNDER_FANG",
+            "Level": 24
+        },
+        {
+            "Move": "MOVE_ROAR",
+            "Level": 30
+        },
+        {
+            "Move": "MOVE_DISCHARGE",
+            "Level": 36
+        },
+        {
+            "Move": "MOVE_CHARGE",
+            "Level": 42
+        },
+        {
+            "Move": "MOVE_WILD_CHARGE",
+            "Level": 48
+        },
+        {
+            "Move": "MOVE_THUNDER",
+            "Level": 54
+        },
+        {
+            "Move": "MOVE_ELECTRIC_TERRAIN",
+            "Level": 60
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_PSYCHIC_FANGS",
+        "MOVE_AGILITY",
+        "MOVE_ATTRACT",
+        "MOVE_OVERHEAT",
+        "MOVE_EERIE_IMPULSE",
+        "MOVE_LIGHT_SCREEN",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_PROTECT",
+        "MOVE_THIEF",
+        "MOVE_IRON_TAIL",
+        "MOVE_HYPER_BEAM",
+        "MOVE_SUBSTITUTE",
+        "MOVE_UPROAR",
+        "MOVE_FACADE",
+        "MOVE_MAGNET_RISE",
+        "MOVE_SWIFT",
+        "MOVE_SLEEP_TALK",
+        "MOVE_ENERGY_BALL",
+        "MOVE_RISING_VOLTAGE",
+        "MOVE_REST",
+        "MOVE_GIGA_IMPACT",
+        "MOVE_THUNDERBOLT",
+        "MOVE_HYPER_VOICE",
+        "MOVE_SNARL",
+        "MOVE_TERA_BLAST",
+        "MOVE_ENDURE",
+        "MOVE_ELECTRO_BALL",
+        "MOVE_SWITCHEROO",
+        "MOVE_VOLT_SWITCH",
+        "MOVE_SCARY_FACE",
+        "MOVE_ROUND",
+        "MOVE_SNORE",
+        "MOVE_RAIN_DANCE",
+        "MOVE_FLAMETHROWER",
+        "MOVE_ICE_FANG",
+        "MOVE_CRUNCH",
+        "MOVE_BODY_SLAM"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_VOLT_SWITCH",
+                "MOVE_THUNDERBOLT",
+                "MOVE_FLAMETHROWER",
+                "MOVE_HIDDEN_POWER"
+            ],
+            "Ability": "ABILITY_LIGHTNING_ROD",
+            "Item": "ITEM_MANECTITE",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": "TYPE_ICE",
+            "TeraType": null,
+            "Name": "Special Attacker",
+            "SourceTiers": [
+                "GEN6OU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_VOLT_SWITCH",
+                "MOVE_THUNDERBOLT",
+                "MOVE_FLAMETHROWER",
+                "MOVE_HIDDEN_POWER"
+            ],
+            "Ability": "ABILITY_LIGHTNING_ROD",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": "TYPE_ICE",
+            "TeraType": null,
+            "Name": "Special Attacker",
+            "SourceTiers": [
+                "GEN6RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_THUNDERBOLT",
+                "MOVE_VOLT_SWITCH",
+                "MOVE_OVERHEAT",
+                "MOVE_HIDDEN_POWER"
+            ],
+            "Ability": "ABILITY_LIGHTNING_ROD",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": "TYPE_GRASS",
+            "TeraType": null,
+            "Name": "Special Attacker",
+            "SourceTiers": [
+                "GEN6NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_VOLT_SWITCH",
+                "MOVE_THUNDERBOLT",
+                "MOVE_FLAMETHROWER",
+                "MOVE_OVERHEAT"
+            ],
+            "Ability": "ABILITY_LIGHTNING_ROD",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_THUNDERBOLT",
+                "MOVE_OVERHEAT",
+                "MOVE_HIDDEN_POWER",
+                "MOVE_PROTECT"
+            ],
+            "Ability": "ABILITY_LIGHTNING_ROD",
+            "Item": "ITEM_MANECTITE",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": "TYPE_ICE",
+            "TeraType": null,
+            "Name": "Fast Attacker",
+            "SourceTiers": [
+                "GEN6DOUBLESOU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_THUNDERBOLT",
+                "MOVE_VOLT_SWITCH",
+                "MOVE_OVERHEAT",
+                "MOVE_HIDDEN_POWER"
+            ],
+            "Ability": "ABILITY_LIGHTNING_ROD",
+            "Item": "ITEM_MANECTITE",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": "TYPE_ICE",
+            "TeraType": null,
+            "Name": "All-Out Attacker",
+            "SourceTiers": [
+                "GEN6BATTLESPOTSINGLES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_VOLT_SWITCH",
+                "MOVE_HIDDEN_POWER",
+                "MOVE_OVERHEAT",
+                "MOVE_PROTECT"
+            ],
+            "Ability": "ABILITY_LIGHTNING_ROD",
+            "Item": "ITEM_MANECTITE",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": "TYPE_ICE",
+            "TeraType": null,
+            "Name": "Special Attacker",
+            "SourceTiers": [
+                "GEN6BATTLESPOTDOUBLES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_THUNDERBOLT",
+                "MOVE_HIDDEN_POWER",
+                "MOVE_MAGNET_RISE",
+                "MOVE_OVERHEAT"
+            ],
+            "Ability": "ABILITY_INTIMIDATE",
+            "Item": "ITEM_MANECTITE",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": "TYPE_ICE",
+            "TeraType": null,
+            "Name": "Bulky",
+            "SourceTiers": [
+                "GEN61V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_ENDURE",
+                "MOVE_MAGNET_RISE",
+                "MOVE_THUNDERBOLT",
+                "MOVE_OVERHEAT"
+            ],
+            "Ability": "ABILITY_INTIMIDATE",
+            "Item": "ITEM_MANECTITE",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Offensive",
+            "SourceTiers": [
+                "GEN61V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_VOLT_SWITCH",
+                "MOVE_THUNDERBOLT",
+                "MOVE_HIDDEN_POWER",
+                "MOVE_FLAMETHROWER"
+            ],
+            "Ability": "ABILITY_STATIC",
+            "Item": "ITEM_MANECTITE",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": "TYPE_ICE",
+            "TeraType": null,
+            "Name": "Offensive Pivot",
+            "SourceTiers": [
+                "GEN6MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_VOLT_SWITCH",
+                "MOVE_FLAMETHROWER",
+                "MOVE_THUNDERBOLT",
+                "MOVE_ENERGY_BALL"
+            ],
+            "Ability": "ABILITY_LIGHTNING_ROD",
+            "Item": "ITEM_MANECTITE",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "All-out Attacker",
+            "SourceTiers": [
+                "GEN7UU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_THUNDERBOLT",
+                "MOVE_VOLT_SWITCH",
+                "MOVE_OVERHEAT",
+                "MOVE_ENERGY_BALL"
+            ],
+            "Ability": "ABILITY_LIGHTNING_ROD",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Scarf",
+            "SourceTiers": [
+                "GEN7PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_VOLT_SWITCH",
+                "MOVE_THUNDERBOLT",
+                "MOVE_FLAMETHROWER",
+                "MOVE_OVERHEAT"
+            ],
+            "Ability": "ABILITY_LIGHTNING_ROD",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_VOLT_SWITCH",
+                "MOVE_SNARL",
+                "MOVE_OVERHEAT",
+                "MOVE_PROTECT"
+            ],
+            "Ability": "ABILITY_LIGHTNING_ROD",
+            "Item": "ITEM_MANECTITE",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Offensive Pivot",
+            "SourceTiers": [
+                "GEN7DOUBLESOU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_THUNDERBOLT",
+                "MOVE_OVERHEAT",
+                "MOVE_HIDDEN_POWER",
+                "MOVE_VOLT_SWITCH"
+            ],
+            "Ability": "ABILITY_LIGHTNING_ROD",
+            "Item": "ITEM_MANECTITE",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": "TYPE_ICE",
+            "TeraType": null,
+            "Name": "Offensive Pivot",
+            "SourceTiers": [
+                "GEN7BATTLESPOTSINGLES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_VOLT_SWITCH",
+                "MOVE_THUNDERBOLT",
+                "MOVE_HIDDEN_POWER",
+                "MOVE_OVERHEAT"
+            ],
+            "Ability": "ABILITY_LIGHTNING_ROD",
+            "Item": "ITEM_MANECTITE",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": "TYPE_ICE",
+            "TeraType": null,
+            "Name": "Offensive Pivot (Electric)",
+            "SourceTiers": [
+                "GEN7MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_THUNDERBOLT",
+                "MOVE_VOLT_SWITCH",
+                "MOVE_OVERHEAT",
+                "MOVE_SWITCHEROO"
+            ],
+            "Ability": "ABILITY_LIGHTNING_ROD",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Scarf",
+            "SourceTiers": [
+                "GEN8PU",
+                "GEN8ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_THUNDERBOLT",
+                "MOVE_VOLT_SWITCH",
+                "MOVE_OVERHEAT",
+                "MOVE_SWITCHEROO"
+            ],
+            "Ability": "ABILITY_LIGHTNING_ROD",
+            "Item": "ITEM_CHOICE_SPECS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Specs",
+            "SourceTiers": [
+                "GEN8PU",
+                "GEN8ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_THUNDERBOLT",
+                "MOVE_THUNDER_WAVE",
+                "MOVE_FLAMETHROWER",
+                "MOVE_PROTECT"
+            ],
+            "Ability": "ABILITY_LIGHTNING_ROD",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Toxic + Protect",
+            "SourceTiers": [
+                "GEN8PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SUBSTITUTE",
+                "MOVE_THUNDER_WAVE",
+                "MOVE_THUNDERBOLT",
+                "MOVE_FLAMETHROWER"
+            ],
+            "Ability": "ABILITY_LIGHTNING_ROD",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "SubTox",
+            "SourceTiers": [
+                "GEN8ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_VOLT_SWITCH",
+                "MOVE_THUNDERBOLT",
+                "MOVE_SWITCHEROO",
+                "MOVE_OVERHEAT"
+            ],
+            "Ability": "ABILITY_LIGHTNING_ROD",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8ZU"
+            ]
+        }
+    ]
+}

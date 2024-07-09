@@ -1,0 +1,110 @@
+{
+    "Species": "SPECIES_ZIGZAGOON_GALARIAN",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_TACKLE",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_LEER",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_SAND_ATTACK",
+            "Level": 3
+        },
+        {
+            "Move": "MOVE_LICK",
+            "Level": 6
+        },
+        {
+            "Move": "MOVE_SNARL",
+            "Level": 9
+        },
+        {
+            "Move": "MOVE_HEADBUTT",
+            "Level": 12
+        },
+        {
+            "Move": "MOVE_BABY_DOLL_EYES",
+            "Level": 15
+        },
+        {
+            "Move": "MOVE_PIN_MISSILE",
+            "Level": 18
+        },
+        {
+            "Move": "MOVE_REST",
+            "Level": 21
+        },
+        {
+            "Move": "MOVE_TAKE_DOWN",
+            "Level": 24
+        },
+        {
+            "Move": "MOVE_SCARY_FACE",
+            "Level": 27
+        },
+        {
+            "Move": "MOVE_COUNTER",
+            "Level": 30
+        },
+        {
+            "Move": "MOVE_TAUNT",
+            "Level": 33
+        },
+        {
+            "Move": "MOVE_DOUBLE_EDGE",
+            "Level": 36
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_ICE_BEAM",
+        "MOVE_HELPING_HAND",
+        "MOVE_FLING",
+        "MOVE_GUNK_SHOT",
+        "MOVE_LASH_OUT",
+        "MOVE_GRASS_KNOT",
+        "MOVE_ATTRACT",
+        "MOVE_FRUSTRATION",
+        "MOVE_TOXIC",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_WORK_UP",
+        "MOVE_KNOCK_OFF",
+        "MOVE_PAYBACK",
+        "MOVE_PROTECT",
+        "MOVE_ASSURANCE",
+        "MOVE_THIEF",
+        "MOVE_SEED_BOMB",
+        "MOVE_IRON_TAIL",
+        "MOVE_SUBSTITUTE",
+        "MOVE_SUNNY_DAY",
+        "MOVE_FACADE",
+        "MOVE_SCREECH",
+        "MOVE_TRICK",
+        "MOVE_WHIRLPOOL",
+        "MOVE_SHADOW_BALL",
+        "MOVE_ICY_WIND",
+        "MOVE_SWIFT",
+        "MOVE_SLEEP_TALK",
+        "MOVE_THUNDERBOLT",
+        "MOVE_DIG",
+        "MOVE_HYPER_VOICE",
+        "MOVE_FAKE_TEARS",
+        "MOVE_QUICK_GUARD",
+        "MOVE_PARTING_SHOT",
+        "MOVE_ENDURE",
+        "MOVE_RETURN",
+        "MOVE_MUD_SHOT",
+        "MOVE_THUNDER",
+        "MOVE_ROUND",
+        "MOVE_BLIZZARD",
+        "MOVE_SURF",
+        "MOVE_SNORE",
+        "MOVE_THUNDER_WAVE",
+        "MOVE_RAIN_DANCE",
+        "MOVE_RETALIATE",
+        "MOVE_BODY_SLAM"
+    ],
+    "CompetitiveSets": []
+}

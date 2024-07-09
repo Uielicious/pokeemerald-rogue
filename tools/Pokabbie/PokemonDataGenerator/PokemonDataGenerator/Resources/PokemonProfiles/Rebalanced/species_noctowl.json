@@ -1,0 +1,224 @@
+{
+    "Species": "SPECIES_NOCTOWL",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_TACKLE",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_GROWL",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_PECK",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_SKY_ATTACK",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_ECHOED_VOICE",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_CONFUSION",
+            "Level": 9
+        },
+        {
+            "Move": "MOVE_REFLECT",
+            "Level": 12
+        },
+        {
+            "Move": "MOVE_AIR_SLASH",
+            "Level": 18
+        },
+        {
+            "Move": "MOVE_EXTRASENSORY",
+            "Level": 23
+        },
+        {
+            "Move": "MOVE_TAKE_DOWN",
+            "Level": 28
+        },
+        {
+            "Move": "MOVE_UPROAR",
+            "Level": 33
+        },
+        {
+            "Move": "MOVE_ROOST",
+            "Level": 38
+        },
+        {
+            "Move": "MOVE_MOONBLAST",
+            "Level": 43
+        },
+        {
+            "Move": "MOVE_HYPNOSIS",
+            "Level": 48
+        },
+        {
+            "Move": "MOVE_DREAM_EATER",
+            "Level": 53
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_AIR_CUTTER",
+        "MOVE_WHIRLWIND",
+        "MOVE_FUTURE_SIGHT",
+        "MOVE_AMNESIA",
+        "MOVE_AGILITY",
+        "MOVE_ZEN_HEADBUTT",
+        "MOVE_BRAVE_BIRD",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_FEATHER_DANCE",
+        "MOVE_WORK_UP",
+        "MOVE_PROTECT",
+        "MOVE_WING_ATTACK",
+        "MOVE_SKILL_SWAP",
+        "MOVE_DOUBLE_EDGE",
+        "MOVE_THIEF",
+        "MOVE_CALM_MIND",
+        "MOVE_DEFOG",
+        "MOVE_HYPER_BEAM",
+        "MOVE_SUBSTITUTE",
+        "MOVE_SUNNY_DAY",
+        "MOVE_FACADE",
+        "MOVE_TAILWIND",
+        "MOVE_DUAL_WINGBEAT",
+        "MOVE_SHADOW_BALL",
+        "MOVE_ACROBATICS",
+        "MOVE_SWIFT",
+        "MOVE_FLASH",
+        "MOVE_IMPRISON",
+        "MOVE_SLEEP_TALK",
+        "MOVE_STORED_POWER",
+        "MOVE_PSYCHIC",
+        "MOVE_HAZE",
+        "MOVE_FLY",
+        "MOVE_MYSTICAL_FIRE",
+        "MOVE_REST",
+        "MOVE_CONFUSE_RAY",
+        "MOVE_GIGA_IMPACT",
+        "MOVE_HYPER_VOICE",
+        "MOVE_HEAT_WAVE",
+        "MOVE_NASTY_PLOT",
+        "MOVE_TERA_BLAST",
+        "MOVE_CURSE",
+        "MOVE_ENDURE",
+        "MOVE_SPITE",
+        "MOVE_NIGHT_SHADE",
+        "MOVE_PSYBEAM",
+        "MOVE_SCARY_FACE",
+        "MOVE_HURRICANE",
+        "MOVE_RAIN_DANCE",
+        "MOVE_SUPERSONIC",
+        "MOVE_PSYCH_UP",
+        "MOVE_AERIAL_ACE",
+        "MOVE_BODY_SLAM"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_ROOST",
+                "MOVE_DEFOG",
+                "MOVE_HYPNOSIS",
+                "MOVE_NIGHT_SHADE"
+            ],
+            "Ability": "ABILITY_INSOMNIA",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_CALM",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Defensive Defog",
+            "SourceTiers": [
+                "GEN6PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_ROOST",
+                "MOVE_DEFOG",
+                "MOVE_AIR_SLASH",
+                "MOVE_NIGHT_SHADE"
+            ],
+            "Ability": "ABILITY_INSOMNIA",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_CALM",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_NASTY_PLOT",
+                "MOVE_PSYCHIC",
+                "MOVE_HURRICANE",
+                "MOVE_ROOST"
+            ],
+            "Ability": "ABILITY_TINTED_LENS",
+            "Item": "ITEM_FLYINIUM_Z",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Double Dance",
+            "SourceTiers": [
+                "GEN7PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_HURRICANE",
+                "MOVE_HYPER_VOICE",
+                "MOVE_ROOST",
+                "MOVE_DEFOG"
+            ],
+            "Ability": "ABILITY_TINTED_LENS",
+            "Item": "ITEM_CHOICE_SPECS",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_NASTY_PLOT",
+                "MOVE_HYPNOSIS",
+                "MOVE_HURRICANE",
+                "MOVE_ROOST"
+            ],
+            "Ability": "ABILITY_TINTED_LENS",
+            "Item": "ITEM_BLUNDER_POLICY",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Nasty Plot",
+            "SourceTiers": [
+                "GEN8ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_ROOST",
+                "MOVE_HURRICANE",
+                "MOVE_DEFOG",
+                "MOVE_NASTY_PLOT"
+            ],
+            "Ability": "ABILITY_TINTED_LENS",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN9PU"
+            ]
+        }
+    ]
+}

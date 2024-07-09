@@ -1,0 +1,136 @@
+{
+    "Species": "SPECIES_PIDGEY",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_TACKLE",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_SAND_ATTACK",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_GUST",
+            "Level": "4"
+        },
+        {
+            "Move": "MOVE_ECHOED_VOICE",
+            "Level": "7"
+        },
+        {
+            "Move": "MOVE_QUICK_ATTACK",
+            "Level": "10"
+        },
+        {
+            "Move": "MOVE_WHIRLWIND",
+            "Level": "13"
+        },
+        {
+            "Move": "MOVE_AIR_CUTTER",
+            "Level": "16"
+        },
+        {
+            "Move": "MOVE_TWISTER",
+            "Level": "19"
+        },
+        {
+            "Move": "MOVE_FEATHER_DANCE",
+            "Level": "22"
+        },
+        {
+            "Move": "MOVE_SWIFT",
+            "Level": "25"
+        },
+        {
+            "Move": "MOVE_AGILITY",
+            "Level": "28"
+        },
+        {
+            "Move": "MOVE_UPROAR",
+            "Level": "31"
+        },
+        {
+            "Move": "MOVE_OMINOUS_WIND",
+            "Level": "34"
+        },
+        {
+            "Move": "MOVE_WING_ATTACK",
+            "Level": "37"
+        },
+        {
+            "Move": "MOVE_AIR_SLASH",
+            "Level": "40"
+        },
+        {
+            "Move": "MOVE_ROOST",
+            "Level": "43"
+        },
+        {
+            "Move": "MOVE_HYPER_VOICE",
+            "Level": "46"
+        },
+        {
+            "Move": "MOVE_TAILWIND",
+            "Level": "49"
+        },
+        {
+            "Move": "MOVE_MIRROR_MOVE",
+            "Level": "52"
+        },
+        {
+            "Move": "MOVE_HURRICANE",
+            "Level": "55"
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_FRUSTRATION",
+        "MOVE_ATTRACT",
+        "MOVE_BRAVE_BIRD",
+        "MOVE_SKY_ATTACK",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_SWAGGER",
+        "MOVE_WORK_UP",
+        "MOVE_PROTECT",
+        "MOVE_THIEF",
+        "MOVE_DEFOG",
+        "MOVE_STEEL_WING",
+        "MOVE_SUBSTITUTE",
+        "MOVE_SUNNY_DAY",
+        "MOVE_FACADE",
+        "MOVE_CONFIDE",
+        "MOVE_SLEEP_TALK",
+        "MOVE_FEINT_ATTACK",
+        "MOVE_FLY",
+        "MOVE_FORESIGHT",
+        "MOVE_HEAT_WAVE",
+        "MOVE_TERA_BLAST",
+        "MOVE_RETURN",
+        "MOVE_PURSUIT",
+        "MOVE_DOUBLE_TEAM",
+        "MOVE_ROUND",
+        "MOVE_SNORE",
+        "MOVE_RAIN_DANCE",
+        "MOVE_U_TURN",
+        "MOVE_AERIAL_ACE",
+        "MOVE_REST"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_BRAVE_BIRD",
+                "MOVE_RETURN",
+                "MOVE_U_TURN",
+                "MOVE_DEFOG"
+            ],
+            "Ability": "ABILITY_BIG_PECKS",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Pidgey",
+            "SourceTiers": [
+                "GEN7LC"
+            ]
+        }
+    ]
+}

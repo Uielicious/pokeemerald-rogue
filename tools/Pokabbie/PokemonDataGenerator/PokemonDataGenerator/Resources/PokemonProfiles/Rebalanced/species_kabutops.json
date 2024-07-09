@@ -1,0 +1,379 @@
+{
+    "Species": "SPECIES_KABUTOPS",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_SLASH",
+            "Level": 0
+        },
+        {
+            "Move": "MOVE_SCRATCH",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_SAND_ATTACK",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_ABSORB",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_HARDEN",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_FEINT",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_NIGHT_SLASH",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_AQUA_JET",
+            "Level": 15
+        },
+        {
+            "Move": "MOVE_LEER",
+            "Level": 20
+        },
+        {
+            "Move": "MOVE_MUD_SHOT",
+            "Level": 25
+        },
+        {
+            "Move": "MOVE_ANCIENT_POWER",
+            "Level": 30
+        },
+        {
+            "Move": "MOVE_BRINE",
+            "Level": 35
+        },
+        {
+            "Move": "MOVE_PROTECT",
+            "Level": 43
+        },
+        {
+            "Move": "MOVE_LEECH_LIFE",
+            "Level": 49
+        },
+        {
+            "Move": "MOVE_LIQUIDATION",
+            "Level": 56
+        },
+        {
+            "Move": "MOVE_METAL_SOUND",
+            "Level": 63
+        },
+        {
+            "Move": "MOVE_STONE_EDGE",
+            "Level": 70
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_ICE_BEAM",
+        "MOVE_SUPERPOWER",
+        "MOVE_GIGA_DRAIN",
+        "MOVE_DIVE",
+        "MOVE_SWORDS_DANCE",
+        "MOVE_ATTRACT",
+        "MOVE_ROCK_BLAST",
+        "MOVE_ROCK_TOMB",
+        "MOVE_EARTH_POWER",
+        "MOVE_RAPID_SPIN",
+        "MOVE_WATERFALL",
+        "MOVE_KNOCK_OFF",
+        "MOVE_HYDRO_PUMP",
+        "MOVE_IRON_DEFENSE",
+        "MOVE_THIEF",
+        "MOVE_HYPER_BEAM",
+        "MOVE_SUBSTITUTE",
+        "MOVE_BRICK_BREAK",
+        "MOVE_FACADE",
+        "MOVE_SCREECH",
+        "MOVE_WHIRLPOOL",
+        "MOVE_ICY_WIND",
+        "MOVE_MEGA_KICK",
+        "MOVE_STEALTH_ROCK",
+        "MOVE_SLEEP_TALK",
+        "MOVE_PSYCHO_CUT",
+        "MOVE_REST",
+        "MOVE_GIGA_IMPACT",
+        "MOVE_DIG",
+        "MOVE_RAZOR_SHELL",
+        "MOVE_ENDURE",
+        "MOVE_METEOR_BEAM",
+        "MOVE_X_SCISSOR",
+        "MOVE_ROCK_CLIMB",
+        "MOVE_CROSS_POISON",
+        "MOVE_LOW_KICK",
+        "MOVE_ROUND",
+        "MOVE_BLIZZARD",
+        "MOVE_SURF",
+        "MOVE_SNORE",
+        "MOVE_FLIP_TURN",
+        "MOVE_SCALD",
+        "MOVE_RAIN_DANCE",
+        "MOVE_ROCK_SLIDE",
+        "MOVE_SNOWSCAPE",
+        "MOVE_SANDSTORM",
+        "MOVE_BODY_SLAM"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_WATERFALL",
+                "MOVE_STONE_EDGE",
+                "MOVE_SWORDS_DANCE",
+                "MOVE_AQUA_JET"
+            ],
+            "Ability": "ABILITY_SWIFT_SWIM",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Physical Attacker",
+            "SourceTiers": [
+                "GEN6OU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_RAPID_SPIN",
+                "MOVE_STONE_EDGE",
+                "MOVE_WATERFALL",
+                "MOVE_SUPERPOWER"
+            ],
+            "Ability": "ABILITY_WEAK_ARMOR",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Offensive Rapid Spin",
+            "SourceTiers": [
+                "GEN6RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_AQUA_JET",
+                "MOVE_WATERFALL",
+                "MOVE_STONE_EDGE",
+                "MOVE_RAPID_SPIN"
+            ],
+            "Ability": "ABILITY_WEAK_ARMOR",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SWORDS_DANCE",
+                "MOVE_STONE_EDGE",
+                "MOVE_AQUA_JET",
+                "MOVE_WATERFALL"
+            ],
+            "Ability": "ABILITY_SWIFT_SWIM",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Swords Dance",
+            "SourceTiers": [
+                "GEN6NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_WATERFALL",
+                "MOVE_STONE_EDGE",
+                "MOVE_RAPID_SPIN",
+                "MOVE_SUPERPOWER"
+            ],
+            "Ability": "ABILITY_SWIFT_SWIM",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Scarf",
+            "SourceTiers": [
+                "GEN6NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_WATERFALL",
+                "MOVE_STONE_EDGE",
+                "MOVE_AQUA_JET",
+                "MOVE_SWORDS_DANCE"
+            ],
+            "Ability": "ABILITY_SWIFT_SWIM",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_LIQUIDATION",
+                "MOVE_STONE_EDGE",
+                "MOVE_KNOCK_OFF",
+                "MOVE_RAPID_SPIN"
+            ],
+            "Ability": "ABILITY_SWIFT_SWIM",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Scarf",
+            "SourceTiers": [
+                "GEN7PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SWORDS_DANCE",
+                "MOVE_STONE_EDGE",
+                "MOVE_LIQUIDATION",
+                "MOVE_SUPERPOWER"
+            ],
+            "Ability": "ABILITY_SWIFT_SWIM",
+            "Item": "ITEM_ROCKIUM_Z",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Rain Sweeper",
+            "SourceTiers": [
+                "GEN7PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_STONE_EDGE",
+                "MOVE_LIQUIDATION",
+                "MOVE_AQUA_JET",
+                "MOVE_SWORDS_DANCE"
+            ],
+            "Ability": "ABILITY_SWIFT_SWIM",
+            "Item": "ITEM_ROCKIUM_Z",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SWORDS_DANCE",
+                "MOVE_LIQUIDATION",
+                "MOVE_STONE_EDGE",
+                "MOVE_SUPERPOWER"
+            ],
+            "Ability": "ABILITY_SWIFT_SWIM",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Rain Sweeper",
+            "SourceTiers": [
+                "GEN8RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_STEALTH_ROCK",
+                "MOVE_KNOCK_OFF",
+                "MOVE_RAPID_SPIN",
+                "MOVE_STONE_EDGE"
+            ],
+            "Ability": "ABILITY_WEAK_ARMOR",
+            "Item": "ITEM_FOCUS_SASH",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Suicide Lead",
+            "SourceTiers": [
+                "GEN8NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_RAPID_SPIN",
+                "MOVE_STEALTH_ROCK",
+                "MOVE_KNOCK_OFF",
+                "MOVE_LIQUIDATION"
+            ],
+            "Ability": "ABILITY_WEAK_ARMOR",
+            "Item": "ITEM_FOCUS_SASH",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_STONE_EDGE",
+                "MOVE_LIQUIDATION",
+                "MOVE_AQUA_JET",
+                "MOVE_RAPID_SPIN"
+            ],
+            "Ability": "ABILITY_WEAK_ARMOR",
+            "Item": "ITEM_WEAKNESS_POLICY",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FLIP_TURN",
+                "MOVE_STONE_EDGE",
+                "MOVE_LIQUIDATION",
+                "MOVE_KNOCK_OFF"
+            ],
+            "Ability": "ABILITY_BATTLE_ARMOR",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Scarf",
+            "SourceTiers": [
+                "GEN8ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_STONE_EDGE",
+                "MOVE_LIQUIDATION",
+                "MOVE_FLIP_TURN",
+                "MOVE_KNOCK_OFF"
+            ],
+            "Ability": "ABILITY_BATTLE_ARMOR",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8ZU"
+            ]
+        }
+    ]
+}

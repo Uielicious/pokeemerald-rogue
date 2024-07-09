@@ -1,0 +1,1154 @@
+{
+    "Species": "SPECIES_AZUMARILL",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_TACKLE",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_TAIL_WHIP",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_WATER_GUN",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_DEFENSE_CURL",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_ROLLOUT",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_HELPING_HAND",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_BUBBLE_BEAM",
+            "Level": 6
+        },
+        {
+            "Move": "MOVE_CHARM",
+            "Level": 9
+        },
+        {
+            "Move": "MOVE_SLAM",
+            "Level": 12
+        },
+        {
+            "Move": "MOVE_BOUNCE",
+            "Level": 15
+        },
+        {
+            "Move": "MOVE_AQUA_TAIL",
+            "Level": 21
+        },
+        {
+            "Move": "MOVE_PLAY_ROUGH",
+            "Level": 25
+        },
+        {
+            "Move": "MOVE_AQUA_RING",
+            "Level": 30
+        },
+        {
+            "Move": "MOVE_RAIN_DANCE",
+            "Level": 35
+        },
+        {
+            "Move": "MOVE_HYDRO_PUMP",
+            "Level": 40
+        },
+        {
+            "Move": "MOVE_DOUBLE_EDGE",
+            "Level": 45
+        },
+        {
+            "Move": "MOVE_SUPERPOWER",
+            "Level": 50
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_ICE_BEAM",
+        "MOVE_DISARMING_VOICE",
+        "MOVE_SEISMIC_TOSS",
+        "MOVE_FLING",
+        "MOVE_AMNESIA",
+        "MOVE_GRASS_KNOT",
+        "MOVE_CHILLING_WATER",
+        "MOVE_BULLDOZE",
+        "MOVE_LIGHT_SCREEN",
+        "MOVE_WATERFALL",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_KNOCK_OFF",
+        "MOVE_PROTECT",
+        "MOVE_TAKE_DOWN",
+        "MOVE_IRON_TAIL",
+        "MOVE_HYPER_BEAM",
+        "MOVE_SUBSTITUTE",
+        "MOVE_METRONOME",
+        "MOVE_BRICK_BREAK",
+        "MOVE_FACADE",
+        "MOVE_WHIRLPOOL",
+        "MOVE_MISTY_TERRAIN",
+        "MOVE_ICY_WIND",
+        "MOVE_SWIFT",
+        "MOVE_SLEEP_TALK",
+        "MOVE_TRAILBLAZE",
+        "MOVE_MUD_SLAP",
+        "MOVE_REST",
+        "MOVE_DRAINING_KISS",
+        "MOVE_ENCORE",
+        "MOVE_DIG",
+        "MOVE_GIGA_IMPACT",
+        "MOVE_FAKE_TEARS",
+        "MOVE_HYPER_VOICE",
+        "MOVE_PERISH_SONG",
+        "MOVE_MUDDY_WATER",
+        "MOVE_ICE_PUNCH",
+        "MOVE_LIQUIDATION",
+        "MOVE_TERA_BLAST",
+        "MOVE_ENDURE",
+        "MOVE_WATER_PULSE",
+        "MOVE_RETURN",
+        "MOVE_MUD_SHOT",
+        "MOVE_FOCUS_BLAST",
+        "MOVE_MISTY_EXPLOSION",
+        "MOVE_BELLY_DRUM",
+        "MOVE_ICE_SPINNER",
+        "MOVE_BLIZZARD",
+        "MOVE_SURF",
+        "MOVE_SNOWSCAPE",
+        "MOVE_DRAIN_PUNCH",
+        "MOVE_FOCUS_PUNCH",
+        "MOVE_BODY_SLAM",
+        "MOVE_AQUA_JET"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_PLAY_ROUGH",
+                "MOVE_WATERFALL",
+                "MOVE_AQUA_JET",
+                "MOVE_SUPERPOWER"
+            ],
+            "Ability": "ABILITY_HUGE_POWER",
+            "Item": "ITEM_CHOICE_BAND",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Band",
+            "SourceTiers": [
+                "GEN6OU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_BELLY_DRUM",
+                "MOVE_AQUA_JET",
+                "MOVE_PLAY_ROUGH",
+                "MOVE_KNOCK_OFF"
+            ],
+            "Ability": "ABILITY_HUGE_POWER",
+            "Item": "ITEM_SITRUS_BERRY",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Belly Drum",
+            "SourceTiers": [
+                "GEN6OU",
+                "GEN6MONOTYPE",
+                "GEN6MONOTYPE",
+                "GEN8UU",
+                "GEN9MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_PLAY_ROUGH",
+                "MOVE_WATERFALL",
+                "MOVE_AQUA_JET",
+                "MOVE_KNOCK_OFF"
+            ],
+            "Ability": "ABILITY_HUGE_POWER",
+            "Item": "ITEM_ASSAULT_VEST",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Assault Vest",
+            "SourceTiers": [
+                "GEN6OU",
+                "GEN6BATTLESPOTDOUBLES",
+                "GEN7VGC2018"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_PLAY_ROUGH",
+                "MOVE_AQUA_JET",
+                "MOVE_KNOCK_OFF",
+                "MOVE_BELLY_DRUM"
+            ],
+            "Ability": "ABILITY_HUGE_POWER",
+            "Item": "ITEM_SITRUS_BERRY",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6OU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_AQUA_JET",
+                "MOVE_KNOCK_OFF",
+                "MOVE_BELLY_DRUM",
+                "MOVE_PROTECT"
+            ],
+            "Ability": "ABILITY_HUGE_POWER",
+            "Item": "ITEM_SITRUS_BERRY",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Megabus",
+            "SourceTiers": [
+                "GEN6DOUBLESOU",
+                "GEN7DOUBLESOU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_AQUA_JET",
+                "MOVE_PLAY_ROUGH",
+                "MOVE_BELLY_DRUM",
+                "MOVE_PROTECT"
+            ],
+            "Ability": "ABILITY_HUGE_POWER",
+            "Item": "ITEM_SITRUS_BERRY",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6DOUBLESOU",
+                "GEN7BATTLESPOTDOUBLES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_BELLY_DRUM",
+                "MOVE_AQUA_JET",
+                "MOVE_PLAY_ROUGH",
+                "MOVE_WATERFALL"
+            ],
+            "Ability": "ABILITY_HUGE_POWER",
+            "Item": "ITEM_SITRUS_BERRY",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Belly Drum",
+            "SourceTiers": [
+                "GEN6BATTLESPOTSINGLES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_AQUA_JET",
+                "MOVE_WATERFALL",
+                "MOVE_PLAY_ROUGH",
+                "MOVE_KNOCK_OFF"
+            ],
+            "Ability": "ABILITY_HUGE_POWER",
+            "Item": "ITEM_ASSAULT_VEST",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "All-Out Attacker",
+            "SourceTiers": [
+                "GEN6BATTLESPOTSINGLES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_AQUA_JET",
+                "MOVE_WATERFALL",
+                "MOVE_PLAY_ROUGH",
+                "MOVE_KNOCK_OFF"
+            ],
+            "Ability": "ABILITY_HUGE_POWER",
+            "Item": "ITEM_CHOICE_BAND",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Band",
+            "SourceTiers": [
+                "GEN6BATTLESPOTSINGLES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_AQUA_JET",
+                "MOVE_PLAY_ROUGH",
+                "MOVE_BELLY_DRUM",
+                "MOVE_KNOCK_OFF"
+            ],
+            "Ability": "ABILITY_HUGE_POWER",
+            "Item": "ITEM_SITRUS_BERRY",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6BATTLESPOTSINGLES",
+                "GEN61V1",
+                "GEN6MONOTYPE",
+                "GEN8UU",
+                "GEN8MONOTYPE",
+                "GEN9UU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_BELLY_DRUM",
+                "MOVE_AQUA_JET",
+                "MOVE_PLAY_ROUGH",
+                "MOVE_PROTECT"
+            ],
+            "Ability": "ABILITY_HUGE_POWER",
+            "Item": "ITEM_SITRUS_BERRY",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Belly Drum",
+            "SourceTiers": [
+                "GEN6BATTLESPOTDOUBLES",
+                "GEN7VGC2018"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_AQUA_JET",
+                "MOVE_PLAY_ROUGH",
+                "MOVE_WATERFALL",
+                "MOVE_SUPERPOWER"
+            ],
+            "Ability": "ABILITY_HUGE_POWER",
+            "Item": "ITEM_CHOICE_BAND",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Band",
+            "SourceTiers": [
+                "GEN6BATTLESPOTDOUBLES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_CHARM",
+                "MOVE_ENCORE",
+                "MOVE_HYDRO_PUMP",
+                "MOVE_REST"
+            ],
+            "Ability": "ABILITY_SAP_SIPPER",
+            "Item": "ITEM_SITRUS_BERRY",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Stall",
+            "SourceTiers": [
+                "GEN61V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_AQUA_TAIL",
+                "MOVE_PLAY_ROUGH",
+                "MOVE_ENDURE",
+                "MOVE_REST"
+            ],
+            "Ability": "ABILITY_HUGE_POWER",
+            "Item": "ITEM_CUSTAP_BERRY",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Custap Berry",
+            "SourceTiers": [
+                "GEN61V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_AQUA_TAIL",
+                "MOVE_AQUA_JET",
+                "MOVE_PLAY_ROUGH",
+                "MOVE_KNOCK_OFF"
+            ],
+            "Ability": "ABILITY_HUGE_POWER",
+            "Item": "ITEM_WEAKNESS_POLICY",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Weakness Policy",
+            "SourceTiers": [
+                "GEN61V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_PLAY_ROUGH",
+                "MOVE_AQUA_JET",
+                "MOVE_WATERFALL",
+                "MOVE_SUPERPOWER"
+            ],
+            "Ability": "ABILITY_HUGE_POWER",
+            "Item": "ITEM_CHOICE_BAND",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Band (Water)",
+            "SourceTiers": [
+                "GEN6MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_HYDRO_PUMP",
+                "MOVE_KNOCK_OFF",
+                "MOVE_PROTECT",
+                "MOVE_PERISH_SONG"
+            ],
+            "Ability": "ABILITY_SAP_SIPPER",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_CALM",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Defensive (Water)",
+            "SourceTiers": [
+                "GEN6MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_BELLY_DRUM",
+                "MOVE_AQUA_JET",
+                "MOVE_PLAY_ROUGH",
+                "MOVE_KNOCK_OFF"
+            ],
+            "Ability": "ABILITY_HUGE_POWER",
+            "Item": "ITEM_NORMALIUM_Z",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Belly Drum",
+            "SourceTiers": [
+                "GEN7OU",
+                "GEN8NATIONALDEX"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_AQUA_JET",
+                "MOVE_PLAY_ROUGH",
+                "MOVE_BELLY_DRUM",
+                "MOVE_KNOCK_OFF"
+            ],
+            "Ability": "ABILITY_HUGE_POWER",
+            "Item": "ITEM_NORMALIUM_Z",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7OU",
+                "GEN8NATIONALDEXMONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_AQUA_JET",
+                "MOVE_PLAY_ROUGH",
+                "MOVE_LIQUIDATION",
+                "MOVE_KNOCK_OFF"
+            ],
+            "Ability": "ABILITY_HUGE_POWER",
+            "Item": "ITEM_AGUAV_BERRY",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7DOUBLESOU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_BELLY_DRUM",
+                "MOVE_AQUA_JET",
+                "MOVE_PLAY_ROUGH",
+                "MOVE_DRAIN_PUNCH"
+            ],
+            "Ability": "ABILITY_HUGE_POWER",
+            "Item": "ITEM_SITRUS_BERRY",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Belly Drum",
+            "SourceTiers": [
+                "GEN7BATTLESPOTSINGLES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_AQUA_JET",
+                "MOVE_PLAY_ROUGH",
+                "MOVE_SUPERPOWER",
+                "MOVE_LIQUIDATION"
+            ],
+            "Ability": "ABILITY_HUGE_POWER",
+            "Item": "ITEM_CHOICE_BAND",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Band",
+            "SourceTiers": [
+                "GEN7BATTLESPOTSINGLES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_AQUA_JET",
+                "MOVE_PLAY_ROUGH",
+                "MOVE_LIQUIDATION",
+                "MOVE_KNOCK_OFF"
+            ],
+            "Ability": "ABILITY_HUGE_POWER",
+            "Item": "ITEM_ASSAULT_VEST",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Assault Vest",
+            "SourceTiers": [
+                "GEN7BATTLESPOTSINGLES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_AQUA_JET",
+                "MOVE_PLAY_ROUGH",
+                "MOVE_LIQUIDATION",
+                "MOVE_KNOCK_OFF"
+            ],
+            "Ability": "ABILITY_HUGE_POWER",
+            "Item": "ITEM_SITRUS_BERRY",
+            "Nature": "NATURE_RELAXED",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7BATTLESPOTSINGLES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_AQUA_JET",
+                "MOVE_BELLY_DRUM",
+                "MOVE_PROTECT",
+                "MOVE_PLAY_ROUGH"
+            ],
+            "Ability": "ABILITY_HUGE_POWER",
+            "Item": "ITEM_SITRUS_BERRY",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7VGC2018"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_DRAIN_PUNCH",
+                "MOVE_BELLY_DRUM",
+                "MOVE_AQUA_JET",
+                "MOVE_PLAY_ROUGH"
+            ],
+            "Ability": "ABILITY_HUGE_POWER",
+            "Item": "ITEM_NORMALIUM_Z",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Z-Belly Drum",
+            "SourceTiers": [
+                "GEN71V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_PLAY_ROUGH",
+                "MOVE_AQUA_JET",
+                "MOVE_BELLY_DRUM",
+                "MOVE_LIQUIDATION"
+            ],
+            "Ability": "ABILITY_HUGE_POWER",
+            "Item": "ITEM_FAIRIUM_Z",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN71V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_BELLY_DRUM",
+                "MOVE_AQUA_JET",
+                "MOVE_KNOCK_OFF",
+                "MOVE_PLAY_ROUGH"
+            ],
+            "Ability": "ABILITY_HUGE_POWER",
+            "Item": "ITEM_NORMALIUM_Z",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Belly Drum (Fairy)",
+            "SourceTiers": [
+                "GEN7MONOTYPE",
+                "GEN8NATIONALDEXMONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_BELLY_DRUM",
+                "MOVE_AQUA_JET",
+                "MOVE_KNOCK_OFF",
+                "MOVE_RETURN"
+            ],
+            "Ability": "ABILITY_HUGE_POWER",
+            "Item": "ITEM_SITRUS_BERRY",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Sitrus Berry + Belly Drum (Fairy)",
+            "SourceTiers": [
+                "GEN7MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_PERISH_SONG",
+                "MOVE_WHIRLPOOL",
+                "MOVE_REST",
+                "MOVE_PROTECT"
+            ],
+            "Ability": "ABILITY_SAP_SIPPER",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_CALM",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Perish Trap (Water)",
+            "SourceTiers": [
+                "GEN7MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_AQUA_JET",
+                "MOVE_BELLY_DRUM",
+                "MOVE_PLAY_ROUGH",
+                "MOVE_KNOCK_OFF"
+            ],
+            "Ability": "ABILITY_HUGE_POWER",
+            "Item": "ITEM_NORMALIUM_Z",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_BELLY_DRUM",
+                "MOVE_PLAY_ROUGH",
+                "MOVE_AQUA_JET",
+                "MOVE_KNOCK_OFF"
+            ],
+            "Ability": "ABILITY_HUGE_POWER",
+            "Item": "ITEM_SITRUS_BERRY",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Belly Drum",
+            "SourceTiers": [
+                "GEN8OU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_PLAY_ROUGH",
+                "MOVE_AQUA_JET",
+                "MOVE_BELLY_DRUM",
+                "MOVE_KNOCK_OFF"
+            ],
+            "Ability": "ABILITY_HUGE_POWER",
+            "Item": "ITEM_SITRUS_BERRY",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8OU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_LIQUIDATION",
+                "MOVE_PLAY_ROUGH",
+                "MOVE_AQUA_JET",
+                "MOVE_ICE_PUNCH"
+            ],
+            "Ability": "ABILITY_HUGE_POWER",
+            "Item": "ITEM_CHOICE_BAND",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Band",
+            "SourceTiers": [
+                "GEN8UU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_AQUA_JET",
+                "MOVE_PLAY_ROUGH",
+                "MOVE_BELLY_DRUM",
+                "MOVE_LIQUIDATION"
+            ],
+            "Ability": "ABILITY_HUGE_POWER",
+            "Item": "ITEM_SITRUS_BERRY",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8NATIONALDEX",
+                "GEN9NATIONALDEX",
+                "GEN9MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_LIQUIDATION",
+                "MOVE_AQUA_JET",
+                "MOVE_PLAY_ROUGH",
+                "MOVE_SUPERPOWER"
+            ],
+            "Ability": "ABILITY_HUGE_POWER",
+            "Item": "ITEM_ASSAULT_VEST",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Bad Bunny (Huge Power Wallbreaker)",
+            "SourceTiers": [
+                "GEN8BATTLESTADIUMSINGLES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_PLAY_ROUGH",
+                "MOVE_AQUA_JET",
+                "MOVE_SUPERPOWER",
+                "MOVE_BELLY_DRUM"
+            ],
+            "Ability": "ABILITY_HUGE_POWER",
+            "Item": "ITEM_SITRUS_BERRY",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8BATTLESTADIUMSINGLES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_PLAY_ROUGH",
+                "MOVE_AQUA_JET",
+                "MOVE_LIQUIDATION",
+                "MOVE_PROTECT"
+            ],
+            "Ability": "ABILITY_HUGE_POWER",
+            "Item": "ITEM_ASSAULT_VEST",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8VGC2020"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_AQUA_JET",
+                "MOVE_PLAY_ROUGH",
+                "MOVE_LIQUIDATION",
+                "MOVE_IRON_TAIL"
+            ],
+            "Ability": "ABILITY_HUGE_POWER",
+            "Item": "ITEM_CHOICE_BAND",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Band",
+            "SourceTiers": [
+                "GEN81V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_PLAY_ROUGH",
+                "MOVE_AQUA_JET",
+                "MOVE_SUPERPOWER",
+                "MOVE_LIQUIDATION"
+            ],
+            "Ability": "ABILITY_HUGE_POWER",
+            "Item": "ITEM_ASSAULT_VEST",
+            "Nature": "NATURE_CAREFUL",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Assault Vest",
+            "SourceTiers": [
+                "GEN81V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_AMNESIA",
+                "MOVE_CHARM",
+                "MOVE_REST",
+                "MOVE_SEISMIC_TOSS"
+            ],
+            "Ability": "ABILITY_SAP_SIPPER",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Stall",
+            "SourceTiers": [
+                "GEN81V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_PLAY_ROUGH",
+                "MOVE_AQUA_JET",
+                "MOVE_LIQUIDATION",
+                "MOVE_SUPERPOWER"
+            ],
+            "Ability": "ABILITY_HUGE_POWER",
+            "Item": "ITEM_ASSAULT_VEST",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN81V1",
+                "GEN91V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_BELLY_DRUM",
+                "MOVE_AQUA_JET",
+                "MOVE_KNOCK_OFF",
+                "MOVE_SUBSTITUTE"
+            ],
+            "Ability": "ABILITY_HUGE_POWER",
+            "Item": "ITEM_SITRUS_BERRY",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Belly Drum (Fairy)",
+            "SourceTiers": [
+                "GEN8MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_LIQUIDATION",
+                "MOVE_AQUA_JET",
+                "MOVE_KNOCK_OFF",
+                "MOVE_DRAIN_PUNCH"
+            ],
+            "Ability": "ABILITY_HUGE_POWER",
+            "Item": "ITEM_CHOICE_BAND",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Band (Fairy)",
+            "SourceTiers": [
+                "GEN8MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_BELLY_DRUM",
+                "MOVE_PLAY_ROUGH",
+                "MOVE_AQUA_JET",
+                "MOVE_LIQUIDATION"
+            ],
+            "Ability": "ABILITY_HUGE_POWER",
+            "Item": "ITEM_SITRUS_BERRY",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": "TYPE_WATER",
+            "Name": "Belly Drum",
+            "SourceTiers": [
+                "GEN9OU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_AQUA_JET",
+                "MOVE_PLAY_ROUGH",
+                "MOVE_LIQUIDATION",
+                "MOVE_ICE_SPINNER"
+            ],
+            "Ability": "ABILITY_HUGE_POWER",
+            "Item": "ITEM_CHOICE_BAND",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": "TYPE_WATER",
+            "Name": "Choice Band",
+            "SourceTiers": [
+                "GEN9OU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_LIQUIDATION",
+                "MOVE_PLAY_ROUGH",
+                "MOVE_AQUA_JET",
+                "MOVE_ICE_SPINNER"
+            ],
+            "Ability": "ABILITY_HUGE_POWER",
+            "Item": "ITEM_ASSAULT_VEST",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": "TYPE_WATER",
+            "Name": "Assault Vest",
+            "SourceTiers": [
+                "GEN9OU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_AQUA_JET",
+                "MOVE_PLAY_ROUGH",
+                "MOVE_LIQUIDATION",
+                "MOVE_BELLY_DRUM"
+            ],
+            "Ability": "ABILITY_HUGE_POWER",
+            "Item": "ITEM_SITRUS_BERRY",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN9OU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_LIQUIDATION",
+                "MOVE_PLAY_ROUGH",
+                "MOVE_AQUA_JET",
+                "MOVE_KNOCK_OFF"
+            ],
+            "Ability": "ABILITY_HUGE_POWER",
+            "Item": "ITEM_CHOICE_BAND",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": "TYPE_WATER",
+            "Name": "Offensive",
+            "SourceTiers": [
+                "GEN9UU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_BELLY_DRUM",
+                "MOVE_AQUA_JET",
+                "MOVE_PLAY_ROUGH",
+                "MOVE_KNOCK_OFF"
+            ],
+            "Ability": "ABILITY_HUGE_POWER",
+            "Item": "ITEM_SITRUS_BERRY",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": "TYPE_WATER",
+            "Name": "Belly Drum",
+            "SourceTiers": [
+                "GEN9UU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_PLAY_ROUGH",
+                "MOVE_LIQUIDATION",
+                "MOVE_AQUA_JET",
+                "MOVE_ENCORE"
+            ],
+            "Ability": "ABILITY_HUGE_POWER",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_IMPISH",
+            "HiddenPower": null,
+            "TeraType": "TYPE_WATER",
+            "Name": "Life Orb",
+            "SourceTiers": [
+                "GEN91V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_PLAY_ROUGH",
+                "MOVE_LIQUIDATION",
+                "MOVE_AQUA_JET",
+                "MOVE_DIG"
+            ],
+            "Ability": "ABILITY_HUGE_POWER",
+            "Item": "ITEM_KEBIA_BERRY",
+            "Nature": "NATURE_IMPISH",
+            "HiddenPower": null,
+            "TeraType": "TYPE_WATER",
+            "Name": "Kebia Berry",
+            "SourceTiers": [
+                "GEN91V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_PLAY_ROUGH",
+                "MOVE_AQUA_JET",
+                "MOVE_LIQUIDATION",
+                "MOVE_KNOCK_OFF"
+            ],
+            "Ability": "ABILITY_HUGE_POWER",
+            "Item": "ITEM_CHOICE_BAND",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": "TYPE_WATER",
+            "Name": "Choice Band",
+            "SourceTiers": [
+                "GEN91V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_PLAY_ROUGH",
+                "MOVE_LIQUIDATION",
+                "MOVE_SUPERPOWER",
+                "MOVE_AQUA_JET"
+            ],
+            "Ability": "ABILITY_HUGE_POWER",
+            "Item": "ITEM_ASSAULT_VEST",
+            "Nature": "NATURE_CAREFUL",
+            "HiddenPower": null,
+            "TeraType": "TYPE_WATER",
+            "Name": "AV",
+            "SourceTiers": [
+                "GEN91V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_CHILLING_WATER",
+                "MOVE_CHARM",
+                "MOVE_AMNESIA",
+                "MOVE_REST"
+            ],
+            "Ability": "ABILITY_SAP_SIPPER",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Stall",
+            "SourceTiers": [
+                "GEN91V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_BELLY_DRUM",
+                "MOVE_AQUA_JET",
+                "MOVE_KNOCK_OFF",
+                "MOVE_RETURN"
+            ],
+            "Ability": "ABILITY_HUGE_POWER",
+            "Item": "ITEM_NORMALIUM_Z",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Z-Belly Drum (Fairy)",
+            "SourceTiers": [
+                "GEN9NATIONALDEXMONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_AQUA_JET",
+                "MOVE_BELLY_DRUM",
+                "MOVE_PLAY_ROUGH",
+                "MOVE_KNOCK_OFF"
+            ],
+            "Ability": "ABILITY_HUGE_POWER",
+            "Item": "ITEM_SITRUS_BERRY",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN9NATIONALDEXMONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_LIQUIDATION",
+                "MOVE_AQUA_JET",
+                "MOVE_PLAY_ROUGH",
+                "MOVE_BOUNCE"
+            ],
+            "Item": "ITEM_LIFE_ORB",
+            "Ability": "ABILITY_HUGE_POWER",
+            "HiddenPower": null,
+            "SourceTiers": [
+                "GEN8BATTLESTADIUMSINGLES"
+            ],
+            "Name": "Bad Bunny (Huge Power Wallbreaker)",
+            "Nature": "NATURE_HARDY",
+            "TeraType": null
+        },
+        {
+            "Moves": [
+                "MOVE_WATERFALL",
+                "MOVE_PLAY_ROUGH",
+                "MOVE_AQUA_JET",
+                "MOVE_DRAIN_PUNCH"
+            ],
+            "Item": "ITEM_CHOICE_BAND",
+            "Ability": "ABILITY_HUGE_POWER",
+            "HiddenPower": null,
+            "SourceTiers": [
+                "GEN8BDSPOU"
+            ],
+            "Name": "Choice Band",
+            "Nature": "NATURE_HARDY",
+            "TeraType": null
+        }
+    ]
+}

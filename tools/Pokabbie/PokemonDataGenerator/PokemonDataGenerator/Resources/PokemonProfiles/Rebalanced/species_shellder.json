@@ -1,0 +1,230 @@
+{
+    "Species": "SPECIES_SHELLDER",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_TACKLE",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_WATER_GUN",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_WITHDRAW",
+            "Level": 4
+        },
+        {
+            "Move": "MOVE_ICE_SHARD",
+            "Level": 8
+        },
+        {
+            "Move": "MOVE_LEER",
+            "Level": 12
+        },
+        {
+            "Move": "MOVE_WHIRLPOOL",
+            "Level": 16
+        },
+        {
+            "Move": "MOVE_SUPERSONIC",
+            "Level": 20
+        },
+        {
+            "Move": "MOVE_AURORA_BEAM",
+            "Level": 24
+        },
+        {
+            "Move": "MOVE_PROTECT",
+            "Level": 28
+        },
+        {
+            "Move": "MOVE_RAZOR_SHELL",
+            "Level": 32
+        },
+        {
+            "Move": "MOVE_IRON_DEFENSE",
+            "Level": 36
+        },
+        {
+            "Move": "MOVE_ICE_BEAM",
+            "Level": 40
+        },
+        {
+            "Move": "MOVE_SHELL_SMASH",
+            "Level": 44
+        },
+        {
+            "Move": "MOVE_HYDRO_PUMP",
+            "Level": 48
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_HELPING_HAND",
+        "MOVE_ROCK_BLAST",
+        "MOVE_SPIKES",
+        "MOVE_CHILLING_WATER",
+        "MOVE_WATERFALL",
+        "MOVE_AQUA_RING",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_TAKE_DOWN",
+        "MOVE_SUBSTITUTE",
+        "MOVE_FACADE",
+        "MOVE_BUBBLE_BEAM",
+        "MOVE_ICICLE_SPEAR",
+        "MOVE_ICY_WIND",
+        "MOVE_SWIFT",
+        "MOVE_SLEEP_TALK",
+        "MOVE_AVALANCHE",
+        "MOVE_LIFE_DEW",
+        "MOVE_LIQUIDATION",
+        "MOVE_TERA_BLAST",
+        "MOVE_WATER_PULSE",
+        "MOVE_ENDURE",
+        "MOVE_MUD_SHOT",
+        "MOVE_ICE_SPINNER",
+        "MOVE_BLIZZARD",
+        "MOVE_SURF",
+        "MOVE_SNOWSCAPE",
+        "MOVE_RAIN_DANCE",
+        "MOVE_TOXIC_SPIKES",
+        "MOVE_REST"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_SHELL_SMASH",
+                "MOVE_ICICLE_SPEAR",
+                "MOVE_ROCK_BLAST",
+                "MOVE_PROTECT"
+            ],
+            "Ability": "ABILITY_SKILL_LINK",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Shell Smash",
+            "SourceTiers": [
+                "GEN6LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_ICICLE_SPEAR",
+                "MOVE_ROCK_BLAST",
+                "MOVE_SHELL_SMASH",
+                "MOVE_ICE_SHARD"
+            ],
+            "Ability": "ABILITY_SKILL_LINK",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SHELL_SMASH",
+                "MOVE_ICICLE_SPEAR",
+                "MOVE_ROCK_BLAST",
+                "MOVE_LIQUIDATION"
+            ],
+            "Ability": "ABILITY_SKILL_LINK",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_IMPISH",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "SMASHING",
+            "SourceTiers": [
+                "GEN7LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_ICICLE_SPEAR",
+                "MOVE_SHELL_SMASH",
+                "MOVE_ROCK_BLAST",
+                "MOVE_LIQUIDATION"
+            ],
+            "Ability": "ABILITY_SKILL_LINK",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_IMPISH",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SHELL_SMASH",
+                "MOVE_ICICLE_SPEAR",
+                "MOVE_ROCK_BLAST",
+                "MOVE_ICE_SHARD"
+            ],
+            "Ability": "ABILITY_SKILL_LINK",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Shell Smash",
+            "SourceTiers": [
+                "GEN8LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_ICICLE_SPEAR",
+                "MOVE_SHELL_SMASH",
+                "MOVE_ROCK_BLAST",
+                "MOVE_ICE_SHARD"
+            ],
+            "Ability": "ABILITY_SKILL_LINK",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SHELL_SMASH",
+                "MOVE_ICICLE_SPEAR",
+                "MOVE_LIQUIDATION",
+                "MOVE_ROCK_BLAST"
+            ],
+            "Ability": "ABILITY_SKILL_LINK",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": "TYPE_WATER",
+            "Name": "Shell Smash",
+            "SourceTiers": [
+                "GEN9LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SHELL_SMASH",
+                "MOVE_LIQUIDATION",
+                "MOVE_ROCK_BLAST",
+                "MOVE_ICICLE_SPEAR"
+            ],
+            "Ability": "ABILITY_SKILL_LINK",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN9LC"
+            ]
+        }
+    ]
+}

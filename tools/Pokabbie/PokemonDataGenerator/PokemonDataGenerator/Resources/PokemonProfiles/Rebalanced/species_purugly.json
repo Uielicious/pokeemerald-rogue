@@ -1,0 +1,253 @@
+{
+    "Species": "SPECIES_PURUGLY",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_SWAGGER",
+            "Level": "0"
+        },
+        {
+            "Move": "MOVE_SWAGGER",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_FAKE_OUT",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_SCRATCH",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_GROWL",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_SCRATCH",
+            "Level": "5"
+        },
+        {
+            "Move": "MOVE_GROWL",
+            "Level": "8"
+        },
+        {
+            "Move": "MOVE_HYPNOSIS",
+            "Level": "13"
+        },
+        {
+            "Move": "MOVE_FEINT_ATTACK",
+            "Level": "17"
+        },
+        {
+            "Move": "MOVE_FURY_SWIPES",
+            "Level": "20"
+        },
+        {
+            "Move": "MOVE_CHARM",
+            "Level": "25"
+        },
+        {
+            "Move": "MOVE_ASSIST",
+            "Level": "29"
+        },
+        {
+            "Move": "MOVE_CAPTIVATE",
+            "Level": "33"
+        },
+        {
+            "Move": "MOVE_SLASH",
+            "Level": "37"
+        },
+        {
+            "Move": "MOVE_SLACK_OFF",
+            "Level": "41"
+        },
+        {
+            "Move": "MOVE_BODY_SLAM",
+            "Level": "45"
+        },
+        {
+            "Move": "MOVE_ATTRACT",
+            "Level": "50"
+        },
+        {
+            "Move": "MOVE_DOUBLE_EDGE",
+            "Level": "55"
+        },
+        {
+            "Move": "MOVE_HONE_CLAWS",
+            "Level": "60"
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_SUPER_FANG",
+        "MOVE_ECHOED_VOICE",
+        "MOVE_SUCKER_PUNCH",
+        "MOVE_LAST_RESORT",
+        "MOVE_FRUSTRATION",
+        "MOVE_TOXIC",
+        "MOVE_BULLDOZE",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_WORK_UP",
+        "MOVE_KNOCK_OFF",
+        "MOVE_PAYBACK",
+        "MOVE_PROTECT",
+        "MOVE_SHADOW_CLAW",
+        "MOVE_THIEF",
+        "MOVE_THROAT_CHOP",
+        "MOVE_DREAM_EATER",
+        "MOVE_HYPER_BEAM",
+        "MOVE_IRON_TAIL",
+        "MOVE_SUBSTITUTE",
+        "MOVE_SUNNY_DAY",
+        "MOVE_FACADE",
+        "MOVE_STOMPING_TANTRUM",
+        "MOVE_CONFIDE",
+        "MOVE_SHADOW_BALL",
+        "MOVE_SLEEP_TALK",
+        "MOVE_ROAR",
+        "MOVE_GIGA_IMPACT",
+        "MOVE_THUNDERBOLT",
+        "MOVE_HYPER_VOICE",
+        "MOVE_COVET",
+        "MOVE_TERA_BLAST",
+        "MOVE_WATER_PULSE",
+        "MOVE_RETURN",
+        "MOVE_SHOCK_WAVE",
+        "MOVE_THUNDER",
+        "MOVE_PLAY_ROUGH",
+        "MOVE_FOUL_PLAY",
+        "MOVE_DOUBLE_TEAM",
+        "MOVE_ROUND",
+        "MOVE_SNORE",
+        "MOVE_RAIN_DANCE",
+        "MOVE_TORMENT",
+        "MOVE_SNATCH",
+        "MOVE_U_TURN",
+        "MOVE_PSYCH_UP",
+        "MOVE_CRUNCH",
+        "MOVE_AERIAL_ACE",
+        "MOVE_TAUNT",
+        "MOVE_REST"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_FAKE_OUT",
+                "MOVE_RETURN",
+                "MOVE_U_TURN",
+                "MOVE_SUCKER_PUNCH"
+            ],
+            "Ability": "ABILITY_DEFIANT",
+            "Item": "ITEM_SILK_SCARF",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Physical Attacker",
+            "SourceTiers": [
+                "GEN6NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FAKE_OUT",
+                "MOVE_RETURN",
+                "MOVE_SUCKER_PUNCH",
+                "MOVE_KNOCK_OFF"
+            ],
+            "Ability": "ABILITY_DEFIANT",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Physical Attacker",
+            "SourceTiers": [
+                "GEN6PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FAKE_OUT",
+                "MOVE_KNOCK_OFF",
+                "MOVE_RETURN",
+                "MOVE_U_TURN"
+            ],
+            "Ability": "ABILITY_DEFIANT",
+            "Item": "ITEM_SILK_SCARF",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FAKE_OUT",
+                "MOVE_RETURN",
+                "MOVE_SUCKER_PUNCH",
+                "MOVE_U_TURN"
+            ],
+            "Ability": "ABILITY_DEFIANT",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "All-out Attacker",
+            "SourceTiers": [
+                "GEN7PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FAKE_OUT",
+                "MOVE_RETURN",
+                "MOVE_KNOCK_OFF",
+                "MOVE_U_TURN"
+            ],
+            "Ability": "ABILITY_DEFIANT",
+            "Item": "ITEM_SILK_SCARF",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Defog Deterrent",
+            "SourceTiers": [
+                "GEN7ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FAKE_OUT",
+                "MOVE_U_TURN",
+                "MOVE_KNOCK_OFF",
+                "MOVE_RETURN"
+            ],
+            "Ability": "ABILITY_DEFIANT",
+            "Item": "ITEM_SILK_SCARF",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_TOXIC",
+                "MOVE_BODY_SLAM",
+                "MOVE_KNOCK_OFF",
+                "MOVE_SLACK_OFF"
+            ],
+            "Item": "ITEM_LEFTOVERS",
+            "Ability": "ABILITY_THICK_FAT",
+            "HiddenPower": null,
+            "SourceTiers": [
+                "GEN7PU"
+            ],
+            "Name": "A More Tanky Sort of Bitch",
+            "Nature": "NATURE_HARDY",
+            "TeraType": null
+        }
+    ]
+}

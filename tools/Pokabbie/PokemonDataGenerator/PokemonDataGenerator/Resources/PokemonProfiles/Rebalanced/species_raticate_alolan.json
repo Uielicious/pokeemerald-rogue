@@ -1,0 +1,159 @@
+{
+    "Species": "SPECIES_RATICATE_ALOLAN",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_SCARY_FACE",
+            "Level": 0
+        },
+        {
+            "Move": "MOVE_SWORDS_DANCE",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_TACKLE",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_TAIL_WHIP",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_QUICK_ATTACK",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_FOCUS_ENERGY",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_BITE",
+            "Level": 10
+        },
+        {
+            "Move": "MOVE_PURSUIT",
+            "Level": 13
+        },
+        {
+            "Move": "MOVE_HYPER_FANG",
+            "Level": 16
+        },
+        {
+            "Move": "MOVE_ASSURANCE",
+            "Level": 19
+        },
+        {
+            "Move": "MOVE_CRUNCH",
+            "Level": 24
+        },
+        {
+            "Move": "MOVE_SUCKER_PUNCH",
+            "Level": 29
+        },
+        {
+            "Move": "MOVE_SUPER_FANG",
+            "Level": 34
+        },
+        {
+            "Move": "MOVE_DOUBLE_EDGE",
+            "Level": 39
+        },
+        {
+            "Move": "MOVE_ENDEAVOR",
+            "Level": 44
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_ICE_BEAM",
+        "MOVE_SLUDGE_WAVE",
+        "MOVE_DARK_PULSE",
+        "MOVE_LAST_RESORT",
+        "MOVE_FRUSTRATION",
+        "MOVE_ATTRACT",
+        "MOVE_GRASS_KNOT",
+        "MOVE_ZEN_HEADBUTT",
+        "MOVE_MIMIC",
+        "MOVE_QUASH",
+        "MOVE_VENOSHOCK",
+        "MOVE_SWAGGER",
+        "MOVE_KNOCK_OFF",
+        "MOVE_PROTECT",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_SHADOW_CLAW",
+        "MOVE_THIEF",
+        "MOVE_THROAT_CHOP",
+        "MOVE_IRON_TAIL",
+        "MOVE_HYPER_BEAM",
+        "MOVE_SUBSTITUTE",
+        "MOVE_UPROAR",
+        "MOVE_SUNNY_DAY",
+        "MOVE_FACADE",
+        "MOVE_STOMPING_TANTRUM",
+        "MOVE_CONFIDE",
+        "MOVE_SHADOW_BALL",
+        "MOVE_ICY_WIND",
+        "MOVE_SWIFT",
+        "MOVE_SLEEP_TALK",
+        "MOVE_SLUDGE_BOMB",
+        "MOVE_ROAR",
+        "MOVE_MUD_SLAP",
+        "MOVE_REST",
+        "MOVE_GIGA_IMPACT",
+        "MOVE_EMBARGO",
+        "MOVE_COVET",
+        "MOVE_SNARL",
+        "MOVE_TERA_BLAST",
+        "MOVE_ENDURE",
+        "MOVE_RETURN",
+        "MOVE_SHOCK_WAVE",
+        "MOVE_COUNTER",
+        "MOVE_DOUBLE_TEAM",
+        "MOVE_ROUND",
+        "MOVE_BLIZZARD",
+        "MOVE_DEFENSE_CURL",
+        "MOVE_SNORE",
+        "MOVE_THUNDER_WAVE",
+        "MOVE_RAIN_DANCE",
+        "MOVE_BULK_UP",
+        "MOVE_TORMENT",
+        "MOVE_SNATCH",
+        "MOVE_U_TURN",
+        "MOVE_TAUNT",
+        "MOVE_BODY_SLAM"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_SWORDS_DANCE",
+                "MOVE_DOUBLE_EDGE",
+                "MOVE_KNOCK_OFF",
+                "MOVE_SUCKER_PUNCH"
+            ],
+            "Ability": "ABILITY_HUSTLE",
+            "Item": "ITEM_NORMALIUM_Z",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Swords Dance",
+            "SourceTiers": [
+                "GEN7PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_KNOCK_OFF",
+                "MOVE_SUCKER_PUNCH",
+                "MOVE_DOUBLE_EDGE",
+                "MOVE_PURSUIT"
+            ],
+            "Ability": "ABILITY_HUSTLE",
+            "Item": "ITEM_DREAD_PLATE",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7PU"
+            ]
+        }
+    ]
+}

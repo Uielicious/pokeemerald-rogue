@@ -1,0 +1,282 @@
+{
+    "Species": "SPECIES_ARBOK",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_CRUNCH",
+            "Level": "0"
+        },
+        {
+            "Move": "MOVE_CRUNCH",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_ICE_FANG",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_THUNDER_FANG",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_FIRE_FANG",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_WRAP",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_LEER",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_POISON_STING",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_BITE",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_POISON_STING",
+            "Level": "4"
+        },
+        {
+            "Move": "MOVE_BITE",
+            "Level": "9"
+        },
+        {
+            "Move": "MOVE_GLARE",
+            "Level": "12"
+        },
+        {
+            "Move": "MOVE_SCREECH",
+            "Level": "17"
+        },
+        {
+            "Move": "MOVE_ACID",
+            "Level": "20"
+        },
+        {
+            "Move": "MOVE_STOCKPILE",
+            "Level": "27"
+        },
+        {
+            "Move": "MOVE_SWALLOW",
+            "Level": "27"
+        },
+        {
+            "Move": "MOVE_SPIT_UP",
+            "Level": "27"
+        },
+        {
+            "Move": "MOVE_ACID_SPRAY",
+            "Level": "32"
+        },
+        {
+            "Move": "MOVE_POISON_FANG",
+            "Level": "36"
+        },
+        {
+            "Move": "MOVE_MUD_BOMB",
+            "Level": "40"
+        },
+        {
+            "Move": "MOVE_GASTRO_ACID",
+            "Level": "44"
+        },
+        {
+            "Move": "MOVE_BELCH",
+            "Level": "48"
+        },
+        {
+            "Move": "MOVE_HAZE",
+            "Level": "51"
+        },
+        {
+            "Move": "MOVE_COIL",
+            "Level": "56"
+        },
+        {
+            "Move": "MOVE_GUNK_SHOT",
+            "Level": "63"
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_PAIN_SPLIT",
+        "MOVE_SLUDGE_WAVE",
+        "MOVE_GIGA_DRAIN",
+        "MOVE_DARK_PULSE",
+        "MOVE_SUCKER_PUNCH",
+        "MOVE_LASH_OUT",
+        "MOVE_PSYCHIC_FANGS",
+        "MOVE_SKITTER_SMACK",
+        "MOVE_ROCK_TOMB",
+        "MOVE_TOXIC",
+        "MOVE_BULLDOZE",
+        "MOVE_VENOSHOCK",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_KNOCK_OFF",
+        "MOVE_POISON_TAIL",
+        "MOVE_PROTECT",
+        "MOVE_THIEF",
+        "MOVE_DOUBLE_EDGE",
+        "MOVE_TAKE_DOWN",
+        "MOVE_SEED_BOMB",
+        "MOVE_THROAT_CHOP",
+        "MOVE_BODY_SLAM",
+        "MOVE_HYPER_BEAM",
+        "MOVE_SUBSTITUTE",
+        "MOVE_SUNNY_DAY",
+        "MOVE_FACADE",
+        "MOVE_LEECH_LIFE",
+        "MOVE_STOMPING_TANTRUM",
+        "MOVE_SLEEP_TALK",
+        "MOVE_TRAILBLAZE",
+        "MOVE_MUD_SLAP",
+        "MOVE_SLUDGE_BOMB",
+        "MOVE_GIGA_IMPACT",
+        "MOVE_DIG",
+        "MOVE_EARTHQUAKE",
+        "MOVE_BREAKING_SWIPE",
+        "MOVE_SNARL",
+        "MOVE_TERA_BLAST",
+        "MOVE_ENDURE",
+        "MOVE_SPITE",
+        "MOVE_MUD_SHOT",
+        "MOVE_SWITCHEROO",
+        "MOVE_SCARY_FACE",
+        "MOVE_POISON_JAB",
+        "MOVE_AQUA_TAIL",
+        "MOVE_SCALE_SHOT",
+        "MOVE_RAIN_DANCE",
+        "MOVE_ROCK_SLIDE",
+        "MOVE_DRAGON_TAIL",
+        "MOVE_TOXIC_SPIKES",
+        "MOVE_REST"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_COIL",
+                "MOVE_GUNK_SHOT",
+                "MOVE_EARTHQUAKE",
+                "MOVE_SUCKER_PUNCH"
+            ],
+            "Ability": "ABILITY_INTIMIDATE",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Offensive Coil",
+            "SourceTiers": [
+                "GEN6NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_GUNK_SHOT",
+                "MOVE_COIL",
+                "MOVE_EARTHQUAKE",
+                "MOVE_SUCKER_PUNCH"
+            ],
+            "Ability": "ABILITY_INTIMIDATE",
+            "Item": "ITEM_BLACK_SLUDGE",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6NU",
+                "GEN7PU",
+                "GEN7ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_COIL",
+                "MOVE_GUNK_SHOT",
+                "MOVE_EARTHQUAKE",
+                "MOVE_SUCKER_PUNCH"
+            ],
+            "Ability": "ABILITY_INTIMIDATE",
+            "Item": "ITEM_BLACK_SLUDGE",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Offensive Coil",
+            "SourceTiers": [
+                "GEN6PU",
+                "GEN6PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_COIL",
+                "MOVE_GUNK_SHOT",
+                "MOVE_AQUA_TAIL",
+                "MOVE_SUCKER_PUNCH"
+            ],
+            "Ability": "ABILITY_INTIMIDATE",
+            "Item": "ITEM_WATERIUM_Z",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Offensive Coil",
+            "SourceTiers": [
+                "GEN7PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_COIL",
+                "MOVE_GUNK_SHOT",
+                "MOVE_SUCKER_PUNCH",
+                "MOVE_EARTHQUAKE"
+            ],
+            "Ability": "ABILITY_INTIMIDATE",
+            "Item": "ITEM_DARKINIUM_Z",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Coil",
+            "SourceTiers": [
+                "GEN7ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_GUNK_SHOT",
+                "MOVE_EARTHQUAKE",
+                "MOVE_CRUNCH",
+                "MOVE_SWITCHEROO"
+            ],
+            "Ability": "ABILITY_INTIMIDATE",
+            "Item": "ITEM_CHOICE_BAND",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Band",
+            "SourceTiers": [
+                "GEN7ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_GUNK_SHOT",
+                "MOVE_COIL",
+                "MOVE_EARTHQUAKE",
+                "MOVE_SCALE_SHOT"
+            ],
+            "Ability": "ABILITY_INTIMIDATE",
+            "Item": "ITEM_LOADED_DICE",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN9PU"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,402 @@
+{
+    "Species": "SPECIES_CACTURNE",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_SPIKY_SHIELD",
+            "Level": "0"
+        },
+        {
+            "Move": "MOVE_SPIKY_SHIELD",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_DESTINY_BOND",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_REVENGE",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_POISON_STING",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_LEER",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_ABSORB",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_GROWTH",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_ABSORB",
+            "Level": "4"
+        },
+        {
+            "Move": "MOVE_GROWTH",
+            "Level": "7"
+        },
+        {
+            "Move": "MOVE_LEECH_SEED",
+            "Level": "10"
+        },
+        {
+            "Move": "MOVE_SAND_ATTACK",
+            "Level": "13"
+        },
+        {
+            "Move": "MOVE_BULLET_SEED",
+            "Level": "16"
+        },
+        {
+            "Move": "MOVE_FEINT_ATTACK",
+            "Level": "19"
+        },
+        {
+            "Move": "MOVE_INGRAIN",
+            "Level": "22"
+        },
+        {
+            "Move": "MOVE_PAYBACK",
+            "Level": "26"
+        },
+        {
+            "Move": "MOVE_SPIKES",
+            "Level": "30"
+        },
+        {
+            "Move": "MOVE_SUCKER_PUNCH",
+            "Level": "35"
+        },
+        {
+            "Move": "MOVE_PIN_MISSILE",
+            "Level": "38"
+        },
+        {
+            "Move": "MOVE_NEEDLE_ARM",
+            "Level": "43"
+        },
+        {
+            "Move": "MOVE_ENERGY_BALL",
+            "Level": "48"
+        },
+        {
+            "Move": "MOVE_COTTON_SPORE",
+            "Level": "53"
+        },
+        {
+            "Move": "MOVE_SANDSTORM",
+            "Level": "58"
+        },
+        {
+            "Move": "MOVE_DESTINY_BOND",
+            "Level": "63"
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_SUPERPOWER",
+        "MOVE_GRASSY_TERRAIN",
+        "MOVE_THUNDER_PUNCH",
+        "MOVE_HELPING_HAND",
+        "MOVE_GIGA_DRAIN",
+        "MOVE_DARK_PULSE",
+        "MOVE_FLING",
+        "MOVE_SOLAR_BEAM",
+        "MOVE_LASH_OUT",
+        "MOVE_GRASS_KNOT",
+        "MOVE_LEAF_STORM",
+        "MOVE_SKITTER_SMACK",
+        "MOVE_SWORDS_DANCE",
+        "MOVE_ZEN_HEADBUTT",
+        "MOVE_BULLDOZE",
+        "MOVE_VENOSHOCK",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_KNOCK_OFF",
+        "MOVE_PROTECT",
+        "MOVE_THIEF",
+        "MOVE_GRASSY_GLIDE",
+        "MOVE_TAKE_DOWN",
+        "MOVE_SEED_BOMB",
+        "MOVE_THROAT_CHOP",
+        "MOVE_HYPER_BEAM",
+        "MOVE_SUBSTITUTE",
+        "MOVE_SCORCHING_SANDS",
+        "MOVE_LUNGE",
+        "MOVE_BRICK_BREAK",
+        "MOVE_ENDEAVOR",
+        "MOVE_FACADE",
+        "MOVE_MAGICAL_LEAF",
+        "MOVE_STOMPING_TANTRUM",
+        "MOVE_SHADOW_BALL",
+        "MOVE_SUNNY_DAY",
+        "MOVE_SWIFT",
+        "MOVE_SLEEP_TALK",
+        "MOVE_TRAILBLAZE",
+        "MOVE_REST",
+        "MOVE_ENCORE",
+        "MOVE_GIGA_IMPACT",
+        "MOVE_DIG",
+        "MOVE_NASTY_PLOT",
+        "MOVE_TERA_BLAST",
+        "MOVE_CURSE",
+        "MOVE_ENDURE",
+        "MOVE_SPITE",
+        "MOVE_ROCK_CLIMB",
+        "MOVE_FOCUS_BLAST",
+        "MOVE_FOUL_PLAY",
+        "MOVE_SCARY_FACE",
+        "MOVE_LOW_KICK",
+        "MOVE_POISON_JAB",
+        "MOVE_RAIN_DANCE",
+        "MOVE_DRAIN_PUNCH",
+        "MOVE_TOXIC_SPIKES",
+        "MOVE_TAUNT",
+        "MOVE_FOCUS_PUNCH",
+        "MOVE_BODY_SLAM"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_DARK_PULSE",
+                "MOVE_GIGA_DRAIN",
+                "MOVE_SUCKER_PUNCH",
+                "MOVE_SPIKES"
+            ],
+            "Ability": "ABILITY_WATER_ABSORB",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_MILD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Mixed Attacker",
+            "SourceTiers": [
+                "GEN6NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SUCKER_PUNCH",
+                "MOVE_SEED_BOMB",
+                "MOVE_DRAIN_PUNCH",
+                "MOVE_SWORDS_DANCE"
+            ],
+            "Ability": "ABILITY_WATER_ABSORB",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_ENERGY_BALL",
+                "MOVE_DARK_PULSE",
+                "MOVE_FOCUS_BLAST",
+                "MOVE_SUCKER_PUNCH"
+            ],
+            "Ability": "ABILITY_WATER_ABSORB",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_RASH",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Mixed Wallbreaker",
+            "SourceTiers": [
+                "GEN6PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SWORDS_DANCE",
+                "MOVE_SUCKER_PUNCH",
+                "MOVE_SEED_BOMB",
+                "MOVE_SUPERPOWER"
+            ],
+            "Ability": "ABILITY_WATER_ABSORB",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Swords Dance",
+            "SourceTiers": [
+                "GEN6PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SUCKER_PUNCH",
+                "MOVE_DARK_PULSE",
+                "MOVE_SEED_BOMB",
+                "MOVE_GIGA_DRAIN"
+            ],
+            "Ability": "ABILITY_WATER_ABSORB",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_RASH",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SPIKES",
+                "MOVE_DARK_PULSE",
+                "MOVE_SUCKER_PUNCH",
+                "MOVE_ENERGY_BALL"
+            ],
+            "Ability": "ABILITY_WATER_ABSORB",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_MILD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Offensive Spikes",
+            "SourceTiers": [
+                "GEN7PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SUCKER_PUNCH",
+                "MOVE_DARK_PULSE",
+                "MOVE_SWORDS_DANCE",
+                "MOVE_SEED_BOMB"
+            ],
+            "Ability": "ABILITY_WATER_ABSORB",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SPIKES",
+                "MOVE_GIGA_DRAIN",
+                "MOVE_DARK_PULSE",
+                "MOVE_SUCKER_PUNCH"
+            ],
+            "Ability": "ABILITY_WATER_ABSORB",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_MILD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Offensive Spikes",
+            "SourceTiers": [
+                "GEN7ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SWORDS_DANCE",
+                "MOVE_NEEDLE_ARM",
+                "MOVE_SUCKER_PUNCH",
+                "MOVE_SUPERPOWER"
+            ],
+            "Ability": "ABILITY_WATER_ABSORB",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Swords Dance",
+            "SourceTiers": [
+                "GEN7ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SUCKER_PUNCH",
+                "MOVE_DARK_PULSE",
+                "MOVE_SEED_BOMB",
+                "MOVE_GIGA_DRAIN"
+            ],
+            "Ability": "ABILITY_WATER_ABSORB",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_MILD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SPIKES",
+                "MOVE_LEAF_STORM",
+                "MOVE_SUCKER_PUNCH",
+                "MOVE_DARK_PULSE"
+            ],
+            "Ability": "ABILITY_WATER_ABSORB",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_NAIVE",
+            "HiddenPower": null,
+            "TeraType": "TYPE_GHOST",
+            "Name": "Offensive Spikes",
+            "SourceTiers": [
+                "GEN9NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SWORDS_DANCE",
+                "MOVE_SUCKER_PUNCH",
+                "MOVE_DRAIN_PUNCH",
+                "MOVE_SEED_BOMB"
+            ],
+            "Ability": "ABILITY_WATER_ABSORB",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": "TYPE_DARK",
+            "Name": "Swords Dance Sweeper",
+            "SourceTiers": [
+                "GEN9NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SUCKER_PUNCH",
+                "MOVE_SPIKES",
+                "MOVE_LEAF_STORM",
+                "MOVE_KNOCK_OFF"
+            ],
+            "Ability": "ABILITY_WATER_ABSORB",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_NAIVE",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN9NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SUCKER_PUNCH",
+                "MOVE_KNOCK_OFF",
+                "MOVE_SPIKES",
+                "MOVE_LEAF_STORM"
+            ],
+            "Ability": "ABILITY_WATER_ABSORB",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN9PU"
+            ]
+        }
+    ]
+}

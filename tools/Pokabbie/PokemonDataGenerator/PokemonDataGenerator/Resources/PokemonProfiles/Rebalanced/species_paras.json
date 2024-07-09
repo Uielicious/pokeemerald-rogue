@@ -1,0 +1,151 @@
+{
+    "Species": "SPECIES_PARAS",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_SCRATCH",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_STUN_SPORE",
+            "Level": "5"
+        },
+        {
+            "Move": "MOVE_POISON_POWDER",
+            "Level": "5"
+        },
+        {
+            "Move": "MOVE_ABSORB",
+            "Level": "9"
+        },
+        {
+            "Move": "MOVE_FURY_CUTTER",
+            "Level": "14"
+        },
+        {
+            "Move": "MOVE_SPORE",
+            "Level": "18"
+        },
+        {
+            "Move": "MOVE_SLASH",
+            "Level": "23"
+        },
+        {
+            "Move": "MOVE_GROWTH",
+            "Level": "27"
+        },
+        {
+            "Move": "MOVE_GIGA_DRAIN",
+            "Level": "32"
+        },
+        {
+            "Move": "MOVE_LUNGE",
+            "Level": "36"
+        },
+        {
+            "Move": "MOVE_AROMATHERAPY",
+            "Level": "41"
+        },
+        {
+            "Move": "MOVE_RAGE_POWDER",
+            "Level": "45"
+        },
+        {
+            "Move": "MOVE_CRABHAMMER",
+            "Level": "50"
+        },
+        {
+            "Move": "MOVE_X_SCISSOR",
+            "Level": "54"
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_GRASSY_TERRAIN",
+        "MOVE_NATURAL_GIFT",
+        "MOVE_WIDE_GUARD",
+        "MOVE_SOLAR_BEAM",
+        "MOVE_FRUSTRATION",
+        "MOVE_AGILITY",
+        "MOVE_ATTRACT",
+        "MOVE_GRASS_KNOT",
+        "MOVE_SWORDS_DANCE",
+        "MOVE_LIGHT_SCREEN",
+        "MOVE_VENOSHOCK",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_SWAGGER",
+        "MOVE_KNOCK_OFF",
+        "MOVE_PROTECT",
+        "MOVE_FLAIL",
+        "MOVE_BULLET_SEED",
+        "MOVE_THIEF",
+        "MOVE_SEED_BOMB",
+        "MOVE_SUBSTITUTE",
+        "MOVE_SUNNY_DAY",
+        "MOVE_BRICK_BREAK",
+        "MOVE_FACADE",
+        "MOVE_LEECH_LIFE",
+        "MOVE_SCREECH",
+        "MOVE_CONFIDE",
+        "MOVE_BUG_BITE",
+        "MOVE_SYNTHESIS",
+        "MOVE_FALSE_SWIPE",
+        "MOVE_SLEEP_TALK",
+        "MOVE_ENERGY_BALL",
+        "MOVE_SLUDGE_BOMB",
+        "MOVE_WORRY_SEED",
+        "MOVE_METAL_CLAW",
+        "MOVE_NATURE_POWER",
+        "MOVE_TERA_BLAST",
+        "MOVE_ENDURE",
+        "MOVE_RETURN",
+        "MOVE_PURSUIT",
+        "MOVE_COUNTER",
+        "MOVE_PSYBEAM",
+        "MOVE_SWEET_SCENT",
+        "MOVE_CROSS_POISON",
+        "MOVE_DOUBLE_TEAM",
+        "MOVE_ROUND",
+        "MOVE_AFTER_YOU",
+        "MOVE_SNORE",
+        "MOVE_ROTOTILLER",
+        "MOVE_FELL_STINGER",
+        "MOVE_LEECH_SEED",
+        "MOVE_AERIAL_ACE",
+        "MOVE_REST"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_SPORE",
+                "MOVE_KNOCK_OFF",
+                "MOVE_BULLET_SEED",
+                "MOVE_SYNTHESIS"
+            ],
+            "Ability": "ABILITY_DRY_SKIN",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_IMPISH",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Utility",
+            "SourceTiers": [
+                "GEN6LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SPORE",
+                "MOVE_KNOCK_OFF",
+                "MOVE_SEED_BOMB",
+                "MOVE_LEECH_LIFE"
+            ],
+            "Ability": "ABILITY_DRY_SKIN",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Spore Utility",
+            "SourceTiers": [
+                "GEN7LC"
+            ]
+        }
+    ]
+}

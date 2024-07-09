@@ -1,0 +1,83 @@
+{
+    "Species": "SPECIES_GOSSIFLEUR",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_SING",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_LEAFAGE",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_RAPID_SPIN",
+            "Level": 4
+        },
+        {
+            "Move": "MOVE_SWEET_SCENT",
+            "Level": 8
+        },
+        {
+            "Move": "MOVE_RAZOR_LEAF",
+            "Level": 12
+        },
+        {
+            "Move": "MOVE_ROUND",
+            "Level": 16
+        },
+        {
+            "Move": "MOVE_LEAF_TORNADO",
+            "Level": 21
+        },
+        {
+            "Move": "MOVE_SYNTHESIS",
+            "Level": 24
+        },
+        {
+            "Move": "MOVE_HYPER_VOICE",
+            "Level": 28
+        },
+        {
+            "Move": "MOVE_AROMATHERAPY",
+            "Level": 32
+        },
+        {
+            "Move": "MOVE_LEAF_STORM",
+            "Level": 36
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_GRASSY_TERRAIN",
+        "MOVE_HELPING_HAND",
+        "MOVE_GIGA_DRAIN",
+        "MOVE_SOLAR_BEAM",
+        "MOVE_SLEEP_POWDER",
+        "MOVE_GRASS_KNOT",
+        "MOVE_ATTRACT",
+        "MOVE_FRUSTRATION",
+        "MOVE_TOXIC",
+        "MOVE_LIGHT_SCREEN",
+        "MOVE_POLLEN_PUFF",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_PROTECT",
+        "MOVE_BULLET_SEED",
+        "MOVE_GRASSY_GLIDE",
+        "MOVE_SUBSTITUTE",
+        "MOVE_MAGICAL_LEAF",
+        "MOVE_FACADE",
+        "MOVE_SUNNY_DAY",
+        "MOVE_SLEEP_TALK",
+        "MOVE_ENERGY_BALL",
+        "MOVE_WORRY_SEED",
+        "MOVE_STUN_SPORE",
+        "MOVE_GROWTH",
+        "MOVE_ENDURE",
+        "MOVE_RETURN",
+        "MOVE_CHARM",
+        "MOVE_SNORE",
+        "MOVE_LEECH_SEED",
+        "MOVE_POISON_POWDER",
+        "MOVE_REST"
+    ],
+    "CompetitiveSets": []
+}

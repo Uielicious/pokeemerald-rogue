@@ -1,0 +1,301 @@
+{
+    "Species": "SPECIES_GARBODOR",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_POUND",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_POISON_GAS",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_RECYCLE",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_TOXIC_SPIKES",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_RECYCLE",
+            "Level": "3"
+        },
+        {
+            "Move": "MOVE_TOXIC_SPIKES",
+            "Level": "7"
+        },
+        {
+            "Move": "MOVE_ACID_SPRAY",
+            "Level": "12"
+        },
+        {
+            "Move": "MOVE_DOUBLE_SLAP",
+            "Level": "14"
+        },
+        {
+            "Move": "MOVE_SLUDGE",
+            "Level": "18"
+        },
+        {
+            "Move": "MOVE_STOCKPILE",
+            "Level": "23"
+        },
+        {
+            "Move": "MOVE_SWALLOW",
+            "Level": "23"
+        },
+        {
+            "Move": "MOVE_BODY_SLAM",
+            "Level": "25"
+        },
+        {
+            "Move": "MOVE_SLUDGE_BOMB",
+            "Level": "28"
+        },
+        {
+            "Move": "MOVE_CLEAR_SMOG",
+            "Level": "32"
+        },
+        {
+            "Move": "MOVE_CROSS_POISON",
+            "Level": "36"
+        },
+        {
+            "Move": "MOVE_TOXIC",
+            "Level": "40"
+        },
+        {
+            "Move": "MOVE_AMNESIA",
+            "Level": "44"
+        },
+        {
+            "Move": "MOVE_BELCH",
+            "Level": "49"
+        },
+        {
+            "Move": "MOVE_GUNK_SHOT",
+            "Level": "54"
+        },
+        {
+            "Move": "MOVE_EXPLOSION",
+            "Level": "59"
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_PAIN_SPLIT",
+        "MOVE_SUPERPOWER",
+        "MOVE_SLUDGE_WAVE",
+        "MOVE_THUNDER_PUNCH",
+        "MOVE_GIGA_DRAIN",
+        "MOVE_FLING",
+        "MOVE_DARK_PULSE",
+        "MOVE_SOLAR_BEAM",
+        "MOVE_ATTRACT",
+        "MOVE_ROCK_BLAST",
+        "MOVE_SPIKES",
+        "MOVE_VENOSHOCK",
+        "MOVE_PAYBACK",
+        "MOVE_PROTECT",
+        "MOVE_THIEF",
+        "MOVE_SEED_BOMB",
+        "MOVE_HYPER_BEAM",
+        "MOVE_SUBSTITUTE",
+        "MOVE_SUNNY_DAY",
+        "MOVE_FACADE",
+        "MOVE_SCREECH",
+        "MOVE_STOMPING_TANTRUM",
+        "MOVE_SLEEP_TALK",
+        "MOVE_PSYCHIC",
+        "MOVE_GIGA_IMPACT",
+        "MOVE_THUNDERBOLT",
+        "MOVE_EARTHQUAKE",
+        "MOVE_ICE_PUNCH",
+        "MOVE_ENDURE",
+        "MOVE_SELF_DESTRUCT",
+        "MOVE_FOCUS_BLAST",
+        "MOVE_FIRE_PUNCH",
+        "MOVE_ROUND",
+        "MOVE_SNORE",
+        "MOVE_RAIN_DANCE",
+        "MOVE_VENOM_DRENCH",
+        "MOVE_DRAIN_PUNCH",
+        "MOVE_CORROSIVE_GAS",
+        "MOVE_BODY_PRESS",
+        "MOVE_REST"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_SPIKES",
+                "MOVE_FIRE_PUNCH",
+                "MOVE_GUNK_SHOT",
+                "MOVE_TOXIC"
+            ],
+            "Ability": "ABILITY_TOXIC_DEBRIS",
+            "Item": "ITEM_ROCKY_HELMET",
+            "Nature": "NATURE_IMPISH",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Defensive Hazard Stack",
+            "SourceTiers": [
+                "GEN6RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SPIKES",
+                "MOVE_FIRE_PUNCH",
+                "MOVE_GUNK_SHOT",
+                "MOVE_SEED_BOMB"
+            ],
+            "Ability": "ABILITY_TOXIC_DEBRIS",
+            "Item": "ITEM_ROCKY_HELMET",
+            "Nature": "NATURE_IMPISH",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Defensive Spikes",
+            "SourceTiers": [
+                "GEN6NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SPIKES",
+                "MOVE_GUNK_SHOT",
+                "MOVE_DRAIN_PUNCH",
+                "MOVE_SEED_BOMB"
+            ],
+            "Ability": "ABILITY_TOXIC_DEBRIS",
+            "Item": "ITEM_ROCKY_HELMET",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Offensive",
+            "SourceTiers": [
+                "GEN6NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_GUNK_SHOT",
+                "MOVE_SPIKES",
+                "MOVE_FIRE_PUNCH",
+                "MOVE_DRAIN_PUNCH"
+            ],
+            "Ability": "ABILITY_TOXIC_DEBRIS",
+            "Item": "ITEM_ROCKY_HELMET",
+            "Nature": "NATURE_IMPISH",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_GUNK_SHOT",
+                "MOVE_TOXIC",
+                "MOVE_SPIKES",
+                "MOVE_PAIN_SPLIT"
+            ],
+            "Ability": "ABILITY_TOXIC_DEBRIS",
+            "Item": "ITEM_ROCKY_HELMET",
+            "Nature": "NATURE_IMPISH",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Physically Defensive Spikes",
+            "SourceTiers": [
+                "GEN7RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_GUNK_SHOT",
+                "MOVE_SPIKES",
+                "MOVE_EARTHQUAKE",
+                "MOVE_EXPLOSION"
+            ],
+            "Ability": "ABILITY_TOXIC_DEBRIS",
+            "Item": "ITEM_TOXIC_PLATE",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Offensive Spikes Setter",
+            "SourceTiers": [
+                "GEN7NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_GUNK_SHOT",
+                "MOVE_SPIKES",
+                "MOVE_DRAIN_PUNCH",
+                "MOVE_PAIN_SPLIT"
+            ],
+            "Ability": "ABILITY_TOXIC_DEBRIS",
+            "Item": "ITEM_BLACK_SLUDGE",
+            "Nature": "NATURE_CAREFUL",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Defensive Spikes Setter",
+            "SourceTiers": [
+                "GEN7NU",
+                "GEN7NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_GUNK_SHOT",
+                "MOVE_SPIKES",
+                "MOVE_EARTHQUAKE",
+                "MOVE_PAIN_SPLIT"
+            ],
+            "Ability": "ABILITY_TOXIC_DEBRIS",
+            "Item": "ITEM_ROCKY_HELMET",
+            "Nature": "NATURE_IMPISH",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Defensive",
+            "SourceTiers": [
+                "GEN8NU",
+                "GEN8NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SPIKES",
+                "MOVE_CROSS_POISON",
+                "MOVE_EARTHQUAKE",
+                "MOVE_PAIN_SPLIT"
+            ],
+            "Ability": "ABILITY_TOXIC_DEBRIS",
+            "Item": "ITEM_ROCKY_HELMET",
+            "Nature": "NATURE_IMPISH",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Spiker",
+            "SourceTiers": [
+                "GEN8PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_GUNK_SHOT",
+                "MOVE_SPIKES",
+                "MOVE_FIRE_PUNCH",
+                "MOVE_STOMPING_TANTRUM"
+            ],
+            "Ability": "ABILITY_TOXIC_DEBRIS",
+            "Item": "ITEM_BLACK_SLUDGE",
+            "Nature": "NATURE_IMPISH",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8PU"
+            ]
+        }
+    ]
+}

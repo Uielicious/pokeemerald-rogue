@@ -3431,10 +3431,17 @@ static const u8 sTM99Desc[] = _( // Todo
 static const u8 sTM100Desc[] = _( // Todo
     "?????");
 
-static const u8 sHM01Desc[] = _(
-    "Attacks the foe\n"
-    "with sharp blades\n"
-    "or claws.");
+#ifdef ROGUE_DRAYANO
+    static const u8 sHM01Desc[] = _(
+        "Cuts with blades\n"
+        "or claws. Has a high\n"
+        "critical-hit ratio.");
+#else
+    static const u8 sHM01Desc[] = _(
+        "Attacks the foe\n"
+        "with sharp blades\n"
+        "or claws.");
+#endif
 
 static const u8 sHM02Desc[] = _(
     "Flies up on the\n"
@@ -3446,10 +3453,17 @@ static const u8 sHM03Desc[] = _(
     "wave, then crashes\n"
     "it down on the foe.");
 
-static const u8 sHM04Desc[] = _(
-    "Builds enormous\n"
-    "power, then slams\n"
-    "the foe.");
+#ifdef ROGUE_DRAYANO
+    static const u8 sHM04Desc[] = _(
+        "Slams the foe\n"
+        "powerfully. May\n"
+        "raise Attack.");
+#else
+    static const u8 sHM04Desc[] = _(
+        "Builds enormous\n"
+        "power, then slams\n"
+        "the foe.");
+#endif
 
 static const u8 sHM05Desc[] = _(
     "Looses a powerful\n"

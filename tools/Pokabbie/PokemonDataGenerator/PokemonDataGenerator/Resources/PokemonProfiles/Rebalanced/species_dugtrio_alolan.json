@@ -1,0 +1,323 @@
+{
+    "Species": "SPECIES_DUGTRIO_ALOLAN",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_SAND_TOMB",
+            "Level": 0
+        },
+        {
+            "Move": "MOVE_SAND_ATTACK",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_GROWL",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_TRI_ATTACK",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_METAL_CLAW",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_ASTONISH",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_NIGHT_SLASH",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_MUD_SLAP",
+            "Level": 12
+        },
+        {
+            "Move": "MOVE_BULLDOZE",
+            "Level": 16
+        },
+        {
+            "Move": "MOVE_SUCKER_PUNCH",
+            "Level": 20
+        },
+        {
+            "Move": "MOVE_IRON_HEAD",
+            "Level": 24
+        },
+        {
+            "Move": "MOVE_SANDSTORM",
+            "Level": 30
+        },
+        {
+            "Move": "MOVE_DIG",
+            "Level": 36
+        },
+        {
+            "Move": "MOVE_EARTH_POWER",
+            "Level": 42
+        },
+        {
+            "Move": "MOVE_EARTHQUAKE",
+            "Level": 48
+        },
+        {
+            "Move": "MOVE_FISSURE",
+            "Level": 54
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_SLUDGE_WAVE",
+        "MOVE_HELPING_HAND",
+        "MOVE_SWORDS_DANCE",
+        "MOVE_AGILITY",
+        "MOVE_ROCK_BLAST",
+        "MOVE_ROCK_TOMB",
+        "MOVE_MIMIC",
+        "MOVE_STEEL_BEAM",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_STONE_EDGE",
+        "MOVE_SWAGGER",
+        "MOVE_PROTECT",
+        "MOVE_THROAT_CHOP",
+        "MOVE_SHADOW_CLAW",
+        "MOVE_DOUBLE_EDGE",
+        "MOVE_IRON_DEFENSE",
+        "MOVE_TAKE_DOWN",
+        "MOVE_THIEF",
+        "MOVE_METAL_SOUND",
+        "MOVE_HYPER_BEAM",
+        "MOVE_SUBSTITUTE",
+        "MOVE_SCORCHING_SANDS",
+        "MOVE_SUNNY_DAY",
+        "MOVE_ENDEAVOR",
+        "MOVE_FACADE",
+        "MOVE_STOMPING_TANTRUM",
+        "MOVE_UPROAR",
+        "MOVE_REVERSAL",
+        "MOVE_STEALTH_ROCK",
+        "MOVE_SLEEP_TALK",
+        "MOVE_SLUDGE_BOMB",
+        "MOVE_REST",
+        "MOVE_GIGA_IMPACT",
+        "MOVE_TERA_BLAST",
+        "MOVE_CURSE",
+        "MOVE_ENDURE",
+        "MOVE_MUD_SHOT",
+        "MOVE_PURSUIT",
+        "MOVE_FOUL_PLAY",
+        "MOVE_CHARM",
+        "MOVE_SCARY_FACE",
+        "MOVE_SNORE",
+        "MOVE_SMACK_DOWN",
+        "MOVE_ROCK_SLIDE",
+        "MOVE_BODY_SLAM",
+        "MOVE_FLASH_CANNON"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_EARTHQUAKE",
+                "MOVE_IRON_HEAD",
+                "MOVE_SUBSTITUTE",
+                "MOVE_STEALTH_ROCK"
+            ],
+            "Ability": "ABILITY_TANGLING_HAIR",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Substitute + Toxic",
+            "SourceTiers": [
+                "GEN7PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_EARTHQUAKE",
+                "MOVE_IRON_HEAD",
+                "MOVE_SUCKER_PUNCH",
+                "MOVE_PURSUIT"
+            ],
+            "Ability": "ABILITY_TANGLING_HAIR",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "All-out Attacker",
+            "SourceTiers": [
+                "GEN7PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_EARTHQUAKE",
+                "MOVE_IRON_HEAD",
+                "MOVE_STEALTH_ROCK",
+                "MOVE_SUCKER_PUNCH"
+            ],
+            "Ability": "ABILITY_TANGLING_HAIR",
+            "Item": "ITEM_FOCUS_SASH",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_EARTHQUAKE",
+                "MOVE_ROCK_SLIDE",
+                "MOVE_STEALTH_ROCK",
+                "MOVE_SUCKER_PUNCH"
+            ],
+            "Ability": null,
+            "Item": null,
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Standard",
+            "SourceTiers": [
+                "GEN7LETSGOOU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_EARTHQUAKE",
+                "MOVE_SUCKER_PUNCH",
+                "MOVE_ROCK_SLIDE",
+                "MOVE_STEALTH_ROCK"
+            ],
+            "Ability": null,
+            "Item": null,
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7LETSGOOU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_EARTHQUAKE",
+                "MOVE_IRON_HEAD",
+                "MOVE_SUCKER_PUNCH",
+                "MOVE_ROCK_SLIDE"
+            ],
+            "Ability": "ABILITY_SAND_FORCE",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Sand Wallbreaker",
+            "SourceTiers": [
+                "GEN8PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_EARTHQUAKE",
+                "MOVE_IRON_HEAD",
+                "MOVE_STONE_EDGE",
+                "MOVE_SUCKER_PUNCH"
+            ],
+            "Ability": "ABILITY_TANGLING_HAIR",
+            "Item": "ITEM_CHOICE_BAND",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SUBSTITUTE",
+                "MOVE_STEALTH_ROCK",
+                "MOVE_EARTHQUAKE",
+                "MOVE_IRON_HEAD"
+            ],
+            "Ability": "ABILITY_TANGLING_HAIR",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "SubToxic",
+            "SourceTiers": [
+                "GEN8ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_STEALTH_ROCK",
+                "MOVE_EARTHQUAKE",
+                "MOVE_IRON_HEAD",
+                "MOVE_SUCKER_PUNCH"
+            ],
+            "Ability": "ABILITY_TANGLING_HAIR",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Offensive Stealth Rock",
+            "SourceTiers": [
+                "GEN8ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_IRON_HEAD",
+                "MOVE_EARTHQUAKE",
+                "MOVE_STEALTH_ROCK",
+                "MOVE_SUCKER_PUNCH"
+            ],
+            "Ability": "ABILITY_TANGLING_HAIR",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_EARTHQUAKE",
+                "MOVE_IRON_HEAD",
+                "MOVE_SUCKER_PUNCH",
+                "MOVE_STONE_EDGE"
+            ],
+            "Ability": "ABILITY_TANGLING_HAIR",
+            "Item": "ITEM_CHOICE_BAND",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN9PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_STEALTH_ROCK",
+                "MOVE_EARTHQUAKE",
+                "MOVE_IRON_HEAD",
+                "MOVE_STONE_EDGE"
+            ],
+            "Ability": "ABILITY_TANGLING_HAIR",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": "TYPE_STEEL",
+            "Name": "Fast Attacker",
+            "SourceTiers": [
+                "GEN9ZU"
+            ]
+        }
+    ]
+}

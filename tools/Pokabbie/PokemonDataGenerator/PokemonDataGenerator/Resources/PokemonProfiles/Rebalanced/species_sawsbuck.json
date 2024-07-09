@@ -1,0 +1,370 @@
+{
+    "Species": "SPECIES_SAWSBUCK",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_HORN_LEECH",
+            "Level": "0"
+        },
+        {
+            "Move": "MOVE_HORN_LEECH",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_MEGAHORN",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_TACKLE",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_CAMOUFLAGE",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_GROWL",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_SAND_ATTACK",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_GROWL",
+            "Level": "4"
+        },
+        {
+            "Move": "MOVE_SAND_ATTACK",
+            "Level": "7"
+        },
+        {
+            "Move": "MOVE_DOUBLE_KICK",
+            "Level": "10"
+        },
+        {
+            "Move": "MOVE_LEECH_SEED",
+            "Level": "13"
+        },
+        {
+            "Move": "MOVE_FEINT_ATTACK",
+            "Level": "16"
+        },
+        {
+            "Move": "MOVE_TAKE_DOWN",
+            "Level": "20"
+        },
+        {
+            "Move": "MOVE_JUMP_KICK",
+            "Level": "24"
+        },
+        {
+            "Move": "MOVE_AROMATHERAPY",
+            "Level": "28"
+        },
+        {
+            "Move": "MOVE_ENERGY_BALL",
+            "Level": "32"
+        },
+        {
+            "Move": "MOVE_CHARM",
+            "Level": "36"
+        },
+        {
+            "Move": "MOVE_LUNGE",
+            "Level": "40"
+        },
+        {
+            "Move": "MOVE_NATURE_POWER",
+            "Level": "44"
+        },
+        {
+            "Move": "MOVE_HIGH_HORSEPOWER",
+            "Level": "48"
+        },
+        {
+            "Move": "MOVE_DOUBLE_EDGE",
+            "Level": "52"
+        },
+        {
+            "Move": "MOVE_CAPTIVATE",
+            "Level": "56"
+        },
+        {
+            "Move": "MOVE_SOLAR_BEAM",
+            "Level": "60"
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_GRASSY_TERRAIN",
+        "MOVE_HELPING_HAND",
+        "MOVE_SMART_STRIKE",
+        "MOVE_GIGA_DRAIN",
+        "MOVE_LAST_RESORT",
+        "MOVE_GRASS_KNOT",
+        "MOVE_AGILITY",
+        "MOVE_LEAF_STORM",
+        "MOVE_SWORDS_DANCE",
+        "MOVE_ZEN_HEADBUTT",
+        "MOVE_BULLDOZE",
+        "MOVE_LIGHT_SCREEN",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_PROTECT",
+        "MOVE_BATON_PASS",
+        "MOVE_THROAT_CHOP",
+        "MOVE_BULLET_SEED",
+        "MOVE_GRASSY_GLIDE",
+        "MOVE_HEADBUTT",
+        "MOVE_SEED_BOMB",
+        "MOVE_BODY_SLAM",
+        "MOVE_HYPER_BEAM",
+        "MOVE_SUBSTITUTE",
+        "MOVE_MAGICAL_LEAF",
+        "MOVE_ENDEAVOR",
+        "MOVE_FACADE",
+        "MOVE_STOMPING_TANTRUM",
+        "MOVE_SUNNY_DAY",
+        "MOVE_SHADOW_BALL",
+        "MOVE_SLEEP_TALK",
+        "MOVE_TRAILBLAZE",
+        "MOVE_WILD_CHARGE",
+        "MOVE_GIGA_IMPACT",
+        "MOVE_DIG",
+        "MOVE_FAKE_TEARS",
+        "MOVE_PETAL_BLIZZARD",
+        "MOVE_TERA_BLAST",
+        "MOVE_CURSE",
+        "MOVE_ENDURE",
+        "MOVE_ROCK_CLIMB",
+        "MOVE_PLAY_ROUGH",
+        "MOVE_STRENGTH",
+        "MOVE_LOW_SWEEP",
+        "MOVE_THUNDER_WAVE",
+        "MOVE_RAIN_DANCE",
+        "MOVE_AERIAL_ACE",
+        "MOVE_REST"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_SWORDS_DANCE",
+                "MOVE_HORN_LEECH",
+                "MOVE_DOUBLE_EDGE",
+                "MOVE_JUMP_KICK"
+            ],
+            "Ability": "ABILITY_SAP_SIPPER",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Swords Dance Sweeper",
+            "SourceTiers": [
+                "GEN6NU",
+                "GEN6PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_HORN_LEECH",
+                "MOVE_SWORDS_DANCE",
+                "MOVE_JUMP_KICK",
+                "MOVE_MEGAHORN"
+            ],
+            "Ability": "ABILITY_SAP_SIPPER",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_DOUBLE_EDGE",
+                "MOVE_HORN_LEECH",
+                "MOVE_JUMP_KICK",
+                "MOVE_THUNDER_WAVE"
+            ],
+            "Ability": "ABILITY_SAP_SIPPER",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Scarf",
+            "SourceTiers": [
+                "GEN6PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_HORN_LEECH",
+                "MOVE_JUMP_KICK",
+                "MOVE_DOUBLE_EDGE",
+                "MOVE_SWORDS_DANCE"
+            ],
+            "Ability": "ABILITY_SAP_SIPPER",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SWORDS_DANCE",
+                "MOVE_DOUBLE_EDGE",
+                "MOVE_HORN_LEECH",
+                "MOVE_JUMP_KICK"
+            ],
+            "Ability": "ABILITY_SAP_SIPPER",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Swords Dance",
+            "SourceTiers": [
+                "GEN6ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_DOUBLE_EDGE",
+                "MOVE_HORN_LEECH",
+                "MOVE_JUMP_KICK",
+                "MOVE_MEGAHORN"
+            ],
+            "Ability": "ABILITY_SAP_SIPPER",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Scarf",
+            "SourceTiers": [
+                "GEN6ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SWORDS_DANCE",
+                "MOVE_DOUBLE_EDGE",
+                "MOVE_HORN_LEECH",
+                "MOVE_JUMP_KICK"
+            ],
+            "Ability": "ABILITY_CHLOROPHYLL",
+            "Item": "ITEM_NORMALIUM_Z",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Sun Sweeper",
+            "SourceTiers": [
+                "GEN7PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_HORN_LEECH",
+                "MOVE_SWORDS_DANCE",
+                "MOVE_JUMP_KICK",
+                "MOVE_HEADBUTT"
+            ],
+            "Ability": "ABILITY_CHLOROPHYLL",
+            "Item": "ITEM_NORMALIUM_Z",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_DOUBLE_EDGE",
+                "MOVE_HORN_LEECH",
+                "MOVE_JUMP_KICK",
+                "MOVE_HEADBUTT"
+            ],
+            "Ability": "ABILITY_SERENE_GRACE",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Dasher (Choice Scarf)",
+            "SourceTiers": [
+                "GEN7ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_HORN_LEECH",
+                "MOVE_DOUBLE_EDGE",
+                "MOVE_JUMP_KICK",
+                "MOVE_SWORDS_DANCE"
+            ],
+            "Ability": "ABILITY_SAP_SIPPER",
+            "Item": "ITEM_NORMALIUM_Z",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Dancer (Swords Dance)",
+            "SourceTiers": [
+                "GEN7ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_HORN_LEECH",
+                "MOVE_JUMP_KICK",
+                "MOVE_SWORDS_DANCE",
+                "MOVE_DOUBLE_EDGE"
+            ],
+            "Ability": "ABILITY_SERENE_GRACE",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_HORN_LEECH",
+                "MOVE_SWORDS_DANCE",
+                "MOVE_HEADBUTT",
+                "MOVE_HIGH_HORSEPOWER"
+            ],
+            "Ability": "ABILITY_SERENE_GRACE",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN9PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SWORDS_DANCE",
+                "MOVE_HORN_LEECH",
+                "MOVE_HIGH_HORSEPOWER",
+                "MOVE_ROCK_CLIMB"
+            ],
+            "Item": "ITEM_LIFE_ORB",
+            "Ability": "ABILITY_SAP_SIPPER",
+            "HiddenPower": null,
+            "SourceTiers": [
+                "GEN7PU"
+            ],
+            "Name": "Swords Dance (new moves)",
+            "Nature": "NATURE_HARDY",
+            "TeraType": null
+        }
+    ]
+}

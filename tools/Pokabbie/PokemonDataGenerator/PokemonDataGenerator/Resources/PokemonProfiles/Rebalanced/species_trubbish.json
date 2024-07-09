@@ -1,0 +1,196 @@
+{
+    "Species": "SPECIES_TRUBBISH",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_POUND",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_POISON_GAS",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_RECYCLE",
+            "Level": "3"
+        },
+        {
+            "Move": "MOVE_TOXIC_SPIKES",
+            "Level": "7"
+        },
+        {
+            "Move": "MOVE_ACID_SPRAY",
+            "Level": "12"
+        },
+        {
+            "Move": "MOVE_DOUBLE_SLAP",
+            "Level": "14"
+        },
+        {
+            "Move": "MOVE_SLUDGE",
+            "Level": "18"
+        },
+        {
+            "Move": "MOVE_STOCKPILE",
+            "Level": "23"
+        },
+        {
+            "Move": "MOVE_SWALLOW",
+            "Level": "23"
+        },
+        {
+            "Move": "MOVE_TAKE_DOWN",
+            "Level": "25"
+        },
+        {
+            "Move": "MOVE_SLUDGE_BOMB",
+            "Level": "28"
+        },
+        {
+            "Move": "MOVE_CLEAR_SMOG",
+            "Level": "32"
+        },
+        {
+            "Move": "MOVE_CROSS_POISON",
+            "Level": "35"
+        },
+        {
+            "Move": "MOVE_TOXIC",
+            "Level": "38"
+        },
+        {
+            "Move": "MOVE_AMNESIA",
+            "Level": "41"
+        },
+        {
+            "Move": "MOVE_BELCH",
+            "Level": "43"
+        },
+        {
+            "Move": "MOVE_GUNK_SHOT",
+            "Level": "45"
+        },
+        {
+            "Move": "MOVE_EXPLOSION",
+            "Level": "47"
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_SLUDGE_WAVE",
+        "MOVE_GIGA_DRAIN",
+        "MOVE_DARK_PULSE",
+        "MOVE_ROCK_BLAST",
+        "MOVE_ATTRACT",
+        "MOVE_SPIKES",
+        "MOVE_AUTOTOMIZE",
+        "MOVE_VENOSHOCK",
+        "MOVE_PAYBACK",
+        "MOVE_PROTECT",
+        "MOVE_THIEF",
+        "MOVE_SEED_BOMB",
+        "MOVE_SUBSTITUTE",
+        "MOVE_SUNNY_DAY",
+        "MOVE_FACADE",
+        "MOVE_SLEEP_TALK",
+        "MOVE_HAZE",
+        "MOVE_ROLLOUT",
+        "MOVE_CURSE",
+        "MOVE_ENDURE",
+        "MOVE_SELF_DESTRUCT",
+        "MOVE_ROUND",
+        "MOVE_SAND_ATTACK",
+        "MOVE_SNORE",
+        "MOVE_RAIN_DANCE",
+        "MOVE_VENOM_DRENCH",
+        "MOVE_DRAIN_PUNCH",
+        "MOVE_CORROSIVE_GAS",
+        "MOVE_REST"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_SPIKES",
+                "MOVE_TOXIC_SPIKES",
+                "MOVE_GUNK_SHOT",
+                "MOVE_PAIN_SPLIT"
+            ],
+            "Ability": "ABILITY_STICKY_HOLD",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_IMPISH",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Defensive Spikes",
+            "SourceTiers": [
+                "GEN6ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SPIKES",
+                "MOVE_RECYCLE",
+                "MOVE_CROSS_POISON",
+                "MOVE_DRAIN_PUNCH"
+            ],
+            "Ability": "ABILITY_STICKY_HOLD",
+            "Item": "ITEM_BERRY_JUICE",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Spikes",
+            "SourceTiers": [
+                "GEN6LC",
+                "GEN7LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_RECYCLE",
+                "MOVE_DRAIN_PUNCH",
+                "MOVE_GUNK_SHOT",
+                "MOVE_SPIKES"
+            ],
+            "Ability": "ABILITY_STICKY_HOLD",
+            "Item": "ITEM_BERRY_JUICE",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_DRAIN_PUNCH",
+                "MOVE_GUNK_SHOT",
+                "MOVE_RECYCLE",
+                "MOVE_SPIKES"
+            ],
+            "Ability": "ABILITY_STICKY_HOLD",
+            "Item": "ITEM_BERRY_JUICE",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SPIKES",
+                "MOVE_DRAIN_PUNCH",
+                "MOVE_EXPLOSION",
+                "MOVE_GIGA_DRAIN"
+            ],
+            "Ability": "ABILITY_STICKY_HOLD",
+            "Item": "ITEM_EJECT_BUTTON",
+            "Nature": "NATURE_NAIVE",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Spikes",
+            "SourceTiers": [
+                "GEN8LC"
+            ]
+        }
+    ]
+}

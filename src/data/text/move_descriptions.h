@@ -69,8 +69,13 @@ static const u8 sSwordsDanceDescription[] = _(
     "sharply raises Attack.");
 
 static const u8 sCutDescription[] = _(
+#ifdef ROGUE_DRAYANO
+    "Cuts the foe with sharp\n"
+    "implements. High crit ratio.");
+#else
     "Cuts the foe with sharp\n"
     "scythes, claws, etc.");
+#endif
 
 static const u8 sGustDescription[] = _(
     "Strikes the foe with a gust\n"
@@ -116,9 +121,15 @@ static const u8 sJumpKickDescription[] = _(
     "A strong jumping kick. May\n"
     "miss and hurt the kicker.");
 
+
 static const u8 sRollingKickDescription[] = _(
+#ifdef ROGUE_DRAYANO
+    "A roundhouse kick that\n"
+    "may make the target flinch.");
+#else
     "A fast kick delivered from\n"
     "a rapid spin.");
+#endif
 
 static const u8 sSandAttackDescription[] = _(
     "Reduces the foe's accuracy\n"
@@ -205,8 +216,8 @@ static const u8 sSupersonicDescription[] = _(
     "that may confuse the foe.");
 
 static const u8 sSonicBoomDescription[] = _(
-    "Launches shock waves that\n"
-    "always inflict 20 HP damage.");
+    "Shock waves that inflict\n"
+    "user's level in damage.");
 
 static const u8 sDisableDescription[] = _(
     "Psychically disables one of\n"
@@ -301,8 +312,13 @@ static const u8 sSeismicTossDescription[] = _(
     "to the user's level.");
 
 static const u8 sStrengthDescription[] = _(
+#ifdef ROGUE_DRAYANO
+    "Slams the foe with great\n"
+    "power. May raise Attack.");
+#else
     "Builds enormous power,\n"
     "then slams the foe.");
+#endif
 
 static const u8 sAbsorbDescription[] = _(
     "An attack that absorbs\n"
@@ -349,8 +365,8 @@ static const u8 sStringShotDescription[] = _(
     "to reduce its Speed.");
 
 static const u8 sDragonRageDescription[] = _(
-    "Launches shock waves that\n"
-    "always inflict 40 HP damage.");
+    "Shock waves that inflict\n"
+    "user's level in damage.");
 
 static const u8 sFireSpinDescription[] = _(
     "Traps the foe in a ring of\n"
@@ -717,8 +733,13 @@ static const u8 sSnoreDescription[] = _(
     "used only while asleep.");
 
 static const u8 sCurseDescription[] = _(
+#ifdef ROGUE_DRAYANO
+    "+Attack, +Defense, -Speed.\n"
+    "Ghost-type: curse target.");
+#else
     "A move that functions\n"
     "differently for GHOSTS.");
+#endif
 
 static const u8 sFlailDescription[] = _(
     "Inflicts more damage when\n"
@@ -729,8 +750,13 @@ static const u8 sConversion2Description[] = _(
     "to the last attack's type.");
 
 static const u8 sAeroblastDescription[] = _(
+#ifdef ROGUE_DRAYANO
+    "Launches a vacuumed blast.\n"
+    "Switches the foe out.");
+#else
     "Launches a vacuumed blast.\n"
     "High critical-hit ratio.");
+#endif
 
 static const u8 sCottonSporeDescription[] = _(
     "Spores cling to the foe,\n"
@@ -781,8 +807,13 @@ static const u8 sMudSlapDescription[] = _(
     "to reduce its accuracy.");
 
 static const u8 sOctazookaDescription[] = _(
+#ifdef ROGUE_DRAYANO
+    "Fires ink to attack. High\n"
+    "crit ratio. May cut accuracy.");
+#else
     "Fires a lump of ink to\n"
     "damage and cut accuracy.");
+#endif
 
 static const u8 sSpikesDescription[] = _(
     "Sets spikes that hurt a \n"
@@ -1021,8 +1052,13 @@ static const u8 sFutureSightDescription[] = _(
     "strike 2 turns later.");
 
 static const u8 sRockSmashDescription[] = _(
+#ifdef ROGUE_DRAYANO
+    "A rock-crushing attack\n"
+    "that lowers target's Defense.");
+#else
     "A rock-crushing attack\n"
     "that may lower Defense.");
+#endif
 
 static const u8 sWhirlpoolDescription[] = _(
     "Traps and hurts the foe in\n"
@@ -1645,8 +1681,13 @@ static const u8 sAirSlashDescription[] = _(
     "air. May cause flinching.");
 
 static const u8 sXScissorDescription[] = _(
+#ifdef ROGUE_DRAYANO
+    "Slashes the foe with crossed\n"
+    "implements. High crit ratio.");
+#else
     "Slashes the foe with crossed\n"
     "scythes, claws, etc.");
+#endif
 
 static const u8 sBugBuzzDescription[] = _(
     "A damaging sound wave that\n"
@@ -2033,8 +2074,13 @@ static const u8 sShiftGearDescription[] = _(
     "Attack and Speed.");
 
 static const u8 sCircleThrowDescription[] = _(
+#ifdef ROGUE_DRAYANO
+    "Knocks the foe away to\n"
+    "force opponent to switch.");
+#else
     "Knocks the foe away to end\n"
     "the battle.");
+#endif
 
 static const u8 sIncinerateDescription[] = _(
     "Burns up Berries and Gems\n"
@@ -2461,8 +2507,13 @@ static const u8 sSparklingAriaDescription[] = _(
     "burns on contact.");
 
 static const u8 sIceHammerDescription[] = _(
+#ifdef ROGUE_DRAYANO
+    "Swings an icy fist. Has\n"
+    "a high-critical hit ratio.");
+#else
     "Swings the fist to strike.\n"
     "Lowers the user's Speed.");
+#endif
 
 static const u8 sFloralHealingDescription[] = _(
     "Restores an ally's HP.\n"
@@ -2669,20 +2720,35 @@ static const u8 sPikaPapowDescription[] = _(
     "power. It never misses.");
 
 static const u8 sBouncyBubbleDescription[] = _(
-    "An attack that absorbs\n"
-#if B_UPDATED_MOVE_DATA >= GEN_8
-    "all the damage inflicted.");
-#else
+#ifdef ROGUE_DRAYANO
+    "A bubble attack that absorbs\n"
     "half the damage inflicted.");
+#else
+        "An attack that absorbs\n"
+    #if B_UPDATED_MOVE_DATA >= GEN_8
+        "all the damage inflicted.");
+    #else
+        "half the damage inflicted.");
+    #endif
 #endif
 
 static const u8 sBuzzyBuzzDescription[] = _(
+#ifdef ROGUE_DRAYANO
+    "Shoots a jolt of electricity\n"
+    "with a high paralysis chance.");
+#else
     "Shoots a jolt of electricity\n"
     "that always paralyzes.");
+#endif
 
 static const u8 sSizzlySlideDescription[] = _(
+#ifdef ROGUE_DRAYANO
+    "A fiery dash attack with a\n"
+    "high chance to burn.");
+#else
     "User cloaked in fire charges.\n"
     "Leaves the foe with a burn.");
+#endif
 
 static const u8 sGlitzyGlowDescription[] = _(
     "Telekinetic force that sets\n"
@@ -2718,9 +2784,14 @@ static const u8 sDynamaxCannonDescription[] = _(
     "2x damage to Dynamaxed foes.");
 
 static const u8 sSnipeShotDescription[] = _(
+#ifdef ROGUE_DRAYANO
+    "A water jet with a high crit\n"
+    "rate. Can't be redirected.");
+#else
     "The user ignores effects\n"
     "that draw in moves.");
-
+#endif
+    
 static const u8 sJawLockDescription[] = _(
     "Prevents the user and\n"
     "the target from escaping.");
@@ -2858,8 +2929,13 @@ static const u8 sExpandingForceDescription[] = _(
     "all foes on Psychic Terrain.");
 
 static const u8 sSteelRollerDescription[] = _(
+#ifdef ROGUE_DRAYANO
+    "Rampages to hit the foe and\n"
+    "destroy any terrain.");
+#else
     "Destroys terrain. Fails if\n"
     "ground isn't terrain.");
+#endif
 
 static const u8 sScaleShotDescription[] = _(
     "Shoots scales 2 to 5 times.\n"
@@ -2978,8 +3054,13 @@ static const u8 sEerieSpellDescription[] = _(
     "Foe's last move has 3 PP cut.");
 
 static const u8 sDireClawDescription[] = _(
+#ifdef ROGUE_DRAYANO
+    "A dire claw strike with a high\n"
+    "critical rate. May paralyze.");
+#else
     "High critical hit chance. May\n"
     "paralyze, poison or drowse.");
+#endif
 
 static const u8 sPsyshieldBashDescription[] = _(
     "Hits a foe with psychic\n"
@@ -2990,16 +3071,26 @@ static const u8 sPowerShiftDescription[] = _(
     "and Defense stats.");
 
 static const u8 sStoneAxeDescription[] = _(
+#ifdef ROGUE_DRAYANO
+    "Swings stone axes at the foe.\n"
+    "High critical-hit ratio.");
+#else
     "High critical hit ratio. Sets\n"
     "Splinters that hurt the foe.");
+#endif
 
 static const u8 sSpringtideStormDescription[] = _(
     "Wraps a foe in fierce winds.\n"
     "Varies with the user's form.");
 
 static const u8 sMysticalPowerDescription[] = _(
+#ifdef ROGUE_DRAYANO
+    "A mysterious power strikes.\n"
+    "May raise user's Sp. Atk.");
+#else
     "A mysterious power strikes,\n"
     "raising the user's Sp. Atk.");
+#endif
 
 static const u8 sRagingFuryDescription[] = _(
     "A rampage of 2 to 3 turns\n"
@@ -3034,24 +3125,49 @@ static const u8 sEsperWingDescription[] = _(
     "Ups the user's Speed.");
 
 static const u8 sBitterMaliceDescription[] = _(
+#ifdef ROGUE_DRAYANO
+    "A spine-chilling resentment\n"
+    "that may cause frostbite.");
+#else
     "A spine-chilling resentment.\n"
     "May lower the foe's Attack.");
+#endif
 
 static const u8 sShelterDescription[] = _(
+#ifdef ROGUE_DRAYANO
+    "Evades damage, and raises\n"
+    "user's Defense when struck.");
+#else
     "The user hardens their skin,\n"
     "sharply raising its Defense.");
+#endif
 
 static const u8 sTripleArrowsDescription[] = _(
+#ifdef ROGUE_DRAYANO
+    "Shoots three arrows in a row\n"
+    "with rising intensity.");
+#else
     "High critical hit ratio.\n"
     "May lower Defense or flinch.");
+#endif
 
 static const u8 sInfernalParadeDescription[] = _(
+#ifdef ROGUE_DRAYANO
+    "Attacks with ghostly balls\n"
+    "of fire. May leave a burn.");
+#else
     "Hurts a foe harder if it has\n"
     "an ailment. May leave a burn.");
+#endif
 
 static const u8 sCeaselessEdgeDescription[] = _(
+#ifdef ROGUE_DRAYANO
+    "Slashes with a shell blade.\n"
+    "High critical-hit ratio.");
+#else
     "High critical hit ratio. Sets\n"
     "Splinters that hurt the foe.");
+#endif
 
 static const u8 sBleakwindStormDescription[] = _(
     "Hits with brutal, cold winds.\n"
@@ -3090,8 +3206,13 @@ static const u8 sLastRespectsDescription[] = _(
     "for each defeated ally.");
 
 static const u8 sLuminaCrashDescription[] = _(
+#ifdef ROGUE_DRAYANO
+    "A mind-affecting light that\n"
+    "lowers target's Sp. Def.");
+#else
     "A mind-affecting light\n"
     "harshly lowers Sp. Def.");
+#endif
 
 static const u8 sOrderUpDescription[] = _(
     "Boosts a user's stats\n"
@@ -3130,8 +3251,13 @@ static const u8 sSaltCureDescription[] = _(
     "damage to Steel and Water.");
 
 static const u8 sTripleDiveDescription[] = _(
+#ifdef ROGUE_DRAYANO
+    "Splashes the foe three times\n"
+    "with rising intensity.");
+#else
     "Hits target with splashes\n"
     "of water 3 times in a row.");
+#endif
 
 static const u8 sMortalSpinDescription[] = _(
     "Erases trap moves and Leech\n"
@@ -3154,8 +3280,13 @@ static const u8 sFlowerTrickDescription[] = _(
     "a critical hit, never missing.");
 
 static const u8 sTorchSongDescription[] = _(
+#ifdef ROGUE_DRAYANO
+    "A scorching song that may\n"
+    "raise the user's Sp. Atk.");
+#else
     "Flames scorch the target.\n"
     "Boosts the user's Sp. Atk.");
+#endif
 
 static const u8 sAquaStepDescription[] = _(
     "Hits with light, fluid dance\n"
@@ -3166,8 +3297,13 @@ static const u8 sRagingBullDescription[] = _(
     "User's form determines type.");
 
 static const u8 sMakeItRainDescription[] = _(
+#ifdef ROGUE_DRAYANO
+    "Harshly lowers user's Sp. Atk\n"
+    "and scatters coins on field.");
+#else
     "Lowers the user's Sp. Atk.\n"
     "Money is recovered after.");
+#endif
 
 static const u8 sRuinationDescription[] = _(
     "Summons a ruinous disaster\n"
@@ -3331,6 +3467,12 @@ static const u8 sUpperHandDescription[] = _(
 static const u8 sMalignantChainDescription[] = _(
     "A corrosive chain attack\n"
     "that may badly poison.");
+
+#ifdef ROGUE_DRAYANO
+static const u8 sSwirlingBladeDescription[] = _(
+    "A strike with a sword.\n"
+    "High critical-hit ratio.");
+#endif
 
 const u8 gNotDoneYetDescription[] = _(
     "This move can't be used. Its\n"
@@ -4190,4 +4332,7 @@ const u8 *const gMoveDescriptionPointers[MOVES_COUNT - 1] =
     [MOVE_PSYCHIC_NOISE - 1] = sPsychicNoiseDescription,
     [MOVE_UPPER_HAND - 1] = sUpperHandDescription,
     [MOVE_MALIGNANT_CHAIN - 1] = sMalignantChainDescription,
+#ifdef ROGUE_DRAYANO
+    [MOVE_SWIRLING_BLADE - 1] = sSwirlingBladeDescription,
+#endif
 };

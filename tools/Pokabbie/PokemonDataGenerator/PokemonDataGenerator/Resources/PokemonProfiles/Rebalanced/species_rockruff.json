@@ -1,0 +1,121 @@
+{
+    "Species": "SPECIES_ROCKRUFF",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_TACKLE",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_LEER",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_SAND_ATTACK",
+            "Level": "4"
+        },
+        {
+            "Move": "MOVE_BITE",
+            "Level": "7"
+        },
+        {
+            "Move": "MOVE_HOWL",
+            "Level": "11"
+        },
+        {
+            "Move": "MOVE_ROCK_THROW",
+            "Level": "14"
+        },
+        {
+            "Move": "MOVE_ODOR_SLEUTH",
+            "Level": "18"
+        },
+        {
+            "Move": "MOVE_ROCK_TOMB",
+            "Level": "21"
+        },
+        {
+            "Move": "MOVE_ROAR",
+            "Level": "25"
+        },
+        {
+            "Move": "MOVE_STEALTH_ROCK",
+            "Level": "28"
+        },
+        {
+            "Move": "MOVE_ROCK_SLIDE",
+            "Level": "32"
+        },
+        {
+            "Move": "MOVE_SCARY_FACE",
+            "Level": "35"
+        },
+        {
+            "Move": "MOVE_CRUNCH",
+            "Level": "39"
+        },
+        {
+            "Move": "MOVE_ROCK_CLIMB",
+            "Level": "42"
+        },
+        {
+            "Move": "MOVE_STONE_EDGE",
+            "Level": "46"
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_HELPING_HAND",
+        "MOVE_THUNDER_FANG",
+        "MOVE_SUCKER_PUNCH",
+        "MOVE_LAST_RESORT",
+        "MOVE_FIRE_FANG",
+        "MOVE_PSYCHIC_FANGS",
+        "MOVE_SWORDS_DANCE",
+        "MOVE_IRON_HEAD",
+        "MOVE_ZEN_HEADBUTT",
+        "MOVE_EARTH_POWER",
+        "MOVE_BULLDOZE",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_PROTECT",
+        "MOVE_DOUBLE_EDGE",
+        "MOVE_IRON_DEFENSE",
+        "MOVE_TAKE_DOWN",
+        "MOVE_BODY_SLAM",
+        "MOVE_SUBSTITUTE",
+        "MOVE_ENDEAVOR",
+        "MOVE_FACADE",
+        "MOVE_STOMPING_TANTRUM",
+        "MOVE_SLEEP_TALK",
+        "MOVE_TRAILBLAZE",
+        "MOVE_MUD_SLAP",
+        "MOVE_DIG",
+        "MOVE_HYPER_VOICE",
+        "MOVE_SNARL",
+        "MOVE_TERA_BLAST",
+        "MOVE_ENDURE",
+        "MOVE_THRASH",
+        "MOVE_PLAY_ROUGH",
+        "MOVE_CHARM",
+        "MOVE_SANDSTORM",
+        "MOVE_TAUNT",
+        "MOVE_REST"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_STONE_EDGE",
+                "MOVE_STOMPING_TANTRUM",
+                "MOVE_ZEN_HEADBUTT",
+                "MOVE_SUCKER_PUNCH"
+            ],
+            "Ability": "ABILITY_VITAL_SPIRIT",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "All-out Attacker",
+            "SourceTiers": [
+                "GEN7LC"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "Species": "SPECIES_CLEFFA",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_POUND",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_CHARM",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_DISARMING_VOICE",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_ENCORE",
+            "Level": "4"
+        },
+        {
+            "Move": "MOVE_SING",
+            "Level": "7"
+        },
+        {
+            "Move": "MOVE_SWEET_KISS",
+            "Level": "10"
+        },
+        {
+            "Move": "MOVE_COPYCAT",
+            "Level": "13"
+        },
+        {
+            "Move": "MOVE_MAGICAL_LEAF",
+            "Level": "16"
+        },
+        {
+            "Move": "MOVE_DRAINING_KISS",
+            "Level": "19"
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_HELPING_HAND",
+        "MOVE_FLING",
+        "MOVE_SOLAR_BEAM",
+        "MOVE_REFLECT",
+        "MOVE_HEAL_PULSE",
+        "MOVE_AMNESIA",
+        "MOVE_GRASS_KNOT",
+        "MOVE_ZEN_HEADBUTT",
+        "MOVE_CHILLING_WATER",
+        "MOVE_LIGHT_SCREEN",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_PROTECT",
+        "MOVE_PSYSHOCK",
+        "MOVE_CALM_MIND",
+        "MOVE_SUBSTITUTE",
+        "MOVE_METRONOME",
+        "MOVE_ENDEAVOR",
+        "MOVE_FACADE",
+        "MOVE_SUNNY_DAY",
+        "MOVE_TRICK",
+        "MOVE_UPROAR",
+        "MOVE_SHADOW_BALL",
+        "MOVE_MISTY_TERRAIN",
+        "MOVE_ICY_WIND",
+        "MOVE_SWIFT",
+        "MOVE_SLEEP_TALK",
+        "MOVE_STORED_POWER",
+        "MOVE_PSYCHIC",
+        "MOVE_REST",
+        "MOVE_DIG",
+        "MOVE_HYPER_VOICE",
+        "MOVE_FAKE_TEARS",
+        "MOVE_TERA_BLAST",
+        "MOVE_WATER_PULSE",
+        "MOVE_ENDURE",
+        "MOVE_WISH",
+        "MOVE_COUNTER",
+        "MOVE_DAZZLING_GLEAM",
+        "MOVE_PSYBEAM",
+        "MOVE_PLAY_ROUGH",
+        "MOVE_PRESENT",
+        "MOVE_THUNDER_WAVE",
+        "MOVE_RAIN_DANCE",
+        "MOVE_FLAMETHROWER",
+        "MOVE_GRAVITY",
+        "MOVE_TICKLE",
+        "MOVE_FIRE_BLAST",
+        "MOVE_BODY_SLAM"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_COUNTER",
+                "MOVE_ENDEAVOR",
+                "MOVE_THUNDER_WAVE",
+                "MOVE_ENCORE"
+            ],
+            "Ability": "ABILITY_MAGIC_GUARD",
+            "Item": "ITEM_FOCUS_SASH",
+            "Nature": "NATURE_HASTY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Counter",
+            "SourceTiers": [
+                "GEN6LC",
+                "GEN7LC"
+            ]
+        }
+    ]
+}

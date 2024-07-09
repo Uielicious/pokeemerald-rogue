@@ -1,0 +1,102 @@
+{
+    "Species": "SPECIES_SEALEO",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_SWAGGER",
+            "Level": "0"
+        },
+        {
+            "Move": "MOVE_SWAGGER",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_DEFENSE_CURL",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_POWDER_SNOW",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_GROWL",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_WATER_GUN",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_ROLLOUT",
+            "Level": "5"
+        },
+        {
+            "Move": "MOVE_ENCORE",
+            "Level": "9"
+        },
+        {
+            "Move": "MOVE_ICE_BALL",
+            "Level": "13"
+        },
+        {
+            "Move": "MOVE_BRINE",
+            "Level": "17"
+        },
+        {
+            "Move": "MOVE_AURORA_BEAM",
+            "Level": "21"
+        },
+        {
+            "Move": "MOVE_BODY_SLAM",
+            "Level": "26"
+        },
+        {
+            "Move": "MOVE_REST",
+            "Level": "31"
+        },
+        {
+            "Move": "MOVE_SNORE",
+            "Level": "31"
+        },
+        {
+            "Move": "MOVE_SLACK_OFF",
+            "Level": "36"
+        },
+        {
+            "Move": "MOVE_HAIL",
+            "Level": "41"
+        },
+        {
+            "Move": "MOVE_BLIZZARD",
+            "Level": "46"
+        },
+        {
+            "Move": "MOVE_SHEER_COLD",
+            "Level": "51"
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_ICE_BEAM",
+        "MOVE_DIVE",
+        "MOVE_ATTRACT",
+        "MOVE_ROCK_TOMB",
+        "MOVE_BULLDOZE",
+        "MOVE_WATERFALL",
+        "MOVE_PROTECT",
+        "MOVE_STEEL_ROLLER",
+        "MOVE_IRON_TAIL",
+        "MOVE_SUBSTITUTE",
+        "MOVE_FACADE",
+        "MOVE_WHIRLPOOL",
+        "MOVE_ICICLE_SPEAR",
+        "MOVE_ICY_WIND",
+        "MOVE_SLEEP_TALK",
+        "MOVE_EARTHQUAKE",
+        "MOVE_ENDURE",
+        "MOVE_ROUND",
+        "MOVE_SURF",
+        "MOVE_SNOWSCAPE",
+        "MOVE_RAIN_DANCE",
+        "MOVE_ROCK_SLIDE"
+    ],
+    "CompetitiveSets": []
+}

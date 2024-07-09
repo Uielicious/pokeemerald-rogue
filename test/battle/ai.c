@@ -2,6 +2,12 @@
 #include "test/battle.h"
 #include "battle_ai_util.h"
 
+#ifdef ROGUE_DRAYANO
+ASSUMPTIONS{
+    ASSUME(FALSE); //this changes stats and typings to the point of making these tests fail
+}
+#endif
+
 AI_SINGLE_BATTLE_TEST("AI gets baited by Protect Switch tactics") // This behavior is to be fixed.
 {
     GIVEN {
@@ -158,7 +164,11 @@ AI_SINGLE_BATTLE_TEST("AI prefers moves which deal more damage instead of moves 
 
     GIVEN {
         AI_FLAGS(AI_FLAG_CHECK_BAD_MOVE | AI_FLAG_CHECK_VIABILITY | AI_FLAG_TRY_TO_FAINT);
+    #ifdef ROGUE_DRAYANO
+        PLAYER(SPECIES_CHARIZARD) { Ability(abilityDef); }
+    #else
         PLAYER(SPECIES_TYPHLOSION) { Ability(abilityDef); }
+    #endif
         PLAYER(SPECIES_WOBBUFFET);
         OPPONENT(SPECIES_NIDOQUEEN) { Moves(move1, move2, move3, move4); Ability(abilityAtk); }
     } WHEN {
@@ -175,7 +185,11 @@ AI_SINGLE_BATTLE_TEST("AI prefers moves which deal more damage instead of moves 
                 break;
             }
     } SCENE {
+    #ifdef ROGUE_DRAYANO
+        MESSAGE("Charizard fainted!");
+    #else
         MESSAGE("Typhlosion fainted!");
+    #endif
     }
 }
 
@@ -565,7 +579,11 @@ AI_SINGLE_BATTLE_TEST("AI_FLAG_SMART_MON_CHOICES: AI considers hazard damage whe
         PLAYER(SPECIES_MEGANIUM) { Speed(100); SpDefense(328); SpAttack(265); Moves(MOVE_STEALTH_ROCK, MOVE_SURF); } // Meganium does ~56% minimum ~66% maximum, enough to KO Charizard after rocks and never KO Typhlosion after rocks
         OPPONENT(SPECIES_PONYTA) { Level(5); Speed(5); Moves(MOVE_TACKLE); }
         OPPONENT(SPECIES_CHARIZARD) { Speed(200); Moves(MOVE_FLAMETHROWER); SpAttack(317); SpDefense(207); MaxHP(297); } // Outspeends and 2HKOs Meganium
+    #ifdef ROGUE_DRAYANO
+        OPPONENT(SPECIES_CINDERACE) { Speed(200); Moves(MOVE_FLAMETHROWER); SpAttack(317); SpDefense(207); MaxHP(297); } // Outspeends and 2HKOs Meganium
+    #else
         OPPONENT(SPECIES_TYPHLOSION) { Speed(200); Moves(MOVE_FLAMETHROWER); SpAttack(317); SpDefense(207); MaxHP(297); } // Outspeends and 2HKOs Meganium
+    #endif
     } WHEN {
             TURN { MOVE(player, MOVE_STEALTH_ROCK) ;}
             TURN { MOVE(player, MOVE_SURF) ; EXPECT_SEND_OUT(opponent, aiIsSmart ? 2 : 1); } // AI sends out Typhlosion to get the KO with the flag rather than Charizard

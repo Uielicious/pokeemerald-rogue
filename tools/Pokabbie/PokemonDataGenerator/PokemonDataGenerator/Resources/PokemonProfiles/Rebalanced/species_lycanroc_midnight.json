@@ -1,0 +1,334 @@
+{
+    "Species": "SPECIES_LYCANROC_MIDNIGHT",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_ACCELEROCK",
+            "Level": "0"
+        },
+        {
+            "Move": "MOVE_REVERSAL",
+            "Level": "0"
+        },
+        {
+            "Move": "MOVE_ACCELEROCK",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_REVERSAL",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_COUNTER",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_TAUNT",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_TACKLE",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_LEER",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_SAND_ATTACK",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_BITE",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_SAND_ATTACK",
+            "Level": "4"
+        },
+        {
+            "Move": "MOVE_BITE",
+            "Level": "7"
+        },
+        {
+            "Move": "MOVE_HOWL",
+            "Level": "11"
+        },
+        {
+            "Move": "MOVE_ROCK_THROW",
+            "Level": "14"
+        },
+        {
+            "Move": "MOVE_ODOR_SLEUTH",
+            "Level": "18"
+        },
+        {
+            "Move": "MOVE_ROCK_TOMB",
+            "Level": "21"
+        },
+        {
+            "Move": "MOVE_ROAR",
+            "Level": "25"
+        },
+        {
+            "Move": "MOVE_STEALTH_ROCK",
+            "Level": "28"
+        },
+        {
+            "Move": "MOVE_SUBMISSION",
+            "Level": "32"
+        },
+        {
+            "Move": "MOVE_ROCK_SLIDE",
+            "Level": "35"
+        },
+        {
+            "Move": "MOVE_SCARY_FACE",
+            "Level": "39"
+        },
+        {
+            "Move": "MOVE_CRUNCH",
+            "Level": "42"
+        },
+        {
+            "Move": "MOVE_ROCK_CLIMB",
+            "Level": "46"
+        },
+        {
+            "Move": "MOVE_CLOSE_COMBAT",
+            "Level": "49"
+        },
+        {
+            "Move": "MOVE_STONE_EDGE",
+            "Level": "53"
+        },
+        {
+            "Move": "MOVE_HEAD_SMASH",
+            "Level": "56"
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_THUNDER_PUNCH",
+        "MOVE_HELPING_HAND",
+        "MOVE_THUNDER_FANG",
+        "MOVE_FLING",
+        "MOVE_SUCKER_PUNCH",
+        "MOVE_FIRE_FANG",
+        "MOVE_LASH_OUT",
+        "MOVE_PSYCHIC_FANGS",
+        "MOVE_ROCK_BLAST",
+        "MOVE_IRON_HEAD",
+        "MOVE_SWORDS_DANCE",
+        "MOVE_ZEN_HEADBUTT",
+        "MOVE_OUTRAGE",
+        "MOVE_EARTH_POWER",
+        "MOVE_BULLDOZE",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_KNOCK_OFF",
+        "MOVE_PROTECT",
+        "MOVE_SHADOW_CLAW",
+        "MOVE_DOUBLE_EDGE",
+        "MOVE_IRON_DEFENSE",
+        "MOVE_TAKE_DOWN",
+        "MOVE_THROAT_CHOP",
+        "MOVE_IRON_TAIL",
+        "MOVE_BODY_SLAM",
+        "MOVE_SUBSTITUTE",
+        "MOVE_SUNNY_DAY",
+        "MOVE_BRICK_BREAK",
+        "MOVE_ENDEAVOR",
+        "MOVE_FACADE",
+        "MOVE_STOMPING_TANTRUM",
+        "MOVE_SLEEP_TALK",
+        "MOVE_TRAILBLAZE",
+        "MOVE_MUD_SLAP",
+        "MOVE_GIGA_IMPACT",
+        "MOVE_DIG",
+        "MOVE_HYPER_VOICE",
+        "MOVE_EARTHQUAKE",
+        "MOVE_SNARL",
+        "MOVE_TERA_BLAST",
+        "MOVE_ENDURE",
+        "MOVE_PLAY_ROUGH",
+        "MOVE_LOW_SWEEP",
+        "MOVE_FOUL_PLAY",
+        "MOVE_CHARM",
+        "MOVE_FIRE_PUNCH",
+        "MOVE_BULK_UP",
+        "MOVE_SANDSTORM",
+        "MOVE_FOCUS_PUNCH",
+        "MOVE_REST"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_STONE_EDGE",
+                "MOVE_EARTHQUAKE",
+                "MOVE_FIRE_PUNCH",
+                "MOVE_HEAD_SMASH"
+            ],
+            "Ability": "ABILITY_NO_GUARD",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Scarf",
+            "SourceTiers": [
+                "GEN7PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_STONE_EDGE",
+                "MOVE_SUCKER_PUNCH",
+                "MOVE_SWORDS_DANCE",
+                "MOVE_FIRE_PUNCH"
+            ],
+            "Ability": "ABILITY_NO_GUARD",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SWORDS_DANCE",
+                "MOVE_STONE_EDGE",
+                "MOVE_CLOSE_COMBAT",
+                "MOVE_ACCELEROCK"
+            ],
+            "Ability": "ABILITY_NO_GUARD",
+            "Item": "ITEM_LYCANIUM_Z",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Swords Dance",
+            "SourceTiers": [
+                "GEN7ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_HEAD_SMASH",
+                "MOVE_ACCELEROCK",
+                "MOVE_CRUNCH",
+                "MOVE_CLOSE_COMBAT"
+            ],
+            "Ability": "ABILITY_RECKLESS",
+            "Item": "ITEM_CHOICE_BAND",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Band",
+            "SourceTiers": [
+                "GEN7ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_STONE_EDGE",
+                "MOVE_SUCKER_PUNCH",
+                "MOVE_IRON_TAIL",
+                "MOVE_STOMPING_TANTRUM"
+            ],
+            "Ability": "ABILITY_NO_GUARD",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SWORDS_DANCE",
+                "MOVE_STONE_EDGE",
+                "MOVE_CLOSE_COMBAT",
+                "MOVE_SUCKER_PUNCH"
+            ],
+            "Ability": "ABILITY_NO_GUARD",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Swords Dance",
+            "SourceTiers": [
+                "GEN8ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_STONE_EDGE",
+                "MOVE_CLOSE_COMBAT",
+                "MOVE_SUCKER_PUNCH",
+                "MOVE_PLAY_ROUGH"
+            ],
+            "Ability": "ABILITY_NO_GUARD",
+            "Item": "ITEM_CHOICE_BAND",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Band",
+            "SourceTiers": [
+                "GEN8ZU",
+                "GEN8ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_STONE_EDGE",
+                "MOVE_CLOSE_COMBAT",
+                "MOVE_STEALTH_ROCK",
+                "MOVE_SWORDS_DANCE"
+            ],
+            "Ability": "ABILITY_NO_GUARD",
+            "Item": "ITEM_FOCUS_SASH",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN9PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SWORDS_DANCE",
+                "MOVE_STONE_EDGE",
+                "MOVE_CLOSE_COMBAT",
+                "MOVE_ACCELEROCK"
+            ],
+            "Item": "ITEM_SHUCA_BERRY",
+            "Ability": "ABILITY_NO_GUARD",
+            "HiddenPower": null,
+            "SourceTiers": [
+                "GEN8PU"
+            ],
+            "Name": "Swords Dance",
+            "Nature": "NATURE_HARDY",
+            "TeraType": null
+        },
+        {
+            "Moves": [
+                "MOVE_HEAD_SMASH",
+                "MOVE_CLOSE_COMBAT",
+                "MOVE_PLAY_ROUGH",
+                "MOVE_EARTHQUAKE"
+            ],
+            "Item": "ITEM_CHOICE_SCARF",
+            "Ability": "ABILITY_RECKLESS",
+            "HiddenPower": null,
+            "SourceTiers": [
+                "GEN8PU"
+            ],
+            "Name": "Choice Scarf",
+            "Nature": "NATURE_HARDY",
+            "TeraType": null
+        }
+    ]
+}

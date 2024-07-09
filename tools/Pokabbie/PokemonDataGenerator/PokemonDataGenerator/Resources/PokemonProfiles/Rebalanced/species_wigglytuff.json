@@ -1,0 +1,300 @@
+{
+    "Species": "SPECIES_WIGGLYTUFF",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_DRAINING_KISS",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_MOONBLAST",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_DOUBLE_EDGE",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_PLAY_ROUGH",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_SING",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_DEFENSE_CURL",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_DISABLE",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_DOUBLE_SLAP",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_BOOMBURST",
+            "Level": "50"
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_ICE_BEAM",
+        "MOVE_DARK_PULSE",
+        "MOVE_SOLAR_BEAM",
+        "MOVE_GRASS_KNOT",
+        "MOVE_CHILLING_WATER",
+        "MOVE_TELEPORT",
+        "MOVE_BATON_PASS",
+        "MOVE_CALM_MIND",
+        "MOVE_SUBSTITUTE",
+        "MOVE_UPROAR",
+        "MOVE_SUNNY_DAY",
+        "MOVE_BRICK_BREAK",
+        "MOVE_FACADE",
+        "MOVE_STEALTH_ROCK",
+        "MOVE_SLEEP_TALK",
+        "MOVE_STORED_POWER",
+        "MOVE_ENERGY_BALL",
+        "MOVE_PSYCHIC",
+        "MOVE_WILD_CHARGE",
+        "MOVE_THUNDERBOLT",
+        "MOVE_DIG",
+        "MOVE_HYPER_VOICE",
+        "MOVE_NASTY_PLOT",
+        "MOVE_TERA_BLAST",
+        "MOVE_WATER_PULSE",
+        "MOVE_WISH",
+        "MOVE_ENDURE",
+        "MOVE_RETURN",
+        "MOVE_DAZZLING_GLEAM",
+        "MOVE_THUNDER",
+        "MOVE_MISTY_EXPLOSION",
+        "MOVE_LOVELY_KISS",
+        "MOVE_FIRE_PUNCH",
+        "MOVE_BLIZZARD",
+        "MOVE_RAIN_DANCE",
+        "MOVE_FLAMETHROWER",
+        "MOVE_FIRE_BLAST",
+        "MOVE_BODY_PRESS",
+        "MOVE_REST",
+        "MOVE_PAIN_SPLIT",
+        "MOVE_DISARMING_VOICE",
+        "MOVE_HELPING_HAND",
+        "MOVE_THUNDER_PUNCH",
+        "MOVE_FLING",
+        "MOVE_REFLECT",
+        "MOVE_AMNESIA",
+        "MOVE_ZEN_HEADBUTT",
+        "MOVE_LIGHT_SCREEN",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_KNOCK_OFF",
+        "MOVE_PROTECT",
+        "MOVE_SKILL_SWAP",
+        "MOVE_THIEF",
+        "MOVE_TAKE_DOWN",
+        "MOVE_PSYSHOCK",
+        "MOVE_HYPER_BEAM",
+        "MOVE_METRONOME",
+        "MOVE_MAGICAL_LEAF",
+        "MOVE_ENDEAVOR",
+        "MOVE_EXPANDING_FORCE",
+        "MOVE_SHADOW_BALL",
+        "MOVE_MISTY_TERRAIN",
+        "MOVE_SWIFT",
+        "MOVE_ICY_WIND",
+        "MOVE_TRAILBLAZE",
+        "MOVE_GIGA_IMPACT",
+        "MOVE_ENCORE",
+        "MOVE_FAKE_TEARS",
+        "MOVE_POWER_GEM",
+        "MOVE_ICE_PUNCH",
+        "MOVE_CURSE",
+        "MOVE_FOCUS_BLAST",
+        "MOVE_CHARM",
+        "MOVE_ICE_SPINNER",
+        "MOVE_THUNDER_WAVE",
+        "MOVE_GYRO_BALL",
+        "MOVE_HEAL_BELL",
+        "MOVE_DRAIN_PUNCH",
+        "MOVE_GRAVITY",
+        "MOVE_SANDSTORM",
+        "MOVE_PSYCH_UP",
+        "MOVE_TAUNT",
+        "MOVE_FOCUS_PUNCH",
+        "MOVE_BODY_SLAM"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_STEALTH_ROCK",
+                "MOVE_HYPER_VOICE",
+                "MOVE_DAZZLING_GLEAM",
+                "MOVE_FIRE_BLAST"
+            ],
+            "Ability": "ABILITY_COMPETITIVE",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Offensive Stealth Rock",
+            "SourceTiers": [
+                "GEN6PU",
+                "GEN7PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_DAZZLING_GLEAM",
+                "MOVE_HYPER_VOICE",
+                "MOVE_WISH",
+                "MOVE_STEALTH_ROCK"
+            ],
+            "Ability": "ABILITY_COMPETITIVE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_WISH",
+                "MOVE_PROTECT",
+                "MOVE_DAZZLING_GLEAM",
+                "MOVE_STEALTH_ROCK"
+            ],
+            "Ability": "ABILITY_FRISK",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Cleric",
+            "SourceTiers": [
+                "GEN6ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_STEALTH_ROCK",
+                "MOVE_DAZZLING_GLEAM",
+                "MOVE_FIRE_BLAST",
+                "MOVE_KNOCK_OFF"
+            ],
+            "Ability": "ABILITY_COMPETITIVE",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Offensive Stealth Rock",
+            "SourceTiers": [
+                "GEN6ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_DAZZLING_GLEAM",
+                "MOVE_WISH",
+                "MOVE_STEALTH_ROCK",
+                "MOVE_HEAL_BELL"
+            ],
+            "Ability": "ABILITY_COMPETITIVE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_CALM",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_WISH",
+                "MOVE_TELEPORT",
+                "MOVE_KNOCK_OFF",
+                "MOVE_PROTECT"
+            ],
+            "Ability": "ABILITY_HUGE_POWER",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_CAREFUL",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "WishPort",
+            "SourceTiers": [
+                "GEN8ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_DAZZLING_GLEAM",
+                "MOVE_WISH",
+                "MOVE_STEALTH_ROCK",
+                "MOVE_PROTECT"
+            ],
+            "Ability": "ABILITY_COMPETITIVE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_CALM",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN9ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_STEALTH_ROCK",
+                "MOVE_BOOMBURST",
+                "MOVE_MOONBLAST",
+                "MOVE_FIRE_BLAST"
+            ],
+            "Item": "ITEM_LIFE_ORB",
+            "Ability": "ABILITY_COMPETITIVE",
+            "HiddenPower": null,
+            "SourceTiers": [
+                "GEN7PU"
+            ],
+            "Name": "Stealth Rock",
+            "Nature": "NATURE_HARDY",
+            "TeraType": null
+        },
+        {
+            "Moves": [
+                "MOVE_RETURN",
+                "MOVE_PLAY_ROUGH",
+                "MOVE_CURSE",
+                "MOVE_DRAIN_PUNCH"
+            ],
+            "Item": "ITEM_LEFTOVERS",
+            "Ability": "ABILITY_HUGE_POWER",
+            "HiddenPower": null,
+            "SourceTiers": [
+                "GEN8RU"
+            ],
+            "Name": "Curse Tank",
+            "Nature": "NATURE_HARDY",
+            "TeraType": null
+        },
+        {
+            "Moves": [
+                "MOVE_ICY_WIND",
+                "MOVE_DRAINING_KISS",
+                "MOVE_HELPING_HAND",
+                "MOVE_LOVELY_KISS"
+            ],
+            "Item": "ITEM_LEFTOVERS",
+            "Ability": "ABILITY_FRIEND_GUARD",
+            "HiddenPower": null,
+            "SourceTiers": [
+                "GEN7BATTLESPOTDOUBLES"
+            ],
+            "Name": "Friend Guard Support",
+            "Nature": "NATURE_HARDY",
+            "TeraType": null
+        }
+    ]
+}

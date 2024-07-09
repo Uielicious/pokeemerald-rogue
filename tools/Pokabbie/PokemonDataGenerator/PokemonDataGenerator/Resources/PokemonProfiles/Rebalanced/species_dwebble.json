@@ -1,0 +1,255 @@
+{
+    "Species": "SPECIES_DWEBBLE",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_FURY_CUTTER",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_ROCK_BLAST",
+            "Level": "5"
+        },
+        {
+            "Move": "MOVE_WITHDRAW",
+            "Level": "7"
+        },
+        {
+            "Move": "MOVE_SAND_ATTACK",
+            "Level": "11"
+        },
+        {
+            "Move": "MOVE_FEINT_ATTACK",
+            "Level": "13"
+        },
+        {
+            "Move": "MOVE_SMACK_DOWN",
+            "Level": "17"
+        },
+        {
+            "Move": "MOVE_ROCK_POLISH",
+            "Level": "19"
+        },
+        {
+            "Move": "MOVE_BUG_BITE",
+            "Level": "23"
+        },
+        {
+            "Move": "MOVE_STEALTH_ROCK",
+            "Level": "24"
+        },
+        {
+            "Move": "MOVE_ROCK_SLIDE",
+            "Level": "29"
+        },
+        {
+            "Move": "MOVE_SLASH",
+            "Level": "31"
+        },
+        {
+            "Move": "MOVE_X_SCISSOR",
+            "Level": "35"
+        },
+        {
+            "Move": "MOVE_SHELL_SMASH",
+            "Level": "37"
+        },
+        {
+            "Move": "MOVE_FLAIL",
+            "Level": "41"
+        },
+        {
+            "Move": "MOVE_ROCK_WRECKER",
+            "Level": "43"
+        },
+        {
+            "Move": "MOVE_CRABHAMMER",
+            "Level": "47"
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_WIDE_GUARD",
+        "MOVE_SOLAR_BEAM",
+        "MOVE_SKITTER_SMACK",
+        "MOVE_ATTRACT",
+        "MOVE_SPIKES",
+        "MOVE_SWORDS_DANCE",
+        "MOVE_ROCK_TOMB",
+        "MOVE_BULLDOZE",
+        "MOVE_STONE_EDGE",
+        "MOVE_KNOCK_OFF",
+        "MOVE_PROTECT",
+        "MOVE_SHADOW_CLAW",
+        "MOVE_IRON_DEFENSE",
+        "MOVE_SUBSTITUTE",
+        "MOVE_FACADE",
+        "MOVE_SAND_TOMB",
+        "MOVE_SLEEP_TALK",
+        "MOVE_DIG",
+        "MOVE_EARTHQUAKE",
+        "MOVE_CURSE",
+        "MOVE_ENDURE",
+        "MOVE_COUNTER",
+        "MOVE_BLOCK",
+        "MOVE_POISON_JAB",
+        "MOVE_ROUND",
+        "MOVE_SNORE",
+        "MOVE_SANDSTORM",
+        "MOVE_NIGHT_SLASH",
+        "MOVE_REST"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_STEALTH_ROCK",
+                "MOVE_SPIKES",
+                "MOVE_ROCK_BLAST",
+                "MOVE_KNOCK_OFF"
+            ],
+            "Ability": "ABILITY_STURDY",
+            "Item": "ITEM_CUSTAP_BERRY",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Suicide Lead",
+            "SourceTiers": [
+                "GEN6ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_STEALTH_ROCK",
+                "MOVE_SPIKES",
+                "MOVE_KNOCK_OFF",
+                "MOVE_ROCK_BLAST"
+            ],
+            "Ability": "ABILITY_STURDY",
+            "Item": "ITEM_BERRY_JUICE",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Entry Hazard Lead",
+            "SourceTiers": [
+                "GEN6LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_ROCK_BLAST",
+                "MOVE_STEALTH_ROCK",
+                "MOVE_KNOCK_OFF",
+                "MOVE_SPIKES"
+            ],
+            "Ability": "ABILITY_STURDY",
+            "Item": "ITEM_BERRY_JUICE",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_STEALTH_ROCK",
+                "MOVE_SPIKES",
+                "MOVE_ROCK_BLAST",
+                "MOVE_KNOCK_OFF"
+            ],
+            "Ability": "ABILITY_WEAK_ARMOR",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Entry Hazard Setter",
+            "SourceTiers": [
+                "GEN7LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SHELL_SMASH",
+                "MOVE_ROCK_BLAST",
+                "MOVE_EARTHQUAKE",
+                "MOVE_SUBSTITUTE"
+            ],
+            "Ability": "ABILITY_STURDY",
+            "Item": "ITEM_BERRY_JUICE",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Shell Smash",
+            "SourceTiers": [
+                "GEN7LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_ROCK_BLAST",
+                "MOVE_SHELL_SMASH",
+                "MOVE_EARTHQUAKE",
+                "MOVE_KNOCK_OFF"
+            ],
+            "Ability": "ABILITY_STURDY",
+            "Item": "ITEM_BERRY_JUICE",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_STEALTH_ROCK",
+                "MOVE_SPIKES",
+                "MOVE_KNOCK_OFF",
+                "MOVE_ROCK_BLAST"
+            ],
+            "Ability": "ABILITY_WEAK_ARMOR",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Entry Hazard Setter",
+            "SourceTiers": [
+                "GEN8LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SHELL_SMASH",
+                "MOVE_EARTHQUAKE",
+                "MOVE_ROCK_BLAST",
+                "MOVE_CRABHAMMER"
+            ],
+            "Ability": "ABILITY_STURDY",
+            "Item": "ITEM_BERRY_JUICE",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Shell Smash",
+            "SourceTiers": [
+                "GEN8LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_ROCK_BLAST",
+                "MOVE_KNOCK_OFF",
+                "MOVE_STEALTH_ROCK",
+                "MOVE_SPIKES"
+            ],
+            "Ability": "ABILITY_WEAK_ARMOR",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8LC"
+            ]
+        }
+    ]
+}

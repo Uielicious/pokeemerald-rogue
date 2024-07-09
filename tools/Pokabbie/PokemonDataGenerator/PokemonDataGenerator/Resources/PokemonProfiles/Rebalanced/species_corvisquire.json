@@ -1,0 +1,100 @@
+{
+    "Species": "SPECIES_CORVISQUIRE",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_LEER",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_PECK",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_HONE_CLAWS",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_POWER_TRIP",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_FURY_ATTACK",
+            "Level": 12
+        },
+        {
+            "Move": "MOVE_PLUCK",
+            "Level": 16
+        },
+        {
+            "Move": "MOVE_TAUNT",
+            "Level": 22
+        },
+        {
+            "Move": "MOVE_SCARY_FACE",
+            "Level": 28
+        },
+        {
+            "Move": "MOVE_DRILL_PECK",
+            "Level": 34
+        },
+        {
+            "Move": "MOVE_SWAGGER",
+            "Level": 40
+        },
+        {
+            "Move": "MOVE_BRAVE_BIRD",
+            "Level": 46
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_AIR_CUTTER",
+        "MOVE_FRUSTRATION",
+        "MOVE_AGILITY",
+        "MOVE_TOXIC",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_PROTECT",
+        "MOVE_THIEF",
+        "MOVE_TAKE_DOWN",
+        "MOVE_DEFOG",
+        "MOVE_SUBSTITUTE",
+        "MOVE_SUNNY_DAY",
+        "MOVE_FACADE",
+        "MOVE_TAILWIND",
+        "MOVE_DUAL_WINGBEAT",
+        "MOVE_AIR_SLASH",
+        "MOVE_SWIFT",
+        "MOVE_REVERSAL",
+        "MOVE_SLEEP_TALK",
+        "MOVE_FLY",
+        "MOVE_FAKE_TEARS",
+        "MOVE_NASTY_PLOT",
+        "MOVE_TERA_BLAST",
+        "MOVE_ENDURE",
+        "MOVE_SPITE",
+        "MOVE_RETURN",
+        "MOVE_ROOST",
+        "MOVE_HURRICANE",
+        "MOVE_U_TURN",
+        "MOVE_AERIAL_ACE",
+        "MOVE_REST"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_DEFOG",
+                "MOVE_ROOST",
+                "MOVE_U_TURN",
+                "MOVE_BRAVE_BIRD"
+            ],
+            "Ability": "ABILITY_UNNERVE",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_IMPISH",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN9ZU"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,235 @@
+{
+    "Species": "SPECIES_ALCREMIE",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_DECORATE",
+            "Level": 0
+        },
+        {
+            "Move": "MOVE_TACKLE",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_SWEET_KISS",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_SWEET_SCENT",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_AROMATIC_MIST",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_DRAINING_KISS",
+            "Level": 15
+        },
+        {
+            "Move": "MOVE_CHARM",
+            "Level": 20
+        },
+        {
+            "Move": "MOVE_ATTRACT",
+            "Level": 25
+        },
+        {
+            "Move": "MOVE_ACID_ARMOR",
+            "Level": 30
+        },
+        {
+            "Move": "MOVE_DAZZLING_GLEAM",
+            "Level": 35
+        },
+        {
+            "Move": "MOVE_RECOVER",
+            "Level": 40
+        },
+        {
+            "Move": "MOVE_MISTY_TERRAIN",
+            "Level": 45
+        },
+        {
+            "Move": "MOVE_ENTRAINMENT",
+            "Level": 50
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_PAIN_SPLIT",
+        "MOVE_DISARMING_VOICE",
+        "MOVE_HELPING_HAND",
+        "MOVE_GIGA_DRAIN",
+        "MOVE_BABY_DOLL_EYES",
+        "MOVE_FLING",
+        "MOVE_LAST_RESORT",
+        "MOVE_SOLAR_BEAM",
+        "MOVE_FRUSTRATION",
+        "MOVE_TOXIC",
+        "MOVE_LIGHT_SCREEN",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_PROTECT",
+        "MOVE_PSYSHOCK",
+        "MOVE_CALM_MIND",
+        "MOVE_HYPER_BEAM",
+        "MOVE_SUBSTITUTE",
+        "MOVE_METRONOME",
+        "MOVE_MAGICAL_LEAF",
+        "MOVE_ENDEAVOR",
+        "MOVE_FACADE",
+        "MOVE_IMPRISON",
+        "MOVE_SLEEP_TALK",
+        "MOVE_ENERGY_BALL",
+        "MOVE_STORED_POWER",
+        "MOVE_PSYCHIC",
+        "MOVE_MYSTICAL_FIRE",
+        "MOVE_ENCORE",
+        "MOVE_GIGA_IMPACT",
+        "MOVE_FAKE_TEARS",
+        "MOVE_AROMATHERAPY",
+        "MOVE_TERA_BLAST",
+        "MOVE_ENDURE",
+        "MOVE_RETURN",
+        "MOVE_PLAY_ROUGH",
+        "MOVE_MISTY_EXPLOSION",
+        "MOVE_DRAIN_PUNCH",
+        "MOVE_PSYCH_UP",
+        "MOVE_REST"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_RECOVER",
+                "MOVE_DAZZLING_GLEAM",
+                "MOVE_CALM_MIND",
+                "MOVE_AROMATHERAPY"
+            ],
+            "Ability": "ABILITY_AROMA_VEIL",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Defensive",
+            "SourceTiers": [
+                "GEN8PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_CALM_MIND",
+                "MOVE_RECOVER",
+                "MOVE_DAZZLING_GLEAM",
+                "MOVE_MYSTICAL_FIRE"
+            ],
+            "Ability": "ABILITY_AROMA_VEIL",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Defensive Calm Mind + Recover",
+            "SourceTiers": [
+                "GEN8ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_CALM_MIND",
+                "MOVE_ACID_ARMOR",
+                "MOVE_STORED_POWER",
+                "MOVE_REST"
+            ],
+            "Ability": "ABILITY_AROMA_VEIL",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Double Dance",
+            "SourceTiers": [
+                "GEN8ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_DAZZLING_GLEAM",
+                "MOVE_MYSTICAL_FIRE",
+                "MOVE_PSYCHIC",
+                "MOVE_RECOVER"
+            ],
+            "Ability": "ABILITY_SWEET_VEIL",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Offensive",
+            "SourceTiers": [
+                "GEN8ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_CALM_MIND",
+                "MOVE_DAZZLING_GLEAM",
+                "MOVE_RECOVER",
+                "MOVE_MYSTICAL_FIRE"
+            ],
+            "Ability": "ABILITY_AROMA_VEIL",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_DECORATE",
+                "MOVE_DAZZLING_GLEAM",
+                "MOVE_MYSTICAL_FIRE",
+                "MOVE_PROTECT"
+            ],
+            "Ability": "ABILITY_SWEET_VEIL",
+            "Item": "ITEM_FOCUS_SASH",
+            "Nature": "NATURE_CALM",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8VGC2020"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_CALM_MIND",
+                "MOVE_ACID_ARMOR",
+                "MOVE_DRAINING_KISS",
+                "MOVE_STORED_POWER"
+            ],
+            "Ability": "ABILITY_AROMA_VEIL",
+            "Item": "ITEM_GRASSY_SEED",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": "TYPE_POISON",
+            "Name": "Double Dance",
+            "SourceTiers": [
+                "GEN9PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_CALM_MIND",
+                "MOVE_ACID_ARMOR",
+                "MOVE_RECOVER"
+            ],
+            "Ability": "ABILITY_AROMA_VEIL",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": "TYPE_POISON",
+            "Name": "Calm Mind",
+            "SourceTiers": [
+                "GEN9ZU"
+            ]
+        }
+    ]
+}

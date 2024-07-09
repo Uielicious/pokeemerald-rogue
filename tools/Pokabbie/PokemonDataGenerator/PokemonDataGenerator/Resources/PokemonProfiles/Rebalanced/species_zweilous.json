@@ -1,0 +1,219 @@
+{
+    "Species": "SPECIES_ZWEILOUS",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_DOUBLE_HIT",
+            "Level": "0"
+        },
+        {
+            "Move": "MOVE_DOUBLE_HIT",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_DRAGON_RAGE",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_FOCUS_ENERGY",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_BITE",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_FOCUS_ENERGY",
+            "Level": "4"
+        },
+        {
+            "Move": "MOVE_BITE",
+            "Level": "9"
+        },
+        {
+            "Move": "MOVE_HEADBUTT",
+            "Level": "12"
+        },
+        {
+            "Move": "MOVE_DRAGON_BREATH",
+            "Level": "17"
+        },
+        {
+            "Move": "MOVE_ROAR",
+            "Level": "20"
+        },
+        {
+            "Move": "MOVE_CRUNCH",
+            "Level": "25"
+        },
+        {
+            "Move": "MOVE_SLAM",
+            "Level": "28"
+        },
+        {
+            "Move": "MOVE_DRAGON_PULSE",
+            "Level": "32"
+        },
+        {
+            "Move": "MOVE_WORK_UP",
+            "Level": "38"
+        },
+        {
+            "Move": "MOVE_DRAGON_RUSH",
+            "Level": "42"
+        },
+        {
+            "Move": "MOVE_BODY_SLAM",
+            "Level": "48"
+        },
+        {
+            "Move": "MOVE_SCARY_FACE",
+            "Level": "55"
+        },
+        {
+            "Move": "MOVE_HYPER_VOICE",
+            "Level": "64"
+        },
+        {
+            "Move": "MOVE_OUTRAGE",
+            "Level": "71"
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_SUPERPOWER",
+        "MOVE_HELPING_HAND",
+        "MOVE_THUNDER_FANG",
+        "MOVE_DARK_PULSE",
+        "MOVE_DRAGON_CHEER",
+        "MOVE_DRACO_METEOR",
+        "MOVE_FIRE_FANG",
+        "MOVE_LASH_OUT",
+        "MOVE_ZEN_HEADBUTT",
+        "MOVE_EARTH_POWER",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_PROTECT",
+        "MOVE_THIEF",
+        "MOVE_TAKE_DOWN",
+        "MOVE_SUBSTITUTE",
+        "MOVE_SUNNY_DAY",
+        "MOVE_FACADE",
+        "MOVE_STOMPING_TANTRUM",
+        "MOVE_HEAD_SMASH",
+        "MOVE_SLEEP_TALK",
+        "MOVE_NASTY_PLOT",
+        "MOVE_SNARL",
+        "MOVE_TERA_BLAST",
+        "MOVE_ENDURE",
+        "MOVE_SPITE",
+        "MOVE_THUNDER_WAVE",
+        "MOVE_RAIN_DANCE",
+        "MOVE_DRAGON_TAIL",
+        "MOVE_ICE_FANG",
+        "MOVE_PSYCH_UP",
+        "MOVE_TAUNT",
+        "MOVE_REST"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_CRUNCH",
+                "MOVE_OUTRAGE",
+                "MOVE_SUPERPOWER",
+                "MOVE_HEAD_SMASH"
+            ],
+            "Ability": "ABILITY_HUSTLE",
+            "Item": "ITEM_CHOICE_BAND",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Band",
+            "SourceTiers": [
+                "GEN6PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_CRUNCH",
+                "MOVE_DRAGON_TAIL",
+                "MOVE_REST",
+                "MOVE_SLEEP_TALK"
+            ],
+            "Ability": "ABILITY_HUSTLE",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_CAREFUL",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Specially Defensive",
+            "SourceTiers": [
+                "GEN6PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_OUTRAGE",
+                "MOVE_CRUNCH",
+                "MOVE_SUPERPOWER",
+                "MOVE_THUNDER_WAVE"
+            ],
+            "Ability": "ABILITY_HUSTLE",
+            "Item": "ITEM_CHOICE_BAND",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Band",
+            "SourceTiers": [
+                "GEN6ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_OUTRAGE",
+                "MOVE_CRUNCH",
+                "MOVE_SUPERPOWER",
+                "MOVE_THUNDER_WAVE"
+            ],
+            "Ability": "ABILITY_HUSTLE",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Scarf",
+            "SourceTiers": [
+                "GEN6ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_REST",
+                "MOVE_SLEEP_TALK",
+                "MOVE_CRUNCH",
+                "MOVE_ROAR"
+            ],
+            "Ability": "ABILITY_HUSTLE",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_CAREFUL",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "RestTalk",
+            "SourceTiers": [
+                "GEN6ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_CRUNCH",
+                "MOVE_OUTRAGE",
+                "MOVE_STOMPING_TANTRUM",
+                "MOVE_REST"
+            ],
+            "Ability": "ABILITY_HUSTLE",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN9ZU"
+            ]
+        }
+    ]
+}

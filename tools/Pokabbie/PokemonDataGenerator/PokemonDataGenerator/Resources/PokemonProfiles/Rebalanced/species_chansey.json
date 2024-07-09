@@ -1,0 +1,694 @@
+{
+    "Species": "SPECIES_CHANSEY",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_POUND",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_DEFENSE_CURL",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_SWEET_KISS",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_CHARM",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_COVET",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_COPYCAT",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_DISARMING_VOICE",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_TAIL_WHIP",
+            "Level": 4
+        },
+        {
+            "Move": "MOVE_ECHOED_VOICE",
+            "Level": 8
+        },
+        {
+            "Move": "MOVE_LIFE_DEW",
+            "Level": 12
+        },
+        {
+            "Move": "MOVE_SING",
+            "Level": 16
+        },
+        {
+            "Move": "MOVE_FLING",
+            "Level": 20
+        },
+        {
+            "Move": "MOVE_TAKE_DOWN",
+            "Level": 24
+        },
+        {
+            "Move": "MOVE_HEAL_PULSE",
+            "Level": 28
+        },
+        {
+            "Move": "MOVE_HELPING_HAND",
+            "Level": 32
+        },
+        {
+            "Move": "MOVE_LIGHT_SCREEN",
+            "Level": 36
+        },
+        {
+            "Move": "MOVE_DOUBLE_EDGE",
+            "Level": 40
+        },
+        {
+            "Move": "MOVE_SOFT_BOILED",
+            "Level": 44
+        },
+        {
+            "Move": "MOVE_LAST_RESORT",
+            "Level": 48
+        },
+        {
+            "Move": "MOVE_HEALING_WISH",
+            "Level": 52
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_ICE_BEAM",
+        "MOVE_SEISMIC_TOSS",
+        "MOVE_THUNDER_PUNCH",
+        "MOVE_SOLAR_BEAM",
+        "MOVE_GRASS_KNOT",
+        "MOVE_ZEN_HEADBUTT",
+        "MOVE_CHILLING_WATER",
+        "MOVE_ROCK_TOMB",
+        "MOVE_BULLDOZE",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_TELEPORT",
+        "MOVE_PROTECT",
+        "MOVE_SKILL_SWAP",
+        "MOVE_THIEF",
+        "MOVE_CALM_MIND",
+        "MOVE_HYPER_BEAM",
+        "MOVE_SUBSTITUTE",
+        "MOVE_METRONOME",
+        "MOVE_SUNNY_DAY",
+        "MOVE_BRICK_BREAK",
+        "MOVE_FACADE",
+        "MOVE_STOMPING_TANTRUM",
+        "MOVE_ENDEAVOR",
+        "MOVE_CONFIDE",
+        "MOVE_SHADOW_BALL",
+        "MOVE_ICY_WIND",
+        "MOVE_SWIFT",
+        "MOVE_STEALTH_ROCK",
+        "MOVE_SLEEP_TALK",
+        "MOVE_STORED_POWER",
+        "MOVE_TRAILBLAZE",
+        "MOVE_PSYCHIC",
+        "MOVE_WILD_CHARGE",
+        "MOVE_REST",
+        "MOVE_GIGA_IMPACT",
+        "MOVE_THUNDERBOLT",
+        "MOVE_HYPER_VOICE",
+        "MOVE_EARTHQUAKE",
+        "MOVE_AROMATHERAPY",
+        "MOVE_TERA_BLAST",
+        "MOVE_WATER_PULSE",
+        "MOVE_ENDURE",
+        "MOVE_WISH",
+        "MOVE_ICE_PUNCH",
+        "MOVE_ELECTRIC_TERRAIN",
+        "MOVE_ROCK_CLIMB",
+        "MOVE_MINIMIZE",
+        "MOVE_DAZZLING_GLEAM",
+        "MOVE_THUNDER",
+        "MOVE_COUNTER",
+        "MOVE_PRESENT",
+        "MOVE_FOCUS_BLAST",
+        "MOVE_FIRE_PUNCH",
+        "MOVE_GROWL",
+        "MOVE_BLIZZARD",
+        "MOVE_HEAL_BELL",
+        "MOVE_THUNDER_WAVE",
+        "MOVE_SNOWSCAPE",
+        "MOVE_RAIN_DANCE",
+        "MOVE_ROCK_SLIDE",
+        "MOVE_DRAIN_PUNCH",
+        "MOVE_FLAMETHROWER",
+        "MOVE_GRAVITY",
+        "MOVE_SANDSTORM",
+        "MOVE_FIRE_BLAST",
+        "MOVE_BODY_SLAM"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_THUNDER_WAVE",
+                "MOVE_STEALTH_ROCK",
+                "MOVE_SOFT_BOILED",
+                "MOVE_SEISMIC_TOSS"
+            ],
+            "Ability": "ABILITY_NATURAL_CURE",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Support",
+            "SourceTiers": [
+                "GEN6UBERS"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_THUNDER_WAVE",
+                "MOVE_SOFT_BOILED",
+                "MOVE_SEISMIC_TOSS",
+                "MOVE_HEAL_BELL"
+            ],
+            "Ability": "ABILITY_NATURAL_CURE",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "De Blob",
+            "SourceTiers": [
+                "GEN6OU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SEISMIC_TOSS",
+                "MOVE_SOFT_BOILED",
+                "MOVE_THUNDER_WAVE",
+                "MOVE_HEAL_BELL"
+            ],
+            "Ability": "ABILITY_NATURAL_CURE",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6OU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SEISMIC_TOSS",
+                "MOVE_SOFT_BOILED",
+                "MOVE_THUNDER_WAVE",
+                "MOVE_STEALTH_ROCK"
+            ],
+            "Ability": "ABILITY_NATURAL_CURE",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Standard",
+            "SourceTiers": [
+                "GEN6BATTLESPOTSINGLES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SEISMIC_TOSS",
+                "MOVE_SOFT_BOILED",
+                "MOVE_MINIMIZE",
+                "MOVE_SUBSTITUTE"
+            ],
+            "Ability": "ABILITY_NATURAL_CURE",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Minimize",
+            "SourceTiers": [
+                "GEN6BATTLESPOTSINGLES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SOFT_BOILED",
+                "MOVE_SEISMIC_TOSS",
+                "MOVE_STEALTH_ROCK",
+                "MOVE_THUNDER_WAVE"
+            ],
+            "Ability": "ABILITY_NATURAL_CURE",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6BATTLESPOTSINGLES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_THUNDER_WAVE",
+                "MOVE_SEISMIC_TOSS",
+                "MOVE_COUNTER",
+                "MOVE_SOFT_BOILED"
+            ],
+            "Ability": "ABILITY_NATURAL_CURE",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Standard",
+            "SourceTiers": [
+                "GEN61V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SOFT_BOILED",
+                "MOVE_THUNDER_WAVE",
+                "MOVE_SEISMIC_TOSS",
+                "MOVE_COUNTER"
+            ],
+            "Ability": "ABILITY_NATURAL_CURE",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN61V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SOFT_BOILED",
+                "MOVE_THUNDER_WAVE",
+                "MOVE_SEISMIC_TOSS",
+                "MOVE_HEAL_BELL"
+            ],
+            "Ability": "ABILITY_NATURAL_CURE",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6ANYTHINGGOES",
+                "GEN7UBERS"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_STEALTH_ROCK",
+                "MOVE_SOFT_BOILED",
+                "MOVE_SEISMIC_TOSS",
+                "MOVE_THUNDER_WAVE"
+            ],
+            "Ability": "ABILITY_NATURAL_CURE",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Support",
+            "SourceTiers": [
+                "GEN6MONOTYPE",
+                "GEN7MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SEISMIC_TOSS",
+                "MOVE_SOFT_BOILED",
+                "MOVE_STEALTH_ROCK",
+                "MOVE_THUNDER_WAVE"
+            ],
+            "Ability": "ABILITY_NATURAL_CURE",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SOFT_BOILED",
+                "MOVE_HEAL_BELL",
+                "MOVE_THUNDER_WAVE",
+                "MOVE_WISH"
+            ],
+            "Ability": "ABILITY_NATURAL_CURE",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Support",
+            "SourceTiers": [
+                "GEN7UBERS"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SEISMIC_TOSS",
+                "MOVE_THUNDER_WAVE",
+                "MOVE_STEALTH_ROCK",
+                "MOVE_SOFT_BOILED"
+            ],
+            "Ability": "ABILITY_NATURAL_CURE",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Defensive",
+            "SourceTiers": [
+                "GEN7OU",
+                "GEN8NATIONALDEX",
+                "GEN8DOUBLESOU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SEISMIC_TOSS",
+                "MOVE_SOFT_BOILED",
+                "MOVE_THUNDER_WAVE",
+                "MOVE_STEALTH_ROCK"
+            ],
+            "Ability": "ABILITY_NATURAL_CURE",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7OU",
+                "GEN7DOUBLESOU",
+                "GEN7BATTLESPOTSINGLES",
+                "GEN7BATTLESPOTSINGLES",
+                "GEN9NATIONALDEXMONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SOFT_BOILED",
+                "MOVE_THUNDER_WAVE",
+                "MOVE_SEISMIC_TOSS",
+                "MOVE_MINIMIZE"
+            ],
+            "Ability": "ABILITY_NATURAL_CURE",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7BATTLESPOTDOUBLES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_GROWL",
+                "MOVE_SOFT_BOILED",
+                "MOVE_SEISMIC_TOSS",
+                "MOVE_THUNDER_WAVE"
+            ],
+            "Ability": "ABILITY_SERENE_GRACE",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Stall",
+            "SourceTiers": [
+                "GEN71V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_THUNDER_WAVE",
+                "MOVE_SEISMIC_TOSS",
+                "MOVE_SOFT_BOILED",
+                "MOVE_TELEPORT"
+            ],
+            "Ability": null,
+            "Item": null,
+            "Nature": "NATURE_CALM",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Specially Defensive Wall",
+            "SourceTiers": [
+                "GEN7LETSGOOU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SOFT_BOILED",
+                "MOVE_SEISMIC_TOSS",
+                "MOVE_THUNDER_WAVE",
+                "MOVE_TELEPORT"
+            ],
+            "Ability": null,
+            "Item": null,
+            "Nature": "NATURE_CALM",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7LETSGOOU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SOFT_BOILED",
+                "MOVE_SEISMIC_TOSS",
+                "MOVE_THUNDER_WAVE",
+                "MOVE_STEALTH_ROCK"
+            ],
+            "Ability": "ABILITY_NATURAL_CURE",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7MONOTYPE",
+                "GEN8OU",
+                "GEN8NATIONALDEXMONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SOFT_BOILED",
+                "MOVE_TELEPORT",
+                "MOVE_HEALING_WISH",
+                "MOVE_THUNDER_WAVE"
+            ],
+            "Ability": "ABILITY_NATURAL_CURE",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Support",
+            "SourceTiers": [
+                "GEN8UBERS"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SEISMIC_TOSS",
+                "MOVE_THUNDER_WAVE",
+                "MOVE_SOFT_BOILED",
+                "MOVE_TELEPORT"
+            ],
+            "Ability": "ABILITY_NATURAL_CURE",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Defensive",
+            "SourceTiers": [
+                "GEN8UU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SOFT_BOILED",
+                "MOVE_SEISMIC_TOSS",
+                "MOVE_THUNDER_WAVE",
+                "MOVE_TELEPORT"
+            ],
+            "Ability": "ABILITY_NATURAL_CURE",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8UU",
+                "GEN8NATIONALDEX",
+                "GEN9NATIONALDEX"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SOFT_BOILED",
+                "MOVE_STEALTH_ROCK",
+                "MOVE_SEISMIC_TOSS",
+                "MOVE_SING"
+            ],
+            "Ability": "ABILITY_NATURAL_CURE",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8BATTLESTADIUMSINGLES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SEISMIC_TOSS",
+                "MOVE_SOFT_BOILED",
+                "MOVE_THUNDER_WAVE",
+                "MOVE_COUNTER"
+            ],
+            "Ability": "ABILITY_HEALER",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Stall",
+            "SourceTiers": [
+                "GEN81V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SOFT_BOILED",
+                "MOVE_THUNDER_WAVE",
+                "MOVE_SEISMIC_TOSS",
+                "MOVE_COUNTER"
+            ],
+            "Ability": "ABILITY_SERENE_GRACE",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_IMPISH",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN81V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_AROMATHERAPY",
+                "MOVE_SOFT_BOILED",
+                "MOVE_THUNDER_WAVE",
+                "MOVE_CONFIDE"
+            ],
+            "Ability": "ABILITY_NATURAL_CURE",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_CALM",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Wall Cleric",
+            "SourceTiers": [
+                "GEN8ANYTHINGGOES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_STEALTH_ROCK",
+                "MOVE_SEISMIC_TOSS",
+                "MOVE_SOFT_BOILED",
+                "MOVE_TELEPORT"
+            ],
+            "Ability": "ABILITY_NATURAL_CURE",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Eviolite Wall",
+            "SourceTiers": [
+                "GEN8MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_STEALTH_ROCK",
+                "MOVE_SEISMIC_TOSS",
+                "MOVE_SOFT_BOILED",
+                "MOVE_HEAL_BELL"
+            ],
+            "Ability": "ABILITY_NATURAL_CURE",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": "TYPE_GHOST",
+            "Name": "Defensive",
+            "SourceTiers": [
+                "GEN9RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SEISMIC_TOSS",
+                "MOVE_SOFT_BOILED",
+                "MOVE_STEALTH_ROCK",
+                "MOVE_THUNDER_WAVE"
+            ],
+            "Ability": "ABILITY_NATURAL_CURE",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN9RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SOFT_BOILED",
+                "MOVE_SEISMIC_TOSS",
+                "MOVE_THUNDER_WAVE",
+                "MOVE_AROMATHERAPY"
+            ],
+            "Ability": "ABILITY_NATURAL_CURE",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": "TYPE_STEEL",
+            "Name": "Yung Pink Blob",
+            "SourceTiers": [
+                "GEN9NATIONALDEX"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SOFT_BOILED",
+                "MOVE_THUNDER_WAVE",
+                "MOVE_SEISMIC_TOSS",
+                "MOVE_STEALTH_ROCK"
+            ],
+            "Ability": "ABILITY_NATURAL_CURE",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN9NATIONALDEXAG"
+            ]
+        }
+    ]
+}

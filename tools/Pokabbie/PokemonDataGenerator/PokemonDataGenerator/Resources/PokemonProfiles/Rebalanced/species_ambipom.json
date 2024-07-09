@@ -1,0 +1,415 @@
+{
+    "Species": "SPECIES_AMBIPOM",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_DUAL_CHOP",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_SCRATCH",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_QUICK_ATTACK",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_TAIL_WHIP",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_SAND_ATTACK",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_ASTONISH",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_SAND_ATTACK",
+            "Level": "4"
+        },
+        {
+            "Move": "MOVE_ASTONISH",
+            "Level": "8"
+        },
+        {
+            "Move": "MOVE_BATON_PASS",
+            "Level": "11"
+        },
+        {
+            "Move": "MOVE_TICKLE",
+            "Level": "15"
+        },
+        {
+            "Move": "MOVE_FURY_SWIPES",
+            "Level": "18"
+        },
+        {
+            "Move": "MOVE_SWIFT",
+            "Level": "22"
+        },
+        {
+            "Move": "MOVE_SCREECH",
+            "Level": "25"
+        },
+        {
+            "Move": "MOVE_AGILITY",
+            "Level": "29"
+        },
+        {
+            "Move": "MOVE_DOUBLE_HIT",
+            "Level": "32"
+        },
+        {
+            "Move": "MOVE_FLING",
+            "Level": "36"
+        },
+        {
+            "Move": "MOVE_NASTY_PLOT",
+            "Level": "39"
+        },
+        {
+            "Move": "MOVE_LAST_RESORT",
+            "Level": "43"
+        },
+        {
+            "Move": "MOVE_ARM_THRUST",
+            "Level": "46"
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_FAKE_OUT",
+        "MOVE_THUNDER_PUNCH",
+        "MOVE_HELPING_HAND",
+        "MOVE_POWER_UP_PUNCH",
+        "MOVE_SOLAR_BEAM",
+        "MOVE_GUNK_SHOT",
+        "MOVE_GRASS_KNOT",
+        "MOVE_CHILLING_WATER",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_KNOCK_OFF",
+        "MOVE_PROTECT",
+        "MOVE_THROAT_CHOP",
+        "MOVE_DOUBLE_EDGE",
+        "MOVE_THIEF",
+        "MOVE_SEED_BOMB",
+        "MOVE_SHADOW_CLAW",
+        "MOVE_IRON_TAIL",
+        "MOVE_TAKE_DOWN",
+        "MOVE_SUBSTITUTE",
+        "MOVE_SLAM",
+        "MOVE_SUNNY_DAY",
+        "MOVE_BRICK_BREAK",
+        "MOVE_FACADE",
+        "MOVE_HYPER_BEAM",
+        "MOVE_METRONOME",
+        "MOVE_ENDEAVOR",
+        "MOVE_BEAT_UP",
+        "MOVE_ACROBATICS",
+        "MOVE_SHADOW_BALL",
+        "MOVE_TRIPLE_AXEL",
+        "MOVE_SLEEP_TALK",
+        "MOVE_TRAILBLAZE",
+        "MOVE_MUD_SLAP",
+        "MOVE_BOUNCE",
+        "MOVE_GIGA_IMPACT",
+        "MOVE_THUNDERBOLT",
+        "MOVE_DIG",
+        "MOVE_COVET",
+        "MOVE_QUICK_GUARD",
+        "MOVE_ICE_PUNCH",
+        "MOVE_TERA_BLAST",
+        "MOVE_WATER_PULSE",
+        "MOVE_ENDURE",
+        "MOVE_RETURN",
+        "MOVE_MUD_SHOT",
+        "MOVE_SPITE",
+        "MOVE_PURSUIT",
+        "MOVE_THUNDER",
+        "MOVE_COUNTER",
+        "MOVE_SWITCHEROO",
+        "MOVE_LOW_SWEEP",
+        "MOVE_FOUL_PLAY",
+        "MOVE_FIRE_PUNCH",
+        "MOVE_LOW_KICK",
+        "MOVE_THUNDER_WAVE",
+        "MOVE_SMACK_DOWN",
+        "MOVE_RAIN_DANCE",
+        "MOVE_U_TURN",
+        "MOVE_TAIL_SLAP",
+        "MOVE_AERIAL_ACE",
+        "MOVE_TAUNT",
+        "MOVE_FOCUS_PUNCH",
+        "MOVE_REST"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_FAKE_OUT",
+                "MOVE_KNOCK_OFF",
+                "MOVE_U_TURN"
+            ],
+            "Ability": "ABILITY_TECHNICIAN",
+            "Item": "ITEM_SILK_SCARF",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6UU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FAKE_OUT",
+                "MOVE_RETURN",
+                "MOVE_LOW_KICK",
+                "MOVE_KNOCK_OFF"
+            ],
+            "Ability": "ABILITY_TECHNICIAN",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "DON'T USE AMBIPOM",
+            "SourceTiers": [
+                "GEN6RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FAKE_OUT",
+                "MOVE_KNOCK_OFF",
+                "MOVE_U_TURN"
+            ],
+            "Ability": "ABILITY_TECHNICIAN",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FAKE_OUT",
+                "MOVE_LAST_RESORT",
+                "MOVE_KNOCK_OFF"
+            ],
+            "Ability": "ABILITY_TECHNICIAN",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6BATTLESPOTSINGLES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FAKE_OUT",
+                "MOVE_GIGA_IMPACT",
+                "MOVE_TAUNT",
+                "MOVE_TICKLE"
+            ],
+            "Ability": "ABILITY_TECHNICIAN",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Life Orb",
+            "SourceTiers": [
+                "GEN61V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FAKE_OUT",
+                "MOVE_KNOCK_OFF",
+                "MOVE_U_TURN",
+                "MOVE_POWER_UP_PUNCH"
+            ],
+            "Ability": "ABILITY_TECHNICIAN",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FAKE_OUT",
+                "MOVE_RETURN",
+                "MOVE_LOW_KICK",
+                "MOVE_U_TURN"
+            ],
+            "Ability": "ABILITY_TECHNICIAN",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Offensive Pivot",
+            "SourceTiers": [
+                "GEN7NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FAKE_OUT",
+                "MOVE_U_TURN",
+                "MOVE_KNOCK_OFF",
+                "MOVE_RETURN"
+            ],
+            "Ability": "ABILITY_TECHNICIAN",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FAKE_OUT",
+                "MOVE_TAIL_SLAP",
+                "MOVE_LAST_RESORT"
+            ],
+            "Ability": "ABILITY_TECHNICIAN",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7BATTLESPOTDOUBLES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FAKE_OUT",
+                "MOVE_GIGA_IMPACT",
+                "MOVE_TICKLE",
+                "MOVE_LOW_SWEEP"
+            ],
+            "Ability": "ABILITY_TECHNICIAN",
+            "Item": "ITEM_NORMALIUM_Z",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Normalium Z",
+            "SourceTiers": [
+                "GEN71V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FAKE_OUT",
+                "MOVE_GIGA_IMPACT",
+                "MOVE_LAST_RESORT"
+            ],
+            "Ability": "ABILITY_TECHNICIAN",
+            "Item": "ITEM_NORMALIUM_Z",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN71V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FAKE_OUT",
+                "MOVE_U_TURN",
+                "MOVE_KNOCK_OFF",
+                "MOVE_DOUBLE_HIT"
+            ],
+            "Ability": "ABILITY_TECHNICIAN",
+            "Item": "ITEM_SILK_SCARF",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN9RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FAKE_OUT",
+                "MOVE_U_TURN",
+                "MOVE_KNOCK_OFF",
+                "MOVE_TRIPLE_AXEL"
+            ],
+            "Ability": "ABILITY_TECHNICIAN",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": "TYPE_NORMAL",
+            "Name": "Offensive Pivot",
+            "SourceTiers": [
+                "GEN9PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FAKE_OUT",
+                "MOVE_TAIL_SLAP",
+                "MOVE_ICE_PUNCH",
+                "MOVE_PURSUIT"
+            ],
+            "Item": "ITEM_ICIUM_Z",
+            "Ability": "ABILITY_TECHNICIAN",
+            "HiddenPower": null,
+            "SourceTiers": [
+                "GEN7NU"
+            ],
+            "Name": "Icium Z",
+            "Nature": "NATURE_HARDY",
+            "TeraType": null
+        },
+        {
+            "Moves": [
+                "MOVE_FAKE_OUT",
+                "MOVE_QUICK_ATTACK",
+                "MOVE_COVET",
+                "MOVE_U_TURN"
+            ],
+            "Item": "ITEM_LIFE_ORB",
+            "Ability": "ABILITY_TECHNICIAN",
+            "HiddenPower": null,
+            "SourceTiers": [
+                "GEN7NU"
+            ],
+            "Name": "Covet",
+            "Nature": "NATURE_HARDY",
+            "TeraType": null
+        },
+        {
+            "Moves": [
+                "MOVE_TAIL_SLAP",
+                "MOVE_ARM_THRUST",
+                "MOVE_U_TURN",
+                "MOVE_SEED_BOMB"
+            ],
+            "Item": "ITEM_LIFE_ORB",
+            "Ability": "ABILITY_SKILL_LINK",
+            "HiddenPower": null,
+            "SourceTiers": [
+                "GEN7NU"
+            ],
+            "Name": "Skill Link Life Orb",
+            "Nature": "NATURE_HARDY",
+            "TeraType": null
+        }
+    ]
+}

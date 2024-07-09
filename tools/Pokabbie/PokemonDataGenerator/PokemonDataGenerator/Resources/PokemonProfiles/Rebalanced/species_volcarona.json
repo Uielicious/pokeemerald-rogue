@@ -1,0 +1,1300 @@
+{
+    "Species": "SPECIES_VOLCARONA",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_QUIVER_DANCE",
+            "Level": 0
+        },
+        {
+            "Move": "MOVE_GUST",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_WHIRLWIND",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_TAKE_DOWN",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_DOUBLE_EDGE",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_EMBER",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_STRING_SHOT",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_FIRE_SPIN",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_FLARE_BLITZ",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_FLAME_CHARGE",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_STRUGGLE_BUG",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_FIERY_DANCE",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_FLAME_WHEEL",
+            "Level": 18
+        },
+        {
+            "Move": "MOVE_BUG_BITE",
+            "Level": 24
+        },
+        {
+            "Move": "MOVE_SCREECH",
+            "Level": 30
+        },
+        {
+            "Move": "MOVE_LEECH_LIFE",
+            "Level": 36
+        },
+        {
+            "Move": "MOVE_BUG_BUZZ",
+            "Level": 42
+        },
+        {
+            "Move": "MOVE_HEAT_WAVE",
+            "Level": 48
+        },
+        {
+            "Move": "MOVE_AMNESIA",
+            "Level": 54
+        },
+        {
+            "Move": "MOVE_HURRICANE",
+            "Level": 62
+        },
+        {
+            "Move": "MOVE_FIRE_BLAST",
+            "Level": 70
+        },
+        {
+            "Move": "MOVE_RAGE_POWDER",
+            "Level": 78
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_AIR_CUTTER",
+        "MOVE_GIGA_DRAIN",
+        "MOVE_MORNING_SUN",
+        "MOVE_SOLAR_BEAM",
+        "MOVE_SKITTER_SMACK",
+        "MOVE_ZEN_HEADBUTT",
+        "MOVE_OVERHEAT",
+        "MOVE_INFERNO",
+        "MOVE_LIGHT_SCREEN",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_WILL_O_WISP",
+        "MOVE_PROTECT",
+        "MOVE_CALM_MIND",
+        "MOVE_HYPER_BEAM",
+        "MOVE_SUBSTITUTE",
+        "MOVE_LUNGE",
+        "MOVE_FACADE",
+        "MOVE_SUNNY_DAY",
+        "MOVE_DUAL_WINGBEAT",
+        "MOVE_TAILWIND",
+        "MOVE_AIR_SLASH",
+        "MOVE_ACROBATICS",
+        "MOVE_SLEEP_TALK",
+        "MOVE_TRAILBLAZE",
+        "MOVE_PSYCHIC",
+        "MOVE_FLY",
+        "MOVE_WILD_CHARGE",
+        "MOVE_REST",
+        "MOVE_GIGA_IMPACT",
+        "MOVE_TERA_BLAST",
+        "MOVE_ENDURE",
+        "MOVE_ROOST",
+        "MOVE_POISON_JAB",
+        "MOVE_POUNCE",
+        "MOVE_RAIN_DANCE",
+        "MOVE_FLAMETHROWER",
+        "MOVE_U_TURN",
+        "MOVE_BODY_SLAM"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_QUIVER_DANCE",
+                "MOVE_FLAMETHROWER",
+                "MOVE_BUG_BUZZ",
+                "MOVE_GIGA_DRAIN"
+            ],
+            "Ability": "ABILITY_FLAME_BODY",
+            "Item": "ITEM_LUM_BERRY",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Offensive Quiver Dance",
+            "SourceTiers": [
+                "GEN6OU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SUBSTITUTE",
+                "MOVE_QUIVER_DANCE",
+                "MOVE_FLAMETHROWER",
+                "MOVE_BUG_BUZZ"
+            ],
+            "Ability": "ABILITY_SWARM",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Sub Swarm",
+            "SourceTiers": [
+                "GEN6OU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_QUIVER_DANCE",
+                "MOVE_GIGA_DRAIN",
+                "MOVE_BUG_BUZZ",
+                "MOVE_FIERY_DANCE"
+            ],
+            "Ability": "ABILITY_FLAME_BODY",
+            "Item": "ITEM_LUM_BERRY",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6OU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_HEAT_WAVE",
+                "MOVE_GIGA_DRAIN",
+                "MOVE_QUIVER_DANCE",
+                "MOVE_PROTECT"
+            ],
+            "Ability": "ABILITY_FLAME_BODY",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Offensive Quiver Dance",
+            "SourceTiers": [
+                "GEN6DOUBLESOU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_BUG_BUZZ",
+                "MOVE_QUIVER_DANCE",
+                "MOVE_GIGA_DRAIN",
+                "MOVE_FIERY_DANCE"
+            ],
+            "Ability": "ABILITY_FLAME_BODY",
+            "Item": "ITEM_FOCUS_SASH",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6DOUBLESOU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_QUIVER_DANCE",
+                "MOVE_FIRE_BLAST",
+                "MOVE_BUG_BUZZ",
+                "MOVE_HIDDEN_POWER"
+            ],
+            "Ability": "ABILITY_FLAME_BODY",
+            "Item": "ITEM_LUM_BERRY",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": "TYPE_ICE",
+            "TeraType": null,
+            "Name": "Special Sweeper",
+            "SourceTiers": [
+                "GEN6BATTLESPOTSINGLES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_BUG_BUZZ",
+                "MOVE_QUIVER_DANCE",
+                "MOVE_FIERY_DANCE",
+                "MOVE_GIGA_DRAIN"
+            ],
+            "Ability": "ABILITY_FLAME_BODY",
+            "Item": "ITEM_LUM_BERRY",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6BATTLESPOTSINGLES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_HEAT_WAVE",
+                "MOVE_BUG_BUZZ",
+                "MOVE_QUIVER_DANCE",
+                "MOVE_PROTECT"
+            ],
+            "Ability": "ABILITY_FLAME_BODY",
+            "Item": "ITEM_CHARTI_BERRY",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Quiver Dance",
+            "SourceTiers": [
+                "GEN6BATTLESPOTDOUBLES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_OVERHEAT",
+                "MOVE_BUG_BUZZ",
+                "MOVE_RAGE_POWDER",
+                "MOVE_PROTECT"
+            ],
+            "Ability": "ABILITY_FLAME_BODY",
+            "Item": "ITEM_ROCKY_HELMET",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Rage Powder",
+            "SourceTiers": [
+                "GEN6BATTLESPOTDOUBLES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_RAGE_POWDER",
+                "MOVE_PROTECT",
+                "MOVE_OVERHEAT",
+                "MOVE_WHIRLWIND"
+            ],
+            "Ability": "ABILITY_FLAME_BODY",
+            "Item": "ITEM_RED_CARD",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6VGC2016"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SUBSTITUTE",
+                "MOVE_QUIVER_DANCE",
+                "MOVE_FIRE_BLAST",
+                "MOVE_BUG_BUZZ"
+            ],
+            "Ability": "ABILITY_SWARM",
+            "Item": "ITEM_PETAYA_BERRY",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Standard",
+            "SourceTiers": [
+                "GEN61V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_ENDURE",
+                "MOVE_QUIVER_DANCE",
+                "MOVE_BUG_BUZZ",
+                "MOVE_OVERHEAT"
+            ],
+            "Ability": "ABILITY_SWARM",
+            "Item": "ITEM_CUSTAP_BERRY",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Custap Berry",
+            "SourceTiers": [
+                "GEN61V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_QUIVER_DANCE",
+                "MOVE_BUG_BUZZ",
+                "MOVE_FIERY_DANCE",
+                "MOVE_GIGA_DRAIN"
+            ],
+            "Ability": "ABILITY_FLAME_BODY",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6ANYTHINGGOES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_QUIVER_DANCE",
+                "MOVE_FIRE_BLAST",
+                "MOVE_BUG_BUZZ",
+                "MOVE_GIGA_DRAIN"
+            ],
+            "Ability": "ABILITY_SWARM",
+            "Item": "ITEM_FOCUS_SASH",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Quiver Dance (Fire)",
+            "SourceTiers": [
+                "GEN6MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_QUIVER_DANCE",
+                "MOVE_FIRE_BLAST",
+                "MOVE_BUG_BUZZ",
+                "MOVE_GIGA_DRAIN"
+            ],
+            "Ability": "ABILITY_FLAME_BODY",
+            "Item": "ITEM_LUM_BERRY",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Offensive Quiver Dance (Bug)",
+            "SourceTiers": [
+                "GEN6MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_QUIVER_DANCE",
+                "MOVE_FIERY_DANCE",
+                "MOVE_ROOST",
+                "MOVE_BUG_BUZZ"
+            ],
+            "Ability": "ABILITY_FLAME_BODY",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Bulky Quiver Dance (Bug)",
+            "SourceTiers": [
+                "GEN6MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_QUIVER_DANCE",
+                "MOVE_FIERY_DANCE",
+                "MOVE_BUG_BUZZ",
+                "MOVE_GIGA_DRAIN"
+            ],
+            "Ability": "ABILITY_FLAME_BODY",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6MONOTYPE",
+                "GEN7MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_QUIVER_DANCE",
+                "MOVE_FLAMETHROWER",
+                "MOVE_BUG_BUZZ",
+                "MOVE_ROOST"
+            ],
+            "Ability": "ABILITY_FLAME_BODY",
+            "Item": "ITEM_BUGINIUM_Z",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Bulky Quiver Dance",
+            "SourceTiers": [
+                "GEN7OU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_QUIVER_DANCE",
+                "MOVE_FIRE_BLAST",
+                "MOVE_BUG_BUZZ",
+                "MOVE_HIDDEN_POWER"
+            ],
+            "Ability": "ABILITY_FLAME_BODY",
+            "Item": "ITEM_BUGINIUM_Z",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": "TYPE_GROUND",
+            "TeraType": null,
+            "Name": "Offensive Quiver Dance",
+            "SourceTiers": [
+                "GEN7OU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SUBSTITUTE",
+                "MOVE_QUIVER_DANCE",
+                "MOVE_BUG_BUZZ",
+                "MOVE_FLAMETHROWER"
+            ],
+            "Ability": "ABILITY_SWARM",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Substitute + Swarm",
+            "SourceTiers": [
+                "GEN7OU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_QUIVER_DANCE",
+                "MOVE_BUG_BUZZ",
+                "MOVE_FIERY_DANCE",
+                "MOVE_FLAMETHROWER"
+            ],
+            "Ability": "ABILITY_FLAME_BODY",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7OU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_HEAT_WAVE",
+                "MOVE_BUG_BUZZ",
+                "MOVE_QUIVER_DANCE",
+                "MOVE_PROTECT"
+            ],
+            "Ability": "ABILITY_FLAME_BODY",
+            "Item": "ITEM_BUGINIUM_Z",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Quiver Dance",
+            "SourceTiers": [
+                "GEN7DOUBLESOU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_OVERHEAT",
+                "MOVE_RAGE_POWDER",
+                "MOVE_TAILWIND",
+                "MOVE_PROTECT"
+            ],
+            "Ability": "ABILITY_FLAME_BODY",
+            "Item": "ITEM_WIKI_BERRY",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Bulky Support",
+            "SourceTiers": [
+                "GEN7DOUBLESOU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_QUIVER_DANCE",
+                "MOVE_BUG_BUZZ",
+                "MOVE_FIERY_DANCE",
+                "MOVE_GIGA_DRAIN"
+            ],
+            "Ability": "ABILITY_FLAME_BODY",
+            "Item": "ITEM_FOCUS_SASH",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7DOUBLESOU",
+                "GEN7BATTLESPOTDOUBLES",
+                "GEN8ANYTHINGGOES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_QUIVER_DANCE",
+                "MOVE_FIRE_BLAST",
+                "MOVE_BUG_BUZZ",
+                "MOVE_GIGA_DRAIN"
+            ],
+            "Ability": "ABILITY_FLAME_BODY",
+            "Item": "ITEM_FOCUS_SASH",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Special Sweeper",
+            "SourceTiers": [
+                "GEN7BATTLESPOTSINGLES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FIRE_BLAST",
+                "MOVE_BUG_BUZZ",
+                "MOVE_FIERY_DANCE",
+                "MOVE_HIDDEN_POWER"
+            ],
+            "Ability": "ABILITY_FLAME_BODY",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": "TYPE_ICE",
+            "TeraType": null,
+            "Name": "Choiced Attacker",
+            "SourceTiers": [
+                "GEN7BATTLESPOTSINGLES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_QUIVER_DANCE",
+                "MOVE_FIERY_DANCE",
+                "MOVE_GIGA_DRAIN",
+                "MOVE_HIDDEN_POWER"
+            ],
+            "Ability": "ABILITY_FLAME_BODY",
+            "Item": "ITEM_AGUAV_BERRY",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": "TYPE_ICE",
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7BATTLESPOTSINGLES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FLAMETHROWER",
+                "MOVE_GIGA_DRAIN",
+                "MOVE_QUIVER_DANCE",
+                "MOVE_PROTECT"
+            ],
+            "Ability": "ABILITY_FLAME_BODY",
+            "Item": "ITEM_MAGO_BERRY",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Quiver Dance",
+            "SourceTiers": [
+                "GEN7VGC2018"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_QUIVER_DANCE",
+                "MOVE_PROTECT",
+                "MOVE_GIGA_DRAIN",
+                "MOVE_FLAMETHROWER"
+            ],
+            "Ability": "ABILITY_FLAME_BODY",
+            "Item": "ITEM_MAGO_BERRY",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7VGC2018"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_BUG_BUZZ",
+                "MOVE_OVERHEAT",
+                "MOVE_QUIVER_DANCE",
+                "MOVE_SUBSTITUTE"
+            ],
+            "Ability": "ABILITY_SWARM",
+            "Item": "ITEM_BUGINIUM_Z",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Fast Buginium Z",
+            "SourceTiers": [
+                "GEN71V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_ROOST",
+                "MOVE_QUIVER_DANCE",
+                "MOVE_BUG_BUZZ",
+                "MOVE_SUBSTITUTE"
+            ],
+            "Ability": "ABILITY_SWARM",
+            "Item": "ITEM_BUGINIUM_Z",
+            "Nature": "NATURE_CALM",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Specially Defensive",
+            "SourceTiers": [
+                "GEN71V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_QUIVER_DANCE",
+                "MOVE_BUG_BUZZ",
+                "MOVE_OVERHEAT",
+                "MOVE_ROOST"
+            ],
+            "Ability": "ABILITY_SWARM",
+            "Item": "ITEM_BUGINIUM_Z",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN71V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_QUIVER_DANCE",
+                "MOVE_FIRE_BLAST",
+                "MOVE_HIDDEN_POWER",
+                "MOVE_GIGA_DRAIN"
+            ],
+            "Ability": "ABILITY_FLAME_BODY",
+            "Item": "ITEM_FIRIUM_Z",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": "TYPE_GROUND",
+            "TeraType": null,
+            "Name": "Setup Sweeper (Bug)",
+            "SourceTiers": [
+                "GEN7MONOTYPE",
+                "GEN8NATIONALDEXMONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_QUIVER_DANCE",
+                "MOVE_FIRE_BLAST",
+                "MOVE_PSYCHIC",
+                "MOVE_HIDDEN_POWER"
+            ],
+            "Ability": "ABILITY_FLAME_BODY",
+            "Item": "ITEM_PSYCHIUM_Z",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": "TYPE_ELECTRIC",
+            "TeraType": null,
+            "Name": "Psychium Z (Bug)",
+            "SourceTiers": [
+                "GEN7MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_QUIVER_DANCE",
+                "MOVE_FIRE_BLAST",
+                "MOVE_BUG_BUZZ",
+                "MOVE_GIGA_DRAIN"
+            ],
+            "Ability": "ABILITY_FLAME_BODY",
+            "Item": "ITEM_FIRIUM_Z",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Quiver Dance (Fire)",
+            "SourceTiers": [
+                "GEN7MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_QUIVER_DANCE",
+                "MOVE_ROOST",
+                "MOVE_FLAMETHROWER",
+                "MOVE_PSYCHIC"
+            ],
+            "Ability": "ABILITY_FLAME_BODY",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Bulky Quiver Dance",
+            "SourceTiers": [
+                "GEN8OU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_QUIVER_DANCE",
+                "MOVE_FLAMETHROWER",
+                "MOVE_BUG_BUZZ",
+                "MOVE_PSYCHIC"
+            ],
+            "Ability": "ABILITY_FLAME_BODY",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Offensive Quiver Dance",
+            "SourceTiers": [
+                "GEN8OU",
+                "GEN8NATIONALDEX"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_QUIVER_DANCE",
+                "MOVE_BUG_BUZZ",
+                "MOVE_FIERY_DANCE",
+                "MOVE_GIGA_DRAIN"
+            ],
+            "Ability": "ABILITY_FLAME_BODY",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8OU",
+                "GEN8NATIONALDEX"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_RAGE_POWDER",
+                "MOVE_OVERHEAT",
+                "MOVE_WILL_O_WISP",
+                "MOVE_TAILWIND"
+            ],
+            "Ability": "ABILITY_FLAME_BODY",
+            "Item": "ITEM_SITRUS_BERRY",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Support",
+            "SourceTiers": [
+                "GEN8DOUBLESOU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_QUIVER_DANCE",
+                "MOVE_HEAT_WAVE",
+                "MOVE_BUG_BUZZ",
+                "MOVE_PROTECT"
+            ],
+            "Ability": "ABILITY_FLAME_BODY",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Quiver Dance",
+            "SourceTiers": [
+                "GEN8DOUBLESOU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_QUIVER_DANCE",
+                "MOVE_GIGA_DRAIN",
+                "MOVE_FIERY_DANCE",
+                "MOVE_BUG_BUZZ"
+            ],
+            "Ability": "ABILITY_FLAME_BODY",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8BATTLESTADIUMSINGLES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_HEAT_WAVE",
+                "MOVE_RAGE_POWDER",
+                "MOVE_STRUGGLE_BUG",
+                "MOVE_PROTECT"
+            ],
+            "Ability": "ABILITY_FLAME_BODY",
+            "Item": "ITEM_FOCUS_SASH",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8VGC2020"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_BUG_BUZZ",
+                "MOVE_QUIVER_DANCE",
+                "MOVE_WILL_O_WISP",
+                "MOVE_ROOST"
+            ],
+            "Ability": "ABILITY_FLAME_BODY",
+            "Item": "ITEM_KEE_BERRY",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Kee Berry",
+            "SourceTiers": [
+                "GEN81V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_QUIVER_DANCE",
+                "MOVE_FIRE_BLAST",
+                "MOVE_BUG_BUZZ",
+                "MOVE_ROOST"
+            ],
+            "Ability": "ABILITY_SWARM",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Life Orb",
+            "SourceTiers": [
+                "GEN81V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_QUIVER_DANCE",
+                "MOVE_BUG_BUZZ",
+                "MOVE_OVERHEAT",
+                "MOVE_ENDURE"
+            ],
+            "Ability": "ABILITY_SWARM",
+            "Item": "ITEM_CUSTAP_BERRY",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Custap Berry",
+            "SourceTiers": [
+                "GEN81V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_OVERHEAT",
+                "MOVE_BUG_BUZZ",
+                "MOVE_HURRICANE",
+                "MOVE_GIGA_DRAIN"
+            ],
+            "Ability": "ABILITY_SWARM",
+            "Item": "ITEM_CHOICE_SPECS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Specs",
+            "SourceTiers": [
+                "GEN81V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_BUG_BUZZ",
+                "MOVE_QUIVER_DANCE",
+                "MOVE_FIERY_DANCE",
+                "MOVE_GIGA_DRAIN"
+            ],
+            "Ability": "ABILITY_FLAME_BODY",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN81V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_QUIVER_DANCE",
+                "MOVE_FLAMETHROWER",
+                "MOVE_PSYCHIC",
+                "MOVE_GIGA_DRAIN"
+            ],
+            "Ability": "ABILITY_FLAME_BODY",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Quiver Dance (Bug)",
+            "SourceTiers": [
+                "GEN8MONOTYPE",
+                "GEN9NATIONALDEXMONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_QUIVER_DANCE",
+                "MOVE_FIRE_BLAST",
+                "MOVE_PSYCHIC",
+                "MOVE_ROOST"
+            ],
+            "Ability": "ABILITY_FLAME_BODY",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Offensive Quiver Dance (Fire)",
+            "SourceTiers": [
+                "GEN8MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_QUIVER_DANCE",
+                "MOVE_BUG_BUZZ",
+                "MOVE_GIGA_DRAIN",
+                "MOVE_FIERY_DANCE"
+            ],
+            "Ability": "ABILITY_FLAME_BODY",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_QUIVER_DANCE",
+                "MOVE_FIRE_BLAST",
+                "MOVE_PSYCHIC",
+                "MOVE_HIDDEN_POWER"
+            ],
+            "Ability": "ABILITY_FLAME_BODY",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": "TYPE_GROUND",
+            "TeraType": null,
+            "Name": "Quiver Dance (Bug)",
+            "SourceTiers": [
+                "GEN8NATIONALDEXMONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_QUIVER_DANCE",
+                "MOVE_FIERY_DANCE",
+                "MOVE_BUG_BUZZ",
+                "MOVE_GIGA_DRAIN"
+            ],
+            "Ability": "ABILITY_FLAME_BODY",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8NATIONALDEXMONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_QUIVER_DANCE",
+                "MOVE_FLAMETHROWER",
+                "MOVE_MORNING_SUN",
+                "MOVE_WILL_O_WISP"
+            ],
+            "Ability": "ABILITY_FLAME_BODY",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": "TYPE_WATER",
+            "Name": "Quiver Dance",
+            "SourceTiers": [
+                "GEN9UBERS"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_QUIVER_DANCE",
+                "MOVE_FIERY_DANCE",
+                "MOVE_BUG_BUZZ",
+                "MOVE_GIGA_DRAIN"
+            ],
+            "Ability": "ABILITY_FLAME_BODY",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN9UBERS"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_QUIVER_DANCE",
+                "MOVE_FLAMETHROWER",
+                "MOVE_GIGA_DRAIN",
+                "MOVE_HIDDEN_POWER"
+            ],
+            "Ability": "ABILITY_FLAME_BODY",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": "TYPE_GROUND",
+            "TeraType": "TYPE_GRASS",
+            "Name": "Offensive Quiver Dance",
+            "SourceTiers": [
+                "GEN9NATIONALDEX"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_QUIVER_DANCE",
+                "MOVE_FLAMETHROWER",
+                "MOVE_HIDDEN_POWER",
+                "MOVE_ROOST"
+            ],
+            "Ability": "ABILITY_FLAME_BODY",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": "TYPE_GROUND",
+            "TeraType": "TYPE_STEEL",
+            "Name": "Bulky Quiver Dance",
+            "SourceTiers": [
+                "GEN9NATIONALDEX"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_QUIVER_DANCE",
+                "MOVE_FIERY_DANCE",
+                "MOVE_GIGA_DRAIN",
+                "MOVE_BUG_BUZZ"
+            ],
+            "Ability": "ABILITY_FLAME_BODY",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN9NATIONALDEX",
+                "GEN9NATIONALDEXMONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_QUIVER_DANCE",
+                "MOVE_HEAT_WAVE",
+                "MOVE_GIGA_DRAIN",
+                "MOVE_PROTECT"
+            ],
+            "Ability": "ABILITY_FLAME_BODY",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": "TYPE_GRASS",
+            "Name": "Quiver Dance",
+            "SourceTiers": [
+                "GEN9DOUBLESOU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_QUIVER_DANCE",
+                "MOVE_FIERY_DANCE",
+                "MOVE_GIGA_DRAIN",
+                "MOVE_BUG_BUZZ"
+            ],
+            "Ability": "ABILITY_FLAME_BODY",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN9DOUBLESOU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_BUG_BUZZ",
+                "MOVE_OVERHEAT",
+                "MOVE_QUIVER_DANCE",
+                "MOVE_SUBSTITUTE"
+            ],
+            "Ability": "ABILITY_SWARM",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": "TYPE_BUG",
+            "Name": "Life Orb",
+            "SourceTiers": [
+                "GEN91V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_BUG_BUZZ",
+                "MOVE_QUIVER_DANCE",
+                "MOVE_SUBSTITUTE",
+                "MOVE_OVERHEAT"
+            ],
+            "Ability": "ABILITY_SWARM",
+            "Item": "ITEM_CHILAN_BERRY",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": "TYPE_BUG",
+            "Name": "Chilan Berry",
+            "SourceTiers": [
+                "GEN91V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_QUIVER_DANCE",
+                "MOVE_BUG_BUZZ",
+                "MOVE_OVERHEAT",
+                "MOVE_WILL_O_WISP"
+            ],
+            "Ability": "ABILITY_FLAME_BODY",
+            "Item": "ITEM_PASSHO_BERRY",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN91V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_QUIVER_DANCE",
+                "MOVE_BUG_BUZZ",
+                "MOVE_FIERY_DANCE",
+                "MOVE_GIGA_DRAIN"
+            ],
+            "Ability": "ABILITY_FLAME_BODY",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN9ANYTHINGGOES",
+                "GEN9NATIONALDEXAG"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_QUIVER_DANCE",
+                "MOVE_FLAMETHROWER",
+                "MOVE_PSYCHIC",
+                "MOVE_MORNING_SUN"
+            ],
+            "Ability": "ABILITY_FLAME_BODY",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "The Original Moth (Bug)",
+            "SourceTiers": [
+                "GEN9MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_QUIVER_DANCE",
+                "MOVE_FLAMETHROWER",
+                "MOVE_PSYCHIC",
+                "MOVE_MORNING_SUN"
+            ],
+            "Ability": "ABILITY_FLAME_BODY",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Bulky Setup (Bug)",
+            "SourceTiers": [
+                "GEN9MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_QUIVER_DANCE",
+                "MOVE_BUG_BUZZ",
+                "MOVE_PSYCHIC",
+                "MOVE_FLAMETHROWER"
+            ],
+            "Ability": "ABILITY_SWARM",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Quiver Dance (Fire)",
+            "SourceTiers": [
+                "GEN9MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_QUIVER_DANCE",
+                "MOVE_FIERY_DANCE",
+                "MOVE_PSYCHIC",
+                "MOVE_GIGA_DRAIN"
+            ],
+            "Ability": "ABILITY_FLAME_BODY",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN9MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_QUIVER_DANCE",
+                "MOVE_FIERY_DANCE",
+                "MOVE_GIGA_DRAIN",
+                "MOVE_HIDDEN_POWER"
+            ],
+            "Ability": "ABILITY_FLAME_BODY",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": "TYPE_GROUND",
+            "TeraType": null,
+            "Name": "Offensive Quiver Dance (Bug)",
+            "SourceTiers": [
+                "GEN9NATIONALDEXMONOTYPE"
+            ]
+        }
+    ]
+}

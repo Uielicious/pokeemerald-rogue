@@ -1,0 +1,269 @@
+{
+    "Species": "SPECIES_MISDREAVUS",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_GROWL",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_PSYWAVE",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_SPITE",
+            "Level": "5"
+        },
+        {
+            "Move": "MOVE_ASTONISH",
+            "Level": "8"
+        },
+        {
+            "Move": "MOVE_FAIRY_WIND",
+            "Level": "11"
+        },
+        {
+            "Move": "MOVE_CONFUSE_RAY",
+            "Level": "14"
+        },
+        {
+            "Move": "MOVE_MEAN_LOOK",
+            "Level": "18"
+        },
+        {
+            "Move": "MOVE_HEX",
+            "Level": "22"
+        },
+        {
+            "Move": "MOVE_PSYBEAM",
+            "Level": "26"
+        },
+        {
+            "Move": "MOVE_PAIN_SPLIT",
+            "Level": "30"
+        },
+        {
+            "Move": "MOVE_DRAINING_KISS",
+            "Level": "34"
+        },
+        {
+            "Move": "MOVE_PAYBACK",
+            "Level": "38"
+        },
+        {
+            "Move": "MOVE_SHADOW_BALL",
+            "Level": "42"
+        },
+        {
+            "Move": "MOVE_PERISH_SONG",
+            "Level": "46"
+        },
+        {
+            "Move": "MOVE_GRUDGE",
+            "Level": "50"
+        },
+        {
+            "Move": "MOVE_POWER_GEM",
+            "Level": "55"
+        },
+        {
+            "Move": "MOVE_MOONBLAST",
+            "Level": "60"
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_SHADOW_SNEAK",
+        "MOVE_BURNING_JEALOUSY",
+        "MOVE_HELPING_HAND",
+        "MOVE_DARK_PULSE",
+        "MOVE_SUCKER_PUNCH",
+        "MOVE_HYPNOSIS",
+        "MOVE_FUTURE_SIGHT",
+        "MOVE_GRASS_KNOT",
+        "MOVE_DESTINY_BOND",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_POLTERGEIST",
+        "MOVE_WILL_O_WISP",
+        "MOVE_PROTECT",
+        "MOVE_SKILL_SWAP",
+        "MOVE_PSYSHOCK",
+        "MOVE_THIEF",
+        "MOVE_CALM_MIND",
+        "MOVE_HYPER_BEAM",
+        "MOVE_SUBSTITUTE",
+        "MOVE_MAGICAL_LEAF",
+        "MOVE_FACADE",
+        "MOVE_PHANTOM_FORCE",
+        "MOVE_SCREECH",
+        "MOVE_SUNNY_DAY",
+        "MOVE_TRICK",
+        "MOVE_ICY_WIND",
+        "MOVE_SWIFT",
+        "MOVE_IMPRISON",
+        "MOVE_SLEEP_TALK",
+        "MOVE_ENERGY_BALL",
+        "MOVE_STORED_POWER",
+        "MOVE_PSYCHIC",
+        "MOVE_MEMENTO",
+        "MOVE_GIGA_IMPACT",
+        "MOVE_THUNDERBOLT",
+        "MOVE_HYPER_VOICE",
+        "MOVE_FAKE_TEARS",
+        "MOVE_NASTY_PLOT",
+        "MOVE_TERA_BLAST",
+        "MOVE_CHARGE_BEAM",
+        "MOVE_CURSE",
+        "MOVE_ENDURE",
+        "MOVE_NIGHT_SHADE",
+        "MOVE_DAZZLING_GLEAM",
+        "MOVE_THUNDER",
+        "MOVE_FOUL_PLAY",
+        "MOVE_CHARM",
+        "MOVE_SCARY_FACE",
+        "MOVE_THUNDER_WAVE",
+        "MOVE_SNOWSCAPE",
+        "MOVE_TRICK_ROOM",
+        "MOVE_RAIN_DANCE",
+        "MOVE_WONDER_ROOM",
+        "MOVE_PSYCH_UP",
+        "MOVE_TAUNT",
+        "MOVE_REST"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_WILL_O_WISP",
+                "MOVE_HEX",
+                "MOVE_PAIN_SPLIT",
+                "MOVE_TAUNT"
+            ],
+            "Ability": "ABILITY_LEVITATE",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Defensive",
+            "SourceTiers": [
+                "GEN6NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_WILL_O_WISP",
+                "MOVE_TAUNT",
+                "MOVE_FOUL_PLAY",
+                "MOVE_PAIN_SPLIT"
+            ],
+            "Ability": "ABILITY_LEVITATE",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Defensive",
+            "SourceTiers": [
+                "GEN6PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_NASTY_PLOT",
+                "MOVE_SHADOW_BALL",
+                "MOVE_HIDDEN_POWER",
+                "MOVE_TAUNT"
+            ],
+            "Ability": "ABILITY_LEVITATE",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": "TYPE_FIGHTING",
+            "TeraType": null,
+            "Name": "Nasty Plot",
+            "SourceTiers": [
+                "GEN6PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_WILL_O_WISP",
+                "MOVE_TAUNT",
+                "MOVE_SHADOW_BALL",
+                "MOVE_NASTY_PLOT"
+            ],
+            "Ability": "ABILITY_LEVITATE",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_TAUNT",
+                "MOVE_MEAN_LOOK",
+                "MOVE_THUNDER_WAVE",
+                "MOVE_MEMENTO"
+            ],
+            "Ability": "ABILITY_LEVITATE",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FOUL_PLAY",
+                "MOVE_WILL_O_WISP",
+                "MOVE_TAUNT",
+                "MOVE_PAIN_SPLIT"
+            ],
+            "Ability": "ABILITY_LEVITATE",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Utility",
+            "SourceTiers": [
+                "GEN7ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_WILL_O_WISP",
+                "MOVE_DRAINING_KISS",
+                "MOVE_HEX",
+                "MOVE_SHADOW_BALL"
+            ],
+            "Ability": "ABILITY_LEVITATE",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN9PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FOUL_PLAY",
+                "MOVE_WILL_O_WISP",
+                "MOVE_HYPNOSIS",
+                "MOVE_DRAINING_KISS"
+            ],
+            "Item": "ITEM_EVIOLITE",
+            "Ability": "ABILITY_LEVITATE",
+            "HiddenPower": null,
+            "SourceTiers": [
+                "GEN7ZU"
+            ],
+            "Name": "Alternate",
+            "Nature": "NATURE_HARDY",
+            "TeraType": null
+        }
+    ]
+}

@@ -1,0 +1,178 @@
+{
+    "Species": "SPECIES_SLIGGOO",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_TACKLE",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_BUBBLE",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_ABSORB",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_ABSORB",
+            "Level": "5"
+        },
+        {
+            "Move": "MOVE_PROTECT",
+            "Level": "9"
+        },
+        {
+            "Move": "MOVE_BIDE",
+            "Level": "13"
+        },
+        {
+            "Move": "MOVE_DRAGON_BREATH",
+            "Level": "18"
+        },
+        {
+            "Move": "MOVE_RAIN_DANCE",
+            "Level": "25"
+        },
+        {
+            "Move": "MOVE_FLAIL",
+            "Level": "28"
+        },
+        {
+            "Move": "MOVE_BODY_SLAM",
+            "Level": "32"
+        },
+        {
+            "Move": "MOVE_MUDDY_WATER",
+            "Level": "37"
+        },
+        {
+            "Move": "MOVE_RECOVER",
+            "Level": "42"
+        },
+        {
+            "Move": "MOVE_DRAGON_PULSE",
+            "Level": "47"
+        },
+        {
+            "Move": "MOVE_HYDRO_PUMP",
+            "Level": "52"
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_ICE_BEAM",
+        "MOVE_SLUDGE_WAVE",
+        "MOVE_DRACO_METEOR",
+        "MOVE_SKITTER_SMACK",
+        "MOVE_ACID_SPRAY",
+        "MOVE_CHILLING_WATER",
+        "MOVE_OUTRAGE",
+        "MOVE_TOXIC",
+        "MOVE_WATERFALL",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_TAKE_DOWN",
+        "MOVE_SUBSTITUTE",
+        "MOVE_SUNNY_DAY",
+        "MOVE_FACADE",
+        "MOVE_SLEEP_TALK",
+        "MOVE_SLUDGE_BOMB",
+        "MOVE_THUNDERBOLT",
+        "MOVE_TERA_BLAST",
+        "MOVE_WATER_PULSE",
+        "MOVE_CURSE",
+        "MOVE_ENDURE",
+        "MOVE_MUD_SHOT",
+        "MOVE_THUNDER",
+        "MOVE_CHARM",
+        "MOVE_BLIZZARD",
+        "MOVE_SURF",
+        "MOVE_ROCK_SLIDE",
+        "MOVE_REST"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_CURSE",
+                "MOVE_OUTRAGE",
+                "MOVE_REST",
+                "MOVE_SLEEP_TALK"
+            ],
+            "Ability": "ABILITY_SAP_SIPPER",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_CAREFUL",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Curse",
+            "SourceTiers": [
+                "GEN6NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_DRACO_METEOR",
+                "MOVE_SLUDGE_BOMB",
+                "MOVE_MUDDY_WATER",
+                "MOVE_THUNDERBOLT"
+            ],
+            "Ability": "ABILITY_SAP_SIPPER",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Offensive",
+            "SourceTiers": [
+                "GEN6NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_CURSE",
+                "MOVE_OUTRAGE",
+                "MOVE_REST",
+                "MOVE_SLEEP_TALK"
+            ],
+            "Ability": "ABILITY_SAP_SIPPER",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_CALM",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Curse",
+            "SourceTiers": [
+                "GEN6ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_DRACO_METEOR",
+                "MOVE_SLUDGE_BOMB",
+                "MOVE_THUNDERBOLT",
+                "MOVE_ICE_BEAM"
+            ],
+            "Ability": "ABILITY_SAP_SIPPER",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Tank",
+            "SourceTiers": [
+                "GEN6ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_DRAGON_PULSE",
+                "MOVE_REST",
+                "MOVE_ICE_BEAM",
+                "MOVE_SLEEP_TALK"
+            ],
+            "Ability": "ABILITY_SAP_SIPPER",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_CALM",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN9ZU"
+            ]
+        }
+    ]
+}

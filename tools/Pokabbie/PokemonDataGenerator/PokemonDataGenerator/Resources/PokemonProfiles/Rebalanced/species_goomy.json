@@ -1,0 +1,138 @@
+{
+    "Species": "SPECIES_GOOMY",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_TACKLE",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_BUBBLE",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_ABSORB",
+            "Level": "5"
+        },
+        {
+            "Move": "MOVE_PROTECT",
+            "Level": "9"
+        },
+        {
+            "Move": "MOVE_BIDE",
+            "Level": "13"
+        },
+        {
+            "Move": "MOVE_DRAGON_BREATH",
+            "Level": "18"
+        },
+        {
+            "Move": "MOVE_RAIN_DANCE",
+            "Level": "25"
+        },
+        {
+            "Move": "MOVE_FLAIL",
+            "Level": "28"
+        },
+        {
+            "Move": "MOVE_BODY_SLAM",
+            "Level": "32"
+        },
+        {
+            "Move": "MOVE_MUDDY_WATER",
+            "Level": "36"
+        },
+        {
+            "Move": "MOVE_RECOVER",
+            "Level": "40"
+        },
+        {
+            "Move": "MOVE_DRAGON_PULSE",
+            "Level": "44"
+        },
+        {
+            "Move": "MOVE_HYDRO_PUMP",
+            "Level": "48"
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_SLUDGE_WAVE",
+        "MOVE_DRACO_METEOR",
+        "MOVE_SKITTER_SMACK",
+        "MOVE_CHILLING_WATER",
+        "MOVE_OUTRAGE",
+        "MOVE_TOXIC",
+        "MOVE_WATERFALL",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_TAKE_DOWN",
+        "MOVE_SUBSTITUTE",
+        "MOVE_SUNNY_DAY",
+        "MOVE_FACADE",
+        "MOVE_SLEEP_TALK",
+        "MOVE_SLUDGE_BOMB",
+        "MOVE_THUNDERBOLT",
+        "MOVE_LIFE_DEW",
+        "MOVE_TERA_BLAST",
+        "MOVE_WATER_PULSE",
+        "MOVE_CURSE",
+        "MOVE_ENDURE",
+        "MOVE_MUD_SHOT",
+        "MOVE_COUNTER",
+        "MOVE_CHARM",
+        "MOVE_SURF",
+        "MOVE_ROCK_SLIDE",
+        "MOVE_REST"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_DRACO_METEOR",
+                "MOVE_SLUDGE_WAVE",
+                "MOVE_REST",
+                "MOVE_SLEEP_TALK"
+            ],
+            "Ability": "ABILITY_GOOEY",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Gooey Pivot",
+            "SourceTiers": [
+                "GEN6LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_DRAGON_PULSE",
+                "MOVE_SLUDGE_WAVE",
+                "MOVE_RECOVER",
+                "MOVE_SURF"
+            ],
+            "Ability": "ABILITY_SAP_SIPPER",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Sap Sipper",
+            "SourceTiers": [
+                "GEN7LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SURF",
+                "MOVE_RECOVER",
+                "MOVE_SLUDGE_WAVE",
+                "MOVE_TOXIC"
+            ],
+            "Item": "ITEM_LEFTOVERS",
+            "Ability": "ABILITY_SAP_SIPPER",
+            "HiddenPower": null,
+            "SourceTiers": [
+                "GEN7LC"
+            ],
+            "Name": "Toxic Staller",
+            "Nature": "NATURE_HARDY",
+            "TeraType": null
+        }
+    ]
+}

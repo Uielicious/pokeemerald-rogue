@@ -1,0 +1,832 @@
+{
+    "Species": "SPECIES_CORVIKNIGHT",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_STEEL_WING",
+            "Level": 0
+        },
+        {
+            "Move": "MOVE_LEER",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_PECK",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_SCREECH",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_METAL_SOUND",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_IRON_DEFENSE",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_HONE_CLAWS",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_POWER_TRIP",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_FURY_ATTACK",
+            "Level": 12
+        },
+        {
+            "Move": "MOVE_PLUCK",
+            "Level": 16
+        },
+        {
+            "Move": "MOVE_TAUNT",
+            "Level": 22
+        },
+        {
+            "Move": "MOVE_SCARY_FACE",
+            "Level": 28
+        },
+        {
+            "Move": "MOVE_DRILL_PECK",
+            "Level": 34
+        },
+        {
+            "Move": "MOVE_SWAGGER",
+            "Level": 42
+        },
+        {
+            "Move": "MOVE_BRAVE_BIRD",
+            "Level": 50
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_AIR_CUTTER",
+        "MOVE_REFLECT",
+        "MOVE_FRUSTRATION",
+        "MOVE_AGILITY",
+        "MOVE_IRON_HEAD",
+        "MOVE_TOXIC",
+        "MOVE_LIGHT_SCREEN",
+        "MOVE_STEEL_BEAM",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_PROTECT",
+        "MOVE_THIEF",
+        "MOVE_DOUBLE_EDGE",
+        "MOVE_TAKE_DOWN",
+        "MOVE_DEFOG",
+        "MOVE_HYPER_BEAM",
+        "MOVE_SUBSTITUTE",
+        "MOVE_SUNNY_DAY",
+        "MOVE_FACADE",
+        "MOVE_TAILWIND",
+        "MOVE_DUAL_WINGBEAT",
+        "MOVE_AIR_SLASH",
+        "MOVE_SWIFT",
+        "MOVE_REVERSAL",
+        "MOVE_SLEEP_TALK",
+        "MOVE_FLY",
+        "MOVE_REST",
+        "MOVE_GIGA_IMPACT",
+        "MOVE_FAKE_TEARS",
+        "MOVE_METAL_CLAW",
+        "MOVE_NASTY_PLOT",
+        "MOVE_TERA_BLAST",
+        "MOVE_CURSE",
+        "MOVE_ENDURE",
+        "MOVE_SPITE",
+        "MOVE_RETURN",
+        "MOVE_ROOST",
+        "MOVE_HEAVY_SLAM",
+        "MOVE_HURRICANE",
+        "MOVE_RAIN_DANCE",
+        "MOVE_BULK_UP",
+        "MOVE_U_TURN",
+        "MOVE_AERIAL_ACE",
+        "MOVE_BODY_PRESS",
+        "MOVE_BODY_SLAM",
+        "MOVE_FLASH_CANNON"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_BODY_PRESS",
+                "MOVE_U_TURN",
+                "MOVE_DEFOG",
+                "MOVE_ROOST"
+            ],
+            "Ability": "ABILITY_PRESSURE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_IMPISH",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Defog",
+            "SourceTiers": [
+                "GEN8OU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_IRON_DEFENSE",
+                "MOVE_BODY_PRESS",
+                "MOVE_ROOST",
+                "MOVE_DEFOG"
+            ],
+            "Ability": "ABILITY_PRESSURE",
+            "Item": "ITEM_ROCKY_HELMET",
+            "Nature": "NATURE_IMPISH",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Iron Defense",
+            "SourceTiers": [
+                "GEN8OU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_ROOST",
+                "MOVE_DEFOG",
+                "MOVE_BODY_PRESS",
+                "MOVE_U_TURN"
+            ],
+            "Ability": "ABILITY_PRESSURE",
+            "Item": "ITEM_ROCKY_HELMET",
+            "Nature": "NATURE_IMPISH",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8OU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_DEFOG",
+                "MOVE_BRAVE_BIRD",
+                "MOVE_U_TURN",
+                "MOVE_ROOST"
+            ],
+            "Ability": "ABILITY_PRESSURE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_RELAXED",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Defog Pivot",
+            "SourceTiers": [
+                "GEN8NATIONALDEX"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SUBSTITUTE",
+                "MOVE_BULK_UP",
+                "MOVE_ROOST",
+                "MOVE_BRAVE_BIRD"
+            ],
+            "Ability": "ABILITY_PRESSURE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_IMPISH",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Substitute + Bulk Up",
+            "SourceTiers": [
+                "GEN8NATIONALDEX"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_ROOST",
+                "MOVE_DEFOG",
+                "MOVE_U_TURN",
+                "MOVE_BRAVE_BIRD"
+            ],
+            "Ability": "ABILITY_PRESSURE",
+            "Item": "ITEM_ROCKY_HELMET",
+            "Nature": "NATURE_IMPISH",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8NATIONALDEX",
+                "GEN9OU",
+                "GEN9NATIONALDEX"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_BODY_PRESS",
+                "MOVE_BRAVE_BIRD",
+                "MOVE_IRON_DEFENSE",
+                "MOVE_ROOST"
+            ],
+            "Ability": "ABILITY_MIRROR_ARMOR",
+            "Item": "ITEM_SITRUS_BERRY",
+            "Nature": "NATURE_IMPISH",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Physically Defensive",
+            "SourceTiers": [
+                "GEN8BATTLESTADIUMSINGLES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_BRAVE_BIRD",
+                "MOVE_BULK_UP",
+                "MOVE_ROOST",
+                "MOVE_TAUNT"
+            ],
+            "Ability": "ABILITY_PRESSURE",
+            "Item": "ITEM_MARANGA_BERRY",
+            "Nature": "NATURE_CAREFUL",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Specially Defensive",
+            "SourceTiers": [
+                "GEN8BATTLESTADIUMSINGLES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_BRAVE_BIRD",
+                "MOVE_TAUNT",
+                "MOVE_BULK_UP",
+                "MOVE_ROOST"
+            ],
+            "Ability": "ABILITY_MIRROR_ARMOR",
+            "Item": "ITEM_LUM_BERRY",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Fast Taunt",
+            "SourceTiers": [
+                "GEN8BATTLESTADIUMSINGLES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_BRAVE_BIRD",
+                "MOVE_BULK_UP",
+                "MOVE_ROOST",
+                "MOVE_IRON_HEAD"
+            ],
+            "Ability": "ABILITY_MIRROR_ARMOR",
+            "Item": "ITEM_WEAKNESS_POLICY",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Weakness Policy",
+            "SourceTiers": [
+                "GEN8BATTLESTADIUMSINGLES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_ROOST",
+                "MOVE_BRAVE_BIRD",
+                "MOVE_BULK_UP",
+                "MOVE_BODY_PRESS"
+            ],
+            "Ability": "ABILITY_MIRROR_ARMOR",
+            "Item": "ITEM_MARANGA_BERRY",
+            "Nature": "NATURE_CAREFUL",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8BATTLESTADIUMSINGLES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_BRAVE_BIRD",
+                "MOVE_IRON_HEAD",
+                "MOVE_ROOST",
+                "MOVE_BULK_UP"
+            ],
+            "Ability": "ABILITY_MIRROR_ARMOR",
+            "Item": "ITEM_LUM_BERRY",
+            "Nature": "NATURE_CAREFUL",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8VGC2020"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_TAUNT",
+                "MOVE_ROOST",
+                "MOVE_IRON_DEFENSE",
+                "MOVE_BODY_PRESS"
+            ],
+            "Ability": "ABILITY_PRESSURE",
+            "Item": "ITEM_MARANGA_BERRY",
+            "Nature": "NATURE_IMPISH",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Iron Defense Stall",
+            "SourceTiers": [
+                "GEN81V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_TAUNT",
+                "MOVE_ROOST",
+                "MOVE_SUBSTITUTE",
+                "MOVE_IRON_HEAD"
+            ],
+            "Ability": "ABILITY_PRESSURE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_CAREFUL",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Substitute Stall",
+            "SourceTiers": [
+                "GEN81V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_ROOST",
+                "MOVE_IRON_DEFENSE",
+                "MOVE_TAUNT",
+                "MOVE_IRON_HEAD"
+            ],
+            "Ability": "ABILITY_PRESSURE",
+            "Item": "ITEM_MARANGA_BERRY",
+            "Nature": "NATURE_IMPISH",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN81V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_ROOST",
+                "MOVE_BRAVE_BIRD",
+                "MOVE_BODY_PRESS",
+                "MOVE_IRON_HEAD"
+            ],
+            "Ability": "ABILITY_MIRROR_ARMOR",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_IMPISH",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8ANYTHINGGOES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_IRON_DEFENSE",
+                "MOVE_BODY_PRESS",
+                "MOVE_IRON_HEAD",
+                "MOVE_ROOST"
+            ],
+            "Ability": "ABILITY_PRESSURE",
+            "Item": "ITEM_MENTAL_HERB",
+            "Nature": "NATURE_IMPISH",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Iron Defense (Flying)",
+            "SourceTiers": [
+                "GEN8MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_DEFOG",
+                "MOVE_BODY_PRESS",
+                "MOVE_U_TURN",
+                "MOVE_ROOST"
+            ],
+            "Ability": "ABILITY_PRESSURE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_IMPISH",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Defog (Flying)",
+            "SourceTiers": [
+                "GEN8MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_BULK_UP",
+                "MOVE_BRAVE_BIRD",
+                "MOVE_ROOST",
+                "MOVE_TAUNT"
+            ],
+            "Ability": "ABILITY_MIRROR_ARMOR",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_CAREFUL",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Bulk Up (Steel)",
+            "SourceTiers": [
+                "GEN8MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_POWER_TRIP",
+                "MOVE_AGILITY",
+                "MOVE_BULK_UP",
+                "MOVE_ROOST"
+            ],
+            "Ability": "ABILITY_PRESSURE",
+            "Item": "ITEM_WEAKNESS_POLICY",
+            "Nature": "NATURE_CAREFUL",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Demon Corviknight (Steel)",
+            "SourceTiers": [
+                "GEN8MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_ROOST",
+                "MOVE_BODY_PRESS",
+                "MOVE_BRAVE_BIRD",
+                "MOVE_BULK_UP"
+            ],
+            "Ability": "ABILITY_MIRROR_ARMOR",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_IMPISH",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_IRON_DEFENSE",
+                "MOVE_BODY_PRESS",
+                "MOVE_ROOST",
+                "MOVE_U_TURN"
+            ],
+            "Ability": "ABILITY_PRESSURE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_IMPISH",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Iron Defense (Steel)",
+            "SourceTiers": [
+                "GEN8NATIONALDEXMONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_BULK_UP",
+                "MOVE_BRAVE_BIRD",
+                "MOVE_ROOST",
+                "MOVE_TAUNT"
+            ],
+            "Ability": "ABILITY_PRESSURE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_IMPISH",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Bulk Up (Steel)",
+            "SourceTiers": [
+                "GEN8NATIONALDEXMONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_ROOST",
+                "MOVE_BODY_PRESS",
+                "MOVE_BRAVE_BIRD",
+                "MOVE_U_TURN"
+            ],
+            "Ability": "ABILITY_MIRROR_ARMOR",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_IMPISH",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8NATIONALDEXMONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_BODY_PRESS",
+                "MOVE_U_TURN",
+                "MOVE_DEFOG",
+                "MOVE_ROOST"
+            ],
+            "Ability": "ABILITY_PRESSURE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_IMPISH",
+            "HiddenPower": null,
+            "TeraType": "TYPE_STEEL",
+            "Name": "Physically Defensive",
+            "SourceTiers": [
+                "GEN9UBERS"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_IRON_HEAD",
+                "MOVE_U_TURN",
+                "MOVE_ROOST",
+                "MOVE_DEFOG"
+            ],
+            "Ability": "ABILITY_MIRROR_ARMOR",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_CAREFUL",
+            "HiddenPower": null,
+            "TeraType": "TYPE_STEEL",
+            "Name": "Specially Defensive",
+            "SourceTiers": [
+                "GEN9UBERS"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_ROOST",
+                "MOVE_DEFOG",
+                "MOVE_U_TURN",
+                "MOVE_BODY_PRESS"
+            ],
+            "Ability": "ABILITY_PRESSURE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_IMPISH",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN9UBERS"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_BODY_PRESS",
+                "MOVE_U_TURN",
+                "MOVE_ROOST",
+                "MOVE_IRON_DEFENSE"
+            ],
+            "Ability": "ABILITY_PRESSURE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_IMPISH",
+            "HiddenPower": null,
+            "TeraType": "TYPE_WATER",
+            "Name": "Physically Defensive",
+            "SourceTiers": [
+                "GEN9OU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_ROOST",
+                "MOVE_BRAVE_BIRD",
+                "MOVE_DEFOG",
+                "MOVE_U_TURN"
+            ],
+            "Ability": "ABILITY_PRESSURE",
+            "Item": "ITEM_ROCKY_HELMET",
+            "Nature": "NATURE_IMPISH",
+            "HiddenPower": null,
+            "TeraType": "TYPE_DRAGON",
+            "Name": "Defensive Pivot",
+            "SourceTiers": [
+                "GEN9NATIONALDEX"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_BULK_UP",
+                "MOVE_SUBSTITUTE",
+                "MOVE_BRAVE_BIRD",
+                "MOVE_ROOST"
+            ],
+            "Ability": "ABILITY_PRESSURE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_IMPISH",
+            "HiddenPower": null,
+            "TeraType": "TYPE_DRAGON",
+            "Name": "Bulk Up + Substitute",
+            "SourceTiers": [
+                "GEN9NATIONALDEX"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_BODY_PRESS",
+                "MOVE_IRON_DEFENSE",
+                "MOVE_ROOST",
+                "MOVE_TAUNT"
+            ],
+            "Ability": "ABILITY_PRESSURE",
+            "Item": "ITEM_MARANGA_BERRY",
+            "Nature": "NATURE_IMPISH",
+            "HiddenPower": null,
+            "TeraType": "TYPE_FLYING",
+            "Name": "Maranga Berry",
+            "SourceTiers": [
+                "GEN91V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_BODY_PRESS",
+                "MOVE_IRON_DEFENSE",
+                "MOVE_ROOST",
+                "MOVE_TAUNT"
+            ],
+            "Ability": "ABILITY_PRESSURE",
+            "Item": "ITEM_MARANGA_BERRY",
+            "Nature": "NATURE_CAREFUL",
+            "HiddenPower": null,
+            "TeraType": "TYPE_FLYING",
+            "Name": "Specially Defensive Maranga",
+            "SourceTiers": [
+                "GEN91V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_PROTECT",
+                "MOVE_SUBSTITUTE",
+                "MOVE_ROOST",
+                "MOVE_TAUNT"
+            ],
+            "Ability": "ABILITY_PRESSURE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": "TYPE_FLYING",
+            "Name": "Pressure Stall",
+            "SourceTiers": [
+                "GEN91V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_BRAVE_BIRD",
+                "MOVE_IRON_HEAD",
+                "MOVE_IRON_DEFENSE",
+                "MOVE_ROOST"
+            ],
+            "Ability": "ABILITY_PRESSURE",
+            "Item": "ITEM_EXPERT_BELT",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": "TYPE_FLYING",
+            "Name": "Expert Belt",
+            "SourceTiers": [
+                "GEN91V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_ROOST",
+                "MOVE_TAUNT",
+                "MOVE_BRAVE_BIRD",
+                "MOVE_BODY_PRESS"
+            ],
+            "Ability": "ABILITY_PRESSURE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN91V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_ROOST",
+                "MOVE_DEFOG",
+                "MOVE_BODY_PRESS",
+                "MOVE_BRAVE_BIRD"
+            ],
+            "Ability": "ABILITY_MIRROR_ARMOR",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_IMPISH",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN9ANYTHINGGOES",
+                "GEN9NATIONALDEXAG"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_IRON_HEAD",
+                "MOVE_BODY_PRESS",
+                "MOVE_ROOST",
+                "MOVE_DEFOG"
+            ],
+            "Ability": "ABILITY_PRESSURE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_IMPISH",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Physically Defensive (Flying)",
+            "SourceTiers": [
+                "GEN9MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_BRAVE_BIRD",
+                "MOVE_DEFOG",
+                "MOVE_BODY_PRESS",
+                "MOVE_ROOST"
+            ],
+            "Ability": "ABILITY_PRESSURE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_IMPISH",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Defog (Steel)",
+            "SourceTiers": [
+                "GEN9MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_DEFOG",
+                "MOVE_IRON_HEAD",
+                "MOVE_BODY_PRESS",
+                "MOVE_ROOST"
+            ],
+            "Ability": "ABILITY_PRESSURE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_CAREFUL",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Defog (Flying)",
+            "SourceTiers": [
+                "GEN9MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_BULK_UP",
+                "MOVE_BRAVE_BIRD",
+                "MOVE_BODY_PRESS",
+                "MOVE_ROOST"
+            ],
+            "Ability": "ABILITY_PRESSURE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_CAREFUL",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Bulk Up (Steel)",
+            "SourceTiers": [
+                "GEN9MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_ROOST",
+                "MOVE_BODY_PRESS",
+                "MOVE_DEFOG",
+                "MOVE_BRAVE_BIRD"
+            ],
+            "Ability": "ABILITY_PRESSURE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_IMPISH",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN9MONOTYPE",
+                "GEN9NATIONALDEXMONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_DEFOG",
+                "MOVE_BODY_PRESS",
+                "MOVE_IRON_HEAD",
+                "MOVE_ROOST"
+            ],
+            "Ability": "ABILITY_PRESSURE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_IMPISH",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Defog (Flying)",
+            "SourceTiers": [
+                "GEN9NATIONALDEXMONOTYPE"
+            ]
+        }
+    ]
+}

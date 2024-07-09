@@ -1,0 +1,638 @@
+{
+    "Species": "SPECIES_FROSLASS",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_HEX",
+            "Level": 0
+        },
+        {
+            "Move": "MOVE_HEADBUTT",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_LEER",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_BITE",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_DOUBLE_TEAM",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_POWDER_SNOW",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_PROTECT",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_DESTINY_BOND",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_CRUNCH",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_ASTONISH",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_ICE_FANG",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_ICE_SHARD",
+            "Level": 15
+        },
+        {
+            "Move": "MOVE_DRAINING_KISS",
+            "Level": 20
+        },
+        {
+            "Move": "MOVE_ICY_WIND",
+            "Level": 25
+        },
+        {
+            "Move": "MOVE_FROST_BREATH",
+            "Level": 30
+        },
+        {
+            "Move": "MOVE_CONFUSE_RAY",
+            "Level": 35
+        },
+        {
+            "Move": "MOVE_SNOWSCAPE",
+            "Level": 40
+        },
+        {
+            "Move": "MOVE_WILL_O_WISP",
+            "Level": 47
+        },
+        {
+            "Move": "MOVE_AURORA_VEIL",
+            "Level": 54
+        },
+        {
+            "Move": "MOVE_SHADOW_BALL",
+            "Level": 61
+        },
+        {
+            "Move": "MOVE_BLIZZARD",
+            "Level": 68
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_ICE_BEAM",
+        "MOVE_PAIN_SPLIT",
+        "MOVE_HELPING_HAND",
+        "MOVE_FLING",
+        "MOVE_REFLECT",
+        "MOVE_SPIKES",
+        "MOVE_CHILLING_WATER",
+        "MOVE_LIGHT_SCREEN",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_POLTERGEIST",
+        "MOVE_TAKE_DOWN",
+        "MOVE_HYPER_BEAM",
+        "MOVE_SUBSTITUTE",
+        "MOVE_FACADE",
+        "MOVE_TRICK",
+        "MOVE_ICICLE_SPEAR",
+        "MOVE_IMPRISON",
+        "MOVE_TRIPLE_AXEL",
+        "MOVE_SLEEP_TALK",
+        "MOVE_PSYCHIC",
+        "MOVE_HAZE",
+        "MOVE_MYSTICAL_FIRE",
+        "MOVE_AVALANCHE",
+        "MOVE_REST",
+        "MOVE_GIGA_IMPACT",
+        "MOVE_THUNDERBOLT",
+        "MOVE_FAKE_TEARS",
+        "MOVE_ICE_PUNCH",
+        "MOVE_TERA_BLAST",
+        "MOVE_WATER_PULSE",
+        "MOVE_CURSE",
+        "MOVE_ENDURE",
+        "MOVE_SPITE",
+        "MOVE_NIGHT_SHADE",
+        "MOVE_THUNDER",
+        "MOVE_SWITCHEROO",
+        "MOVE_CHARM",
+        "MOVE_SCARY_FACE",
+        "MOVE_ICE_SPINNER",
+        "MOVE_ICICLE_CRASH",
+        "MOVE_THUNDER_WAVE",
+        "MOVE_RAIN_DANCE",
+        "MOVE_PSYCH_UP",
+        "MOVE_TAUNT",
+        "MOVE_WEATHER_BALL",
+        "MOVE_BODY_SLAM"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_TAUNT",
+                "MOVE_DESTINY_BOND",
+                "MOVE_SPIKES",
+                "MOVE_ICY_WIND"
+            ],
+            "Ability": "ABILITY_CURSED_BODY",
+            "Item": "ITEM_FOCUS_SASH",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Spikes Lead",
+            "SourceTiers": [
+                "GEN6UU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_DESTINY_BOND",
+                "MOVE_SPIKES",
+                "MOVE_TAUNT",
+                "MOVE_ICE_BEAM"
+            ],
+            "Ability": "ABILITY_CURSED_BODY",
+            "Item": "ITEM_FOCUS_SASH",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6UU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_DESTINY_BOND",
+                "MOVE_ICE_BEAM",
+                "MOVE_SHADOW_BALL",
+                "MOVE_TAUNT"
+            ],
+            "Ability": "ABILITY_CURSED_BODY",
+            "Item": "ITEM_FOCUS_SASH",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SPIKES",
+                "MOVE_TAUNT",
+                "MOVE_ICY_WIND",
+                "MOVE_DESTINY_BOND"
+            ],
+            "Ability": "ABILITY_LEVITATE",
+            "Item": "ITEM_FOCUS_SASH",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Suicide Lead",
+            "SourceTiers": [
+                "GEN7UU",
+                "GEN8RU",
+                "GEN8MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_DESTINY_BOND",
+                "MOVE_SPIKES",
+                "MOVE_TAUNT",
+                "MOVE_ICY_WIND"
+            ],
+            "Ability": "ABILITY_CURSED_BODY",
+            "Item": "ITEM_FOCUS_SASH",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7UU",
+                "GEN8RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_DESTINY_BOND",
+                "MOVE_ICE_BEAM",
+                "MOVE_SHADOW_BALL",
+                "MOVE_SPIKES"
+            ],
+            "Ability": "ABILITY_CURSED_BODY",
+            "Item": "ITEM_FOCUS_SASH",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SHADOW_BALL",
+                "MOVE_SPIKES",
+                "MOVE_TAUNT",
+                "MOVE_DESTINY_BOND"
+            ],
+            "Ability": "ABILITY_LEVITATE",
+            "Item": "ITEM_FOCUS_SASH",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Suicide Lead",
+            "SourceTiers": [
+                "GEN8UBERS"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SPIKES",
+                "MOVE_ICE_BEAM",
+                "MOVE_TAUNT",
+                "MOVE_DESTINY_BOND"
+            ],
+            "Ability": "ABILITY_CURSED_BODY",
+            "Item": "ITEM_FOCUS_SASH",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Suicide Lead",
+            "SourceTiers": [
+                "GEN8UU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SPIKES",
+                "MOVE_TAUNT",
+                "MOVE_THUNDER_WAVE",
+                "MOVE_ICY_WIND"
+            ],
+            "Ability": "ABILITY_LEVITATE",
+            "Item": "ITEM_FOCUS_SASH",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Dedicated Lead",
+            "SourceTiers": [
+                "GEN8NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_POLTERGEIST",
+                "MOVE_TRIPLE_AXEL",
+                "MOVE_TRICK",
+                "MOVE_SPIKES"
+            ],
+            "Ability": "ABILITY_CURSED_BODY",
+            "Item": "ITEM_CHOICE_BAND",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Band",
+            "SourceTiers": [
+                "GEN8PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SPIKES",
+                "MOVE_TAUNT",
+                "MOVE_SHADOW_BALL",
+                "MOVE_ICE_BEAM"
+            ],
+            "Ability": "ABILITY_LEVITATE",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Spikes",
+            "SourceTiers": [
+                "GEN8PU",
+                "GEN8ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SPIKES",
+                "MOVE_DESTINY_BOND",
+                "MOVE_ICE_BEAM",
+                "MOVE_TAUNT"
+            ],
+            "Ability": "ABILITY_CURSED_BODY",
+            "Item": "ITEM_FOCUS_SASH",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_TRIPLE_AXEL",
+                "MOVE_POLTERGEIST",
+                "MOVE_SWITCHEROO",
+                "MOVE_ICE_SHARD"
+            ],
+            "Ability": "ABILITY_CURSED_BODY",
+            "Item": "ITEM_CHOICE_BAND",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Band",
+            "SourceTiers": [
+                "GEN8ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SPIKES",
+                "MOVE_TAUNT",
+                "MOVE_DESTINY_BOND",
+                "MOVE_AVALANCHE"
+            ],
+            "Ability": "ABILITY_CURSED_BODY",
+            "Item": "ITEM_FOCUS_SASH",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Suicide Lead",
+            "SourceTiers": [
+                "GEN8ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SPIKES",
+                "MOVE_DESTINY_BOND",
+                "MOVE_TAUNT",
+                "MOVE_POLTERGEIST"
+            ],
+            "Ability": "ABILITY_CURSED_BODY",
+            "Item": "ITEM_FOCUS_SASH",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SPIKES",
+                "MOVE_TAUNT",
+                "MOVE_DESTINY_BOND",
+                "MOVE_SHADOW_BALL"
+            ],
+            "Ability": "ABILITY_LEVITATE",
+            "Item": "ITEM_FOCUS_SASH",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Suicide Lead (Ice)",
+            "SourceTiers": [
+                "GEN8MONOTYPE",
+                "GEN9RU",
+                "GEN9MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_DESTINY_BOND",
+                "MOVE_TAUNT",
+                "MOVE_SPIKES",
+                "MOVE_SHADOW_BALL"
+            ],
+            "Ability": "ABILITY_CURSED_BODY",
+            "Item": "ITEM_FOCUS_SASH",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_DESTINY_BOND",
+                "MOVE_SPIKES",
+                "MOVE_TAUNT",
+                "MOVE_SHADOW_BALL"
+            ],
+            "Ability": "ABILITY_CURSED_BODY",
+            "Item": "ITEM_FOCUS_SASH",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8NATIONALDEXMONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SPIKES",
+                "MOVE_SHADOW_BALL",
+                "MOVE_ICY_WIND",
+                "MOVE_TAUNT"
+            ],
+            "Ability": "ABILITY_CURSED_BODY",
+            "Item": "ITEM_FOCUS_SASH",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": "TYPE_GHOST",
+            "Name": "Spikes Lead",
+            "SourceTiers": [
+                "GEN9RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SPIKES",
+                "MOVE_TAUNT",
+                "MOVE_ICE_BEAM",
+                "MOVE_SHADOW_BALL"
+            ],
+            "Ability": "ABILITY_CURSED_BODY",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": "TYPE_DARK",
+            "Name": "Spikes Utility",
+            "SourceTiers": [
+                "GEN9NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SPIKES",
+                "MOVE_DESTINY_BOND",
+                "MOVE_TAUNT",
+                "MOVE_ICY_WIND"
+            ],
+            "Ability": "ABILITY_CURSED_BODY",
+            "Item": "ITEM_FOCUS_SASH",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN9NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SPIKES",
+                "MOVE_ICE_BEAM",
+                "MOVE_WILL_O_WISP",
+                "MOVE_DESTINY_BOND"
+            ],
+            "Ability": "ABILITY_CURSED_BODY",
+            "Item": "ITEM_FOCUS_SASH",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": "TYPE_FAIRY",
+            "Name": "Spikes Lead",
+            "SourceTiers": [
+                "GEN9PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SPIKES",
+                "MOVE_TAUNT",
+                "MOVE_ICE_BEAM",
+                "MOVE_SHADOW_BALL"
+            ],
+            "Ability": "ABILITY_CURSED_BODY",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": "TYPE_STEEL",
+            "Name": "Utility",
+            "SourceTiers": [
+                "GEN9PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_TRIPLE_AXEL",
+                "MOVE_POLTERGEIST",
+                "MOVE_ICE_SHARD",
+                "MOVE_SPIKES"
+            ],
+            "Ability": "ABILITY_CURSED_BODY",
+            "Item": "ITEM_CHOICE_BAND",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": "TYPE_ICE",
+            "Name": "Choice Band",
+            "SourceTiers": [
+                "GEN9PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_TAUNT",
+                "MOVE_SPIKES",
+                "MOVE_SHADOW_BALL",
+                "MOVE_DESTINY_BOND"
+            ],
+            "Ability": "ABILITY_CURSED_BODY",
+            "Item": "ITEM_FOCUS_SASH",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Entry Hazard Lead (Ice)",
+            "SourceTiers": [
+                "GEN9MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SPIKES",
+                "MOVE_TAUNT",
+                "MOVE_DESTINY_BOND",
+                "MOVE_ICE_BEAM"
+            ],
+            "Ability": "ABILITY_CURSED_BODY",
+            "Item": "ITEM_FOCUS_SASH",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Suicide Lead (Ghost)",
+            "SourceTiers": [
+                "GEN9MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SHADOW_BALL",
+                "MOVE_ICE_BEAM",
+                "MOVE_THUNDERBOLT",
+                "MOVE_SPIKES"
+            ],
+            "Item": "ITEM_CHOICE_SPECS",
+            "Ability": "ABILITY_LEVITATE",
+            "HiddenPower": null,
+            "SourceTiers": [
+                "GEN8PU"
+            ],
+            "Name": "Choice Band",
+            "Nature": "NATURE_HARDY",
+            "TeraType": null
+        },
+        {
+            "Moves": [
+                "MOVE_SPIKES",
+                "MOVE_TAUNT",
+                "MOVE_ICY_WIND",
+                "MOVE_WILL_O_WISP"
+            ],
+            "Item": "ITEM_FOCUS_SASH",
+            "Ability": "ABILITY_LEVITATE",
+            "HiddenPower": null,
+            "SourceTiers": [
+                "GEN8MONOTYPE"
+            ],
+            "Name": "Suicide Lead (Ghost)",
+            "Nature": "NATURE_HARDY",
+            "TeraType": null
+        },
+        {
+            "Moves": [
+                "MOVE_ICE_BEAM",
+                "MOVE_SHADOW_BALL",
+                "MOVE_SWITCHEROO",
+                "MOVE_MYSTICAL_FIRE"
+            ],
+            "Item": "ITEM_CHOICE_SPECS",
+            "Ability": "ABILITY_LEVITATE",
+            "HiddenPower": null,
+            "SourceTiers": [
+                "GEN8ZU"
+            ],
+            "Name": "Choice Band",
+            "Nature": "NATURE_HARDY",
+            "TeraType": null
+        }
+    ]
+}

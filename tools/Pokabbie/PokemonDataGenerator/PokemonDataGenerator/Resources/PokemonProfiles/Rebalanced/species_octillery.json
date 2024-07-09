@@ -1,0 +1,247 @@
+{
+    "Species": "SPECIES_OCTILLERY",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_OCTAZOOKA",
+            "Level": "0"
+        },
+        {
+            "Move": "MOVE_OCTAZOOKA",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_LOCK_ON",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_WATER_PULSE",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_WATER_GUN",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_PSYBEAM",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_AURORA_BEAM",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_CONSTRICT",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_PSYBEAM",
+            "Level": "5"
+        },
+        {
+            "Move": "MOVE_AURORA_BEAM",
+            "Level": "9"
+        },
+        {
+            "Move": "MOVE_BUBBLE_BEAM",
+            "Level": "13"
+        },
+        {
+            "Move": "MOVE_FOCUS_ENERGY",
+            "Level": "17"
+        },
+        {
+            "Move": "MOVE_WRING_OUT",
+            "Level": "21"
+        },
+        {
+            "Move": "MOVE_BULLET_SEED",
+            "Level": "25"
+        },
+        {
+            "Move": "MOVE_SIGNAL_BEAM",
+            "Level": "29"
+        },
+        {
+            "Move": "MOVE_ICICLE_SPEAR",
+            "Level": "33"
+        },
+        {
+            "Move": "MOVE_SOAK",
+            "Level": "37"
+        },
+        {
+            "Move": "MOVE_ICE_BEAM",
+            "Level": "41"
+        },
+        {
+            "Move": "MOVE_ROCK_BLAST",
+            "Level": "45"
+        },
+        {
+            "Move": "MOVE_GUNK_SHOT",
+            "Level": "49"
+        },
+        {
+            "Move": "MOVE_HYDRO_PUMP",
+            "Level": "53"
+        },
+        {
+            "Move": "MOVE_HYPER_BEAM",
+            "Level": "57"
+        },
+        {
+            "Move": "MOVE_AURA_SPHERE",
+            "Level": "61"
+        },
+        {
+            "Move": "MOVE_ZAP_CANNON",
+            "Level": "65"
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_SLUDGE_WAVE",
+        "MOVE_HELPING_HAND",
+        "MOVE_DIVE",
+        "MOVE_SKITTER_SMACK",
+        "MOVE_ATTRACT",
+        "MOVE_BRINE",
+        "MOVE_WATERFALL",
+        "MOVE_PAYBACK",
+        "MOVE_PROTECT",
+        "MOVE_ASSURANCE",
+        "MOVE_THIEF",
+        "MOVE_SEED_BOMB",
+        "MOVE_SUBSTITUTE",
+        "MOVE_SUNNY_DAY",
+        "MOVE_FACADE",
+        "MOVE_SCREECH",
+        "MOVE_WHIRLPOOL",
+        "MOVE_WATER_SPOUT",
+        "MOVE_ICY_WIND",
+        "MOVE_SWIFT",
+        "MOVE_SLEEP_TALK",
+        "MOVE_ENERGY_BALL",
+        "MOVE_PSYCHIC",
+        "MOVE_SLUDGE_BOMB",
+        "MOVE_BOUNCE",
+        "MOVE_GIGA_IMPACT",
+        "MOVE_LIQUIDATION",
+        "MOVE_ENDURE",
+        "MOVE_MUD_SHOT",
+        "MOVE_ROUND",
+        "MOVE_BLIZZARD",
+        "MOVE_SURF",
+        "MOVE_SNORE",
+        "MOVE_THUNDER_WAVE",
+        "MOVE_SCALD",
+        "MOVE_RAIN_DANCE",
+        "MOVE_FLAMETHROWER",
+        "MOVE_FIRE_BLAST",
+        "MOVE_REST",
+        "MOVE_FLASH_CANNON"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_HYDRO_PUMP",
+                "MOVE_FIRE_BLAST",
+                "MOVE_ENERGY_BALL",
+                "MOVE_ICE_BEAM"
+            ],
+            "Ability": "ABILITY_SNIPER",
+            "Item": "ITEM_CHOICE_SPECS",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Bulky Special Attacker",
+            "SourceTiers": [
+                "GEN6PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_ENERGY_BALL",
+                "MOVE_ICE_BEAM",
+                "MOVE_FLAMETHROWER",
+                "MOVE_HYDRO_PUMP"
+            ],
+            "Ability": "ABILITY_SNIPER",
+            "Item": "ITEM_CHOICE_SPECS",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_WATER_SPOUT",
+                "MOVE_ENERGY_BALL",
+                "MOVE_FIRE_BLAST",
+                "MOVE_ICE_BEAM"
+            ],
+            "Ability": "ABILITY_SNIPER",
+            "Item": "ITEM_CHOICE_SPECS",
+            "Nature": "NATURE_QUIET",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Trick Room Attacker",
+            "SourceTiers": [
+                "GEN6ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_HYDRO_PUMP",
+                "MOVE_FIRE_BLAST",
+                "MOVE_ICE_BEAM",
+                "MOVE_ENERGY_BALL"
+            ],
+            "Ability": "ABILITY_SNIPER",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_QUIET",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Trick Room",
+            "SourceTiers": [
+                "GEN7PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_ICE_BEAM",
+                "MOVE_ENERGY_BALL",
+                "MOVE_FLAMETHROWER",
+                "MOVE_SURF"
+            ],
+            "Ability": "ABILITY_SNIPER",
+            "Item": "ITEM_CHOICE_SPECS",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_HYDRO_PUMP",
+                "MOVE_FIRE_BLAST",
+                "MOVE_ENERGY_BALL",
+                "MOVE_ICE_BEAM"
+            ],
+            "Ability": "ABILITY_SUCTION_CUPS",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Specially Offensive",
+            "SourceTiers": [
+                "GEN8ZU"
+            ]
+        }
+    ]
+}

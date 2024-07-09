@@ -1,0 +1,165 @@
+{
+    "Species": "SPECIES_ODDISH",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_ABSORB",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_GROWTH",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_SWEET_SCENT",
+            "Level": "5"
+        },
+        {
+            "Move": "MOVE_ACID",
+            "Level": "9"
+        },
+        {
+            "Move": "MOVE_POISON_POWDER",
+            "Level": "13"
+        },
+        {
+            "Move": "MOVE_STUN_SPORE",
+            "Level": "14"
+        },
+        {
+            "Move": "MOVE_SLEEP_POWDER",
+            "Level": "15"
+        },
+        {
+            "Move": "MOVE_MEGA_DRAIN",
+            "Level": "19"
+        },
+        {
+            "Move": "MOVE_LUCKY_CHANT",
+            "Level": "23"
+        },
+        {
+            "Move": "MOVE_SLUDGE",
+            "Level": "25"
+        },
+        {
+            "Move": "MOVE_MOONLIGHT",
+            "Level": "27"
+        },
+        {
+            "Move": "MOVE_GIGA_DRAIN",
+            "Level": "31"
+        },
+        {
+            "Move": "MOVE_TOXIC",
+            "Level": "35"
+        },
+        {
+            "Move": "MOVE_NATURAL_GIFT",
+            "Level": "39"
+        },
+        {
+            "Move": "MOVE_MOONBLAST",
+            "Level": "43"
+        },
+        {
+            "Move": "MOVE_GRASSY_TERRAIN",
+            "Level": "47"
+        },
+        {
+            "Move": "MOVE_PETAL_DANCE",
+            "Level": "51"
+        },
+        {
+            "Move": "MOVE_APPLE_ACID",
+            "Level": "55"
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_INGRAIN",
+        "MOVE_HELPING_HAND",
+        "MOVE_SOLAR_BEAM",
+        "MOVE_GRASS_KNOT",
+        "MOVE_LEAF_STORM",
+        "MOVE_ACID_SPRAY",
+        "MOVE_SWORDS_DANCE",
+        "MOVE_VENOSHOCK",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_PROTECT",
+        "MOVE_FLAIL",
+        "MOVE_BULLET_SEED",
+        "MOVE_GRASSY_GLIDE",
+        "MOVE_SEED_BOMB",
+        "MOVE_SUBSTITUTE",
+        "MOVE_MAGICAL_LEAF",
+        "MOVE_FACADE",
+        "MOVE_SUNNY_DAY",
+        "MOVE_SYNTHESIS",
+        "MOVE_SLEEP_TALK",
+        "MOVE_ENERGY_BALL",
+        "MOVE_TRAILBLAZE",
+        "MOVE_SLUDGE_BOMB",
+        "MOVE_TERA_BLAST",
+        "MOVE_ENDURE",
+        "MOVE_CHARM",
+        "MOVE_AFTER_YOU",
+        "MOVE_TEETER_DANCE",
+        "MOVE_TICKLE",
+        "MOVE_LEECH_SEED",
+        "MOVE_STRENGTH_SAP",
+        "MOVE_RAZOR_LEAF",
+        "MOVE_REST"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_SOLAR_BEAM",
+                "MOVE_SLUDGE_BOMB",
+                "MOVE_HIDDEN_POWER",
+                "MOVE_SLEEP_POWDER"
+            ],
+            "Ability": "ABILITY_CHLOROPHYLL",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": "TYPE_FIRE",
+            "TeraType": null,
+            "Name": "Chlorophyll Sweeper",
+            "SourceTiers": [
+                "GEN6LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SOLAR_BEAM",
+                "MOVE_SLUDGE_BOMB",
+                "MOVE_HIDDEN_POWER",
+                "MOVE_SLEEP_POWDER"
+            ],
+            "Ability": "ABILITY_CHLOROPHYLL",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": "TYPE_FIRE",
+            "TeraType": null,
+            "Name": "Eviolite",
+            "SourceTiers": [
+                "GEN6LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SLEEP_POWDER",
+                "MOVE_STRENGTH_SAP",
+                "MOVE_SLUDGE_BOMB",
+                "MOVE_GIGA_DRAIN"
+            ],
+            "Ability": "ABILITY_CHLOROPHYLL",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Defensive Pivot",
+            "SourceTiers": [
+                "GEN7LC"
+            ]
+        }
+    ]
+}

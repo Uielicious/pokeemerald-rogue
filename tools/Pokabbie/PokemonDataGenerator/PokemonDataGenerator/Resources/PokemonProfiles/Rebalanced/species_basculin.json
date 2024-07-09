@@ -1,0 +1,273 @@
+{
+    "Species": "SPECIES_BASCULIN",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_TAIL_WHIP",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_TACKLE",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_WATER_GUN",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_UPROAR",
+            "Level": "3"
+        },
+        {
+            "Move": "MOVE_HEADBUTT",
+            "Level": "5"
+        },
+        {
+            "Move": "MOVE_BITE",
+            "Level": "7"
+        },
+        {
+            "Move": "MOVE_AQUA_JET",
+            "Level": "9"
+        },
+        {
+            "Move": "MOVE_CHIP_AWAY",
+            "Level": "11"
+        },
+        {
+            "Move": "MOVE_TAKE_DOWN",
+            "Level": "14"
+        },
+        {
+            "Move": "MOVE_CRUNCH",
+            "Level": "17"
+        },
+        {
+            "Move": "MOVE_AQUA_TAIL",
+            "Level": "20"
+        },
+        {
+            "Move": "MOVE_SOAK",
+            "Level": "23"
+        },
+        {
+            "Move": "MOVE_DOUBLE_EDGE",
+            "Level": "26"
+        },
+        {
+            "Move": "MOVE_SCARY_FACE",
+            "Level": "30"
+        },
+        {
+            "Move": "MOVE_FLAIL",
+            "Level": "34"
+        },
+        {
+            "Move": "MOVE_FINAL_GAMBIT",
+            "Level": "38"
+        },
+        {
+            "Move": "MOVE_THRASH",
+            "Level": "42"
+        },
+        {
+            "Move": "MOVE_PSYCHIC_FANGS",
+            "Level": "46"
+        },
+        {
+            "Move": "MOVE_HEAD_SMASH",
+            "Level": "50"
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_ICE_BEAM",
+        "MOVE_SUPERPOWER",
+        "MOVE_AGILITY",
+        "MOVE_ZEN_HEADBUTT",
+        "MOVE_CHILLING_WATER",
+        "MOVE_WATERFALL",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_PROTECT",
+        "MOVE_HYDRO_PUMP",
+        "MOVE_HYPER_BEAM",
+        "MOVE_SUBSTITUTE",
+        "MOVE_ENDEAVOR",
+        "MOVE_FACADE",
+        "MOVE_BUBBLE_BEAM",
+        "MOVE_WHIRLPOOL",
+        "MOVE_ICY_WIND",
+        "MOVE_SWIFT",
+        "MOVE_REVERSAL",
+        "MOVE_SLEEP_TALK",
+        "MOVE_GIGA_IMPACT",
+        "MOVE_MUDDY_WATER",
+        "MOVE_LIQUIDATION",
+        "MOVE_TERA_BLAST",
+        "MOVE_WATER_PULSE",
+        "MOVE_ENDURE",
+        "MOVE_MUD_SHOT",
+        "MOVE_BLIZZARD",
+        "MOVE_SURF",
+        "MOVE_SCALE_SHOT",
+        "MOVE_FLIP_TURN",
+        "MOVE_SNOWSCAPE",
+        "MOVE_RAIN_DANCE",
+        "MOVE_ICE_FANG",
+        "MOVE_TAUNT",
+        "MOVE_REST"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_WATERFALL",
+                "MOVE_ZEN_HEADBUTT",
+                "MOVE_ICE_BEAM",
+                "MOVE_AQUA_JET"
+            ],
+            "Ability": "ABILITY_ADAPTABILITY",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_NAIVE",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "All-Out Attacker",
+            "SourceTiers": [
+                "GEN6PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_AQUA_JET",
+                "MOVE_WATERFALL",
+                "MOVE_SUPERPOWER",
+                "MOVE_CRUNCH"
+            ],
+            "Ability": "ABILITY_ADAPTABILITY",
+            "Item": "ITEM_CHOICE_BAND",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_WATERFALL",
+                "MOVE_AQUA_JET",
+                "MOVE_ICE_BEAM",
+                "MOVE_SUPERPOWER"
+            ],
+            "Ability": "ABILITY_ADAPTABILITY",
+            "Item": "ITEM_WATERIUM_Z",
+            "Nature": "NATURE_NAIVE",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "All-out Attacker",
+            "SourceTiers": [
+                "GEN7PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_LIQUIDATION",
+                "MOVE_ICE_BEAM",
+                "MOVE_SUPERPOWER",
+                "MOVE_AQUA_JET"
+            ],
+            "Ability": "ABILITY_ADAPTABILITY",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_NAIVE",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Mixed Attacker",
+            "SourceTiers": [
+                "GEN7ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_AQUA_JET",
+                "MOVE_LIQUIDATION",
+                "MOVE_SUPERPOWER",
+                "MOVE_CRUNCH"
+            ],
+            "Ability": "ABILITY_ADAPTABILITY",
+            "Item": "ITEM_CHOICE_BAND",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_LIQUIDATION",
+                "MOVE_FLIP_TURN",
+                "MOVE_CRUNCH",
+                "MOVE_SUPERPOWER"
+            ],
+            "Ability": "ABILITY_ADAPTABILITY",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Scarf",
+            "SourceTiers": [
+                "GEN8PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FLIP_TURN",
+                "MOVE_LIQUIDATION",
+                "MOVE_AQUA_JET",
+                "MOVE_CRUNCH"
+            ],
+            "Ability": "ABILITY_ADAPTABILITY",
+            "Item": "ITEM_CHOICE_BAND",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_WAVE_CRASH",
+                "MOVE_FLIP_TURN",
+                "MOVE_AQUA_JET",
+                "MOVE_HEAD_SMASH"
+            ],
+            "Ability": "ABILITY_ADAPTABILITY",
+            "Item": "ITEM_CHOICE_BAND",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN9PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_AQUA_JET",
+                "MOVE_WAVE_CRASH",
+                "MOVE_PSYCHIC_FANGS",
+                "MOVE_LIQUIDATION"
+            ],
+            "Ability": "ABILITY_ADAPTABILITY",
+            "Item": "ITEM_CHOICE_BAND",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN9ZU"
+            ]
+        }
+    ]
+}

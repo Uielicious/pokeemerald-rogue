@@ -1,0 +1,211 @@
+{
+    "Species": "SPECIES_GOTHITA",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_POUND",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_CONFUSION",
+            "Level": "3"
+        },
+        {
+            "Move": "MOVE_TICKLE",
+            "Level": "7"
+        },
+        {
+            "Move": "MOVE_PLAY_NICE",
+            "Level": "8"
+        },
+        {
+            "Move": "MOVE_FAKE_TEARS",
+            "Level": "10"
+        },
+        {
+            "Move": "MOVE_DOUBLE_SLAP",
+            "Level": "14"
+        },
+        {
+            "Move": "MOVE_PSYBEAM",
+            "Level": "16"
+        },
+        {
+            "Move": "MOVE_EMBARGO",
+            "Level": "19"
+        },
+        {
+            "Move": "MOVE_HYPNOSIS",
+            "Level": "21"
+        },
+        {
+            "Move": "MOVE_FEINT_ATTACK",
+            "Level": "24"
+        },
+        {
+            "Move": "MOVE_PSYSHOCK",
+            "Level": "25"
+        },
+        {
+            "Move": "MOVE_FLATTER",
+            "Level": "28"
+        },
+        {
+            "Move": "MOVE_FUTURE_SIGHT",
+            "Level": "31"
+        },
+        {
+            "Move": "MOVE_HEAL_BLOCK",
+            "Level": "33"
+        },
+        {
+            "Move": "MOVE_PSYCHIC",
+            "Level": "37"
+        },
+        {
+            "Move": "MOVE_TELEKINESIS",
+            "Level": "40"
+        },
+        {
+            "Move": "MOVE_DARK_PULSE",
+            "Level": "43"
+        },
+        {
+            "Move": "MOVE_CHARM",
+            "Level": "46"
+        },
+        {
+            "Move": "MOVE_MAGIC_ROOM",
+            "Level": "48"
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_MIRROR_COAT",
+        "MOVE_FAKE_OUT",
+        "MOVE_HELPING_HAND",
+        "MOVE_FLING",
+        "MOVE_REFLECT",
+        "MOVE_HEAL_PULSE",
+        "MOVE_GRASS_KNOT",
+        "MOVE_ZEN_HEADBUTT",
+        "MOVE_ROCK_TOMB",
+        "MOVE_LIGHT_SCREEN",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_PROTECT",
+        "MOVE_SKILL_SWAP",
+        "MOVE_THIEF",
+        "MOVE_CALM_MIND",
+        "MOVE_SUBSTITUTE",
+        "MOVE_FACADE",
+        "MOVE_TRICK",
+        "MOVE_EXPANDING_FORCE",
+        "MOVE_SHADOW_BALL",
+        "MOVE_SWIFT",
+        "MOVE_IMPRISON",
+        "MOVE_SLEEP_TALK",
+        "MOVE_ENERGY_BALL",
+        "MOVE_STORED_POWER",
+        "MOVE_MEAN_LOOK",
+        "MOVE_THUNDERBOLT",
+        "MOVE_NASTY_PLOT",
+        "MOVE_TERA_BLAST",
+        "MOVE_ENDURE",
+        "MOVE_FOUL_PLAY",
+        "MOVE_THUNDER_WAVE",
+        "MOVE_PSYCHIC_TERRAIN",
+        "MOVE_TRICK_ROOM",
+        "MOVE_RAIN_DANCE",
+        "MOVE_ROCK_SLIDE",
+        "MOVE_GRAVITY",
+        "MOVE_TORMENT",
+        "MOVE_PSYCH_UP",
+        "MOVE_TAUNT",
+        "MOVE_REST"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_PSYCHIC",
+                "MOVE_THUNDERBOLT",
+                "MOVE_ENERGY_BALL",
+                "MOVE_TRICK"
+            ],
+            "Ability": "ABILITY_SHADOW_TAG",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Scarf",
+            "SourceTiers": [
+                "GEN6LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_CALM_MIND",
+                "MOVE_PSYCHIC",
+                "MOVE_REST",
+                "MOVE_SLEEP_TALK"
+            ],
+            "Ability": "ABILITY_SHADOW_TAG",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Calm Mind",
+            "SourceTiers": [
+                "GEN6LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_PSYCHIC",
+                "MOVE_TRICK",
+                "MOVE_THUNDERBOLT",
+                "MOVE_ENERGY_BALL"
+            ],
+            "Ability": "ABILITY_SHADOW_TAG",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_PSYCHIC",
+                "MOVE_THUNDERBOLT",
+                "MOVE_ENERGY_BALL",
+                "MOVE_TRICK"
+            ],
+            "Ability": "ABILITY_SHADOW_TAG",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": "TYPE_PSYCHIC",
+            "Name": "Trapper",
+            "SourceTiers": [
+                "GEN9LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_PSYCHIC",
+                "MOVE_THUNDERBOLT",
+                "MOVE_TRICK",
+                "MOVE_TERA_BLAST"
+            ],
+            "Ability": "ABILITY_SHADOW_TAG",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN9LC"
+            ]
+        }
+    ]
+}

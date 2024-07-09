@@ -1,0 +1,270 @@
+{
+  "Species": "SPECIES_DOUBLADE",
+  "LevelUpMoves": [
+    {
+      "Move": "MOVE_TACKLE",
+      "Level": 1
+    },
+    {
+      "Move": "MOVE_FURY_CUTTER",
+      "Level": 1
+    },
+    {
+      "Move": "MOVE_SHADOW_SNEAK",
+      "Level": 1
+    },
+    {
+      "Move": "MOVE_AUTOTOMIZE",
+      "Level": 1
+    },
+    {
+      "Move": "MOVE_AERIAL_ACE",
+      "Level": 12
+    },
+    {
+      "Move": "MOVE_METAL_SOUND",
+      "Level": 16
+    },
+    {
+      "Move": "MOVE_SLASH",
+      "Level": 20
+    },
+    {
+      "Move": "MOVE_NIGHT_SLASH",
+      "Level": 24
+    },
+    {
+      "Move": "MOVE_SWIRLING_BLADE",
+      "Level": 26
+    },
+    {
+      "Move": "MOVE_RETALIATE",
+      "Level": 28
+    },
+    {
+      "Move": "MOVE_IRON_DEFENSE",
+      "Level": 32
+    },
+    {
+      "Move": "MOVE_SWIRLING_BLADE",
+      "Level": 38
+    },
+    {
+      "Move": "MOVE_POWER_TRICK",
+      "Level": 44
+    },
+    {
+      "Move": "MOVE_SWORDS_DANCE",
+      "Level": 50
+    },
+    {
+      "Move": "MOVE_SACRED_SWORD",
+      "Level": 56
+    }
+  ],
+  "TutorMoves": [
+    "MOVE_ATTRACT",
+    "MOVE_BRICK_BREAK",
+    "MOVE_BRUTAL_SWING",
+    "MOVE_CLOSE_COMBAT",
+    "MOVE_ENDURE",
+    "MOVE_FACADE",
+    "MOVE_FALSE_SWIPE",
+    "MOVE_FLASH_CANNON",
+    "MOVE_GYRO_BALL",
+    "MOVE_IRON_DEFENSE",
+    "MOVE_SWIRLING_BLADE",
+    "MOVE_PROTECT",
+    "MOVE_PSYCHO_CUT",
+    "MOVE_RAIN_DANCE",
+    "MOVE_REFLECT",
+    "MOVE_REST",
+    "MOVE_RETALIATE",
+    "MOVE_REVERSAL",
+    "MOVE_ROCK_SLIDE",
+    "MOVE_ROUND",
+    "MOVE_SCREECH",
+    "MOVE_SHADOW_CLAW",
+    "MOVE_SLEEP_TALK",
+    "MOVE_SNORE",
+    "MOVE_SOLAR_BLADE",
+    "MOVE_STEEL_BEAM",
+    "MOVE_SUBSTITUTE",
+    "MOVE_SWORDS_DANCE"
+  ],
+  "CompetitiveSets": [
+    {
+      "Moves": [
+        "MOVE_GYRO_BALL",
+        "MOVE_SWIRLING_BLADE",
+        "MOVE_SLEEP_TALK",
+        "MOVE_REST"
+      ],
+      "Ability": "ABILITY_SHARPNESS",
+      "Item": "ITEM_EVIOLITE",
+      "Nature": "NATURE_SASSY",
+      "HiddenPower": null,
+      "TeraType": null,
+      "Name": "Mixed Wall",
+      "SourceTiers": [
+        "GEN6OU"
+      ]
+    },
+    {
+      "Moves": [
+        "MOVE_SWORDS_DANCE",
+        "MOVE_SHADOW_SNEAK",
+        "MOVE_SWIRLING_BLADE",
+        "MOVE_SACRED_SWORD"
+      ],
+      "Ability": "ABILITY_SHARPNESS",
+      "Item": "ITEM_EVIOLITE",
+      "Nature": "NATURE_ADAMANT",
+      "HiddenPower": null,
+      "TeraType": null,
+      "Name": "Swords Dance",
+      "SourceTiers": [
+        "GEN6UU"
+      ]
+    },
+    {
+      "Moves": [
+        "MOVE_SHADOW_SNEAK",
+        "MOVE_SWORDS_DANCE",
+        "MOVE_SACRED_SWORD",
+        "MOVE_SWIRLING_BLADE"
+      ],
+      "Ability": "ABILITY_SHARPNESS",
+      "Item": "ITEM_EVIOLITE",
+      "Nature": "NATURE_ADAMANT",
+      "HiddenPower": null,
+      "TeraType": null,
+      "Name": "Showdown Usage",
+      "SourceTiers": [
+        "GEN6UU",
+        "GEN6MONOTYPE"
+      ]
+    },
+    {
+      "Moves": [
+        "MOVE_SWORDS_DANCE",
+        "MOVE_SHADOW_SNEAK",
+        "MOVE_SACRED_SWORD",
+        "MOVE_SHADOW_CLAW"
+      ],
+      "Ability": "ABILITY_SHARPNESS",
+      "Item": "ITEM_EVIOLITE",
+      "Nature": "NATURE_ADAMANT",
+      "HiddenPower": null,
+      "TeraType": null,
+      "Name": "Swords Dancer (Steel)",
+      "SourceTiers": [
+        "GEN6MONOTYPE"
+      ]
+    },
+    {
+      "Moves": [
+        "MOVE_SWORDS_DANCE",
+        "MOVE_GYRO_BALL",
+        "MOVE_SHADOW_CLAW",
+        "MOVE_SHADOW_SNEAK"
+      ],
+      "Ability": "ABILITY_SHARPNESS",
+      "Item": "ITEM_EVIOLITE",
+      "Nature": "NATURE_BRAVE",
+      "HiddenPower": null,
+      "TeraType": null,
+      "Name": "Swords Dance",
+      "SourceTiers": [
+        "GEN7UU"
+      ]
+    },
+    {
+      "Moves": [
+        "MOVE_SHADOW_SNEAK",
+        "MOVE_SWORDS_DANCE",
+        "MOVE_SACRED_SWORD",
+        "MOVE_GYRO_BALL"
+      ],
+      "Ability": "ABILITY_SHARPNESS",
+      "Item": "ITEM_EVIOLITE",
+      "Nature": "NATURE_BRAVE",
+      "HiddenPower": null,
+      "TeraType": null,
+      "Name": "Showdown Usage",
+      "SourceTiers": [
+        "GEN7UU",
+        "GEN7MONOTYPE"
+      ]
+    },
+    {
+      "Moves": [
+        "MOVE_SWORDS_DANCE",
+        "MOVE_SHADOW_SNEAK",
+        "MOVE_SHADOW_CLAW",
+        "MOVE_CLOSE_COMBAT"
+      ],
+      "Ability": "ABILITY_SHARPNESS",
+      "Item": "ITEM_EVIOLITE",
+      "Nature": "NATURE_ADAMANT",
+      "HiddenPower": null,
+      "TeraType": null,
+      "Name": "Swords Dance",
+      "SourceTiers": [
+        "GEN8RU",
+        "GEN8PU"
+      ]
+    },
+    {
+      "Moves": [
+        "MOVE_SWORDS_DANCE",
+        "MOVE_SWIRLING_BLADE",
+        "MOVE_SHADOW_SNEAK",
+        "MOVE_CLOSE_COMBAT"
+      ],
+      "Ability": "ABILITY_SHARPNESS",
+      "Item": "ITEM_EVIOLITE",
+      "Nature": "NATURE_ADAMANT",
+      "HiddenPower": null,
+      "TeraType": null,
+      "Name": "Swords Dance",
+      "SourceTiers": [
+        "GEN8NU"
+      ]
+    },
+    {
+      "Moves": [
+        "MOVE_SHADOW_SNEAK",
+        "MOVE_SWORDS_DANCE",
+        "MOVE_SWIRLING_BLADE",
+        "MOVE_CLOSE_COMBAT"
+      ],
+      "Ability": "ABILITY_SHARPNESS",
+      "Item": "ITEM_EVIOLITE",
+      "Nature": "NATURE_ADAMANT",
+      "HiddenPower": null,
+      "TeraType": null,
+      "Name": "Showdown Usage",
+      "SourceTiers": [
+        "GEN8NU"
+      ]
+    },
+    {
+      "Moves": [
+        "MOVE_SHADOW_SNEAK",
+        "MOVE_SWORDS_DANCE",
+        "MOVE_CLOSE_COMBAT",
+        "MOVE_SWIRLING_BLADE"
+      ],
+      "Ability": "ABILITY_SHARPNESS",
+      "Item": "ITEM_EVIOLITE",
+      "Nature": "NATURE_ADAMANT",
+      "HiddenPower": null,
+      "TeraType": null,
+      "Name": "Showdown Usage",
+      "SourceTiers": [
+        "GEN8PU"
+      ]
+    }
+  ]
+}

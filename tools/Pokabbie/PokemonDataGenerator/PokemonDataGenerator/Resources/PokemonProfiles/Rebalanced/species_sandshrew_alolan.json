@@ -1,0 +1,274 @@
+{
+    "Species": "SPECIES_SANDSHREW_ALOLAN",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_SCRATCH",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_DEFENSE_CURL",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_BIDE",
+            "Level": "3"
+        },
+        {
+            "Move": "MOVE_POWDER_SNOW",
+            "Level": "5"
+        },
+        {
+            "Move": "MOVE_ICE_BALL",
+            "Level": "7"
+        },
+        {
+            "Move": "MOVE_RAPID_SPIN",
+            "Level": "9"
+        },
+        {
+            "Move": "MOVE_FURY_CUTTER",
+            "Level": "11"
+        },
+        {
+            "Move": "MOVE_ICE_SHARD",
+            "Level": "13"
+        },
+        {
+            "Move": "MOVE_METAL_CLAW",
+            "Level": "15"
+        },
+        {
+            "Move": "MOVE_SWIFT",
+            "Level": "17"
+        },
+        {
+            "Move": "MOVE_FURY_SWIPES",
+            "Level": "20"
+        },
+        {
+            "Move": "MOVE_IRON_DEFENSE",
+            "Level": "23"
+        },
+        {
+            "Move": "MOVE_SLASH",
+            "Level": "26"
+        },
+        {
+            "Move": "MOVE_IRON_HEAD",
+            "Level": "30"
+        },
+        {
+            "Move": "MOVE_GYRO_BALL",
+            "Level": "34"
+        },
+        {
+            "Move": "MOVE_SWORDS_DANCE",
+            "Level": "38"
+        },
+        {
+            "Move": "MOVE_HAIL",
+            "Level": "42"
+        },
+        {
+            "Move": "MOVE_BLIZZARD",
+            "Level": "46"
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_ICE_BEAM",
+        "MOVE_MIRROR_COAT",
+        "MOVE_SUPER_FANG",
+        "MOVE_SEISMIC_TOSS",
+        "MOVE_FLING",
+        "MOVE_DYNAMIC_PUNCH",
+        "MOVE_AMNESIA",
+        "MOVE_ROCK_TOMB",
+        "MOVE_BULLDOZE",
+        "MOVE_MIMIC",
+        "MOVE_STEEL_BEAM",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_SWAGGER",
+        "MOVE_KNOCK_OFF",
+        "MOVE_PROTECT",
+        "MOVE_THROAT_CHOP",
+        "MOVE_DOUBLE_EDGE",
+        "MOVE_FLAIL",
+        "MOVE_SHADOW_CLAW",
+        "MOVE_TAKE_DOWN",
+        "MOVE_THIEF",
+        "MOVE_SUBSTITUTE",
+        "MOVE_BRICK_BREAK",
+        "MOVE_FACADE",
+        "MOVE_ICICLE_SPEAR",
+        "MOVE_ENDEAVOR",
+        "MOVE_LEECH_LIFE",
+        "MOVE_ICY_WIND",
+        "MOVE_STEALTH_ROCK",
+        "MOVE_TRIPLE_AXEL",
+        "MOVE_SLEEP_TALK",
+        "MOVE_MUD_SLAP",
+        "MOVE_AVALANCHE",
+        "MOVE_REST",
+        "MOVE_DIG",
+        "MOVE_ROLLOUT",
+        "MOVE_EARTHQUAKE",
+        "MOVE_ICE_PUNCH",
+        "MOVE_TERA_BLAST",
+        "MOVE_ENDURE",
+        "MOVE_CURSE",
+        "MOVE_X_SCISSOR",
+        "MOVE_COUNTER",
+        "MOVE_LOW_KICK",
+        "MOVE_HONE_CLAWS",
+        "MOVE_POISON_JAB",
+        "MOVE_ICE_SPINNER",
+        "MOVE_ICICLE_CRASH",
+        "MOVE_SNORE",
+        "MOVE_SNOWSCAPE",
+        "MOVE_ROCK_SLIDE",
+        "MOVE_NIGHT_SLASH",
+        "MOVE_AERIAL_ACE",
+        "MOVE_FOCUS_PUNCH",
+        "MOVE_CRUSH_CLAW",
+        "MOVE_BODY_SLAM",
+        "MOVE_FLASH_CANNON"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_ICICLE_SPEAR",
+                "MOVE_IRON_HEAD",
+                "MOVE_EARTHQUAKE",
+                "MOVE_SWORDS_DANCE"
+            ],
+            "Ability": "ABILITY_SLUSH_RUSH",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Hail Sweeper",
+            "SourceTiers": [
+                "GEN7LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_ICICLE_SPEAR",
+                "MOVE_IRON_HEAD",
+                "MOVE_RAPID_SPIN",
+                "MOVE_EARTHQUAKE"
+            ],
+            "Ability": "ABILITY_SLUSH_RUSH",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Scarf",
+            "SourceTiers": [
+                "GEN7LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_EARTHQUAKE",
+                "MOVE_IRON_HEAD",
+                "MOVE_ICICLE_CRASH",
+                "MOVE_ICICLE_SPEAR"
+            ],
+            "Ability": "ABILITY_SLUSH_RUSH",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_TRIPLE_AXEL",
+                "MOVE_EARTHQUAKE",
+                "MOVE_RAPID_SPIN",
+                "MOVE_SWORDS_DANCE"
+            ],
+            "Ability": "ABILITY_SLUSH_RUSH",
+            "Item": "ITEM_WIDE_LENS",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Hail Sweeper",
+            "SourceTiers": [
+                "GEN8LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_EARTHQUAKE",
+                "MOVE_TRIPLE_AXEL",
+                "MOVE_RAPID_SPIN",
+                "MOVE_SWORDS_DANCE"
+            ],
+            "Ability": "ABILITY_SLUSH_RUSH",
+            "Item": "ITEM_WIDE_LENS",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SWORDS_DANCE",
+                "MOVE_TRIPLE_AXEL",
+                "MOVE_EARTHQUAKE",
+                "MOVE_RAPID_SPIN"
+            ],
+            "Ability": "ABILITY_SLUSH_RUSH",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": "TYPE_ICE",
+            "Name": "Snow Sweeper",
+            "SourceTiers": [
+                "GEN9LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_RAPID_SPIN",
+                "MOVE_EARTHQUAKE",
+                "MOVE_SWORDS_DANCE",
+                "MOVE_ICICLE_SPEAR"
+            ],
+            "Ability": "ABILITY_SLUSH_RUSH",
+            "Item": "ITEM_LOADED_DICE",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN9LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_ICE_SHARD",
+                "MOVE_IRON_HEAD",
+                "MOVE_EARTHQUAKE",
+                "MOVE_SWORDS_DANCE"
+            ],
+            "Item": "ITEM_EVIOLITE",
+            "Ability": "ABILITY_SLUSH_RUSH",
+            "HiddenPower": null,
+            "SourceTiers": [
+                "GEN7LC"
+            ],
+            "Name": "Ice Shard + Swords Dance",
+            "Nature": "NATURE_HARDY",
+            "TeraType": null
+        }
+    ]
+}

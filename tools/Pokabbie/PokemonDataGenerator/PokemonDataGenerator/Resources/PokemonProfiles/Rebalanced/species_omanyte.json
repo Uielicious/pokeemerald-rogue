@@ -1,0 +1,262 @@
+{
+    "Species": "SPECIES_OMANYTE",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_CONSTRICT",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_WITHDRAW",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_BITE",
+            "Level": "7"
+        },
+        {
+            "Move": "MOVE_WATER_GUN",
+            "Level": "10"
+        },
+        {
+            "Move": "MOVE_ROLLOUT",
+            "Level": "16"
+        },
+        {
+            "Move": "MOVE_LEER",
+            "Level": "19"
+        },
+        {
+            "Move": "MOVE_MUD_SHOT",
+            "Level": "25"
+        },
+        {
+            "Move": "MOVE_BRINE",
+            "Level": "28"
+        },
+        {
+            "Move": "MOVE_PROTECT",
+            "Level": "34"
+        },
+        {
+            "Move": "MOVE_ANCIENT_POWER",
+            "Level": "37"
+        },
+        {
+            "Move": "MOVE_TICKLE",
+            "Level": "43"
+        },
+        {
+            "Move": "MOVE_POWER_GEM",
+            "Level": "46"
+        },
+        {
+            "Move": "MOVE_ROCK_BLAST",
+            "Level": "50"
+        },
+        {
+            "Move": "MOVE_SHELL_SMASH",
+            "Level": "55"
+        },
+        {
+            "Move": "MOVE_HYDRO_PUMP",
+            "Level": "60"
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_ICE_BEAM",
+        "MOVE_DIVE",
+        "MOVE_REFLECT_TYPE",
+        "MOVE_ATTRACT",
+        "MOVE_SPIKES",
+        "MOVE_ROCK_TOMB",
+        "MOVE_EARTH_POWER",
+        "MOVE_WATERFALL",
+        "MOVE_KNOCK_OFF",
+        "MOVE_THIEF",
+        "MOVE_IRON_DEFENSE",
+        "MOVE_SLAM",
+        "MOVE_SUBSTITUTE",
+        "MOVE_FACADE",
+        "MOVE_WHIRLPOOL",
+        "MOVE_BUBBLE_BEAM",
+        "MOVE_ICY_WIND",
+        "MOVE_STEALTH_ROCK",
+        "MOVE_SLEEP_TALK",
+        "MOVE_HAZE",
+        "MOVE_REST",
+        "MOVE_MUDDY_WATER",
+        "MOVE_WATER_PULSE",
+        "MOVE_ENDURE",
+        "MOVE_METEOR_BEAM",
+        "MOVE_ROUND",
+        "MOVE_BLIZZARD",
+        "MOVE_GYRO_BALL",
+        "MOVE_SNORE",
+        "MOVE_SNOWSCAPE",
+        "MOVE_SCALD",
+        "MOVE_RAIN_DANCE",
+        "MOVE_ROCK_SLIDE",
+        "MOVE_SUPERSONIC",
+        "MOVE_SURF",
+        "MOVE_SANDSTORM",
+        "MOVE_TOXIC_SPIKES",
+        "MOVE_AURORA_BEAM",
+        "MOVE_BODY_SLAM"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_SHELL_SMASH",
+                "MOVE_SURF",
+                "MOVE_ICE_BEAM",
+                "MOVE_EARTH_POWER"
+            ],
+            "Ability": "ABILITY_SHELL_ARMOR",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Shell Smash",
+            "SourceTiers": [
+                "GEN6LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_STEALTH_ROCK",
+                "MOVE_SPIKES",
+                "MOVE_HYDRO_PUMP",
+                "MOVE_KNOCK_OFF"
+            ],
+            "Ability": "ABILITY_WEAK_ARMOR",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Entry Hazard Setter",
+            "SourceTiers": [
+                "GEN6LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_ICE_BEAM",
+                "MOVE_EARTH_POWER",
+                "MOVE_SHELL_SMASH",
+                "MOVE_SURF"
+            ],
+            "Ability": "ABILITY_SHELL_ARMOR",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SHELL_SMASH",
+                "MOVE_HYDRO_PUMP",
+                "MOVE_ICE_BEAM",
+                "MOVE_EARTH_POWER"
+            ],
+            "Ability": "ABILITY_SHELL_ARMOR",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Shell Smash Sweeper",
+            "SourceTiers": [
+                "GEN7LC",
+                "GEN8LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SPIKES",
+                "MOVE_HYDRO_PUMP",
+                "MOVE_KNOCK_OFF",
+                "MOVE_STEALTH_ROCK"
+            ],
+            "Ability": "ABILITY_WEAK_ARMOR",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Support",
+            "SourceTiers": [
+                "GEN7LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SHELL_SMASH",
+                "MOVE_ICE_BEAM",
+                "MOVE_EARTH_POWER",
+                "MOVE_SURF"
+            ],
+            "Ability": "ABILITY_SHELL_ARMOR",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_STEALTH_ROCK",
+                "MOVE_HYDRO_PUMP",
+                "MOVE_KNOCK_OFF",
+                "MOVE_SPIKES"
+            ],
+            "Ability": "ABILITY_WEAK_ARMOR",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Entry Hazard Setter",
+            "SourceTiers": [
+                "GEN8LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_EARTH_POWER",
+                "MOVE_ICE_BEAM",
+                "MOVE_SHELL_SMASH",
+                "MOVE_HYDRO_PUMP"
+            ],
+            "Ability": "ABILITY_WEAK_ARMOR",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SHELL_SMASH",
+                "MOVE_HYDRO_PUMP",
+                "MOVE_ICE_BEAM",
+                "MOVE_POWER_GEM"
+            ],
+            "Item": "ITEM_EVIOLITE",
+            "Ability": "ABILITY_SHELL_ARMOR",
+            "HiddenPower": null,
+            "SourceTiers": [
+                "GEN8LC"
+            ],
+            "Name": "Shell Smash (Power Gem)",
+            "Nature": "NATURE_HARDY",
+            "TeraType": null
+        }
+    ]
+}

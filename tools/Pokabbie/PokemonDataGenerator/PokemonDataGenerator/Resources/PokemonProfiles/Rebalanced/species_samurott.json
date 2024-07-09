@@ -1,0 +1,422 @@
+{
+    "Species": "SPECIES_SAMUROTT",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_SACRED_SWORD",
+            "Level": "0"
+        },
+        {
+            "Move": "MOVE_SACRED_SWORD",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_LOW_SWEEP",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_SLASH",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_MEGAHORN",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_TACKLE",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_TAIL_WHIP",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_WATER_GUN",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_WATER_SPORT",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_TAIL_WHIP",
+            "Level": "5"
+        },
+        {
+            "Move": "MOVE_WATER_GUN",
+            "Level": "7"
+        },
+        {
+            "Move": "MOVE_WATER_SPORT",
+            "Level": "11"
+        },
+        {
+            "Move": "MOVE_FOCUS_ENERGY",
+            "Level": "13"
+        },
+        {
+            "Move": "MOVE_RAZOR_SHELL",
+            "Level": "18"
+        },
+        {
+            "Move": "MOVE_FURY_CUTTER",
+            "Level": "21"
+        },
+        {
+            "Move": "MOVE_WATER_PULSE",
+            "Level": "25"
+        },
+        {
+            "Move": "MOVE_REVENGE",
+            "Level": "29"
+        },
+        {
+            "Move": "MOVE_AQUA_JET",
+            "Level": "34"
+        },
+        {
+            "Move": "MOVE_ENCORE",
+            "Level": "39"
+        },
+        {
+            "Move": "MOVE_AQUA_TAIL",
+            "Level": "46"
+        },
+        {
+            "Move": "MOVE_RETALIATE",
+            "Level": "51"
+        },
+        {
+            "Move": "MOVE_SWORDS_DANCE",
+            "Level": "58"
+        },
+        {
+            "Move": "MOVE_HYDRO_PUMP",
+            "Level": "63"
+        },
+        {
+            "Move": "MOVE_CLOSE_COMBAT",
+            "Level": "68"
+        },
+        {
+            "Move": "MOVE_SHELL_SMASH",
+            "Level": "75"
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_ICE_BEAM",
+        "MOVE_WATER_PLEDGE",
+        "MOVE_VACUUM_WAVE",
+        "MOVE_HELPING_HAND",
+        "MOVE_SMART_STRIKE",
+        "MOVE_DARK_PULSE",
+        "MOVE_FLING",
+        "MOVE_LASH_OUT",
+        "MOVE_GRASS_KNOT",
+        "MOVE_CHILLING_WATER",
+        "MOVE_DRILL_RUN",
+        "MOVE_BULLDOZE",
+        "MOVE_WATERFALL",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_HYDRO_CANNON",
+        "MOVE_KNOCK_OFF",
+        "MOVE_PROTECT",
+        "MOVE_THIEF",
+        "MOVE_THROAT_CHOP",
+        "MOVE_TAKE_DOWN",
+        "MOVE_HYPER_BEAM",
+        "MOVE_SUBSTITUTE",
+        "MOVE_BRICK_BREAK",
+        "MOVE_FACADE",
+        "MOVE_SCREECH",
+        "MOVE_WHIRLPOOL",
+        "MOVE_AIR_SLASH",
+        "MOVE_FALSE_SWIPE",
+        "MOVE_ICY_WIND",
+        "MOVE_SWIFT",
+        "MOVE_COPYCAT",
+        "MOVE_SLEEP_TALK",
+        "MOVE_AVALANCHE",
+        "MOVE_REST",
+        "MOVE_AQUA_CUTTER",
+        "MOVE_GIGA_IMPACT",
+        "MOVE_DIG",
+        "MOVE_LIQUIDATION",
+        "MOVE_SNARL",
+        "MOVE_TERA_BLAST",
+        "MOVE_ENDURE",
+        "MOVE_X_SCISSOR",
+        "MOVE_FOCUS_BLAST",
+        "MOVE_SCARY_FACE",
+        "MOVE_BLIZZARD",
+        "MOVE_SURF",
+        "MOVE_FLIP_TURN",
+        "MOVE_SNOWSCAPE",
+        "MOVE_RAIN_DANCE",
+        "MOVE_SCALD",
+        "MOVE_DRAGON_TAIL",
+        "MOVE_NIGHT_SLASH",
+        "MOVE_DETECT",
+        "MOVE_AERIAL_ACE",
+        "MOVE_TAUNT",
+        "MOVE_BODY_SLAM",
+        "MOVE_SWIRLING_BLADE"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_SWORDS_DANCE",
+                "MOVE_WATERFALL",
+                "MOVE_MEGAHORN",
+                "MOVE_AQUA_JET"
+            ],
+            "Ability": "ABILITY_TORRENT",
+            "Item": "ITEM_LUM_BERRY",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Swords Dance",
+            "SourceTiers": [
+                "GEN6RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_HYDRO_PUMP",
+                "MOVE_ICE_BEAM",
+                "MOVE_GRASS_KNOT",
+                "MOVE_TAUNT"
+            ],
+            "Ability": "ABILITY_TORRENT",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Special Attacker",
+            "SourceTiers": [
+                "GEN6RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_AQUA_JET",
+                "MOVE_ICE_BEAM",
+                "MOVE_HYDRO_PUMP",
+                "MOVE_GRASS_KNOT"
+            ],
+            "Ability": "ABILITY_TORRENT",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_MILD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SWORDS_DANCE",
+                "MOVE_AQUA_JET",
+                "MOVE_WATERFALL",
+                "MOVE_MEGAHORN"
+            ],
+            "Ability": "ABILITY_TORRENT",
+            "Item": "ITEM_LUM_BERRY",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Swords Dance",
+            "SourceTiers": [
+                "GEN6NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_HYDRO_PUMP",
+                "MOVE_ICE_BEAM",
+                "MOVE_AQUA_JET",
+                "MOVE_GRASS_KNOT"
+            ],
+            "Ability": "ABILITY_TORRENT",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_RASH",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Mixed Wallbreaker",
+            "SourceTiers": [
+                "GEN6NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_AQUA_JET",
+                "MOVE_SWORDS_DANCE",
+                "MOVE_WATERFALL",
+                "MOVE_MEGAHORN"
+            ],
+            "Ability": "ABILITY_TORRENT",
+            "Item": "ITEM_LUM_BERRY",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_HYDRO_PUMP",
+                "MOVE_GRASS_KNOT",
+                "MOVE_ICE_BEAM",
+                "MOVE_FOCUS_BLAST"
+            ],
+            "Ability": "ABILITY_TORRENT",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Special Wallbreaker",
+            "SourceTiers": [
+                "GEN7NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SWORDS_DANCE",
+                "MOVE_LIQUIDATION",
+                "MOVE_AQUA_JET",
+                "MOVE_MEGAHORN"
+            ],
+            "Ability": "ABILITY_TORRENT",
+            "Item": "ITEM_BUGINIUM_Z",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Swords Dance Sweeper",
+            "SourceTiers": [
+                "GEN7NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_AQUA_JET",
+                "MOVE_MEGAHORN",
+                "MOVE_SWORDS_DANCE",
+                "MOVE_LIQUIDATION"
+            ],
+            "Ability": "ABILITY_TORRENT",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7NU",
+                "GEN9NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_HYDRO_PUMP",
+                "MOVE_KNOCK_OFF",
+                "MOVE_MEGAHORN",
+                "MOVE_SACRED_SWORD"
+            ],
+            "Ability": "ABILITY_TORRENT",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_NAIVE",
+            "HiddenPower": null,
+            "TeraType": "TYPE_GROUND",
+            "Name": "Mixed Wallbreaker",
+            "SourceTiers": [
+                "GEN9NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SWORDS_DANCE",
+                "MOVE_LIQUIDATION",
+                "MOVE_MEGAHORN",
+                "MOVE_AQUA_JET"
+            ],
+            "Ability": "ABILITY_TORRENT",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": "TYPE_WATER",
+            "Name": "Swords Dance",
+            "SourceTiers": [
+                "GEN9NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_KNOCK_OFF",
+                "MOVE_AQUA_JET",
+                "MOVE_FLIP_TURN",
+                "MOVE_ICE_BEAM"
+            ],
+            "Ability": "ABILITY_TORRENT",
+            "Item": "ITEM_ASSAULT_VEST",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN9PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SHELL_SMASH",
+                "MOVE_LIQUIDATION",
+                "MOVE_CLOSE_COMBAT",
+                "MOVE_DRILL_RUN"
+            ],
+            "Item": "ITEM_LIFE_ORB",
+            "Ability": "ABILITY_TORRENT",
+            "HiddenPower": null,
+            "SourceTiers": [
+                "GEN7UU"
+            ],
+            "Name": "Physical Shell Smash",
+            "Nature": "NATURE_HARDY",
+            "TeraType": null
+        },
+        {
+            "Moves": [
+                "MOVE_SURF",
+                "MOVE_SHELL_SMASH",
+                "MOVE_FOCUS_BLAST",
+                "MOVE_ICE_BEAM"
+            ],
+            "Item": "ITEM_WHITE_HERB",
+            "Ability": "ABILITY_SHELL_ARMOR",
+            "HiddenPower": null,
+            "SourceTiers": [
+                "GEN7UU"
+            ],
+            "Name": "Special Shell Smash",
+            "Nature": "NATURE_HARDY",
+            "TeraType": null
+        },
+        {
+            "Moves": [
+                "MOVE_SWORDS_DANCE",
+                "MOVE_SACRED_SWORD",
+                "MOVE_AQUA_JET",
+                "MOVE_X_SCISSOR"
+            ],
+            "Item": "ITEM_SCOPE_LENS",
+            "Ability": "ABILITY_SUPER_LUCK",
+            "HiddenPower": null,
+            "SourceTiers": [
+                "GEN7NU"
+            ],
+            "Name": "Swords Dance Sweeper",
+            "Nature": "NATURE_HARDY",
+            "TeraType": null
+        }
+    ]
+}

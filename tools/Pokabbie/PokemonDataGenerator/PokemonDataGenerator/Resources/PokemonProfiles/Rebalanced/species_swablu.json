@@ -1,0 +1,151 @@
+{
+    "Species": "SPECIES_SWABLU",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_PECK",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_GROWL",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_ASTONISH",
+            "Level": "3"
+        },
+        {
+            "Move": "MOVE_SING",
+            "Level": "5"
+        },
+        {
+            "Move": "MOVE_FURY_ATTACK",
+            "Level": "7"
+        },
+        {
+            "Move": "MOVE_SAFEGUARD",
+            "Level": "9"
+        },
+        {
+            "Move": "MOVE_DISARMING_VOICE",
+            "Level": "11"
+        },
+        {
+            "Move": "MOVE_MIST",
+            "Level": "14"
+        },
+        {
+            "Move": "MOVE_ROUND",
+            "Level": "17"
+        },
+        {
+            "Move": "MOVE_NATURAL_GIFT",
+            "Level": "20"
+        },
+        {
+            "Move": "MOVE_TAKE_DOWN",
+            "Level": "23"
+        },
+        {
+            "Move": "MOVE_REFRESH",
+            "Level": "26"
+        },
+        {
+            "Move": "MOVE_MIRROR_MOVE",
+            "Level": "30"
+        },
+        {
+            "Move": "MOVE_COTTON_GUARD",
+            "Level": "34"
+        },
+        {
+            "Move": "MOVE_DRAGON_PULSE",
+            "Level": "38"
+        },
+        {
+            "Move": "MOVE_PERISH_SONG",
+            "Level": "42"
+        },
+        {
+            "Move": "MOVE_MOONBLAST",
+            "Level": "46"
+        },
+        {
+            "Move": "MOVE_BRAVE_BIRD",
+            "Level": "50"
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_ICE_BEAM",
+        "MOVE_HELPING_HAND",
+        "MOVE_DRAGON_RUSH",
+        "MOVE_DRAGON_CHEER",
+        "MOVE_SOLAR_BEAM",
+        "MOVE_AGILITY",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_FEATHER_DANCE",
+        "MOVE_PROTECT",
+        "MOVE_THIEF",
+        "MOVE_DEFOG",
+        "MOVE_SUBSTITUTE",
+        "MOVE_SUNNY_DAY",
+        "MOVE_ENDEAVOR",
+        "MOVE_FACADE",
+        "MOVE_DUAL_WINGBEAT",
+        "MOVE_TAILWIND",
+        "MOVE_ACROBATICS",
+        "MOVE_SWIFT",
+        "MOVE_SLEEP_TALK",
+        "MOVE_TRAILBLAZE",
+        "MOVE_HAZE",
+        "MOVE_FLY",
+        "MOVE_REST",
+        "MOVE_HYPER_VOICE",
+        "MOVE_HEAT_WAVE",
+        "MOVE_TERA_BLAST",
+        "MOVE_ENDURE",
+        "MOVE_RETURN",
+        "MOVE_ROOST",
+        "MOVE_DAZZLING_GLEAM",
+        "MOVE_PLAY_ROUGH",
+        "MOVE_HURRICANE",
+        "MOVE_RAIN_DANCE",
+        "MOVE_AERIAL_ACE",
+        "MOVE_BODY_SLAM"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_RETURN",
+                "MOVE_ROOST",
+                "MOVE_COTTON_GUARD",
+                "MOVE_AGILITY"
+            ],
+            "Ability": "ABILITY_NATURAL_CURE",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Cotton Guard",
+            "SourceTiers": [
+                "GEN6LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_BRAVE_BIRD",
+                "MOVE_ROOST",
+                "MOVE_COTTON_GUARD",
+                "MOVE_AGILITY"
+            ],
+            "Item": "ITEM_EVIOLITE",
+            "Ability": "ABILITY_NATURAL_CURE",
+            "HiddenPower": null,
+            "SourceTiers": [
+                "GEN7LC"
+            ],
+            "Name": "Cotton Guard",
+            "Nature": "NATURE_HARDY",
+            "TeraType": null
+        }
+    ]
+}

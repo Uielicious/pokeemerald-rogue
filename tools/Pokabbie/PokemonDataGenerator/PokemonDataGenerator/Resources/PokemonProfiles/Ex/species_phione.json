@@ -92,6 +92,7 @@
       "Item": "ITEM_DAMP_ROCK",
       "Nature": "NATURE_RELAXED",
       "HiddenPower": null,
+      "Name": "Rain Support",
       "SourceTiers": [
         "GEN6PU"
       ]
@@ -107,6 +108,7 @@
       "Item": "ITEM_DAMP_ROCK",
       "Nature": "NATURE_RELAXED",
       "HiddenPower": null,
+      "Name": "Rain Dance",
       "SourceTiers": [
         "GEN7PU"
       ]
@@ -122,6 +124,7 @@
       "Item": "ITEM_LEFTOVERS",
       "Nature": "NATURE_BOLD",
       "HiddenPower": null,
+      "Name": "Showdown Usage",
       "SourceTiers": [
         "GEN9PU"
       ]

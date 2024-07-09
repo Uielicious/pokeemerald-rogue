@@ -1,0 +1,217 @@
+{
+    "Species": "SPECIES_QUILLADIN",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_PIN_MISSILE",
+            "Level": "0"
+        },
+        {
+            "Move": "MOVE_PIN_MISSILE",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_GROWL",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_VINE_WHIP",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_VINE_WHIP",
+            "Level": "5"
+        },
+        {
+            "Move": "MOVE_ROLLOUT",
+            "Level": "8"
+        },
+        {
+            "Move": "MOVE_BITE",
+            "Level": "11"
+        },
+        {
+            "Move": "MOVE_LEECH_SEED",
+            "Level": "15"
+        },
+        {
+            "Move": "MOVE_PIN_MISSILE",
+            "Level": "19"
+        },
+        {
+            "Move": "MOVE_SEED_BOMB",
+            "Level": "24"
+        },
+        {
+            "Move": "MOVE_TAKE_DOWN",
+            "Level": "29"
+        },
+        {
+            "Move": "MOVE_NEEDLE_ARM",
+            "Level": "35"
+        },
+        {
+            "Move": "MOVE_MUD_SHOT",
+            "Level": "39"
+        },
+        {
+            "Move": "MOVE_BULK_UP",
+            "Level": "44"
+        },
+        {
+            "Move": "MOVE_BODY_SLAM",
+            "Level": "48"
+        },
+        {
+            "Move": "MOVE_PAIN_SPLIT",
+            "Level": "52"
+        },
+        {
+            "Move": "MOVE_WOOD_HAMMER",
+            "Level": "56"
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_GRASS_PLEDGE",
+        "MOVE_GRASSY_TERRAIN",
+        "MOVE_GIGA_DRAIN",
+        "MOVE_HELPING_HAND",
+        "MOVE_SUPER_FANG",
+        "MOVE_THUNDER_PUNCH",
+        "MOVE_FLING",
+        "MOVE_WIDE_GUARD",
+        "MOVE_SOLAR_BEAM",
+        "MOVE_REFLECT",
+        "MOVE_GRASS_KNOT",
+        "MOVE_LEAF_STORM",
+        "MOVE_IRON_HEAD",
+        "MOVE_SPIKES",
+        "MOVE_ROCK_TOMB",
+        "MOVE_ZEN_HEADBUTT",
+        "MOVE_BULLDOZE",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_STONE_EDGE",
+        "MOVE_PROTECT",
+        "MOVE_SHADOW_CLAW",
+        "MOVE_BULLET_SEED",
+        "MOVE_GRASSY_GLIDE",
+        "MOVE_IRON_DEFENSE",
+        "MOVE_SUBSTITUTE",
+        "MOVE_MAGICAL_LEAF",
+        "MOVE_BRICK_BREAK",
+        "MOVE_ENDEAVOR",
+        "MOVE_FACADE",
+        "MOVE_STOMPING_TANTRUM",
+        "MOVE_SUNNY_DAY",
+        "MOVE_SYNTHESIS",
+        "MOVE_SWIFT",
+        "MOVE_SLEEP_TALK",
+        "MOVE_ENERGY_BALL",
+        "MOVE_TRAILBLAZE",
+        "MOVE_ROAR",
+        "MOVE_REST",
+        "MOVE_DIG",
+        "MOVE_QUICK_GUARD",
+        "MOVE_METAL_CLAW",
+        "MOVE_TERA_BLAST",
+        "MOVE_CURSE",
+        "MOVE_ENDURE",
+        "MOVE_LOW_SWEEP",
+        "MOVE_LOW_KICK",
+        "MOVE_BELLY_DRUM",
+        "MOVE_POISON_JAB",
+        "MOVE_GYRO_BALL",
+        "MOVE_RAIN_DANCE",
+        "MOVE_ROCK_SLIDE",
+        "MOVE_DRAIN_PUNCH",
+        "MOVE_AERIAL_ACE",
+        "MOVE_TAUNT",
+        "MOVE_FOCUS_PUNCH"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_SPIKES",
+                "MOVE_TAUNT",
+                "MOVE_WOOD_HAMMER",
+                "MOVE_ZEN_HEADBUTT"
+            ],
+            "Ability": "ABILITY_BULLETPROOF",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Offensive Spikes",
+            "SourceTiers": [
+                "GEN6PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SPIKES",
+                "MOVE_ROAR",
+                "MOVE_SEED_BOMB",
+                "MOVE_SYNTHESIS"
+            ],
+            "Ability": "ABILITY_BULLETPROOF",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_IMPISH",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Defensive Spikes",
+            "SourceTiers": [
+                "GEN6PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SPIKES",
+                "MOVE_TAUNT",
+                "MOVE_WOOD_HAMMER",
+                "MOVE_ZEN_HEADBUTT"
+            ],
+            "Ability": "ABILITY_BULLETPROOF",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Offensive Spikes",
+            "SourceTiers": [
+                "GEN6ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SPIKES",
+                "MOVE_SYNTHESIS",
+                "MOVE_ROAR",
+                "MOVE_SEED_BOMB"
+            ],
+            "Ability": "ABILITY_BULLETPROOF",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_IMPISH",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Defensive Spikes",
+            "SourceTiers": [
+                "GEN6ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SPIKES",
+                "MOVE_SYNTHESIS",
+                "MOVE_WOOD_HAMMER",
+                "MOVE_SUPER_FANG"
+            ],
+            "Ability": "ABILITY_BULLETPROOF",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_IMPISH",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN9ZU"
+            ]
+        }
+    ]
+}

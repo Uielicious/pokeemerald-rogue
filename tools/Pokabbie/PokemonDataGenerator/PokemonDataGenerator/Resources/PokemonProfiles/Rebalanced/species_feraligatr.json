@@ -1,0 +1,325 @@
+{
+    "Species": "SPECIES_FERALIGATR",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_JAW_LOCK",
+            "Level": "0"
+        },
+        {
+            "Move": "MOVE_JAW_LOCK",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_AGILITY",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_SCRATCH",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_LEER",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_WATER_GUN",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_RAGE",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_WATER_GUN",
+            "Level": "6"
+        },
+        {
+            "Move": "MOVE_RAGE",
+            "Level": "8"
+        },
+        {
+            "Move": "MOVE_BITE",
+            "Level": "13"
+        },
+        {
+            "Move": "MOVE_SCARY_FACE",
+            "Level": "15"
+        },
+        {
+            "Move": "MOVE_ICE_FANG",
+            "Level": "21"
+        },
+        {
+            "Move": "MOVE_FLAIL",
+            "Level": "24"
+        },
+        {
+            "Move": "MOVE_SLASH",
+            "Level": "28"
+        },
+        {
+            "Move": "MOVE_NIGHT_SLASH",
+            "Level": "32"
+        },
+        {
+            "Move": "MOVE_CHIP_AWAY",
+            "Level": "37"
+        },
+        {
+            "Move": "MOVE_CRUNCH",
+            "Level": "45"
+        },
+        {
+            "Move": "MOVE_SCREECH",
+            "Level": "50"
+        },
+        {
+            "Move": "MOVE_THRASH",
+            "Level": "58"
+        },
+        {
+            "Move": "MOVE_AQUA_TAIL",
+            "Level": "63"
+        },
+        {
+            "Move": "MOVE_SUPERPOWER",
+            "Level": "71"
+        },
+        {
+            "Move": "MOVE_HYDRO_PUMP",
+            "Level": "76"
+        },
+        {
+            "Move": "MOVE_PSYCHIC_FANGS",
+            "Level": "80"
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_ICE_BEAM",
+        "MOVE_HELPING_HAND",
+        "MOVE_DRAGON_RUSH",
+        "MOVE_FLING",
+        "MOVE_FLATTER",
+        "MOVE_LASH_OUT",
+        "MOVE_SWORDS_DANCE",
+        "MOVE_CHILLING_WATER",
+        "MOVE_ROCK_TOMB",
+        "MOVE_OUTRAGE",
+        "MOVE_BULLDOZE",
+        "MOVE_WATERFALL",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_HYDRO_CANNON",
+        "MOVE_DRAGON_DANCE",
+        "MOVE_PROTECT",
+        "MOVE_SHADOW_CLAW",
+        "MOVE_DOUBLE_EDGE",
+        "MOVE_TAKE_DOWN",
+        "MOVE_THIEF",
+        "MOVE_BODY_SLAM",
+        "MOVE_HYPER_BEAM",
+        "MOVE_SUBSTITUTE",
+        "MOVE_UPROAR",
+        "MOVE_BRICK_BREAK",
+        "MOVE_FACADE",
+        "MOVE_STOMPING_TANTRUM",
+        "MOVE_WHIRLPOOL",
+        "MOVE_ENDEAVOR",
+        "MOVE_ICY_WIND",
+        "MOVE_TRAILBLAZE",
+        "MOVE_SLEEP_TALK",
+        "MOVE_MUD_SLAP",
+        "MOVE_ROAR",
+        "MOVE_AVALANCHE",
+        "MOVE_GIGA_IMPACT",
+        "MOVE_DIG",
+        "MOVE_FAKE_TEARS",
+        "MOVE_ANCIENT_POWER",
+        "MOVE_EARTHQUAKE",
+        "MOVE_MUDDY_WATER",
+        "MOVE_METAL_CLAW",
+        "MOVE_LIQUIDATION",
+        "MOVE_TERA_BLAST",
+        "MOVE_WATER_PULSE",
+        "MOVE_BREAKING_SWIPE",
+        "MOVE_DRAGON_CLAW",
+        "MOVE_SPITE",
+        "MOVE_SNARL",
+        "MOVE_ENDURE",
+        "MOVE_ROCK_CLIMB",
+        "MOVE_ICE_PUNCH",
+        "MOVE_CURSE",
+        "MOVE_COUNTER",
+        "MOVE_FOCUS_BLAST",
+        "MOVE_BLOCK",
+        "MOVE_LOW_KICK",
+        "MOVE_AERIAL_ACE",
+        "MOVE_BLIZZARD",
+        "MOVE_SURF",
+        "MOVE_SCALE_SHOT",
+        "MOVE_FLIP_TURN",
+        "MOVE_ROCK_SLIDE",
+        "MOVE_RAIN_DANCE",
+        "MOVE_DRAGON_TAIL",
+        "MOVE_WATER_PLEDGE",
+        "MOVE_FOCUS_PUNCH",
+        "MOVE_REST",
+        "MOVE_AQUA_JET"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_WATERFALL",
+                "MOVE_DRAGON_DANCE",
+                "MOVE_ICE_PUNCH",
+                "MOVE_CRUNCH"
+            ],
+            "Ability": "ABILITY_SHEER_FORCE",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6OU",
+                "GEN6UU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_DRAGON_DANCE",
+                "MOVE_WATERFALL",
+                "MOVE_CRUNCH",
+                "MOVE_ICE_PUNCH"
+            ],
+            "Ability": "ABILITY_SHEER_FORCE",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Dragon Dance",
+            "SourceTiers": [
+                "GEN6UU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SWORDS_DANCE",
+                "MOVE_WATERFALL",
+                "MOVE_CRUNCH",
+                "MOVE_SUBSTITUTE"
+            ],
+            "Ability": "ABILITY_SHEER_FORCE",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Swords Dance",
+            "SourceTiers": [
+                "GEN6UU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_DRAGON_DANCE",
+                "MOVE_LIQUIDATION",
+                "MOVE_ICE_PUNCH",
+                "MOVE_CRUNCH"
+            ],
+            "Ability": "ABILITY_SHEER_FORCE",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Dragon Dance",
+            "SourceTiers": [
+                "GEN7UU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_AGILITY",
+                "MOVE_LIQUIDATION",
+                "MOVE_CRUNCH",
+                "MOVE_ICE_PUNCH"
+            ],
+            "Ability": "ABILITY_SHEER_FORCE",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Agility",
+            "SourceTiers": [
+                "GEN7UU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_DRAGON_DANCE",
+                "MOVE_ICE_PUNCH",
+                "MOVE_LIQUIDATION",
+                "MOVE_CRUNCH"
+            ],
+            "Ability": "ABILITY_SHEER_FORCE",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7UU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_DRAGON_DANCE",
+                "MOVE_LIQUIDATION",
+                "MOVE_ICE_PUNCH",
+                "MOVE_CRUNCH"
+            ],
+            "Ability": "ABILITY_SHEER_FORCE",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": "TYPE_DARK",
+            "Name": "Dragon Dance",
+            "SourceTiers": [
+                "GEN9RU",
+                "GEN9NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_DRAGON_DANCE",
+                "MOVE_CRUNCH",
+                "MOVE_ICE_FANG",
+                "MOVE_PSYCHIC_FANGS"
+            ],
+            "Item": "ITEM_LIFE_ORB",
+            "Ability": "ABILITY_STRONG_JAW",
+            "HiddenPower": null,
+            "SourceTiers": [
+                "GEN7UU"
+            ],
+            "Name": "Dragon Dance (Strong Jaw)",
+            "Nature": "NATURE_HARDY",
+            "TeraType": null
+        },
+        {
+            "Moves": [
+                "MOVE_AQUA_JET",
+                "MOVE_JAW_LOCK",
+                "MOVE_ICE_FANG",
+                "MOVE_PSYCHIC_FANGS"
+            ],
+            "Item": "ITEM_CHOICE_BAND",
+            "Ability": "ABILITY_STRONG_JAW",
+            "HiddenPower": null,
+            "SourceTiers": [
+                "GEN7UU"
+            ],
+            "Name": "Choice Band",
+            "Nature": "NATURE_HARDY",
+            "TeraType": null
+        }
+    ]
+}

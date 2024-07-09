@@ -1,0 +1,101 @@
+{
+    "Species": "SPECIES_SWIRLIX",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_SWEET_SCENT",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_TACKLE",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_FAIRY_WIND",
+            "Level": "5"
+        },
+        {
+            "Move": "MOVE_PLAY_NICE",
+            "Level": "8"
+        },
+        {
+            "Move": "MOVE_FAKE_TEARS",
+            "Level": "10"
+        },
+        {
+            "Move": "MOVE_ROUND",
+            "Level": "13"
+        },
+        {
+            "Move": "MOVE_COTTON_SPORE",
+            "Level": "17"
+        },
+        {
+            "Move": "MOVE_ENDEAVOR",
+            "Level": "21"
+        },
+        {
+            "Move": "MOVE_AROMATHERAPY",
+            "Level": "25"
+        },
+        {
+            "Move": "MOVE_COVET",
+            "Level": "29"
+        },
+        {
+            "Move": "MOVE_DRAINING_KISS",
+            "Level": "33"
+        },
+        {
+            "Move": "MOVE_ENERGY_BALL",
+            "Level": "37"
+        },
+        {
+            "Move": "MOVE_COTTON_GUARD",
+            "Level": "41"
+        },
+        {
+            "Move": "MOVE_WISH",
+            "Level": "45"
+        },
+        {
+            "Move": "MOVE_PLAY_ROUGH",
+            "Level": "49"
+        },
+        {
+            "Move": "MOVE_LIGHT_SCREEN",
+            "Level": "58"
+        },
+        {
+            "Move": "MOVE_SAFEGUARD",
+            "Level": "67"
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_HELPING_HAND",
+        "MOVE_AMNESIA",
+        "MOVE_ATTRACT",
+        "MOVE_PROTECT",
+        "MOVE_THIEF",
+        "MOVE_CALM_MIND",
+        "MOVE_SUBSTITUTE",
+        "MOVE_SUNNY_DAY",
+        "MOVE_FACADE",
+        "MOVE_STICKY_WEB",
+        "MOVE_COPYCAT",
+        "MOVE_SLEEP_TALK",
+        "MOVE_PSYCHIC",
+        "MOVE_THUNDERBOLT",
+        "MOVE_YAWN",
+        "MOVE_ENDURE",
+        "MOVE_DAZZLING_GLEAM",
+        "MOVE_MISTY_EXPLOSION",
+        "MOVE_CHARM",
+        "MOVE_AFTER_YOU",
+        "MOVE_SURF",
+        "MOVE_SNORE",
+        "MOVE_RAIN_DANCE",
+        "MOVE_FLAMETHROWER",
+        "MOVE_REST"
+    ],
+    "CompetitiveSets": []
+}

@@ -1,0 +1,490 @@
+{
+    "Species": "SPECIES_AMPHAROS",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_DRAGON_PULSE",
+            "Level": "0"
+        },
+        {
+            "Move": "MOVE_THUNDER_PUNCH",
+            "Level": "0"
+        },
+        {
+            "Move": "MOVE_TAIL_GLOW",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_THUNDER_PUNCH",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_ZAP_CANNON",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_MAGNETIC_FLUX",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_ION_DELUGE",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_DRAGON_PULSE",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_FIRE_PUNCH",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_TACKLE",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_GROWL",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_THUNDER_WAVE",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_THUNDER_SHOCK",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_THUNDER_WAVE",
+            "Level": "4"
+        },
+        {
+            "Move": "MOVE_THUNDER_SHOCK",
+            "Level": "8"
+        },
+        {
+            "Move": "MOVE_COTTON_SPORE",
+            "Level": "11"
+        },
+        {
+            "Move": "MOVE_CHARGE",
+            "Level": "16"
+        },
+        {
+            "Move": "MOVE_TAKE_DOWN",
+            "Level": "20"
+        },
+        {
+            "Move": "MOVE_ELECTRO_BALL",
+            "Level": "25"
+        },
+        {
+            "Move": "MOVE_CONFUSE_RAY",
+            "Level": "29"
+        },
+        {
+            "Move": "MOVE_POWER_GEM",
+            "Level": "35"
+        },
+        {
+            "Move": "MOVE_DISCHARGE",
+            "Level": "40"
+        },
+        {
+            "Move": "MOVE_COTTON_GUARD",
+            "Level": "46"
+        },
+        {
+            "Move": "MOVE_SIGNAL_BEAM",
+            "Level": "51"
+        },
+        {
+            "Move": "MOVE_LIGHT_SCREEN",
+            "Level": "57"
+        },
+        {
+            "Move": "MOVE_THUNDER",
+            "Level": "62"
+        },
+        {
+            "Move": "MOVE_TAIL_GLOW",
+            "Level": "65"
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_HELPING_HAND",
+        "MOVE_FLING",
+        "MOVE_DRAGON_CHEER",
+        "MOVE_DRACO_METEOR",
+        "MOVE_REFLECT",
+        "MOVE_AGILITY",
+        "MOVE_EERIE_IMPULSE",
+        "MOVE_OUTRAGE",
+        "MOVE_BULLDOZE",
+        "MOVE_SUPERCELL_SLAM",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_PROTECT",
+        "MOVE_DOUBLE_EDGE",
+        "MOVE_HYPER_BEAM",
+        "MOVE_SUBSTITUTE",
+        "MOVE_SUNNY_DAY",
+        "MOVE_BRICK_BREAK",
+        "MOVE_ENDEAVOR",
+        "MOVE_FACADE",
+        "MOVE_STOMPING_TANTRUM",
+        "MOVE_SWIFT",
+        "MOVE_SLEEP_TALK",
+        "MOVE_TRAILBLAZE",
+        "MOVE_ENERGY_BALL",
+        "MOVE_ROAR",
+        "MOVE_WILD_CHARGE",
+        "MOVE_REST",
+        "MOVE_GIGA_IMPACT",
+        "MOVE_THUNDERBOLT",
+        "MOVE_DIG",
+        "MOVE_BREAKING_SWIPE",
+        "MOVE_ELECTRIC_TERRAIN",
+        "MOVE_CHARGE_BEAM",
+        "MOVE_ELECTROWEB",
+        "MOVE_ENDURE",
+        "MOVE_ICE_PUNCH",
+        "MOVE_TERA_BLAST",
+        "MOVE_METEOR_BEAM",
+        "MOVE_COUNTER",
+        "MOVE_DAZZLING_GLEAM",
+        "MOVE_ROCK_CLIMB",
+        "MOVE_FOCUS_BLAST",
+        "MOVE_VOLT_SWITCH",
+        "MOVE_LOW_KICK",
+        "MOVE_HEAL_BELL",
+        "MOVE_RAIN_DANCE",
+        "MOVE_DRAGON_TAIL",
+        "MOVE_FOCUS_PUNCH",
+        "MOVE_BODY_SLAM",
+        "MOVE_FLASH_CANNON"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_REST",
+                "MOVE_SLEEP_TALK",
+                "MOVE_VOLT_SWITCH",
+                "MOVE_DRAGON_PULSE"
+            ],
+            "Ability": "ABILITY_STATIC",
+            "Item": "ITEM_AMPHAROSITE",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Physically Defensive",
+            "SourceTiers": [
+                "GEN6UU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_THUNDERBOLT",
+                "MOVE_DRAGON_PULSE",
+                "MOVE_FOCUS_BLAST",
+                "MOVE_VOLT_SWITCH"
+            ],
+            "Ability": "ABILITY_OVERCOAT",
+            "Item": "ITEM_AMPHAROSITE",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "All-out Attacker",
+            "SourceTiers": [
+                "GEN6UU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_AGILITY",
+                "MOVE_THUNDERBOLT",
+                "MOVE_DRAGON_PULSE",
+                "MOVE_FOCUS_BLAST"
+            ],
+            "Ability": "ABILITY_COTTON_DOWN",
+            "Item": "ITEM_AMPHAROSITE",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Agility",
+            "SourceTiers": [
+                "GEN6UU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_HEAL_BELL",
+                "MOVE_VOLT_SWITCH",
+                "MOVE_HIDDEN_POWER",
+                "MOVE_FOCUS_BLAST"
+            ],
+            "Ability": "ABILITY_COTTON_DOWN",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": "TYPE_ICE",
+            "TeraType": null,
+            "Name": "Cleric",
+            "SourceTiers": [
+                "GEN6PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_VOLT_SWITCH",
+                "MOVE_THUNDERBOLT",
+                "MOVE_FOCUS_BLAST",
+                "MOVE_POWER_GEM"
+            ],
+            "Ability": "ABILITY_OVERCOAT",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_THUNDERBOLT",
+                "MOVE_DRAGON_PULSE",
+                "MOVE_COUNTER",
+                "MOVE_THUNDER_WAVE"
+            ],
+            "Ability": "ABILITY_OVERCOAT",
+            "Item": "ITEM_AMPHAROSITE",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Standard",
+            "SourceTiers": [
+                "GEN61V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_ELECTROWEB",
+                "MOVE_THUNDERBOLT",
+                "MOVE_HIDDEN_POWER",
+                "MOVE_THUNDER_WAVE"
+            ],
+            "Ability": "ABILITY_OVERCOAT",
+            "Item": "ITEM_AMPHAROSITE",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": "TYPE_GROUND",
+            "TeraType": null,
+            "Name": "Anti-Gyarados, Anti Heatran",
+            "SourceTiers": [
+                "GEN61V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_DISCHARGE",
+                "MOVE_THUNDER_WAVE",
+                "MOVE_EERIE_IMPULSE",
+                "MOVE_REST"
+            ],
+            "Ability": "ABILITY_STATIC",
+            "Item": "ITEM_AMPHAROSITE",
+            "Nature": "NATURE_CALM",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Stall",
+            "SourceTiers": [
+                "GEN61V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_VOLT_SWITCH",
+                "MOVE_DRAGON_PULSE",
+                "MOVE_FOCUS_BLAST",
+                "MOVE_THUNDERBOLT"
+            ],
+            "Ability": "ABILITY_STATIC",
+            "Item": "ITEM_AMPHAROSITE",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Special Attacker",
+            "SourceTiers": [
+                "GEN7RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_THUNDERBOLT",
+                "MOVE_FOCUS_BLAST",
+                "MOVE_HIDDEN_POWER",
+                "MOVE_HEAL_BELL"
+            ],
+            "Ability": "ABILITY_COTTON_DOWN",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": "TYPE_ICE",
+            "TeraType": null,
+            "Name": "Cleric",
+            "SourceTiers": [
+                "GEN7PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_VOLT_SWITCH",
+                "MOVE_FOCUS_BLAST",
+                "MOVE_THUNDERBOLT",
+                "MOVE_DISCHARGE"
+            ],
+            "Ability": "ABILITY_OVERCOAT",
+            "Item": "ITEM_TERRAIN_EXTENDER",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_THUNDERBOLT",
+                "MOVE_FOCUS_BLAST",
+                "MOVE_VOLT_SWITCH",
+                "MOVE_HIDDEN_POWER"
+            ],
+            "Ability": "ABILITY_STATIC",
+            "Item": "ITEM_ASSAULT_VEST",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": "TYPE_ICE",
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_COTTON_GUARD",
+                "MOVE_THUNDERBOLT",
+                "MOVE_EERIE_IMPULSE",
+                "MOVE_REST"
+            ],
+            "Ability": "ABILITY_COTTON_DOWN",
+            "Item": "ITEM_AMPHAROSITE",
+            "Nature": "NATURE_CALM",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Bulky Offense",
+            "SourceTiers": [
+                "GEN71V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_VOLT_SWITCH",
+                "MOVE_DAZZLING_GLEAM",
+                "MOVE_FOCUS_BLAST",
+                "MOVE_THUNDERBOLT"
+            ],
+            "Ability": "ABILITY_OVERCOAT",
+            "Item": "ITEM_ASSAULT_VEST",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN9PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_THUNDERBOLT",
+                "MOVE_DRACO_METEOR",
+                "MOVE_FOCUS_BLAST",
+                "MOVE_VOLT_SWITCH"
+            ],
+            "Item": "ITEM_AMPHAROSITE",
+            "Ability": "ABILITY_OVERCOAT",
+            "HiddenPower": null,
+            "SourceTiers": [
+                "GEN7UU"
+            ],
+            "Name": "Wallbreaker",
+            "Nature": "NATURE_MODEST",
+            "TeraType": null
+        },
+        {
+            "Moves": [
+                "MOVE_TAIL_GLOW",
+                "MOVE_THUNDERBOLT",
+                "MOVE_DRACO_METEOR",
+                "MOVE_FLASH_CANNON"
+            ],
+            "Item": "ITEM_AMPHAROSITE",
+            "Ability": "ABILITY_OVERCOAT",
+            "HiddenPower": null,
+            "SourceTiers": [
+                "GEN7UU"
+            ],
+            "Name": "Mega Tail Glow Wallbreaker (Flash Cannon)",
+            "Nature": "NATURE_MODEST",
+            "TeraType": null
+        },
+        {
+            "Moves": [
+                "MOVE_TAIL_GLOW",
+                "MOVE_THUNDERBOLT",
+                "MOVE_DRACO_METEOR",
+                "MOVE_DAZZLING_GLEAM"
+            ],
+            "Item": "ITEM_AMPHAROSITE",
+            "Ability": "ABILITY_OVERCOAT",
+            "HiddenPower": null,
+            "SourceTiers": [
+                "GEN7UU"
+            ],
+            "Name": "Mega Tail Glow Wallbreaker (Dazzling Gleam)",
+            "Nature": "NATURE_MODEST",
+            "TeraType": null
+        },
+        {
+            "Moves": [
+                "MOVE_TAIL_GLOW",
+                "MOVE_THUNDERBOLT",
+                "MOVE_DRACO_METEOR",
+                "MOVE_FLASH_CANNON"
+            ],
+            "Item": "ITEM_LEFTOVERS",
+            "Ability": "ABILITY_OVERCOAT",
+            "HiddenPower": null,
+            "SourceTiers": [
+                "GEN7PU"
+            ],
+            "Name": "Tail Glow (Flash Cannon)",
+            "Nature": "NATURE_MODEST",
+            "TeraType": null
+        },
+        {
+            "Moves": [
+                "MOVE_TAIL_GLOW",
+                "MOVE_THUNDERBOLT",
+                "MOVE_DRACO_METEOR",
+                "MOVE_DAZZLING_GLEAM"
+            ],
+            "Item": "ITEM_LEFTOVERS",
+            "Ability": "ABILITY_OVERCOAT",
+            "HiddenPower": null,
+            "SourceTiers": [
+                "GEN7PU"
+            ],
+            "Name": "Tail Glow (Dazzling Gleam)",
+            "Nature": "NATURE_MODEST",
+            "TeraType": null
+        }
+    ]
+}

@@ -1,0 +1,341 @@
+{
+    "Species": "SPECIES_COALOSSAL",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_TAR_SHOT",
+            "Level": "0"
+        },
+        {
+            "Move": "MOVE_TAR_SHOT",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_FLAME_CHARGE",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_TACKLE",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_SMOKESCREEN",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_RAPID_SPIN",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_SMACK_DOWN",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_ROCK_POLISH",
+            "Level": "15"
+        },
+        {
+            "Move": "MOVE_ANCIENT_POWER",
+            "Level": "20"
+        },
+        {
+            "Move": "MOVE_INCINERATE",
+            "Level": "27"
+        },
+        {
+            "Move": "MOVE_LAVA_PLUME",
+            "Level": "32"
+        },
+        {
+            "Move": "MOVE_STEALTH_ROCK",
+            "Level": "37"
+        },
+        {
+            "Move": "MOVE_HEAT_CRASH",
+            "Level": "45"
+        },
+        {
+            "Move": "MOVE_ROCK_BLAST",
+            "Level": "54"
+        },
+        {
+            "Move": "MOVE_POWER_GEM",
+            "Level": "59"
+        },
+        {
+            "Move": "MOVE_BURN_UP",
+            "Level": "63"
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_SOLAR_BEAM",
+        "MOVE_REFLECT",
+        "MOVE_FRUSTRATION",
+        "MOVE_SPIKES",
+        "MOVE_IRON_HEAD",
+        "MOVE_OVERHEAT",
+        "MOVE_ROCK_TOMB",
+        "MOVE_TEMPER_FLARE",
+        "MOVE_EARTH_POWER",
+        "MOVE_TOXIC",
+        "MOVE_BULLDOZE",
+        "MOVE_HIGH_HORSEPOWER",
+        "MOVE_STONE_EDGE",
+        "MOVE_WILL_O_WISP",
+        "MOVE_PROTECT",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_IRON_DEFENSE",
+        "MOVE_TAKE_DOWN",
+        "MOVE_BODY_SLAM",
+        "MOVE_FIRE_SPIN",
+        "MOVE_HYPER_BEAM",
+        "MOVE_SUBSTITUTE",
+        "MOVE_SCORCHING_SANDS",
+        "MOVE_SUNNY_DAY",
+        "MOVE_FACADE",
+        "MOVE_SAND_TOMB",
+        "MOVE_SLEEP_TALK",
+        "MOVE_FLARE_BLITZ",
+        "MOVE_GIGA_IMPACT",
+        "MOVE_DIG",
+        "MOVE_EARTHQUAKE",
+        "MOVE_HEAT_WAVE",
+        "MOVE_TERA_BLAST",
+        "MOVE_CURSE",
+        "MOVE_ENDURE",
+        "MOVE_RETURN",
+        "MOVE_METEOR_BEAM",
+        "MOVE_HEAVY_SLAM",
+        "MOVE_FIRE_PUNCH",
+        "MOVE_GYRO_BALL",
+        "MOVE_SCALD",
+        "MOVE_ROCK_SLIDE",
+        "MOVE_FLAMETHROWER",
+        "MOVE_SANDSTORM",
+        "MOVE_FIRE_BLAST",
+        "MOVE_BODY_PRESS",
+        "MOVE_REST"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_STEALTH_ROCK",
+                "MOVE_POWER_GEM",
+                "MOVE_FLAMETHROWER",
+                "MOVE_RAPID_SPIN"
+            ],
+            "Ability": "ABILITY_FLAME_BODY",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_SASSY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Specially Defensive",
+            "SourceTiers": [
+                "GEN8PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_RAPID_SPIN",
+                "MOVE_STEALTH_ROCK",
+                "MOVE_FLAMETHROWER",
+                "MOVE_ROCK_BLAST"
+            ],
+            "Ability": "ABILITY_FLAME_BODY",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_SASSY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SPIKES",
+                "MOVE_RAPID_SPIN",
+                "MOVE_ROCK_BLAST",
+                "MOVE_FLAMETHROWER"
+            ],
+            "Ability": "ABILITY_FLAME_BODY",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_SASSY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Specially Defensive",
+            "SourceTiers": [
+                "GEN8ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_RAPID_SPIN",
+                "MOVE_STEALTH_ROCK",
+                "MOVE_ROCK_BLAST",
+                "MOVE_FLAMETHROWER"
+            ],
+            "Ability": "ABILITY_FLAME_BODY",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_SASSY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_PROTECT",
+                "MOVE_HEAT_WAVE",
+                "MOVE_SOLAR_BEAM",
+                "MOVE_METEOR_BEAM"
+            ],
+            "Ability": "ABILITY_STEAM_ENGINE",
+            "Item": "ITEM_WEAKNESS_POLICY",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8VGC2020"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SPIKES",
+                "MOVE_FIRE_BLAST",
+                "MOVE_HEAVY_SLAM",
+                "MOVE_RAPID_SPIN"
+            ],
+            "Ability": "ABILITY_FLAME_BODY",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_SASSY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Support (Rock)",
+            "SourceTiers": [
+                "GEN8MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_RAPID_SPIN",
+                "MOVE_BODY_PRESS",
+                "MOVE_FLAMETHROWER",
+                "MOVE_SCALD"
+            ],
+            "Ability": "ABILITY_FLAME_BODY",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_RAPID_SPIN",
+                "MOVE_STEALTH_ROCK",
+                "MOVE_FLAMETHROWER",
+                "MOVE_POWER_GEM"
+            ],
+            "Ability": "ABILITY_FLAME_BODY",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN9RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FLAMETHROWER",
+                "MOVE_POWER_GEM",
+                "MOVE_RAPID_SPIN",
+                "MOVE_STEALTH_ROCK"
+            ],
+            "Ability": "ABILITY_FLAME_BODY",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": "TYPE_WATER",
+            "Name": "Physically Defensive",
+            "SourceTiers": [
+                "GEN9NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_RAPID_SPIN",
+                "MOVE_STEALTH_ROCK",
+                "MOVE_SPIKES",
+                "MOVE_FLAMETHROWER"
+            ],
+            "Ability": "ABILITY_FLAME_BODY",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN9NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_RAPID_SPIN",
+                "MOVE_STEALTH_ROCK",
+                "MOVE_FLAMETHROWER",
+                "MOVE_HEAVY_SLAM"
+            ],
+            "Ability": "ABILITY_FLAME_BODY",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_SASSY",
+            "HiddenPower": null,
+            "TeraType": "TYPE_GHOST",
+            "Name": "Defensive",
+            "SourceTiers": [
+                "GEN9PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FLAMETHROWER",
+                "MOVE_BODY_PRESS",
+                "MOVE_RAPID_SPIN",
+                "MOVE_WILL_O_WISP"
+            ],
+            "Ability": "ABILITY_FLAME_BODY",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Physically Defensive (Rock)",
+            "SourceTiers": [
+                "GEN9MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_HEAT_WAVE",
+                "MOVE_POWER_GEM",
+                "MOVE_EARTH_POWER",
+                "MOVE_PROTECT"
+            ],
+            "Item": "ITEM_WEAKNESS_POLICY",
+            "Ability": "ABILITY_STEAM_ENGINE",
+            "HiddenPower": null,
+            "SourceTiers": [
+                "GEN8VGC2020"
+            ],
+            "Name": "Offensive",
+            "Nature": "NATURE_HARDY",
+            "TeraType": null
+        }
+    ]
+}

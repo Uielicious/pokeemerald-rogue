@@ -1,0 +1,24 @@
+{
+    "Species": "SPECIES_APPLIN",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_WITHDRAW",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_ASTONISH",
+            "Level": 1
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_POUNCE",
+        "MOVE_DEFENSE_CURL",
+        "MOVE_ROLLOUT",
+        "MOVE_SUCKER_PUNCH",
+        "MOVE_RECYCLE",
+        "MOVE_TERA_BLAST",
+        "MOVE_LEAF_STORM",
+        "MOVE_HIDDEN_POWER"
+    ],
+    "CompetitiveSets": []
+}

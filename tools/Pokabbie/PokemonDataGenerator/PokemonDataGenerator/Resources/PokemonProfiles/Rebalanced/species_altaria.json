@@ -1,0 +1,840 @@
+{
+    "Species": "SPECIES_ALTARIA",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_DRAGON_BREATH",
+            "Level": "0"
+        },
+        {
+            "Move": "MOVE_DRAGON_BREATH",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_SKY_ATTACK",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_PLUCK",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_PECK",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_GROWL",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_ASTONISH",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_SING",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_ASTONISH",
+            "Level": "3"
+        },
+        {
+            "Move": "MOVE_SING",
+            "Level": "5"
+        },
+        {
+            "Move": "MOVE_FURY_ATTACK",
+            "Level": "7"
+        },
+        {
+            "Move": "MOVE_SAFEGUARD",
+            "Level": "9"
+        },
+        {
+            "Move": "MOVE_DISARMING_VOICE",
+            "Level": "11"
+        },
+        {
+            "Move": "MOVE_MIST",
+            "Level": "14"
+        },
+        {
+            "Move": "MOVE_ROUND",
+            "Level": "17"
+        },
+        {
+            "Move": "MOVE_NATURAL_GIFT",
+            "Level": "20"
+        },
+        {
+            "Move": "MOVE_TAKE_DOWN",
+            "Level": "23"
+        },
+        {
+            "Move": "MOVE_REFRESH",
+            "Level": "26"
+        },
+        {
+            "Move": "MOVE_DRAGON_DANCE",
+            "Level": "30"
+        },
+        {
+            "Move": "MOVE_COTTON_GUARD",
+            "Level": "34"
+        },
+        {
+            "Move": "MOVE_DRAGON_PULSE",
+            "Level": "40"
+        },
+        {
+            "Move": "MOVE_PERISH_SONG",
+            "Level": "46"
+        },
+        {
+            "Move": "MOVE_MOONBLAST",
+            "Level": "52"
+        },
+        {
+            "Move": "MOVE_BRAVE_BIRD",
+            "Level": "58"
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_ICE_BEAM",
+        "MOVE_HELPING_HAND",
+        "MOVE_DRAGON_CHEER",
+        "MOVE_DRACO_METEOR",
+        "MOVE_SOLAR_BEAM",
+        "MOVE_FRUSTRATION",
+        "MOVE_AGILITY",
+        "MOVE_OUTRAGE",
+        "MOVE_BULLDOZE",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_FEATHER_DANCE",
+        "MOVE_WILL_O_WISP",
+        "MOVE_PROTECT",
+        "MOVE_THIEF",
+        "MOVE_DOUBLE_EDGE",
+        "MOVE_DEFOG",
+        "MOVE_FIRE_SPIN",
+        "MOVE_HYPER_BEAM",
+        "MOVE_SUBSTITUTE",
+        "MOVE_SUNNY_DAY",
+        "MOVE_ENDEAVOR",
+        "MOVE_FACADE",
+        "MOVE_DUAL_WINGBEAT",
+        "MOVE_TAILWIND",
+        "MOVE_ACROBATICS",
+        "MOVE_SWIFT",
+        "MOVE_SLEEP_TALK",
+        "MOVE_TRAILBLAZE",
+        "MOVE_HAZE",
+        "MOVE_FLY",
+        "MOVE_ROAR",
+        "MOVE_REST",
+        "MOVE_GIGA_IMPACT",
+        "MOVE_HYPER_VOICE",
+        "MOVE_EARTHQUAKE",
+        "MOVE_BREAKING_SWIPE",
+        "MOVE_HEAT_WAVE",
+        "MOVE_TERA_BLAST",
+        "MOVE_DRAGON_CLAW",
+        "MOVE_ENDURE",
+        "MOVE_RETURN",
+        "MOVE_ROOST",
+        "MOVE_DAZZLING_GLEAM",
+        "MOVE_PLAY_ROUGH",
+        "MOVE_HURRICANE",
+        "MOVE_HEAL_BELL",
+        "MOVE_SNOWSCAPE",
+        "MOVE_RAIN_DANCE",
+        "MOVE_FLAMETHROWER",
+        "MOVE_FIRE_BLAST",
+        "MOVE_AERIAL_ACE",
+        "MOVE_WEATHER_BALL",
+        "MOVE_BODY_SLAM"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_DRAGON_DANCE",
+                "MOVE_RETURN",
+                "MOVE_EARTHQUAKE",
+                "MOVE_ROOST"
+            ],
+            "Ability": "ABILITY_NATURAL_CURE",
+            "Item": "ITEM_ALTARIANITE",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Offensive Dragon Dance",
+            "SourceTiers": [
+                "GEN6OU",
+                "GEN7UU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_DRAGON_DANCE",
+                "MOVE_ROOST",
+                "MOVE_RETURN",
+                "MOVE_HEAL_BELL"
+            ],
+            "Ability": "ABILITY_CLOUD_NINE",
+            "Item": "ITEM_ALTARIANITE",
+            "Nature": "NATURE_IMPISH",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "King DDD (Defensive Dragon Dance)",
+            "SourceTiers": [
+                "GEN6OU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_ROOST",
+                "MOVE_HYPER_VOICE",
+                "MOVE_HEAL_BELL",
+                "MOVE_FLAMETHROWER"
+            ],
+            "Ability": "ABILITY_CLOUD_NINE",
+            "Item": "ITEM_ALTARIANITE",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Support",
+            "SourceTiers": [
+                "GEN6OU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_HYPER_VOICE",
+                "MOVE_FIRE_BLAST",
+                "MOVE_ROOST",
+                "MOVE_EARTHQUAKE"
+            ],
+            "Ability": "ABILITY_CLOUD_NINE",
+            "Item": "ITEM_ALTARIANITE",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Special Attacker",
+            "SourceTiers": [
+                "GEN6OU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_ROOST",
+                "MOVE_FLAMETHROWER",
+                "MOVE_WILL_O_WISP",
+                "MOVE_HAZE"
+            ],
+            "Ability": "ABILITY_NATURAL_CURE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Defensive",
+            "SourceTiers": [
+                "GEN6NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_DRACO_METEOR",
+                "MOVE_FIRE_BLAST",
+                "MOVE_DRAGON_PULSE",
+                "MOVE_REST"
+            ],
+            "Ability": "ABILITY_NATURAL_CURE",
+            "Item": "ITEM_CHOICE_SPECS",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Specs",
+            "SourceTiers": [
+                "GEN6NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FLAMETHROWER",
+                "MOVE_WILL_O_WISP",
+                "MOVE_HEAL_BELL",
+                "MOVE_ROOST"
+            ],
+            "Ability": "ABILITY_NATURAL_CURE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Physically Defensive",
+            "SourceTiers": [
+                "GEN6PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_DRACO_METEOR",
+                "MOVE_FIRE_BLAST",
+                "MOVE_ROOST",
+                "MOVE_WILL_O_WISP"
+            ],
+            "Ability": "ABILITY_NATURAL_CURE",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Special Attacker",
+            "SourceTiers": [
+                "GEN6PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_DRAGON_DANCE",
+                "MOVE_DRAGON_CLAW",
+                "MOVE_EARTHQUAKE",
+                "MOVE_ROOST"
+            ],
+            "Ability": "ABILITY_NATURAL_CURE",
+            "Item": "ITEM_YACHE_BERRY",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Offensive Dragon Dance",
+            "SourceTiers": [
+                "GEN6PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_DRAGON_DANCE",
+                "MOVE_DRAGON_CLAW",
+                "MOVE_ROOST",
+                "MOVE_COTTON_GUARD"
+            ],
+            "Ability": "ABILITY_NATURAL_CURE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_CAREFUL",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Bulky Dragon Dance",
+            "SourceTiers": [
+                "GEN6PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_ROOST",
+                "MOVE_DRAGON_DANCE",
+                "MOVE_EARTHQUAKE",
+                "MOVE_DRAGON_CLAW"
+            ],
+            "Ability": "ABILITY_NATURAL_CURE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_HYPER_VOICE",
+                "MOVE_FIRE_BLAST",
+                "MOVE_TAILWIND",
+                "MOVE_PROTECT"
+            ],
+            "Ability": "ABILITY_CLOUD_NINE",
+            "Item": "ITEM_ALTARIANITE",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Special Attacker",
+            "SourceTiers": [
+                "GEN6BATTLESPOTDOUBLES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_DRAGON_DANCE",
+                "MOVE_ROOST",
+                "MOVE_FACADE",
+                "MOVE_COTTON_GUARD"
+            ],
+            "Ability": "ABILITY_PIXILATE",
+            "Item": "ITEM_ALTARIANITE",
+            "Nature": "NATURE_CAREFUL",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Facade",
+            "SourceTiers": [
+                "GEN61V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_DRAGON_DANCE",
+                "MOVE_FACADE",
+                "MOVE_GIGA_IMPACT",
+                "MOVE_PROTECT"
+            ],
+            "Ability": "ABILITY_PIXILATE",
+            "Item": "ITEM_ALTARIANITE",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Dragon Dance",
+            "SourceTiers": [
+                "GEN61V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_COTTON_GUARD",
+                "MOVE_HYPER_VOICE",
+                "MOVE_ROOST",
+                "MOVE_WILL_O_WISP"
+            ],
+            "Ability": "ABILITY_PIXILATE",
+            "Item": "ITEM_ALTARIANITE",
+            "Nature": "NATURE_CALM",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Stall",
+            "SourceTiers": [
+                "GEN61V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_ENDURE",
+                "MOVE_HYPER_BEAM",
+                "MOVE_HYPER_VOICE",
+                "MOVE_HIDDEN_POWER"
+            ],
+            "Ability": "ABILITY_PIXILATE",
+            "Item": "ITEM_ALTARIANITE",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": "TYPE_ROCK",
+            "TeraType": null,
+            "Name": "Hyper Voice",
+            "SourceTiers": [
+                "GEN61V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_DRAGON_DANCE",
+                "MOVE_RETURN",
+                "MOVE_REFRESH",
+                "MOVE_ROOST"
+            ],
+            "Ability": "ABILITY_NATURAL_CURE",
+            "Item": "ITEM_ALTARIANITE",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Refresh",
+            "SourceTiers": [
+                "GEN7UU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_RETURN",
+                "MOVE_FLAMETHROWER",
+                "MOVE_HEAL_BELL",
+                "MOVE_ROOST"
+            ],
+            "Ability": "ABILITY_NATURAL_CURE",
+            "Item": "ITEM_ALTARIANITE",
+            "Nature": "NATURE_IMPISH",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Defensive",
+            "SourceTiers": [
+                "GEN7UU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_HYPER_VOICE",
+                "MOVE_FIRE_BLAST",
+                "MOVE_WILL_O_WISP",
+                "MOVE_ROOST"
+            ],
+            "Ability": "ABILITY_NATURAL_CURE",
+            "Item": "ITEM_ALTARIANITE",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Special Tank",
+            "SourceTiers": [
+                "GEN7UU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_DEFOG",
+                "MOVE_WILL_O_WISP",
+                "MOVE_DRAGON_PULSE",
+                "MOVE_ROOST"
+            ],
+            "Ability": "ABILITY_NATURAL_CURE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_CALM",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Defensive Defog",
+            "SourceTiers": [
+                "GEN7PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_ROOST",
+                "MOVE_DEFOG",
+                "MOVE_DRAGON_DANCE",
+                "MOVE_WILL_O_WISP"
+            ],
+            "Ability": "ABILITY_NATURAL_CURE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_CALM",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_DEFOG",
+                "MOVE_ROOST",
+                "MOVE_WILL_O_WISP",
+                "MOVE_FLAMETHROWER"
+            ],
+            "Ability": "ABILITY_NATURAL_CURE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Defensive Defog",
+            "SourceTiers": [
+                "GEN7ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_ROOST",
+                "MOVE_WILL_O_WISP",
+                "MOVE_DEFOG",
+                "MOVE_FLAMETHROWER"
+            ],
+            "Ability": "ABILITY_NATURAL_CURE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_COTTON_GUARD",
+                "MOVE_ROOST",
+                "MOVE_HYPER_VOICE",
+                "MOVE_FIRE_BLAST"
+            ],
+            "Ability": "ABILITY_CLOUD_NINE",
+            "Item": "ITEM_ALTARIANITE",
+            "Nature": "NATURE_CALM",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Bulky Attacker",
+            "SourceTiers": [
+                "GEN71V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_RETURN",
+                "MOVE_DRAGON_DANCE",
+                "MOVE_ROOST",
+                "MOVE_EARTHQUAKE"
+            ],
+            "Ability": "ABILITY_NATURAL_CURE",
+            "Item": "ITEM_ALTARIANITE",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Offensive Dragon Dance (Dragon)",
+            "SourceTiers": [
+                "GEN7MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_RETURN",
+                "MOVE_DRAGON_DANCE",
+                "MOVE_ROOST",
+                "MOVE_REFRESH"
+            ],
+            "Ability": "ABILITY_NATURAL_CURE",
+            "Item": "ITEM_ALTARIANITE",
+            "Nature": "NATURE_IMPISH",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Bulky Dragon Dance (Dragon)",
+            "SourceTiers": [
+                "GEN7MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_BODY_SLAM",
+                "MOVE_ROOST",
+                "MOVE_DEFOG",
+                "MOVE_HEAL_BELL"
+            ],
+            "Ability": "ABILITY_NATURAL_CURE",
+            "Item": "ITEM_ALTARIANITE",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Support (Dragon)",
+            "SourceTiers": [
+                "GEN7MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_DEFOG",
+                "MOVE_ROOST",
+                "MOVE_HURRICANE",
+                "MOVE_WILL_O_WISP"
+            ],
+            "Ability": "ABILITY_NATURAL_CURE",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_CALM",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Defog",
+            "SourceTiers": [
+                "GEN8PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_ROOST",
+                "MOVE_DEFOG",
+                "MOVE_WILL_O_WISP",
+                "MOVE_HURRICANE"
+            ],
+            "Ability": "ABILITY_NATURAL_CURE",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_CALM",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_ROOST",
+                "MOVE_DEFOG",
+                "MOVE_WILL_O_WISP",
+                "MOVE_HURRICANE"
+            ],
+            "Ability": "ABILITY_NATURAL_CURE",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Physical Wall",
+            "SourceTiers": [
+                "GEN8ZU",
+                "GEN8ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FRUSTRATION",
+                "MOVE_EARTHQUAKE",
+                "MOVE_ROOST",
+                "MOVE_DRAGON_DANCE"
+            ],
+            "Ability": "ABILITY_NATURAL_CURE",
+            "Item": "ITEM_ALTARIANITE",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Bulky Dragon Dance",
+            "SourceTiers": [
+                "GEN8NATIONALDEX"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_DRAGON_DANCE",
+                "MOVE_RETURN",
+                "MOVE_EARTHQUAKE",
+                "MOVE_ROOST"
+            ],
+            "Ability": "ABILITY_NATURAL_CURE",
+            "Item": "ITEM_ALTARIANITE",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Dragon Dance (Dragon)",
+            "SourceTiers": [
+                "GEN8NATIONALDEXMONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_DRAGON_DANCE",
+                "MOVE_RETURN",
+                "MOVE_ROOST",
+                "MOVE_REFRESH"
+            ],
+            "Ability": "ABILITY_NATURAL_CURE",
+            "Item": "ITEM_ALTARIANITE",
+            "Nature": "NATURE_IMPISH",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Bulky Dragon Dance (Dragon)",
+            "SourceTiers": [
+                "GEN8NATIONALDEXMONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_ROOST",
+                "MOVE_DEFOG",
+                "MOVE_WILL_O_WISP",
+                "MOVE_PERISH_SONG"
+            ],
+            "Ability": "ABILITY_NATURAL_CURE",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_CALM",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN9RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_BRAVE_BIRD",
+                "MOVE_WILL_O_WISP",
+                "MOVE_ROOST",
+                "MOVE_DEFOG"
+            ],
+            "Ability": "ABILITY_NATURAL_CURE",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_IMPISH",
+            "HiddenPower": null,
+            "TeraType": "TYPE_STEEL",
+            "Name": "Utility",
+            "SourceTiers": [
+                "GEN9NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FIRE_SPIN",
+                "MOVE_WILL_O_WISP",
+                "MOVE_ROOST",
+                "MOVE_PERISH_SONG"
+            ],
+            "Ability": "ABILITY_NATURAL_CURE",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_IMPISH",
+            "HiddenPower": null,
+            "TeraType": "TYPE_STEEL",
+            "Name": "Trapper",
+            "SourceTiers": [
+                "GEN9NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_ROOST",
+                "MOVE_DEFOG",
+                "MOVE_WILL_O_WISP",
+                "MOVE_BRAVE_BIRD"
+            ],
+            "Ability": "ABILITY_NATURAL_CURE",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_IMPISH",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN9NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_DEFOG",
+                "MOVE_ROOST",
+                "MOVE_BRAVE_BIRD",
+                "MOVE_WILL_O_WISP"
+            ],
+            "Ability": "ABILITY_NATURAL_CURE",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_IMPISH",
+            "HiddenPower": null,
+            "TeraType": "TYPE_STEEL",
+            "Name": "Defensive Defog",
+            "SourceTiers": [
+                "GEN9PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_RETURN",
+                "MOVE_EARTHQUAKE",
+                "MOVE_DRAGON_DANCE",
+                "MOVE_ROOST"
+            ],
+            "Ability": "ABILITY_NATURAL_CURE",
+            "Item": "ITEM_ALTARIANITE",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Offensive Dragon Dance (Dragon)",
+            "SourceTiers": [
+                "GEN9NATIONALDEXMONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_DRAGON_DANCE",
+                "MOVE_OUTRAGE",
+                "MOVE_BRAVE_BIRD",
+                "MOVE_PLAY_ROUGH"
+            ],
+            "Item": "ITEM_LIFE_ORB",
+            "Ability": "ABILITY_NATURAL_CURE",
+            "HiddenPower": null,
+            "SourceTiers": [
+                "GEN7ZU"
+            ],
+            "Name": "Dragon Dance",
+            "Nature": "NATURE_HARDY",
+            "TeraType": null
+        }
+    ]
+}

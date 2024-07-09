@@ -1,0 +1,586 @@
+{
+    "Species": "SPECIES_FLYGON",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_DRAGON_PULSE",
+            "Level": "0"
+        },
+        {
+            "Move": "MOVE_DRAGON_PULSE",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_DRAGON_CLAW",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_DRAGON_BREATH",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_DRAGON_DANCE",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_DRAGON_TAIL",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_CRUNCH",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_SAND_ATTACK",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_SONIC_BOOM",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_SILVER_WIND",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_BIDE",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_MUD_SLAP",
+            "Level": "5"
+        },
+        {
+            "Move": "MOVE_FEINT_ATTACK",
+            "Level": "9"
+        },
+        {
+            "Move": "MOVE_BULLDOZE",
+            "Level": "13"
+        },
+        {
+            "Move": "MOVE_SAND_TOMB",
+            "Level": "17"
+        },
+        {
+            "Move": "MOVE_ROCK_SLIDE",
+            "Level": "21"
+        },
+        {
+            "Move": "MOVE_SUPERSONIC",
+            "Level": "25"
+        },
+        {
+            "Move": "MOVE_SCREECH",
+            "Level": "29"
+        },
+        {
+            "Move": "MOVE_INFESTATION",
+            "Level": "33"
+        },
+        {
+            "Move": "MOVE_EARTH_POWER",
+            "Level": "37"
+        },
+        {
+            "Move": "MOVE_SIGNAL_BEAM",
+            "Level": "41"
+        },
+        {
+            "Move": "MOVE_EARTHQUAKE",
+            "Level": "44"
+        },
+        {
+            "Move": "MOVE_BUG_BUZZ",
+            "Level": "49"
+        },
+        {
+            "Move": "MOVE_HYPER_BEAM",
+            "Level": "53"
+        },
+        {
+            "Move": "MOVE_BOOMBURST",
+            "Level": "57"
+        },
+        {
+            "Move": "MOVE_DRAGON_RUSH",
+            "Level": "61"
+        },
+        {
+            "Move": "MOVE_QUIVER_DANCE",
+            "Level": "65"
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_FEINT",
+        "MOVE_SUPERPOWER",
+        "MOVE_BITE",
+        "MOVE_AIR_CUTTER",
+        "MOVE_HELPING_HAND",
+        "MOVE_GIGA_DRAIN",
+        "MOVE_THUNDER_PUNCH",
+        "MOVE_VACUUM_WAVE",
+        "MOVE_DRAGON_CHEER",
+        "MOVE_DRACO_METEOR",
+        "MOVE_SOLAR_BEAM",
+        "MOVE_AGILITY",
+        "MOVE_GUST",
+        "MOVE_ROCK_TOMB",
+        "MOVE_OUTRAGE",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_STONE_EDGE",
+        "MOVE_PROTECT",
+        "MOVE_THROAT_CHOP",
+        "MOVE_DOUBLE_EDGE",
+        "MOVE_FLAIL",
+        "MOVE_TAKE_DOWN",
+        "MOVE_FIRE_SPIN",
+        "MOVE_DEFOG",
+        "MOVE_BODY_SLAM",
+        "MOVE_SUBSTITUTE",
+        "MOVE_UPROAR",
+        "MOVE_SUNNY_DAY",
+        "MOVE_TAILWIND",
+        "MOVE_SCORCHING_SANDS",
+        "MOVE_DUAL_WINGBEAT",
+        "MOVE_FACADE",
+        "MOVE_AIR_SLASH",
+        "MOVE_BUG_BITE",
+        "MOVE_SWIFT",
+        "MOVE_STRUGGLE_BUG",
+        "MOVE_STEALTH_ROCK",
+        "MOVE_FIRST_IMPRESSION",
+        "MOVE_SLEEP_TALK",
+        "MOVE_FLY",
+        "MOVE_GIGA_IMPACT",
+        "MOVE_ASTONISH",
+        "MOVE_DIG",
+        "MOVE_FISSURE",
+        "MOVE_BREAKING_SWIPE",
+        "MOVE_TERA_BLAST",
+        "MOVE_HEAT_WAVE",
+        "MOVE_ENDURE",
+        "MOVE_MUD_SHOT",
+        "MOVE_ROOST",
+        "MOVE_QUICK_ATTACK",
+        "MOVE_FIRE_PUNCH",
+        "MOVE_HURRICANE",
+        "MOVE_SCALE_SHOT",
+        "MOVE_FLAMETHROWER",
+        "MOVE_U_TURN",
+        "MOVE_FURY_CUTTER",
+        "MOVE_SANDSTORM",
+        "MOVE_FIRE_BLAST",
+        "MOVE_AERIAL_ACE",
+        "MOVE_REST"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_DEFOG",
+                "MOVE_ROOST",
+                "MOVE_STEALTH_ROCK",
+                "MOVE_EARTH_POWER"
+            ],
+            "Ability": "ABILITY_LEVITATE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Defog",
+            "SourceTiers": [
+                "GEN6UBERS"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_OUTRAGE",
+                "MOVE_EARTHQUAKE",
+                "MOVE_U_TURN",
+                "MOVE_DEFOG"
+            ],
+            "Ability": "ABILITY_LEVITATE",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Scarf",
+            "SourceTiers": [
+                "GEN6UU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_EARTHQUAKE",
+                "MOVE_OUTRAGE",
+                "MOVE_U_TURN",
+                "MOVE_DRAGON_CLAW"
+            ],
+            "Ability": "ABILITY_LEVITATE",
+            "Item": "ITEM_CHOICE_BAND",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Band",
+            "SourceTiers": [
+                "GEN6RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_DEFOG",
+                "MOVE_ROOST",
+                "MOVE_EARTHQUAKE",
+                "MOVE_U_TURN"
+            ],
+            "Ability": "ABILITY_LEVITATE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Defog Support",
+            "SourceTiers": [
+                "GEN6RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_EARTHQUAKE",
+                "MOVE_U_TURN",
+                "MOVE_OUTRAGE",
+                "MOVE_AERIAL_ACE"
+            ],
+            "Ability": "ABILITY_LEVITATE",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Scarf",
+            "SourceTiers": [
+                "GEN6RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_EARTHQUAKE",
+                "MOVE_U_TURN",
+                "MOVE_DEFOG",
+                "MOVE_OUTRAGE"
+            ],
+            "Ability": "ABILITY_LEVITATE",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_EARTHQUAKE",
+                "MOVE_OUTRAGE",
+                "MOVE_DRAGON_DANCE",
+                "MOVE_ROOST"
+            ],
+            "Ability": "ABILITY_LEVITATE",
+            "Item": "ITEM_LUM_BERRY",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7UU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_U_TURN",
+                "MOVE_EARTHQUAKE",
+                "MOVE_OUTRAGE",
+                "MOVE_DUAL_WINGBEAT"
+            ],
+            "Ability": "ABILITY_LEVITATE",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Scarf",
+            "SourceTiers": [
+                "GEN7RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_EARTHQUAKE",
+                "MOVE_OUTRAGE",
+                "MOVE_U_TURN",
+                "MOVE_DRAGON_DANCE"
+            ],
+            "Ability": "ABILITY_LEVITATE",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_EARTH_POWER",
+                "MOVE_PROTECT",
+                "MOVE_GIGA_DRAIN",
+                "MOVE_FLAMETHROWER"
+            ],
+            "Ability": "ABILITY_LEVITATE",
+            "Item": "ITEM_HABAN_BERRY",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7BATTLESPOTDOUBLES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_EARTH_POWER",
+                "MOVE_FLAMETHROWER",
+                "MOVE_DEFOG",
+                "MOVE_ROOST"
+            ],
+            "Ability": "ABILITY_LEVITATE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Defog",
+            "SourceTiers": [
+                "GEN8UU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_EARTHQUAKE",
+                "MOVE_U_TURN",
+                "MOVE_OUTRAGE",
+                "MOVE_DRAGON_DANCE"
+            ],
+            "Ability": "ABILITY_LEVITATE",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8UU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_DRAGON_DANCE",
+                "MOVE_EARTHQUAKE",
+                "MOVE_OUTRAGE",
+                "MOVE_STONE_EDGE"
+            ],
+            "Ability": "ABILITY_LEVITATE",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Dragon Dance",
+            "SourceTiers": [
+                "GEN8RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_EARTHQUAKE",
+                "MOVE_DEFOG",
+                "MOVE_ROOST",
+                "MOVE_STEALTH_ROCK"
+            ],
+            "Ability": "ABILITY_LEVITATE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Defog",
+            "SourceTiers": [
+                "GEN8RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_EARTH_POWER",
+                "MOVE_U_TURN",
+                "MOVE_STONE_EDGE",
+                "MOVE_DRACO_METEOR"
+            ],
+            "Ability": "ABILITY_LEVITATE",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Scarf",
+            "SourceTiers": [
+                "GEN8RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_EARTHQUAKE",
+                "MOVE_OUTRAGE",
+                "MOVE_STONE_EDGE",
+                "MOVE_U_TURN"
+            ],
+            "Ability": "ABILITY_LEVITATE",
+            "Item": "ITEM_CHOICE_BAND",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Band",
+            "SourceTiers": [
+                "GEN8RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_EARTHQUAKE",
+                "MOVE_OUTRAGE",
+                "MOVE_U_TURN",
+                "MOVE_STONE_EDGE"
+            ],
+            "Ability": "ABILITY_LEVITATE",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_EARTHQUAKE",
+                "MOVE_U_TURN",
+                "MOVE_STONE_EDGE",
+                "MOVE_OUTRAGE"
+            ],
+            "Ability": "ABILITY_LEVITATE",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": "TYPE_STEEL",
+            "Name": "Choice Scarf",
+            "SourceTiers": [
+                "GEN9RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_EARTHQUAKE",
+                "MOVE_OUTRAGE",
+                "MOVE_U_TURN",
+                "MOVE_STONE_EDGE"
+            ],
+            "Ability": "ABILITY_LEVITATE",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": "TYPE_STEEL",
+            "Name": "Choice Scarf",
+            "SourceTiers": [
+                "GEN9NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_EARTHQUAKE",
+                "MOVE_DRAGON_CLAW",
+                "MOVE_FIRST_IMPRESSION",
+                "MOVE_U_TURN"
+            ],
+            "Ability": "ABILITY_LEVITATE",
+            "Item": "ITEM_CHOICE_BAND",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": "TYPE_BUG",
+            "Name": "Choice Band",
+            "SourceTiers": [
+                "GEN9NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_DRAGON_DANCE",
+                "MOVE_SCALE_SHOT",
+                "MOVE_EARTHQUAKE",
+                "MOVE_FIRE_PUNCH"
+            ],
+            "Ability": "ABILITY_LEVITATE",
+            "Item": "ITEM_LOADED_DICE",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": "TYPE_STEEL",
+            "Name": "Dragon Dance",
+            "SourceTiers": [
+                "GEN9NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_QUIVER_DANCE",
+                "MOVE_BUG_BUZZ",
+                "MOVE_EARTH_POWER",
+                "MOVE_DRAGON_PULSE"
+            ],
+            "Item": "ITEM_LIFE_ORB",
+            "Ability": "ABILITY_LEVITATE",
+            "HiddenPower": null,
+            "SourceTiers": [
+                "GEN7OU"
+            ],
+            "Name": "Quiver Dance",
+            "Nature": "NATURE_HARDY",
+            "TeraType": null
+        },
+        {
+            "Moves": [
+                "MOVE_DRACO_METEOR",
+                "MOVE_BUG_BUZZ",
+                "MOVE_BOOMBURST",
+                "MOVE_EARTH_POWER"
+            ],
+            "Item": "ITEM_CHOICE_SPECS",
+            "Ability": "ABILITY_LEVITATE",
+            "HiddenPower": null,
+            "SourceTiers": [
+                "GEN7OU"
+            ],
+            "Name": "Specs",
+            "Nature": "NATURE_HARDY",
+            "TeraType": null
+        },
+        {
+            "Moves": [
+                "MOVE_DRAGON_RUSH",
+                "MOVE_EARTHQUAKE",
+                "MOVE_STONE_EDGE",
+                "MOVE_U_TURN"
+            ],
+            "Item": "ITEM_CHOICE_SCARF",
+            "Ability": "ABILITY_COMPOUND_EYES",
+            "HiddenPower": null,
+            "SourceTiers": [
+                "GEN7UU"
+            ],
+            "Name": "Compound Eyes + Scarf",
+            "Nature": "NATURE_HARDY",
+            "TeraType": null
+        }
+    ]
+}

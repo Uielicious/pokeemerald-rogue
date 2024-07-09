@@ -98,6 +98,7 @@
       "Item": "ITEM_LIFE_ORB",
       "Nature": "NATURE_TIMID",
       "HiddenPower": null,
+      "Name": "Life Orb",
       "SourceTiers": [
         "GEN6UU"
       ]
@@ -113,6 +114,7 @@
       "Item": "ITEM_CHOICE_SPECS",
       "Nature": "NATURE_TIMID",
       "HiddenPower": null,
+      "Name": "Choice Specs",
       "SourceTiers": [
         "GEN6UU"
       ]
@@ -128,6 +130,7 @@
       "Item": "ITEM_LEFTOVERS",
       "Nature": "NATURE_TIMID",
       "HiddenPower": null,
+      "Name": "Leech Seed",
       "SourceTiers": [
         "GEN6UU"
       ]
@@ -143,6 +146,7 @@
       "Item": "ITEM_LIFE_ORB",
       "Nature": "NATURE_TIMID",
       "HiddenPower": null,
+      "Name": "Showdown Usage",
       "SourceTiers": [
         "GEN6UU"
       ]
@@ -158,6 +162,7 @@
       "Item": "ITEM_NORMALIUM_Z",
       "Nature": "NATURE_TIMID",
       "HiddenPower": "TYPE_FIRE",
+      "Name": "Z-Celebrate",
       "SourceTiers": [
         "GEN7UU"
       ]
@@ -173,6 +178,7 @@
       "Item": "ITEM_LIFE_ORB",
       "Nature": "NATURE_TIMID",
       "HiddenPower": "TYPE_ICE",
+      "Name": "Offensive",
       "SourceTiers": [
         "GEN7RU"
       ]
@@ -188,6 +194,7 @@
       "Item": "ITEM_CHOICE_SCARF",
       "Nature": "NATURE_TIMID",
       "HiddenPower": "TYPE_ICE",
+      "Name": "Choice Scarf",
       "SourceTiers": [
         "GEN7RU"
       ]
@@ -203,6 +210,7 @@
       "Item": "ITEM_LEFTOVERS",
       "Nature": "NATURE_TIMID",
       "HiddenPower": null,
+      "Name": "Showdown Usage",
       "SourceTiers": [
         "GEN7RU"
       ]
@@ -218,6 +226,7 @@
       "Item": "ITEM_NORMALIUM_Z",
       "Nature": "NATURE_TIMID",
       "HiddenPower": null,
+      "Name": "Z-Celebrate",
       "SourceTiers": [
         "GEN7RU"
       ]
@@ -233,6 +242,7 @@
       "Item": "ITEM_LEFTOVERS",
       "Nature": "NATURE_TIMID",
       "HiddenPower": null,
+      "Name": "Tank",
       "SourceTiers": [
         "GEN7RU"
       ]
@@ -248,6 +258,7 @@
       "Item": "ITEM_HEAVY_DUTY_BOOTS",
       "Nature": "NATURE_TIMID",
       "HiddenPower": null,
+      "Name": "Tank",
       "SourceTiers": [
         "GEN9RU"
       ]
@@ -263,6 +274,7 @@
       "Item": "ITEM_LIFE_ORB",
       "Nature": "NATURE_TIMID",
       "HiddenPower": null,
+      "Name": "Offensive",
       "SourceTiers": [
         "GEN9RU"
       ]
@@ -278,6 +290,7 @@
       "Item": "ITEM_CHOICE_SCARF",
       "Nature": "NATURE_TIMID",
       "HiddenPower": null,
+      "Name": "Choice Scarf",
       "SourceTiers": [
         "GEN9RU"
       ]
@@ -293,6 +306,7 @@
       "Item": "ITEM_HEAVY_DUTY_BOOTS",
       "Nature": "NATURE_TIMID",
       "HiddenPower": null,
+      "Name": "Healing Wish",
       "SourceTiers": [
         "GEN9NU"
       ]
@@ -308,6 +322,7 @@
       "Item": "ITEM_CHOICE_SPECS",
       "Nature": "NATURE_TIMID",
       "HiddenPower": null,
+      "Name": "Offensive",
       "SourceTiers": [
         "GEN9NU"
       ]
@@ -323,6 +338,7 @@
       "Item": "ITEM_CHOICE_SCARF",
       "Nature": "NATURE_TIMID",
       "HiddenPower": null,
+      "Name": "Showdown Usage",
       "SourceTiers": [
         "GEN9NU"
       ]

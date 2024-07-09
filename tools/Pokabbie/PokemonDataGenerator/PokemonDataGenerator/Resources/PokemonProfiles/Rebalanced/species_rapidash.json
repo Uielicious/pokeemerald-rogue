@@ -1,0 +1,388 @@
+{
+    "Species": "SPECIES_RAPIDASH",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_PLAY_ROUGH",
+            "Level": "0"
+        },
+        {
+            "Move": "MOVE_PLAY_ROUGH",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_FURY_ATTACK",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_POISON_JAB",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_MEGAHORN",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_GROWL",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_QUICK_ATTACK",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_TAIL_WHIP",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_EMBER",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_TAIL_WHIP",
+            "Level": "4"
+        },
+        {
+            "Move": "MOVE_EMBER",
+            "Level": "9"
+        },
+        {
+            "Move": "MOVE_FLAME_WHEEL",
+            "Level": "13"
+        },
+        {
+            "Move": "MOVE_STOMP",
+            "Level": "17"
+        },
+        {
+            "Move": "MOVE_FLAME_CHARGE",
+            "Level": "21"
+        },
+        {
+            "Move": "MOVE_FIRE_SPIN",
+            "Level": "25"
+        },
+        {
+            "Move": "MOVE_TAKE_DOWN",
+            "Level": "29"
+        },
+        {
+            "Move": "MOVE_INFERNO",
+            "Level": "33"
+        },
+        {
+            "Move": "MOVE_AGILITY",
+            "Level": "37"
+        },
+        {
+            "Move": "MOVE_FIRE_BLAST",
+            "Level": "41"
+        },
+        {
+            "Move": "MOVE_JUMP_KICK",
+            "Level": "43"
+        },
+        {
+            "Move": "MOVE_BOUNCE",
+            "Level": "45"
+        },
+        {
+            "Move": "MOVE_FLARE_BLITZ",
+            "Level": "49"
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_SMART_STRIKE",
+        "MOVE_MORNING_SUN",
+        "MOVE_SOLAR_BEAM",
+        "MOVE_SWORDS_DANCE",
+        "MOVE_ATTRACT",
+        "MOVE_OVERHEAT",
+        "MOVE_DRILL_RUN",
+        "MOVE_HIGH_HORSEPOWER",
+        "MOVE_WILL_O_WISP",
+        "MOVE_PROTECT",
+        "MOVE_BATON_PASS",
+        "MOVE_THROAT_CHOP",
+        "MOVE_BODY_SLAM",
+        "MOVE_IRON_TAIL",
+        "MOVE_HYPER_BEAM",
+        "MOVE_SUBSTITUTE",
+        "MOVE_SCORCHING_SANDS",
+        "MOVE_SUNNY_DAY",
+        "MOVE_FACADE",
+        "MOVE_SWIFT",
+        "MOVE_SLEEP_TALK",
+        "MOVE_MYSTICAL_FIRE",
+        "MOVE_REST",
+        "MOVE_WILD_CHARGE",
+        "MOVE_GIGA_IMPACT",
+        "MOVE_HEAT_WAVE",
+        "MOVE_SOLAR_BLADE",
+        "MOVE_ENDURE",
+        "MOVE_PAY_DAY",
+        "MOVE_CHARM",
+        "MOVE_LOW_KICK",
+        "MOVE_ROUND",
+        "MOVE_SNORE",
+        "MOVE_FLAMETHROWER",
+        "MOVE_ALLY_SWITCH"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_FLARE_BLITZ",
+                "MOVE_DRILL_RUN",
+                "MOVE_WILD_CHARGE",
+                "MOVE_MORNING_SUN"
+            ],
+            "Ability": "ABILITY_FLASH_FIRE",
+            "Item": "ITEM_CHARCOAL",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FLARE_BLITZ",
+                "MOVE_WILD_CHARGE",
+                "MOVE_WILL_O_WISP",
+                "MOVE_MORNING_SUN"
+            ],
+            "Ability": "ABILITY_FLASH_FIRE",
+            "Item": "ITEM_CHARCOAL",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Physical Attacker",
+            "SourceTiers": [
+                "GEN6PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FLARE_BLITZ",
+                "MOVE_WILD_CHARGE",
+                "MOVE_DRILL_RUN",
+                "MOVE_MORNING_SUN"
+            ],
+            "Ability": "ABILITY_FLASH_FIRE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FLARE_BLITZ",
+                "MOVE_PLAY_ROUGH",
+                "MOVE_WILL_O_WISP",
+                "MOVE_MORNING_SUN"
+            ],
+            "Ability": "ABILITY_FLASH_FIRE",
+            "Item": "ITEM_FIRIUM_Z",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Offensive Utility",
+            "SourceTiers": [
+                "GEN7PU",
+                "GEN7ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FLARE_BLITZ",
+                "MOVE_WILD_CHARGE",
+                "MOVE_DRILL_RUN",
+                "MOVE_HIGH_HORSEPOWER"
+            ],
+            "Ability": "ABILITY_FLASH_FIRE",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FLARE_BLITZ",
+                "MOVE_PLAY_ROUGH",
+                "MOVE_HIGH_HORSEPOWER",
+                "MOVE_WILD_CHARGE"
+            ],
+            "Ability": "ABILITY_FLASH_FIRE",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Scarf",
+            "SourceTiers": [
+                "GEN7ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FLARE_BLITZ",
+                "MOVE_WILD_CHARGE",
+                "MOVE_HIGH_HORSEPOWER",
+                "MOVE_MORNING_SUN"
+            ],
+            "Ability": "ABILITY_FLASH_FIRE",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FLARE_BLITZ",
+                "MOVE_MEGAHORN",
+                "MOVE_DRILL_RUN",
+                "MOVE_WILL_O_WISP"
+            ],
+            "Ability": null,
+            "Item": null,
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7LETSGOOU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FLARE_BLITZ",
+                "MOVE_HIGH_HORSEPOWER",
+                "MOVE_WILD_CHARGE",
+                "MOVE_PLAY_ROUGH"
+            ],
+            "Ability": "ABILITY_FLASH_FIRE",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FLARE_BLITZ",
+                "MOVE_HIGH_HORSEPOWER",
+                "MOVE_WILL_O_WISP",
+                "MOVE_MORNING_SUN"
+            ],
+            "Ability": "ABILITY_FLAME_BODY",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Utility",
+            "SourceTiers": [
+                "GEN8ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SWORDS_DANCE",
+                "MOVE_FLARE_BLITZ",
+                "MOVE_HIGH_HORSEPOWER",
+                "MOVE_MORNING_SUN"
+            ],
+            "Ability": "ABILITY_FLAME_BODY",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Swords Dance",
+            "SourceTiers": [
+                "GEN8ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SWORDS_DANCE",
+                "MOVE_FLARE_BLITZ",
+                "MOVE_SOLAR_BLADE",
+                "MOVE_PLAY_ROUGH"
+            ],
+            "Ability": "ABILITY_FLASH_FIRE",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Sun Wallbreaker",
+            "SourceTiers": [
+                "GEN8ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FLARE_BLITZ",
+                "MOVE_HIGH_HORSEPOWER",
+                "MOVE_MORNING_SUN",
+                "MOVE_SWORDS_DANCE"
+            ],
+            "Ability": "ABILITY_FLASH_FIRE",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FLARE_BLITZ",
+                "MOVE_PLAY_ROUGH",
+                "MOVE_HIGH_HORSEPOWER",
+                "MOVE_MORNING_SUN"
+            ],
+            "Item": "ITEM_LIFE_ORB",
+            "Ability": "ABILITY_FLASH_FIRE",
+            "HiddenPower": null,
+            "SourceTiers": [
+                "GEN7ZU"
+            ],
+            "Name": "Offensive",
+            "Nature": "NATURE_HARDY",
+            "TeraType": null
+        },
+        {
+            "Moves": [
+                "MOVE_SWORDS_DANCE",
+                "MOVE_FLARE_BLITZ",
+                "MOVE_WILD_CHARGE",
+                "MOVE_PLAY_ROUGH"
+            ],
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Ability": "ABILITY_FLASH_FIRE",
+            "HiddenPower": null,
+            "SourceTiers": [
+                "GEN8PU"
+            ],
+            "Name": "Swords Dance",
+            "Nature": "NATURE_HARDY",
+            "TeraType": null
+        }
+    ]
+}

@@ -1,0 +1,448 @@
+{
+    "Species": "SPECIES_QWILFISH",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_FELL_STINGER",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_HYDRO_PUMP",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_DESTINY_BOND",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_WATER_GUN",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_SPIKES",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_TACKLE",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_POISON_STING",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_HARDEN",
+            "Level": "9"
+        },
+        {
+            "Move": "MOVE_MINIMIZE",
+            "Level": "9"
+        },
+        {
+            "Move": "MOVE_BUBBLE",
+            "Level": "13"
+        },
+        {
+            "Move": "MOVE_ROLLOUT",
+            "Level": "17"
+        },
+        {
+            "Move": "MOVE_TOXIC_SPIKES",
+            "Level": "21"
+        },
+        {
+            "Move": "MOVE_STOCKPILE",
+            "Level": "25"
+        },
+        {
+            "Move": "MOVE_SPIT_UP",
+            "Level": "25"
+        },
+        {
+            "Move": "MOVE_REVENGE",
+            "Level": "29"
+        },
+        {
+            "Move": "MOVE_BRINE",
+            "Level": "33"
+        },
+        {
+            "Move": "MOVE_PIN_MISSILE",
+            "Level": "37"
+        },
+        {
+            "Move": "MOVE_TAKE_DOWN",
+            "Level": "41"
+        },
+        {
+            "Move": "MOVE_AQUA_TAIL",
+            "Level": "45"
+        },
+        {
+            "Move": "MOVE_POISON_JAB",
+            "Level": "49"
+        },
+        {
+            "Move": "MOVE_DESTINY_BOND",
+            "Level": "53"
+        },
+        {
+            "Move": "MOVE_HYDRO_PUMP",
+            "Level": "57"
+        },
+        {
+            "Move": "MOVE_FELL_STINGER",
+            "Level": "61"
+        },
+        {
+            "Move": "MOVE_GUNK_SHOT",
+            "Level": "65"
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_ICE_BEAM",
+        "MOVE_PAIN_SPLIT",
+        "MOVE_SLUDGE_WAVE",
+        "MOVE_SWORDS_DANCE",
+        "MOVE_AGILITY",
+        "MOVE_ACID_SPRAY",
+        "MOVE_CHILLING_WATER",
+        "MOVE_EXPLOSION",
+        "MOVE_TOXIC",
+        "MOVE_WATERFALL",
+        "MOVE_VENOSHOCK",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_POISON_TAIL",
+        "MOVE_PROTECT",
+        "MOVE_FLAIL",
+        "MOVE_DOUBLE_EDGE",
+        "MOVE_THROAT_CHOP",
+        "MOVE_SUBSTITUTE",
+        "MOVE_FACADE",
+        "MOVE_WHIRLPOOL",
+        "MOVE_BUBBLE_BEAM",
+        "MOVE_SHADOW_BALL",
+        "MOVE_ICY_WIND",
+        "MOVE_SWIFT",
+        "MOVE_REVERSAL",
+        "MOVE_SLEEP_TALK",
+        "MOVE_HAZE",
+        "MOVE_SLUDGE_BOMB",
+        "MOVE_GIGA_IMPACT",
+        "MOVE_ASTONISH",
+        "MOVE_HEX",
+        "MOVE_LIQUIDATION",
+        "MOVE_TERA_BLAST",
+        "MOVE_CURSE",
+        "MOVE_ENDURE",
+        "MOVE_SELF_DESTRUCT",
+        "MOVE_MUD_SHOT",
+        "MOVE_SPITE",
+        "MOVE_WATER_PULSE",
+        "MOVE_SCARY_FACE",
+        "MOVE_BLIZZARD",
+        "MOVE_GYRO_BALL",
+        "MOVE_SCALE_SHOT",
+        "MOVE_FLIP_TURN",
+        "MOVE_SURF",
+        "MOVE_RAIN_DANCE",
+        "MOVE_BARB_BARRAGE",
+        "MOVE_SUPERSONIC",
+        "MOVE_THUNDER_WAVE",
+        "MOVE_CRUNCH",
+        "MOVE_TAUNT",
+        "MOVE_REST",
+        "MOVE_AQUA_JET"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_SPIKES",
+                "MOVE_WATERFALL",
+                "MOVE_TAUNT",
+                "MOVE_THUNDER_WAVE"
+            ],
+            "Ability": "ABILITY_INTIMIDATE",
+            "Item": "ITEM_BLACK_SLUDGE",
+            "Nature": "NATURE_IMPISH",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Defensive",
+            "SourceTiers": [
+                "GEN6UU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SWORDS_DANCE",
+                "MOVE_WATERFALL",
+                "MOVE_POISON_JAB",
+                "MOVE_EXPLOSION"
+            ],
+            "Ability": "ABILITY_SWIFT_SWIM",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Swift Swim",
+            "SourceTiers": [
+                "GEN6UU",
+                "GEN7PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SPIKES",
+                "MOVE_TAUNT",
+                "MOVE_HYDRO_PUMP",
+                "MOVE_THUNDER_WAVE"
+            ],
+            "Ability": "ABILITY_INTIMIDATE",
+            "Item": "ITEM_BLACK_SLUDGE",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Defensive Spiker",
+            "SourceTiers": [
+                "GEN6RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SPIKES",
+                "MOVE_TAUNT",
+                "MOVE_THUNDER_WAVE",
+                "MOVE_TOXIC_SPIKES"
+            ],
+            "Ability": "ABILITY_INTIMIDATE",
+            "Item": "ITEM_BLACK_SLUDGE",
+            "Nature": "NATURE_IMPISH",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_LIQUIDATION",
+                "MOVE_SPIKES",
+                "MOVE_POISON_JAB",
+                "MOVE_TOXIC_SPIKES"
+            ],
+            "Ability": "ABILITY_INTIMIDATE",
+            "Item": "ITEM_BLACK_SLUDGE",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SPIKES",
+                "MOVE_HYDRO_PUMP",
+                "MOVE_TAUNT",
+                "MOVE_DESTINY_BOND"
+            ],
+            "Ability": "ABILITY_INTIMIDATE",
+            "Item": "ITEM_ROCKY_HELMET",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Utility",
+            "SourceTiers": [
+                "GEN7PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SPIKES",
+                "MOVE_TAUNT",
+                "MOVE_TOXIC_SPIKES",
+                "MOVE_HYDRO_PUMP"
+            ],
+            "Ability": "ABILITY_INTIMIDATE",
+            "Item": "ITEM_ROCKY_HELMET",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SPIKES",
+                "MOVE_TAUNT",
+                "MOVE_WATERFALL",
+                "MOVE_THUNDER_WAVE"
+            ],
+            "Ability": "ABILITY_INTIMIDATE",
+            "Item": "ITEM_ROCKY_HELMET",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Spikes",
+            "SourceTiers": [
+                "GEN8PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_POISON_JAB",
+                "MOVE_LIQUIDATION",
+                "MOVE_AQUA_JET",
+                "MOVE_SPIKES"
+            ],
+            "Ability": "ABILITY_INTIMIDATE",
+            "Item": "ITEM_BLACK_SLUDGE",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SPIKES",
+                "MOVE_LIQUIDATION",
+                "MOVE_PAIN_SPLIT",
+                "MOVE_TAUNT"
+            ],
+            "Ability": "ABILITY_INTIMIDATE",
+            "Item": "ITEM_ROCKY_HELMET",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Defensive Spikes",
+            "SourceTiers": [
+                "GEN8ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SWORDS_DANCE",
+                "MOVE_LIQUIDATION",
+                "MOVE_POISON_JAB",
+                "MOVE_AQUA_JET"
+            ],
+            "Ability": "ABILITY_INTIMIDATE",
+            "Item": "ITEM_BLACK_SLUDGE",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Swords Dance",
+            "SourceTiers": [
+                "GEN8ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SPIKES",
+                "MOVE_LIQUIDATION",
+                "MOVE_POISON_JAB",
+                "MOVE_TAUNT"
+            ],
+            "Ability": "ABILITY_INTIMIDATE",
+            "Item": "ITEM_BLACK_SLUDGE",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SPIKES",
+                "MOVE_FLIP_TURN",
+                "MOVE_TAUNT",
+                "MOVE_BARB_BARRAGE"
+            ],
+            "Ability": "ABILITY_INTIMIDATE",
+            "Item": "ITEM_ROCKY_HELMET",
+            "Nature": "NATURE_IMPISH",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN9NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FLIP_TURN",
+                "MOVE_BARB_BARRAGE",
+                "MOVE_SPIKES",
+                "MOVE_TAUNT"
+            ],
+            "Ability": "ABILITY_INTIMIDATE",
+            "Item": "ITEM_ROCKY_HELMET",
+            "Nature": "NATURE_IMPISH",
+            "HiddenPower": null,
+            "TeraType": "TYPE_GROUND",
+            "Name": "Defensive Pivot",
+            "SourceTiers": [
+                "GEN9ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_GUNK_SHOT",
+                "MOVE_LIQUIDATION",
+                "MOVE_FLIP_TURN",
+                "MOVE_SPIKES"
+            ],
+            "Ability": "ABILITY_INTIMIDATE",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": "TYPE_WATER",
+            "Name": "Choice Scarf",
+            "SourceTiers": [
+                "GEN9ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SWORDS_DANCE",
+                "MOVE_LIQUIDATION",
+                "MOVE_GUNK_SHOT",
+                "MOVE_AQUA_JET"
+            ],
+            "Ability": "ABILITY_INTIMIDATE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": "TYPE_WATER",
+            "Name": "Swords Dance",
+            "SourceTiers": [
+                "GEN9ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SWORDS_DANCE",
+                "MOVE_WATERFALL",
+                "MOVE_GUNK_SHOT",
+                "MOVE_EXPLOSION"
+            ],
+            "Item": "ITEM_LIFE_ORB",
+            "Ability": "ABILITY_SWIFT_SWIM",
+            "HiddenPower": null,
+            "SourceTiers": [
+                "GEN7PU"
+            ],
+            "Name": "Rain Sweeper",
+            "Nature": "NATURE_HARDY",
+            "TeraType": null
+        }
+    ]
+}

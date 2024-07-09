@@ -1,0 +1,145 @@
+{
+    "Species": "SPECIES_HELIOPTILE",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_TAIL_WHIP",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_MUD_SLAP",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_POUND",
+            "Level": 4
+        },
+        {
+            "Move": "MOVE_THUNDER_SHOCK",
+            "Level": 8
+        },
+        {
+            "Move": "MOVE_QUICK_ATTACK",
+            "Level": 12
+        },
+        {
+            "Move": "MOVE_CHARGE",
+            "Level": 16
+        },
+        {
+            "Move": "MOVE_BULLDOZE",
+            "Level": 20
+        },
+        {
+            "Move": "MOVE_VOLT_SWITCH",
+            "Level": 24
+        },
+        {
+            "Move": "MOVE_PARABOLIC_CHARGE",
+            "Level": 28
+        },
+        {
+            "Move": "MOVE_THUNDER_WAVE",
+            "Level": 32
+        },
+        {
+            "Move": "MOVE_THUNDERBOLT",
+            "Level": 36
+        },
+        {
+            "Move": "MOVE_ELECTRIFY",
+            "Level": 40
+        },
+        {
+            "Move": "MOVE_THUNDER",
+            "Level": 44
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_DRAGON_RUSH",
+        "MOVE_DARK_PULSE",
+        "MOVE_GRASS_KNOT",
+        "MOVE_ATTRACT",
+        "MOVE_AGILITY",
+        "MOVE_ROCK_TOMB",
+        "MOVE_LIGHT_SCREEN",
+        "MOVE_PROTECT",
+        "MOVE_IRON_TAIL",
+        "MOVE_SUBSTITUTE",
+        "MOVE_FACADE",
+        "MOVE_SWIFT",
+        "MOVE_SLEEP_TALK",
+        "MOVE_RISING_VOLTAGE",
+        "MOVE_WILD_CHARGE",
+        "MOVE_GLARE",
+        "MOVE_REST",
+        "MOVE_DIG",
+        "MOVE_ELECTRIC_TERRAIN",
+        "MOVE_ELECTROWEB",
+        "MOVE_ENDURE",
+        "MOVE_ELECTRO_BALL",
+        "MOVE_LOW_SWEEP",
+        "MOVE_ROUND",
+        "MOVE_SURF",
+        "MOVE_SCALE_SHOT",
+        "MOVE_SNORE",
+        "MOVE_RAIN_DANCE",
+        "MOVE_ROCK_SLIDE",
+        "MOVE_DRAGON_TAIL",
+        "MOVE_SANDSTORM",
+        "MOVE_U_TURN",
+        "MOVE_ALLY_SWITCH"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_GLARE",
+                "MOVE_U_TURN",
+                "MOVE_THUNDERBOLT",
+                "MOVE_SURF"
+            ],
+            "Ability": "ABILITY_DRY_SKIN",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Paralysis Pivot",
+            "SourceTiers": [
+                "GEN6LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SURF",
+                "MOVE_THUNDERBOLT",
+                "MOVE_VOLT_SWITCH",
+                "MOVE_DARK_PULSE"
+            ],
+            "Ability": "ABILITY_DRY_SKIN",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_PARABOLIC_CHARGE",
+                "MOVE_SURF",
+                "MOVE_GLARE",
+                "MOVE_U_TURN"
+            ],
+            "Ability": "ABILITY_DRY_SKIN",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Life Orb",
+            "SourceTiers": [
+                "GEN7LC"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,188 @@
+{
+    "Species": "SPECIES_MEDITITE",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_BIDE",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_MEDITATE",
+            "Level": "4"
+        },
+        {
+            "Move": "MOVE_CONFUSION",
+            "Level": "7"
+        },
+        {
+            "Move": "MOVE_DETECT",
+            "Level": "9"
+        },
+        {
+            "Move": "MOVE_ENDURE",
+            "Level": "12"
+        },
+        {
+            "Move": "MOVE_FEINT",
+            "Level": "15"
+        },
+        {
+            "Move": "MOVE_FORCE_PALM",
+            "Level": "17"
+        },
+        {
+            "Move": "MOVE_HIDDEN_POWER",
+            "Level": "20"
+        },
+        {
+            "Move": "MOVE_CALM_MIND",
+            "Level": "23"
+        },
+        {
+            "Move": "MOVE_MIND_READER",
+            "Level": "25"
+        },
+        {
+            "Move": "MOVE_HIGH_JUMP_KICK",
+            "Level": "28"
+        },
+        {
+            "Move": "MOVE_PSYCH_UP",
+            "Level": "31"
+        },
+        {
+            "Move": "MOVE_ACUPRESSURE",
+            "Level": "33"
+        },
+        {
+            "Move": "MOVE_POWER_TRICK",
+            "Level": "36"
+        },
+        {
+            "Move": "MOVE_REVERSAL",
+            "Level": "39"
+        },
+        {
+            "Move": "MOVE_RECOVER",
+            "Level": "41"
+        },
+        {
+            "Move": "MOVE_COUNTER",
+            "Level": "44"
+        },
+        {
+            "Move": "MOVE_CLOSE_COMBAT",
+            "Level": "47"
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_PAIN_SPLIT",
+        "MOVE_FAKE_OUT",
+        "MOVE_THUNDER_PUNCH",
+        "MOVE_HELPING_HAND",
+        "MOVE_FLING",
+        "MOVE_DYNAMIC_PUNCH",
+        "MOVE_REFLECT",
+        "MOVE_GRASS_KNOT",
+        "MOVE_ZEN_HEADBUTT",
+        "MOVE_ROCK_TOMB",
+        "MOVE_LIGHT_SCREEN",
+        "MOVE_PROTECT",
+        "MOVE_BATON_PASS",
+        "MOVE_SKILL_SWAP",
+        "MOVE_PSYSHOCK",
+        "MOVE_TAKE_DOWN",
+        "MOVE_THIEF",
+        "MOVE_BODY_SLAM",
+        "MOVE_SUBSTITUTE",
+        "MOVE_METRONOME",
+        "MOVE_SUNNY_DAY",
+        "MOVE_BRICK_BREAK",
+        "MOVE_FACADE",
+        "MOVE_TRICK",
+        "MOVE_EXPANDING_FORCE",
+        "MOVE_SHADOW_BALL",
+        "MOVE_SWIFT",
+        "MOVE_BULLET_PUNCH",
+        "MOVE_IMPRISON",
+        "MOVE_SLEEP_TALK",
+        "MOVE_STORED_POWER",
+        "MOVE_TRAILBLAZE",
+        "MOVE_PSYCHIC",
+        "MOVE_PSYCHO_CUT",
+        "MOVE_QUICK_GUARD",
+        "MOVE_ICE_PUNCH",
+        "MOVE_TERA_BLAST",
+        "MOVE_NIGHT_SHADE",
+        "MOVE_PSYBEAM",
+        "MOVE_FOCUS_BLAST",
+        "MOVE_LOW_SWEEP",
+        "MOVE_FIRE_PUNCH",
+        "MOVE_LOW_KICK",
+        "MOVE_POISON_JAB",
+        "MOVE_POWER_SWAP",
+        "MOVE_PSYCHIC_TERRAIN",
+        "MOVE_TRICK_ROOM",
+        "MOVE_RAIN_DANCE",
+        "MOVE_ROCK_SLIDE",
+        "MOVE_BULK_UP",
+        "MOVE_DRAIN_PUNCH",
+        "MOVE_FOCUS_PUNCH",
+        "MOVE_AERIAL_ACE",
+        "MOVE_TAUNT",
+        "MOVE_GUARD_SWAP",
+        "MOVE_REST"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_HIGH_JUMP_KICK",
+                "MOVE_ZEN_HEADBUTT",
+                "MOVE_ICE_PUNCH",
+                "MOVE_BULLET_PUNCH"
+            ],
+            "Ability": "ABILITY_PURE_POWER",
+            "Item": "ITEM_CHOICE_BAND",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Band",
+            "SourceTiers": [
+                "GEN6ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_HIGH_JUMP_KICK",
+                "MOVE_ZEN_HEADBUTT",
+                "MOVE_ICE_PUNCH",
+                "MOVE_TRICK"
+            ],
+            "Ability": "ABILITY_PURE_POWER",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Scarf",
+            "SourceTiers": [
+                "GEN6ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_CLOSE_COMBAT",
+                "MOVE_BULLET_PUNCH",
+                "MOVE_ZEN_HEADBUTT",
+                "MOVE_FAKE_OUT"
+            ],
+            "Ability": "ABILITY_PURE_POWER",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN9ZU"
+            ]
+        }
+    ]
+}

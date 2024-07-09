@@ -1,0 +1,210 @@
+{
+    "Species": "SPECIES_DELIBIRD",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_PRESENT",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_ICY_WIND",
+            "Level": "5"
+        },
+        {
+            "Move": "MOVE_SWIFT",
+            "Level": "15"
+        },
+        {
+            "Move": "MOVE_DRILL_PECK",
+            "Level": "25"
+        },
+        {
+            "Move": "MOVE_AIR_CUTTER",
+            "Level": "35"
+        },
+        {
+            "Move": "MOVE_BRAVE_BIRD",
+            "Level": "45"
+        },
+        {
+            "Move": "MOVE_AIR_SLASH",
+            "Level": "55"
+        },
+        {
+            "Move": "MOVE_BLIZZARD",
+            "Level": "65"
+        },
+        {
+            "Move": "MOVE_HURRICANE",
+            "Level": "75"
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_ICE_BEAM",
+        "MOVE_SPIKES",
+        "MOVE_CHILLING_WATER",
+        "MOVE_DRILL_RUN",
+        "MOVE_RAPID_SPIN",
+        "MOVE_FEATHER_DANCE",
+        "MOVE_WORK_UP",
+        "MOVE_BATON_PASS",
+        "MOVE_SPLASH",
+        "MOVE_SEED_BOMB",
+        "MOVE_SUBSTITUTE",
+        "MOVE_TAILWIND",
+        "MOVE_BRICK_BREAK",
+        "MOVE_FACADE",
+        "MOVE_DUAL_WINGBEAT",
+        "MOVE_ICICLE_SPEAR",
+        "MOVE_ACROBATICS",
+        "MOVE_TRIPLE_AXEL",
+        "MOVE_SLEEP_TALK",
+        "MOVE_FLY",
+        "MOVE_FREEZE_DRY",
+        "MOVE_MEMENTO",
+        "MOVE_NASTY_PLOT",
+        "MOVE_TERA_BLAST",
+        "MOVE_WATER_PULSE",
+        "MOVE_ENDURE",
+        "MOVE_ICE_SHARD",
+        "MOVE_HONE_CLAWS",
+        "MOVE_RAIN_DANCE",
+        "MOVE_U_TURN",
+        "MOVE_CUT",
+        "MOVE_WEATHER_BALL",
+        "MOVE_REST",
+        "MOVE_AURORA_VEIL",
+        "MOVE_FAKE_OUT",
+        "MOVE_HELPING_HAND",
+        "MOVE_FLING",
+        "MOVE_GUNK_SHOT",
+        "MOVE_AGILITY",
+        "MOVE_DESTINY_BOND",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_PROTECT",
+        "MOVE_THIEF",
+        "MOVE_TAKE_DOWN",
+        "MOVE_HYPER_BEAM",
+        "MOVE_ENDEAVOR",
+        "MOVE_REVERSAL",
+        "MOVE_TRAILBLAZE",
+        "MOVE_HAZE",
+        "MOVE_AVALANCHE",
+        "MOVE_GIGA_IMPACT",
+        "MOVE_ICE_PUNCH",
+        "MOVE_COUNTER",
+        "MOVE_QUICK_ATTACK",
+        "MOVE_STRENGTH",
+        "MOVE_FOUL_PLAY",
+        "MOVE_ICE_SPINNER",
+        "MOVE_SNOWSCAPE",
+        "MOVE_AURORA_BEAM",
+        "MOVE_AERIAL_ACE",
+        "MOVE_FOCUS_PUNCH",
+        "MOVE_BODY_SLAM"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_SPIKES",
+                "MOVE_RAPID_SPIN",
+                "MOVE_ICY_WIND",
+                "MOVE_DESTINY_BOND"
+            ],
+            "Ability": "ABILITY_VITAL_SPIRIT",
+            "Item": "ITEM_FOCUS_SASH",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Spikes Lead",
+            "SourceTiers": [
+                "GEN6PU",
+                "GEN7PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SPIKES",
+                "MOVE_RAPID_SPIN",
+                "MOVE_MEMENTO",
+                "MOVE_FREEZE_DRY"
+            ],
+            "Ability": "ABILITY_VITAL_SPIRIT",
+            "Item": "ITEM_FOCUS_SASH",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Suicide Lead",
+            "SourceTiers": [
+                "GEN8ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_RAPID_SPIN",
+                "MOVE_SPIKES",
+                "MOVE_DESTINY_BOND",
+                "MOVE_FREEZE_DRY"
+            ],
+            "Ability": "ABILITY_VITAL_SPIRIT",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN9ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SPIKES",
+                "MOVE_RAPID_SPIN",
+                "MOVE_ICY_WIND",
+                "MOVE_DESTINY_BOND"
+            ],
+            "Item": "ITEM_FOCUS_SASH",
+            "Ability": "ABILITY_TECHNICIAN",
+            "HiddenPower": null,
+            "SourceTiers": [
+                "GEN7PU"
+            ],
+            "Name": "Lead",
+            "Nature": "NATURE_HARDY",
+            "TeraType": null
+        },
+        {
+            "Moves": [
+                "MOVE_BLIZZARD",
+                "MOVE_HURRICANE",
+                "MOVE_U_TURN",
+                "MOVE_WATER_PULSE"
+            ],
+            "Item": "ITEM_CHOICE_SCARF",
+            "Ability": "ABILITY_SHEER_FORCE",
+            "HiddenPower": null,
+            "SourceTiers": [
+                "GEN7PU"
+            ],
+            "Name": "Choice Scarf",
+            "Nature": "NATURE_HARDY",
+            "TeraType": null
+        },
+        {
+            "Moves": [
+                "MOVE_ICE_BEAM",
+                "MOVE_AIR_SLASH",
+                "MOVE_NASTY_PLOT",
+                "MOVE_WATER_PULSE"
+            ],
+            "Item": "ITEM_LIFE_ORB",
+            "Ability": "ABILITY_SHEER_FORCE",
+            "HiddenPower": null,
+            "SourceTiers": [
+                "GEN7PU"
+            ],
+            "Name": "Nasty Plot",
+            "Nature": "NATURE_HARDY",
+            "TeraType": null
+        }
+    ]
+}

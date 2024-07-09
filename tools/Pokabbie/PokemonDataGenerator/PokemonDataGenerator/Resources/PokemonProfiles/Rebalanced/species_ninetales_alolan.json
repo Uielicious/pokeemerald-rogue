@@ -1,0 +1,762 @@
+{
+    "Species": "SPECIES_NINETALES_ALOLAN",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_DAZZLING_GLEAM",
+            "Level": 0
+        },
+        {
+            "Move": "MOVE_TAIL_WHIP",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_BLIZZARD",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_ICY_WIND",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_IMPRISON",
+            "Level": 1
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_ICE_BEAM",
+        "MOVE_BABY_DOLL_EYES",
+        "MOVE_DARK_PULSE",
+        "MOVE_CHILLING_WATER",
+        "MOVE_SHEER_COLD",
+        "MOVE_BATON_PASS",
+        "MOVE_DOUBLE_EDGE",
+        "MOVE_CALM_MIND",
+        "MOVE_DREAM_EATER",
+        "MOVE_SUBSTITUTE",
+        "MOVE_FACADE",
+        "MOVE_ICICLE_SPEAR",
+        "MOVE_SAFEGUARD",
+        "MOVE_TRIPLE_AXEL",
+        "MOVE_SLEEP_TALK",
+        "MOVE_STORED_POWER",
+        "MOVE_FREEZE_DRY",
+        "MOVE_CONFUSE_RAY",
+        "MOVE_DRAINING_KISS",
+        "MOVE_DIG",
+        "MOVE_HOWL",
+        "MOVE_NASTY_PLOT",
+        "MOVE_TERA_BLAST",
+        "MOVE_ENDURE",
+        "MOVE_MOONBLAST",
+        "MOVE_RAIN_DANCE",
+        "MOVE_WEATHER_BALL",
+        "MOVE_REST",
+        "MOVE_PAIN_SPLIT",
+        "MOVE_AURORA_VEIL",
+        "MOVE_DISARMING_VOICE",
+        "MOVE_HELPING_HAND",
+        "MOVE_DISABLE",
+        "MOVE_HYPNOSIS",
+        "MOVE_AGILITY",
+        "MOVE_ZEN_HEADBUTT",
+        "MOVE_MIMIC",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_SWAGGER",
+        "MOVE_PROTECT",
+        "MOVE_FLAIL",
+        "MOVE_PSYSHOCK",
+        "MOVE_TAKE_DOWN",
+        "MOVE_HYPER_BEAM",
+        "MOVE_MISTY_TERRAIN",
+        "MOVE_SWIFT",
+        "MOVE_ROAR",
+        "MOVE_AVALANCHE",
+        "MOVE_ENCORE",
+        "MOVE_GIGA_IMPACT",
+        "MOVE_FAKE_TEARS",
+        "MOVE_HEX",
+        "MOVE_SPITE",
+        "MOVE_PLAY_ROUGH",
+        "MOVE_FOUL_PLAY",
+        "MOVE_CHARM",
+        "MOVE_SNORE",
+        "MOVE_SNOWSCAPE",
+        "MOVE_PSYCH_UP",
+        "MOVE_BODY_SLAM"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_AURORA_VEIL",
+                "MOVE_FREEZE_DRY",
+                "MOVE_HYPNOSIS",
+                "MOVE_SNOWSCAPE"
+            ],
+            "Ability": "ABILITY_SNOW_WARNING",
+            "Item": "ITEM_LIGHT_CLAY",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Aurora Veil",
+            "SourceTiers": [
+                "GEN7OU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_AURORA_VEIL",
+                "MOVE_FREEZE_DRY",
+                "MOVE_MOONBLAST",
+                "MOVE_BLIZZARD"
+            ],
+            "Ability": "ABILITY_SNOW_WARNING",
+            "Item": "ITEM_LIGHT_CLAY",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7OU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_BLIZZARD",
+                "MOVE_AURORA_VEIL",
+                "MOVE_ENCORE",
+                "MOVE_PROTECT"
+            ],
+            "Ability": "ABILITY_SNOW_WARNING",
+            "Item": "ITEM_LIGHT_CLAY",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Support Attacker",
+            "SourceTiers": [
+                "GEN7DOUBLESOU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_AURORA_VEIL",
+                "MOVE_BLIZZARD",
+                "MOVE_DAZZLING_GLEAM",
+                "MOVE_FREEZE_DRY"
+            ],
+            "Ability": "ABILITY_SNOW_WARNING",
+            "Item": "ITEM_LIGHT_CLAY",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7DOUBLESOU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_AURORA_VEIL",
+                "MOVE_ENCORE",
+                "MOVE_BLIZZARD",
+                "MOVE_SHEER_COLD"
+            ],
+            "Ability": "ABILITY_SNOW_WARNING",
+            "Item": "ITEM_LIGHT_CLAY",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Aurora Veil Setter",
+            "SourceTiers": [
+                "GEN7BATTLESPOTSINGLES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_BLIZZARD",
+                "MOVE_AURORA_VEIL",
+                "MOVE_PROTECT",
+                "MOVE_FREEZE_DRY"
+            ],
+            "Ability": "ABILITY_SNOW_WARNING",
+            "Item": "ITEM_LIGHT_CLAY",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7BATTLESPOTDOUBLES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_BLIZZARD",
+                "MOVE_FREEZE_DRY",
+                "MOVE_AURORA_VEIL",
+                "MOVE_PROTECT"
+            ],
+            "Ability": "ABILITY_SNOW_WARNING",
+            "Item": "ITEM_FOCUS_SASH",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Hail Setter",
+            "SourceTiers": [
+                "GEN7VGC2017",
+                "GEN7VGC2018"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_AURORA_VEIL",
+                "MOVE_BLIZZARD",
+                "MOVE_ENCORE",
+                "MOVE_PROTECT"
+            ],
+            "Ability": "ABILITY_SNOW_WARNING",
+            "Item": "ITEM_LIGHT_CLAY",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7VGC2017"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_AURORA_VEIL",
+                "MOVE_BLIZZARD",
+                "MOVE_PROTECT",
+                "MOVE_FREEZE_DRY"
+            ],
+            "Ability": "ABILITY_SNOW_WARNING",
+            "Item": "ITEM_LIGHT_CLAY",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7VGC2018"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SUBSTITUTE",
+                "MOVE_MOONBLAST",
+                "MOVE_BLIZZARD",
+                "MOVE_NASTY_PLOT"
+            ],
+            "Ability": "ABILITY_SNOW_WARNING",
+            "Item": "ITEM_FAIRIUM_Z",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Fairium Z",
+            "SourceTiers": [
+                "GEN71V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_NASTY_PLOT",
+                "MOVE_ICE_BEAM",
+                "MOVE_DAZZLING_GLEAM",
+                "MOVE_DARK_PULSE"
+            ],
+            "Ability": null,
+            "Item": null,
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Nasty Plot",
+            "SourceTiers": [
+                "GEN7LETSGOOU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_ICE_BEAM",
+                "MOVE_DAZZLING_GLEAM",
+                "MOVE_NASTY_PLOT",
+                "MOVE_DARK_PULSE"
+            ],
+            "Ability": null,
+            "Item": null,
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7LETSGOOU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_AURORA_VEIL",
+                "MOVE_FREEZE_DRY",
+                "MOVE_MOONBLAST",
+                "MOVE_ENCORE"
+            ],
+            "Ability": "ABILITY_SNOW_WARNING",
+            "Item": "ITEM_LIGHT_CLAY",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Offensive Support (Ice)",
+            "SourceTiers": [
+                "GEN7MONOTYPE",
+                "GEN8OU",
+                "GEN8MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_MOONBLAST",
+                "MOVE_AURORA_VEIL",
+                "MOVE_FREEZE_DRY",
+                "MOVE_BLIZZARD"
+            ],
+            "Ability": "ABILITY_SNOW_WARNING",
+            "Item": "ITEM_LIGHT_CLAY",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_AURORA_VEIL",
+                "MOVE_FREEZE_DRY",
+                "MOVE_ENCORE",
+                "MOVE_PAIN_SPLIT"
+            ],
+            "Ability": "ABILITY_SNOW_WARNING",
+            "Item": "ITEM_ICY_ROCK",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Hail Setter",
+            "SourceTiers": [
+                "GEN8OU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_AURORA_VEIL",
+                "MOVE_HYPNOSIS",
+                "MOVE_FREEZE_DRY",
+                "MOVE_ENCORE"
+            ],
+            "Ability": "ABILITY_SNOW_WARNING",
+            "Item": "ITEM_LIGHT_CLAY",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Aurora Veil",
+            "SourceTiers": [
+                "GEN8OU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_MOONBLAST",
+                "MOVE_BLIZZARD",
+                "MOVE_HYPNOSIS",
+                "MOVE_FREEZE_DRY"
+            ],
+            "Ability": "ABILITY_SNOW_WARNING",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Scarf",
+            "SourceTiers": [
+                "GEN8OU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_AURORA_VEIL",
+                "MOVE_PAIN_SPLIT",
+                "MOVE_ENCORE",
+                "MOVE_FREEZE_DRY"
+            ],
+            "Ability": "ABILITY_SNOW_WARNING",
+            "Item": "ITEM_ICY_ROCK",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Hail Setter",
+            "SourceTiers": [
+                "GEN8NATIONALDEX"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_AURORA_VEIL",
+                "MOVE_MOONBLAST",
+                "MOVE_FREEZE_DRY",
+                "MOVE_BLIZZARD"
+            ],
+            "Ability": "ABILITY_SNOW_WARNING",
+            "Item": "ITEM_LIGHT_CLAY",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8NATIONALDEX",
+                "GEN8MONOTYPE",
+                "GEN8NATIONALDEXMONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_BLIZZARD",
+                "MOVE_ENCORE",
+                "MOVE_AURORA_VEIL",
+                "MOVE_PROTECT"
+            ],
+            "Ability": "ABILITY_SNOW_WARNING",
+            "Item": "ITEM_LIGHT_CLAY",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Hail Setter",
+            "SourceTiers": [
+                "GEN8DOUBLESOU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_BLIZZARD",
+                "MOVE_DAZZLING_GLEAM",
+                "MOVE_FREEZE_DRY",
+                "MOVE_AURORA_VEIL"
+            ],
+            "Ability": "ABILITY_SNOW_WARNING",
+            "Item": "ITEM_LIGHT_CLAY",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8DOUBLESOU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_MOONBLAST",
+                "MOVE_BLIZZARD",
+                "MOVE_AURORA_VEIL",
+                "MOVE_FREEZE_DRY"
+            ],
+            "Ability": "ABILITY_SNOW_WARNING",
+            "Item": "ITEM_LIGHT_CLAY",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8BATTLESTADIUMSINGLES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_AURORA_VEIL",
+                "MOVE_BLIZZARD",
+                "MOVE_PROTECT",
+                "MOVE_MOONBLAST"
+            ],
+            "Ability": "ABILITY_SNOW_WARNING",
+            "Item": "ITEM_LIGHT_CLAY",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8VGC2020"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_AURORA_VEIL",
+                "MOVE_DISABLE",
+                "MOVE_ENCORE",
+                "MOVE_MOONBLAST"
+            ],
+            "Ability": "ABILITY_SNOW_WARNING",
+            "Item": "ITEM_SITRUS_BERRY",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Encore + Disable",
+            "SourceTiers": [
+                "GEN81V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_PROTECT",
+                "MOVE_DISABLE",
+                "MOVE_MOONBLAST",
+                "MOVE_BLIZZARD"
+            ],
+            "Ability": "ABILITY_SNOW_WARNING",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Life Orb",
+            "SourceTiers": [
+                "GEN81V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_MOONBLAST",
+                "MOVE_BLIZZARD",
+                "MOVE_FREEZE_DRY",
+                "MOVE_DARK_PULSE"
+            ],
+            "Ability": "ABILITY_SNOW_WARNING",
+            "Item": "ITEM_CHOICE_SPECS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN81V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_AURORA_VEIL",
+                "MOVE_MOONBLAST",
+                "MOVE_FREEZE_DRY",
+                "MOVE_ENCORE"
+            ],
+            "Ability": "ABILITY_SNOW_WARNING",
+            "Item": "ITEM_LIGHT_CLAY",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Aurora Veil (Ice)",
+            "SourceTiers": [
+                "GEN8MONOTYPE",
+                "GEN8NATIONALDEXMONOTYPE",
+                "GEN9MONOTYPE",
+                "GEN9NATIONALDEXMONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_AURORA_VEIL",
+                "MOVE_MOONBLAST",
+                "MOVE_ENCORE",
+                "MOVE_FREEZE_DRY"
+            ],
+            "Ability": "ABILITY_SNOW_WARNING",
+            "Item": "ITEM_LIGHT_CLAY",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN9UBERS",
+                "GEN9NATIONALDEXMONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_AURORA_VEIL",
+                "MOVE_ENCORE",
+                "MOVE_FREEZE_DRY",
+                "MOVE_MOONBLAST"
+            ],
+            "Ability": "ABILITY_SNOW_WARNING",
+            "Item": "ITEM_LIGHT_CLAY",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": "TYPE_WATER",
+            "Name": "Aurora Veil",
+            "SourceTiers": [
+                "GEN9OU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_AURORA_VEIL",
+                "MOVE_FREEZE_DRY",
+                "MOVE_ENCORE",
+                "MOVE_MOONBLAST"
+            ],
+            "Ability": "ABILITY_SNOW_WARNING",
+            "Item": "ITEM_LIGHT_CLAY",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN9OU",
+                "GEN9NATIONALDEX"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_AURORA_VEIL",
+                "MOVE_FREEZE_DRY",
+                "MOVE_ENCORE",
+                "MOVE_SNOWSCAPE"
+            ],
+            "Ability": "ABILITY_SNOW_WARNING",
+            "Item": "ITEM_LIGHT_CLAY",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": "TYPE_WATER",
+            "Name": "Aurora Veil",
+            "SourceTiers": [
+                "GEN9UU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_AURORA_VEIL",
+                "MOVE_FREEZE_DRY",
+                "MOVE_ENCORE",
+                "MOVE_SAFEGUARD"
+            ],
+            "Ability": "ABILITY_SNOW_WARNING",
+            "Item": "ITEM_LIGHT_CLAY",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": "TYPE_STEEL",
+            "Name": "Aurora Veil Setter",
+            "SourceTiers": [
+                "GEN9NATIONALDEX"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_BLIZZARD",
+                "MOVE_AURORA_VEIL",
+                "MOVE_ICY_WIND",
+                "MOVE_ENCORE"
+            ],
+            "Ability": "ABILITY_SNOW_WARNING",
+            "Item": "ITEM_LIGHT_CLAY",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": "TYPE_GHOST",
+            "Name": "Aurora Veil",
+            "SourceTiers": [
+                "GEN9DOUBLESOU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_AURORA_VEIL",
+                "MOVE_BLIZZARD",
+                "MOVE_DAZZLING_GLEAM",
+                "MOVE_MOONBLAST"
+            ],
+            "Ability": "ABILITY_SNOW_WARNING",
+            "Item": "ITEM_LIGHT_CLAY",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN9DOUBLESOU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_PROTECT",
+                "MOVE_ENCORE",
+                "MOVE_DISABLE",
+                "MOVE_MOONBLAST"
+            ],
+            "Ability": "ABILITY_SNOW_WARNING",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": "TYPE_ICE",
+            "Name": "Encore + Disable",
+            "SourceTiers": [
+                "GEN91V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_PROTECT",
+                "MOVE_ENCORE",
+                "MOVE_DISABLE",
+                "MOVE_DRAINING_KISS"
+            ],
+            "Ability": "ABILITY_SNOW_WARNING",
+            "Item": "ITEM_SITRUS_BERRY",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": "TYPE_ICE",
+            "Name": "Sitrus Berry",
+            "SourceTiers": [
+                "GEN91V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_MOONBLAST",
+                "MOVE_FREEZE_DRY",
+                "MOVE_CALM_MIND",
+                "MOVE_ENCORE"
+            ],
+            "Ability": "ABILITY_SNOW_WARNING",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": "TYPE_ICE",
+            "Name": "Life Orb",
+            "SourceTiers": [
+                "GEN91V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_MOONBLAST",
+                "MOVE_ENCORE",
+                "MOVE_DISABLE",
+                "MOVE_BLIZZARD"
+            ],
+            "Ability": "ABILITY_SNOW_WARNING",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN91V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_AURORA_VEIL",
+                "MOVE_FREEZE_DRY",
+                "MOVE_MOONBLAST",
+                "MOVE_ENCORE"
+            ],
+            "Ability": "ABILITY_SNOW_WARNING",
+            "Item": "ITEM_ICY_ROCK",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Snow Support (Ice)",
+            "SourceTiers": [
+                "GEN9MONOTYPE"
+            ]
+        }
+    ]
+}

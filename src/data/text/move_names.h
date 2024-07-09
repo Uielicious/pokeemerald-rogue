@@ -904,6 +904,10 @@ const u8 gMoveNames[MOVES_COUNT_DYNAMAX][MOVE_NAME_LENGTH + 1] =
     [MOVE_G_MAX_DEPLETION] = _("Gmax Depletion"),
     [MOVE_G_MAX_ONE_BLOW] = _("Gmax One Blow"),
     [MOVE_G_MAX_RAPID_FLOW] = _("Gmax Rapid Flow"),
+#ifdef ROGUE_DRAYANO
+    // Extra Moves    
+    [MOVE_SWIRLING_BLADE] = _("Swirling Blade"),
+#endif
 };
 #else
 // 12 letters
@@ -1811,6 +1815,10 @@ const u8 gMoveNames[MOVES_COUNT_DYNAMAX][MOVE_NAME_LENGTH + 1] =
     [MOVE_G_MAX_DEPLETION] = _("G-Depletion"),
     [MOVE_G_MAX_ONE_BLOW] = _("G-One Blow"),
     [MOVE_G_MAX_RAPID_FLOW] = _("G-Rapid Flow"),
+#ifdef ROGUE_DRAYANO
+    // Extra Moves    
+    [MOVE_SWIRLING_BLADE] = _("SwirlngBlade"),
+#endif
 };
 #endif
 

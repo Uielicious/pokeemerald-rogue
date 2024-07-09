@@ -1,0 +1,99 @@
+{
+    "Species": "SPECIES_PUMPKABOO",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_ASTONISH",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_TRICK_OR_TREAT",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_SHADOW_SNEAK",
+            "Level": 4
+        },
+        {
+            "Move": "MOVE_CONFUSE_RAY",
+            "Level": 8
+        },
+        {
+            "Move": "MOVE_RAZOR_LEAF",
+            "Level": 12
+        },
+        {
+            "Move": "MOVE_LEECH_SEED",
+            "Level": 16
+        },
+        {
+            "Move": "MOVE_BULLET_SEED",
+            "Level": 20
+        },
+        {
+            "Move": "MOVE_SCARY_FACE",
+            "Level": 24
+        },
+        {
+            "Move": "MOVE_WORRY_SEED",
+            "Level": 28
+        },
+        {
+            "Move": "MOVE_SEED_BOMB",
+            "Level": 32
+        },
+        {
+            "Move": "MOVE_SHADOW_BALL",
+            "Level": 36
+        },
+        {
+            "Move": "MOVE_TRICK",
+            "Level": 40
+        },
+        {
+            "Move": "MOVE_PAIN_SPLIT",
+            "Level": 44
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_ENDURE",
+        "MOVE_SOLAR_BEAM",
+        "MOVE_TRICK_ROOM",
+        "MOVE_LIGHT_SCREEN",
+        "MOVE_GIGA_DRAIN",
+        "MOVE_SUBSTITUTE",
+        "MOVE_DESTINY_BOND",
+        "MOVE_PROTECT",
+        "MOVE_GYRO_BALL",
+        "MOVE_PSYCHIC",
+        "MOVE_SLUDGE_BOMB",
+        "MOVE_ROCK_SLIDE",
+        "MOVE_WILL_O_WISP",
+        "MOVE_FIRE_BLAST",
+        "MOVE_IMPRISON",
+        "MOVE_POLTERGEIST",
+        "MOVE_GRASS_KNOT",
+        "MOVE_FLAMETHROWER",
+        "MOVE_FOUL_PLAY",
+        "MOVE_REST",
+        "MOVE_SNORE",
+        "MOVE_CURSE",
+        "MOVE_FLAME_CHARGE",
+        "MOVE_SUNNY_DAY",
+        "MOVE_SKITTER_SMACK",
+        "MOVE_HEX",
+        "MOVE_FACADE",
+        "MOVE_DISABLE",
+        "MOVE_MYSTICAL_FIRE",
+        "MOVE_THIEF",
+        "MOVE_SLEEP_TALK",
+        "MOVE_ALLY_SWITCH",
+        "MOVE_ENERGY_BALL",
+        "MOVE_GRASSY_GLIDE",
+        "MOVE_ROUND",
+        "MOVE_SAFEGUARD",
+        "MOVE_DARK_PULSE",
+        "MOVE_ATTRACT",
+        "MOVE_SKILL_SWAP"
+    ],
+    "CompetitiveSets": []
+}

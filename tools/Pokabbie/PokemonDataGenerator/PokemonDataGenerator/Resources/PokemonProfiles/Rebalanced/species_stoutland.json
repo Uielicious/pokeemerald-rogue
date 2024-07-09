@@ -1,0 +1,271 @@
+{
+    "Species": "SPECIES_STOUTLAND",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_ICE_FANG",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_FIRE_FANG",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_THUNDER_FANG",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_LEER",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_TACKLE",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_ODOR_SLEUTH",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_BITE",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_ODOR_SLEUTH",
+            "Level": "5"
+        },
+        {
+            "Move": "MOVE_BITE",
+            "Level": "8"
+        },
+        {
+            "Move": "MOVE_HELPING_HAND",
+            "Level": "12"
+        },
+        {
+            "Move": "MOVE_TAKE_DOWN",
+            "Level": "15"
+        },
+        {
+            "Move": "MOVE_WORK_UP",
+            "Level": "20"
+        },
+        {
+            "Move": "MOVE_CRUNCH",
+            "Level": "24"
+        },
+        {
+            "Move": "MOVE_ROAR",
+            "Level": "29"
+        },
+        {
+            "Move": "MOVE_RETALIATE",
+            "Level": "34"
+        },
+        {
+            "Move": "MOVE_REVERSAL",
+            "Level": "40"
+        },
+        {
+            "Move": "MOVE_LAST_RESORT",
+            "Level": "45"
+        },
+        {
+            "Move": "MOVE_GIGA_IMPACT",
+            "Level": "51"
+        },
+        {
+            "Move": "MOVE_PLAY_ROUGH",
+            "Level": "56"
+        },
+        {
+            "Move": "MOVE_HIGH_HORSEPOWER",
+            "Level": "62"
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_SUPERPOWER",
+        "MOVE_PSYCHIC_FANGS",
+        "MOVE_ATTRACT",
+        "MOVE_IRON_HEAD",
+        "MOVE_ROCK_TOMB",
+        "MOVE_PAYBACK",
+        "MOVE_PROTECT",
+        "MOVE_HYPER_BEAM",
+        "MOVE_SUBSTITUTE",
+        "MOVE_UPROAR",
+        "MOVE_SUNNY_DAY",
+        "MOVE_FACADE",
+        "MOVE_STOMPING_TANTRUM",
+        "MOVE_SHADOW_BALL",
+        "MOVE_SLEEP_TALK",
+        "MOVE_WILD_CHARGE",
+        "MOVE_THUNDERBOLT",
+        "MOVE_DIG",
+        "MOVE_HYPER_VOICE",
+        "MOVE_SNARL",
+        "MOVE_ENDURE",
+        "MOVE_RETURN",
+        "MOVE_PURSUIT",
+        "MOVE_THUNDER",
+        "MOVE_CHARM",
+        "MOVE_ROUND",
+        "MOVE_SURF",
+        "MOVE_SNORE",
+        "MOVE_THUNDER_WAVE",
+        "MOVE_RAIN_DANCE",
+        "MOVE_REST"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_RETURN",
+                "MOVE_CRUNCH",
+                "MOVE_SUPERPOWER",
+                "MOVE_PURSUIT"
+            ],
+            "Ability": "ABILITY_SAND_RUSH",
+            "Item": "ITEM_CHOICE_BAND",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Sand Wallbreaker",
+            "SourceTiers": [
+                "GEN6NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SUPERPOWER",
+                "MOVE_CRUNCH",
+                "MOVE_RETURN",
+                "MOVE_FACADE"
+            ],
+            "Ability": "ABILITY_SCRAPPY",
+            "Item": "ITEM_CHOICE_BAND",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_RETURN",
+                "MOVE_FACADE",
+                "MOVE_SUPERPOWER",
+                "MOVE_CRUNCH"
+            ],
+            "Ability": "ABILITY_SCRAPPY",
+            "Item": "ITEM_CHOICE_BAND",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Wallbreaker",
+            "SourceTiers": [
+                "GEN6PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_RETURN",
+                "MOVE_SUPERPOWER",
+                "MOVE_CRUNCH",
+                "MOVE_FACADE"
+            ],
+            "Ability": "ABILITY_SAND_RUSH",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Sand Rush",
+            "SourceTiers": [
+                "GEN6PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SUPERPOWER",
+                "MOVE_FACADE",
+                "MOVE_RETURN",
+                "MOVE_CRUNCH"
+            ],
+            "Ability": "ABILITY_SCRAPPY",
+            "Item": "ITEM_CHOICE_BAND",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_RETURN",
+                "MOVE_SUPERPOWER",
+                "MOVE_PURSUIT",
+                "MOVE_CRUNCH"
+            ],
+            "Ability": "ABILITY_SAND_RUSH",
+            "Item": "ITEM_CHOICE_BAND",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Sand Attacker",
+            "SourceTiers": [
+                "GEN7RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_RETURN",
+                "MOVE_HIGH_HORSEPOWER",
+                "MOVE_PURSUIT",
+                "MOVE_FACADE"
+            ],
+            "Ability": "ABILITY_SCRAPPY",
+            "Item": "ITEM_CHOICE_BAND",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Band",
+            "SourceTiers": [
+                "GEN7PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SUPERPOWER",
+                "MOVE_RETURN",
+                "MOVE_FACADE",
+                "MOVE_PURSUIT"
+            ],
+            "Ability": "ABILITY_SCRAPPY",
+            "Item": "ITEM_CHOICE_BAND",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_RETALIATE",
+                "MOVE_LAST_RESORT"
+            ],
+            "Ability": "ABILITY_SCRAPPY",
+            "Item": "ITEM_SILK_SCARF",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Wallbreaker",
+            "SourceTiers": [
+                "GEN8ZU"
+            ]
+        }
+    ]
+}

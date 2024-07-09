@@ -110,6 +110,7 @@
       "Item": "ITEM_LIFE_ORB",
       "Nature": "NATURE_TIMID",
       "HiddenPower": null,
+      "Name": "Special Attacker",
       "SourceTiers": [
         "GEN6UBERS"
       ]
@@ -125,6 +126,7 @@
       "Item": "ITEM_LIFE_ORB",
       "Nature": "NATURE_TIMID",
       "HiddenPower": null,
+      "Name": "Showdown Usage",
       "SourceTiers": [
         "GEN6UBERS"
       ]
@@ -140,6 +142,7 @@
       "Item": "ITEM_LEFTOVERS",
       "Nature": "NATURE_TIMID",
       "HiddenPower": null,
+      "Name": "Sleep Inducer",
       "SourceTiers": [
         "GEN6ANYTHINGGOES"
       ]
@@ -155,6 +158,7 @@
       "Item": "ITEM_LEFTOVERS",
       "Nature": "NATURE_TIMID",
       "HiddenPower": null,
+      "Name": "Showdown Usage",
       "SourceTiers": [
         "GEN6ANYTHINGGOES"
       ]
@@ -170,6 +174,7 @@
       "Item": "ITEM_LIFE_ORB",
       "Nature": "NATURE_TIMID",
       "HiddenPower": null,
+      "Name": "Special Attacker",
       "SourceTiers": [
         "GEN7UBERS"
       ]
@@ -185,6 +190,7 @@
       "Item": "ITEM_LIFE_ORB",
       "Nature": "NATURE_TIMID",
       "HiddenPower": null,
+      "Name": "Showdown Usage",
       "SourceTiers": [
         "GEN7UBERS"
       ]
@@ -200,6 +206,7 @@
       "Item": "ITEM_LEFTOVERS",
       "Nature": "NATURE_TIMID",
       "HiddenPower": null,
+      "Name": "Showdown Usage",
       "SourceTiers": [
         "GEN7ANYTHINGGOES",
         "GEN9ANYTHINGGOES"
@@ -216,6 +223,7 @@
       "Item": "ITEM_CHOICE_SCARF",
       "Nature": "NATURE_TIMID",
       "HiddenPower": null,
+      "Name": "Choice Scarf",
       "SourceTiers": [
         "GEN9UBERS"
       ]
@@ -231,6 +239,7 @@
       "Item": "ITEM_LIFE_ORB",
       "Nature": "NATURE_TIMID",
       "HiddenPower": null,
+      "Name": "Nasty Plot",
       "SourceTiers": [
         "GEN9UBERS"
       ]
@@ -246,6 +255,7 @@
       "Item": "ITEM_LIFE_ORB",
       "Nature": "NATURE_TIMID",
       "HiddenPower": null,
+      "Name": "Nasty Plot",
       "SourceTiers": [
         "GEN9OU"
       ]
@@ -261,6 +271,7 @@
       "Item": "ITEM_CHOICE_SCARF",
       "Nature": "NATURE_TIMID",
       "HiddenPower": null,
+      "Name": "Choice Scarf",
       "SourceTiers": [
         "GEN9OU"
       ]
@@ -276,6 +287,7 @@
       "Item": "ITEM_CHOICE_SPECS",
       "Nature": "NATURE_TIMID",
       "HiddenPower": null,
+      "Name": "Choice Specs",
       "SourceTiers": [
         "GEN91V1"
       ]
@@ -291,6 +303,7 @@
       "Item": "ITEM_WIDE_LENS",
       "Nature": "NATURE_TIMID",
       "HiddenPower": null,
+      "Name": "Showdown Usage",
       "SourceTiers": [
         "GEN9NATIONALDEXAG"
       ]
@@ -306,6 +319,7 @@
       "Item": "ITEM_CHOICE_SCARF",
       "Nature": "NATURE_TIMID",
       "HiddenPower": null,
+      "Name": "Choiced Attacker",
       "SourceTiers": [
         "GEN9MONOTYPE"
       ]
@@ -321,6 +335,7 @@
       "Item": "ITEM_LEFTOVERS",
       "Nature": "NATURE_TIMID",
       "HiddenPower": null,
+      "Name": "Nasty Plot",
       "SourceTiers": [
         "GEN9MONOTYPE"
       ]
@@ -336,6 +351,7 @@
       "Item": "ITEM_LEFTOVERS",
       "Nature": "NATURE_TIMID",
       "HiddenPower": null,
+      "Name": "Showdown Usage",
       "SourceTiers": [
         "GEN9MONOTYPE"
       ]

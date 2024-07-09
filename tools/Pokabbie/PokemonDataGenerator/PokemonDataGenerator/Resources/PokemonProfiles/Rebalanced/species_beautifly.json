@@ -1,0 +1,146 @@
+{
+    "Species": "SPECIES_BEAUTIFLY",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_GUST",
+            "Level": "0"
+        },
+        {
+            "Move": "MOVE_GUST",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_ABSORB",
+            "Level": "12"
+        },
+        {
+            "Move": "MOVE_STUN_SPORE",
+            "Level": "15"
+        },
+        {
+            "Move": "MOVE_MORNING_SUN",
+            "Level": "17"
+        },
+        {
+            "Move": "MOVE_AIR_CUTTER",
+            "Level": "20"
+        },
+        {
+            "Move": "MOVE_MEGA_DRAIN",
+            "Level": "22"
+        },
+        {
+            "Move": "MOVE_SILVER_WIND",
+            "Level": "25"
+        },
+        {
+            "Move": "MOVE_ATTRACT",
+            "Level": "27"
+        },
+        {
+            "Move": "MOVE_AIR_SLASH",
+            "Level": "30"
+        },
+        {
+            "Move": "MOVE_WHIRLWIND",
+            "Level": "30"
+        },
+        {
+            "Move": "MOVE_GIGA_DRAIN",
+            "Level": "32"
+        },
+        {
+            "Move": "MOVE_BUG_BUZZ",
+            "Level": "35"
+        },
+        {
+            "Move": "MOVE_RAGE",
+            "Level": "37"
+        },
+        {
+            "Move": "MOVE_QUIVER_DANCE",
+            "Level": "40"
+        },
+        {
+            "Move": "MOVE_HURRICANE",
+            "Level": "45"
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_SOLAR_BEAM",
+        "MOVE_LASER_FOCUS",
+        "MOVE_FRUSTRATION",
+        "MOVE_VENOSHOCK",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_SWAGGER",
+        "MOVE_PROTECT",
+        "MOVE_THIEF",
+        "MOVE_IRON_DEFENSE",
+        "MOVE_DEFOG",
+        "MOVE_HYPER_BEAM",
+        "MOVE_SUBSTITUTE",
+        "MOVE_SUNNY_DAY",
+        "MOVE_FACADE",
+        "MOVE_TAILWIND",
+        "MOVE_CONFIDE",
+        "MOVE_ACROBATICS",
+        "MOVE_BUG_BITE",
+        "MOVE_SAFEGUARD",
+        "MOVE_SHADOW_BALL",
+        "MOVE_INFESTATION",
+        "MOVE_STRUGGLE_BUG",
+        "MOVE_SLEEP_TALK",
+        "MOVE_ENERGY_BALL",
+        "MOVE_PSYCHIC",
+        "MOVE_FLY",
+        "MOVE_GIGA_IMPACT",
+        "MOVE_TERA_BLAST",
+        "MOVE_ELECTROWEB",
+        "MOVE_RETURN",
+        "MOVE_ROOST",
+        "MOVE_SIGNAL_BEAM",
+        "MOVE_DOUBLE_TEAM",
+        "MOVE_ROUND",
+        "MOVE_OMINOUS_WIND",
+        "MOVE_SNORE",
+        "MOVE_U_TURN",
+        "MOVE_AERIAL_ACE",
+        "MOVE_REST"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_QUIVER_DANCE",
+                "MOVE_BUG_BUZZ",
+                "MOVE_HIDDEN_POWER",
+                "MOVE_ROOST"
+            ],
+            "Ability": "ABILITY_SWARM",
+            "Item": "ITEM_BUGINIUM_Z",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": "TYPE_FIGHTING",
+            "TeraType": null,
+            "Name": "Quiver Dance",
+            "SourceTiers": [
+                "GEN7PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_QUIVER_DANCE",
+                "MOVE_BUG_BUZZ",
+                "MOVE_AIR_SLASH",
+                "MOVE_GIGA_DRAIN"
+            ],
+            "Item": "ITEM_LIFE_ORB",
+            "Ability": "ABILITY_SWARM",
+            "HiddenPower": null,
+            "SourceTiers": [
+                "GEN7PU"
+            ],
+            "Name": "Quiver Dance (Air Slash + Giga Drain)",
+            "Nature": "NATURE_HARDY",
+            "TeraType": null
+        }
+    ]
+}

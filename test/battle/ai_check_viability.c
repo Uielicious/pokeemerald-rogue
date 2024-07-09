@@ -59,13 +59,21 @@ AI_SINGLE_BATTLE_TEST("AI sees increased base power of Wake Up Slap")
         ASSUME(B_UPDATED_MOVE_DATA >= GEN_6);
         ASSUME(gBattleMoves[MOVE_WAKE_UP_SLAP].effect == EFFECT_WAKE_UP_SLAP);
         AI_FLAGS(AI_FLAG_CHECK_BAD_MOVE | AI_FLAG_CHECK_VIABILITY | AI_FLAG_TRY_TO_FAINT);
+    #ifdef ROGUE_DRAYANO
+        PLAYER(SPECIES_TYPHLOSION) { HP(45); Status1(status1); }
+    #else
         PLAYER(SPECIES_MEGANIUM) { HP(35); Status1(status1); }
+    #endif
         OPPONENT(SPECIES_WOBBUFFET) { Moves(MOVE_BODY_SLAM, MOVE_WAKE_UP_SLAP); }
     } WHEN {
         TURN { EXPECT_MOVE(opponent, expectedMove); }
     } SCENE {
         if (expectedMove == MOVE_WAKE_UP_SLAP)
+        #ifdef ROGUE_DRAYANO
+            MESSAGE("Typhlosion fainted!");
+        #else
             MESSAGE("Meganium fainted!");
+        #endif
     }
 }
 

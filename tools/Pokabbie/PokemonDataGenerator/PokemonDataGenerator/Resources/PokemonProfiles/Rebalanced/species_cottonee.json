@@ -1,0 +1,225 @@
+{
+    "Species": "SPECIES_COTTONEE",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_ABSORB",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_FAIRY_WIND",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_GROWTH",
+            "Level": "4"
+        },
+        {
+            "Move": "MOVE_LEECH_SEED",
+            "Level": "8"
+        },
+        {
+            "Move": "MOVE_STUN_SPORE",
+            "Level": "10"
+        },
+        {
+            "Move": "MOVE_MEGA_DRAIN",
+            "Level": "13"
+        },
+        {
+            "Move": "MOVE_COTTON_SPORE",
+            "Level": "17"
+        },
+        {
+            "Move": "MOVE_RAZOR_LEAF",
+            "Level": "19"
+        },
+        {
+            "Move": "MOVE_POISON_POWDER",
+            "Level": "22"
+        },
+        {
+            "Move": "MOVE_GIGA_DRAIN",
+            "Level": "26"
+        },
+        {
+            "Move": "MOVE_CHARM",
+            "Level": "28"
+        },
+        {
+            "Move": "MOVE_HELPING_HAND",
+            "Level": "31"
+        },
+        {
+            "Move": "MOVE_ENERGY_BALL",
+            "Level": "34"
+        },
+        {
+            "Move": "MOVE_SLEEP_POWDER",
+            "Level": "36"
+        },
+        {
+            "Move": "MOVE_COTTON_GUARD",
+            "Level": "38"
+        },
+        {
+            "Move": "MOVE_SUNNY_DAY",
+            "Level": "40"
+        },
+        {
+            "Move": "MOVE_ENDEAVOR",
+            "Level": "44"
+        },
+        {
+            "Move": "MOVE_SOLAR_BEAM",
+            "Level": "46"
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_GRASSY_TERRAIN",
+        "MOVE_GRASS_KNOT",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_KNOCK_OFF",
+        "MOVE_PROTECT",
+        "MOVE_GRASSY_GLIDE",
+        "MOVE_SEED_BOMB",
+        "MOVE_SUBSTITUTE",
+        "MOVE_TAILWIND",
+        "MOVE_FACADE",
+        "MOVE_BEAT_UP",
+        "MOVE_MISTY_TERRAIN",
+        "MOVE_SWIFT",
+        "MOVE_SLEEP_TALK",
+        "MOVE_MEMENTO",
+        "MOVE_ENCORE",
+        "MOVE_FAKE_TEARS",
+        "MOVE_WORRY_SEED",
+        "MOVE_TERA_BLAST",
+        "MOVE_ENDURE",
+        "MOVE_DAZZLING_GLEAM",
+        "MOVE_SWITCHEROO",
+        "MOVE_TICKLE",
+        "MOVE_TAUNT",
+        "MOVE_REST"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_ENCORE",
+                "MOVE_KNOCK_OFF",
+                "MOVE_DAZZLING_GLEAM",
+                "MOVE_HIDDEN_POWER"
+            ],
+            "Ability": "ABILITY_PRANKSTER",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": "TYPE_FIGHTING",
+            "TeraType": null,
+            "Name": "Utility",
+            "SourceTiers": [
+                "GEN6LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_ENCORE",
+                "MOVE_DAZZLING_GLEAM",
+                "MOVE_GIGA_DRAIN",
+                "MOVE_STUN_SPORE"
+            ],
+            "Ability": "ABILITY_PRANKSTER",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_GIGA_DRAIN",
+                "MOVE_DAZZLING_GLEAM",
+                "MOVE_ENCORE",
+                "MOVE_MEMENTO"
+            ],
+            "Ability": "ABILITY_PRANKSTER",
+            "Item": "ITEM_DARKINIUM_Z",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Offensive Prankster",
+            "SourceTiers": [
+                "GEN7LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_DAZZLING_GLEAM",
+                "MOVE_GIGA_DRAIN",
+                "MOVE_ENCORE",
+                "MOVE_LEECH_SEED"
+            ],
+            "Ability": "ABILITY_PRANKSTER",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_MEMENTO",
+                "MOVE_KNOCK_OFF",
+                "MOVE_DAZZLING_GLEAM",
+                "MOVE_ENCORE"
+            ],
+            "Ability": "ABILITY_PRANKSTER",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Memento",
+            "SourceTiers": [
+                "GEN8LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_DAZZLING_GLEAM",
+                "MOVE_LEECH_SEED",
+                "MOVE_ENCORE",
+                "MOVE_MEMENTO"
+            ],
+            "Ability": "ABILITY_PRANKSTER",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_GIGA_DRAIN",
+                "MOVE_DAZZLING_GLEAM",
+                "MOVE_STUN_SPORE",
+                "MOVE_MEMENTO"
+            ],
+            "Ability": "ABILITY_PRANKSTER",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": "TYPE_FAIRY",
+            "Name": "Memento",
+            "SourceTiers": [
+                "GEN9LC"
+            ]
+        }
+    ]
+}

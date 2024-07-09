@@ -3,7 +3,11 @@ static const u8 sStenchDescription[] = _("May cause a foe to flinch.");
 static const u8 sDrizzleDescription[] = _("Summons rain in battle.");
 static const u8 sSpeedBoostDescription[] = _("Gradually boosts Speed.");
 static const u8 sBattleArmorDescription[] = _("Blocks critical hits.");
+#ifdef ROGUE_DRAYANO
+static const u8 sSturdyDescription[] = _("Prevents one-hit KOs.");
+#else
 static const u8 sSturdyDescription[] = _("Negates 1-hit KO attacks.");
+#endif
 static const u8 sDampDescription[] = _("Prevents self-destruction.");
 static const u8 sLimberDescription[] = _("Prevents paralysis.");
 static const u8 sSandVeilDescription[] = _("Ups evasion in a sandstorm.");
@@ -45,7 +49,11 @@ static const u8 sSoundproofDescription[] = _("Avoids sound-based moves.");
 static const u8 sRainDishDescription[] = _("Slight HP recovery in rain.");
 static const u8 sSandStreamDescription[] = _("Summons a sandstorm.");
 static const u8 sPressureDescription[] = _("Raises foe's PP usage.");
+#ifdef ROGUE_DRAYANO
+static const u8 sThickFatDescription[] = _("Resists Fire and Ice.");
+#else
 static const u8 sThickFatDescription[] = _("Heat-and-cold protection.");
+#endif
 static const u8 sEarlyBirdDescription[] = _("Awakens quickly from sleep.");
 static const u8 sFlameBodyDescription[] = _("Burns the foe on contact.");
 static const u8 sRunAwayDescription[] = _("Makes escaping easier.");
@@ -166,7 +174,11 @@ static const u8 sFlowerVeilDescription[] = _("Protects Grass-types.");
 static const u8 sCheekPouchDescription[] = _("Eating Berries restores HP.");
 static const u8 sProteanDescription[] = _("Changes type to used move.");
 static const u8 sFurCoatDescription[] = _("Raises Defense.");
+#ifdef ROGUE_DRAYANO
+static const u8 sBulletproofDescription[] = _("Blocks balls and bombs.");
+#else
 static const u8 sBulletproofDescription[] = _("Avoids some projectiles.");
+#endif
 static const u8 sCompetitiveDescription[] = _("Lowered stats up Sp. Atk.");
 static const u8 sStrongJawDescription[] = _("Boosts biting moves.");
 static const u8 sRefrigerateDescription[] = _("Normal moves become Ice.");

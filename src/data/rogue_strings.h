@@ -6,7 +6,9 @@
 // -update RogueSave_GetVersionIdFor()
 const u8 gText_RogueVersion[] = _("v2.0.1a");
 
-#ifdef ROGUE_EXPANSION
+#if defined(ROGUE_DRAYANO)
+const u8 gText_RogueVersionPrefix[] = _("Rebalanced");
+#elif defined(ROGUE_EXPANSION)
 const u8 gText_RogueVersionPrefix[] = _("EX");
 #else
 const u8 gText_RogueVersionPrefix[] = _("Vanilla");

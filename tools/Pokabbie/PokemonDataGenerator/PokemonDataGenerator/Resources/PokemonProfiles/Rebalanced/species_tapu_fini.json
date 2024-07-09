@@ -1,0 +1,923 @@
+{
+    "Species": "SPECIES_TAPU_FINI",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_MISTY_TERRAIN",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_MOONBLAST",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_HEAL_PULSE",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_MEAN_LOOK",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_HAZE",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_MIST",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_WITHDRAW",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_WATER_GUN",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_WATER_PULSE",
+            "Level": "8"
+        },
+        {
+            "Move": "MOVE_WHIRLPOOL",
+            "Level": "14"
+        },
+        {
+            "Move": "MOVE_SOAK",
+            "Level": "20"
+        },
+        {
+            "Move": "MOVE_REFRESH",
+            "Level": "26"
+        },
+        {
+            "Move": "MOVE_BRINE",
+            "Level": "32"
+        },
+        {
+            "Move": "MOVE_DEFOG",
+            "Level": "38"
+        },
+        {
+            "Move": "MOVE_NATURES_MADNESS",
+            "Level": "43"
+        },
+        {
+            "Move": "MOVE_MUDDY_WATER",
+            "Level": "48"
+        },
+        {
+            "Move": "MOVE_AQUA_RING",
+            "Level": "53"
+        },
+        {
+            "Move": "MOVE_HYDRO_PUMP",
+            "Level": "58"
+        },
+        {
+            "Move": "MOVE_PLAY_ROUGH",
+            "Level": "63"
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_ICE_BEAM",
+        "MOVE_MAGIC_ROOM",
+        "MOVE_SMART_STRIKE",
+        "MOVE_DIVE",
+        "MOVE_FLING",
+        "MOVE_REFLECT",
+        "MOVE_GRASS_KNOT",
+        "MOVE_LIGHT_SCREEN",
+        "MOVE_WATERFALL",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_PROTECT",
+        "MOVE_IRON_DEFENSE",
+        "MOVE_CALM_MIND",
+        "MOVE_HYPER_BEAM",
+        "MOVE_SUBSTITUTE",
+        "MOVE_FACADE",
+        "MOVE_TRICK",
+        "MOVE_SHADOW_BALL",
+        "MOVE_SAFEGUARD",
+        "MOVE_ICY_WIND",
+        "MOVE_SLEEP_TALK",
+        "MOVE_STORED_POWER",
+        "MOVE_DRAINING_KISS",
+        "MOVE_GIGA_IMPACT",
+        "MOVE_ICE_PUNCH",
+        "MOVE_TERA_BLAST",
+        "MOVE_ENDURE",
+        "MOVE_DAZZLING_GLEAM",
+        "MOVE_ROUND",
+        "MOVE_BLIZZARD",
+        "MOVE_SURF",
+        "MOVE_SNORE",
+        "MOVE_WONDER_ROOM",
+        "MOVE_SCALD",
+        "MOVE_RAIN_DANCE",
+        "MOVE_TAUNT",
+        "MOVE_GUARD_SWAP",
+        "MOVE_REST"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_DEFOG",
+                "MOVE_MOONBLAST",
+                "MOVE_SCALD",
+                "MOVE_TAUNT"
+            ],
+            "Ability": "ABILITY_MISTY_SURGE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_CALM",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Defog",
+            "SourceTiers": [
+                "GEN7OU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_MOONBLAST",
+                "MOVE_TAUNT",
+                "MOVE_DEFOG",
+                "MOVE_SCALD"
+            ],
+            "Ability": "ABILITY_MISTY_SURGE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_CALM",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7OU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_NATURES_MADNESS",
+                "MOVE_MOONBLAST",
+                "MOVE_HEAL_PULSE",
+                "MOVE_PROTECT"
+            ],
+            "Ability": "ABILITY_MISTY_SURGE",
+            "Item": "ITEM_WIKI_BERRY",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Support",
+            "SourceTiers": [
+                "GEN7DOUBLESOU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_MUDDY_WATER",
+                "MOVE_MOONBLAST",
+                "MOVE_CALM_MIND",
+                "MOVE_PROTECT"
+            ],
+            "Ability": "ABILITY_MISTY_SURGE",
+            "Item": "ITEM_WIKI_BERRY",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Calm Mind",
+            "SourceTiers": [
+                "GEN7DOUBLESOU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_PROTECT",
+                "MOVE_MOONBLAST",
+                "MOVE_MUDDY_WATER",
+                "MOVE_CALM_MIND"
+            ],
+            "Ability": "ABILITY_MISTY_SURGE",
+            "Item": "ITEM_WIKI_BERRY",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7DOUBLESOU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_CALM_MIND",
+                "MOVE_SURF",
+                "MOVE_MOONBLAST",
+                "MOVE_MIST"
+            ],
+            "Ability": "ABILITY_MISTY_SURGE",
+            "Item": "ITEM_ICIUM_Z",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Calm Mind",
+            "SourceTiers": [
+                "GEN7BATTLESPOTSINGLES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_NATURES_MADNESS",
+                "MOVE_HYDRO_PUMP",
+                "MOVE_MOONBLAST",
+                "MOVE_HIDDEN_POWER"
+            ],
+            "Ability": "ABILITY_MISTY_SURGE",
+            "Item": "ITEM_WATERIUM_Z",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": "TYPE_FIRE",
+            "TeraType": null,
+            "Name": "Offensive",
+            "SourceTiers": [
+                "GEN7BATTLESPOTSINGLES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_MOONBLAST",
+                "MOVE_TAUNT",
+                "MOVE_CALM_MIND",
+                "MOVE_SURF"
+            ],
+            "Ability": "ABILITY_MISTY_SURGE",
+            "Item": "ITEM_WATERIUM_Z",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7BATTLESPOTSINGLES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_MOONBLAST",
+                "MOVE_MUDDY_WATER",
+                "MOVE_PROTECT",
+                "MOVE_CALM_MIND"
+            ],
+            "Ability": "ABILITY_MISTY_SURGE",
+            "Item": "ITEM_WIKI_BERRY",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7BATTLESPOTDOUBLES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_CALM_MIND",
+                "MOVE_MUDDY_WATER",
+                "MOVE_MOONBLAST",
+                "MOVE_PROTECT"
+            ],
+            "Ability": "ABILITY_MISTY_SURGE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Calm Mind",
+            "SourceTiers": [
+                "GEN7VGC2017"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_HYDRO_PUMP",
+                "MOVE_MUDDY_WATER",
+                "MOVE_DAZZLING_GLEAM",
+                "MOVE_MOONBLAST"
+            ],
+            "Ability": "ABILITY_MISTY_SURGE",
+            "Item": "ITEM_CHOICE_SPECS",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Specs",
+            "SourceTiers": [
+                "GEN7VGC2017"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_MOONBLAST",
+                "MOVE_MUDDY_WATER",
+                "MOVE_PROTECT",
+                "MOVE_CALM_MIND"
+            ],
+            "Ability": "ABILITY_MISTY_SURGE",
+            "Item": "ITEM_CHOICE_SPECS",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7VGC2017"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_CALM_MIND",
+                "MOVE_MUDDY_WATER",
+                "MOVE_MOONBLAST",
+                "MOVE_PROTECT"
+            ],
+            "Ability": "ABILITY_MISTY_SURGE",
+            "Item": "ITEM_IAPAPA_BERRY",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Calm Mind",
+            "SourceTiers": [
+                "GEN7VGC2018"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_MOONBLAST",
+                "MOVE_MUDDY_WATER",
+                "MOVE_SCALD",
+                "MOVE_DAZZLING_GLEAM"
+            ],
+            "Ability": "ABILITY_MISTY_SURGE",
+            "Item": "ITEM_CHOICE_SPECS",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Specs",
+            "SourceTiers": [
+                "GEN7VGC2018"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_MOONBLAST",
+                "MOVE_MUDDY_WATER",
+                "MOVE_PROTECT",
+                "MOVE_CALM_MIND"
+            ],
+            "Ability": "ABILITY_MISTY_SURGE",
+            "Item": "ITEM_WATERIUM_Z",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7VGC2018"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_HYDRO_PUMP",
+                "MOVE_RAIN_DANCE",
+                "MOVE_CALM_MIND",
+                "MOVE_MOONBLAST"
+            ],
+            "Ability": "ABILITY_MISTY_SURGE",
+            "Item": "ITEM_WATERIUM_Z",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Waterium Z",
+            "SourceTiers": [
+                "GEN71V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_TAUNT",
+                "MOVE_NATURES_MADNESS",
+                "MOVE_BRINE",
+                "MOVE_ICY_WIND"
+            ],
+            "Ability": "ABILITY_MISTY_SURGE",
+            "Item": "ITEM_TAPUNIUM_Z",
+            "Nature": "NATURE_CALM",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Tapunium Z",
+            "SourceTiers": [
+                "GEN71V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_MOONBLAST",
+                "MOVE_BRINE",
+                "MOVE_NATURES_MADNESS",
+                "MOVE_TAUNT"
+            ],
+            "Ability": "ABILITY_MISTY_SURGE",
+            "Item": "ITEM_TAPUNIUM_Z",
+            "Nature": "NATURE_CALM",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN71V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_TAUNT",
+                "MOVE_NATURES_MADNESS",
+                "MOVE_SCALD",
+                "MOVE_DEFOG"
+            ],
+            "Ability": "ABILITY_MISTY_SURGE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Support (Fairy)",
+            "SourceTiers": [
+                "GEN7MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_MOONBLAST",
+                "MOVE_DEFOG",
+                "MOVE_SURF",
+                "MOVE_TRICK"
+            ],
+            "Ability": "ABILITY_MISTY_SURGE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_WHIRLPOOL",
+                "MOVE_NATURES_MADNESS",
+                "MOVE_TAUNT",
+                "MOVE_MOONBLAST"
+            ],
+            "Ability": "ABILITY_MISTY_SURGE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Trapper",
+            "SourceTiers": [
+                "GEN8UBERS"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SCALD",
+                "MOVE_MOONBLAST",
+                "MOVE_TRICK",
+                "MOVE_TAUNT"
+            ],
+            "Ability": "ABILITY_MISTY_SURGE",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Scarf",
+            "SourceTiers": [
+                "GEN8OU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_WHIRLPOOL",
+                "MOVE_MOONBLAST",
+                "MOVE_NATURES_MADNESS",
+                "MOVE_TAUNT"
+            ],
+            "Ability": "ABILITY_MISTY_SURGE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_CALM",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Whirlpool",
+            "SourceTiers": [
+                "GEN8OU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_CALM_MIND",
+                "MOVE_TAUNT",
+                "MOVE_SCALD",
+                "MOVE_DRAINING_KISS"
+            ],
+            "Ability": "ABILITY_MISTY_SURGE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Calm Mind",
+            "SourceTiers": [
+                "GEN8OU",
+                "GEN8NATIONALDEX"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_MOONBLAST",
+                "MOVE_SCALD",
+                "MOVE_TAUNT",
+                "MOVE_CALM_MIND"
+            ],
+            "Ability": "ABILITY_MISTY_SURGE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_CALM",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8OU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_DEFOG",
+                "MOVE_SCALD",
+                "MOVE_MOONBLAST",
+                "MOVE_TAUNT"
+            ],
+            "Ability": "ABILITY_MISTY_SURGE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_CALM",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Defog",
+            "SourceTiers": [
+                "GEN8NATIONALDEX"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_WHIRLPOOL",
+                "MOVE_NATURES_MADNESS",
+                "MOVE_TAUNT",
+                "MOVE_MOONBLAST"
+            ],
+            "Ability": "ABILITY_MISTY_SURGE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_CALM",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Whirlpool Trapper",
+            "SourceTiers": [
+                "GEN8NATIONALDEX"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_HYDRO_PUMP",
+                "MOVE_MOONBLAST",
+                "MOVE_DEFOG",
+                "MOVE_TRICK"
+            ],
+            "Ability": "ABILITY_MISTY_SURGE",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Scarf",
+            "SourceTiers": [
+                "GEN8NATIONALDEX"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_MOONBLAST",
+                "MOVE_TAUNT",
+                "MOVE_SCALD",
+                "MOVE_DEFOG"
+            ],
+            "Ability": "ABILITY_MISTY_SURGE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_CALM",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8NATIONALDEX"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_MUDDY_WATER",
+                "MOVE_MOONBLAST",
+                "MOVE_CALM_MIND",
+                "MOVE_PROTECT"
+            ],
+            "Ability": "ABILITY_MISTY_SURGE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Calm Mind",
+            "SourceTiers": [
+                "GEN8DOUBLESOU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_MOONBLAST",
+                "MOVE_NATURES_MADNESS",
+                "MOVE_ICY_WIND",
+                "MOVE_HEAL_PULSE"
+            ],
+            "Ability": "ABILITY_MISTY_SURGE",
+            "Item": "ITEM_SITRUS_BERRY",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Support",
+            "SourceTiers": [
+                "GEN8DOUBLESOU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_CALM_MIND",
+                "MOVE_MOONBLAST",
+                "MOVE_MUDDY_WATER",
+                "MOVE_PROTECT"
+            ],
+            "Ability": "ABILITY_MISTY_SURGE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8DOUBLESOU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_CALM_MIND",
+                "MOVE_SURF",
+                "MOVE_MOONBLAST",
+                "MOVE_TAUNT"
+            ],
+            "Ability": "ABILITY_MISTY_SURGE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Calm Mind",
+            "SourceTiers": [
+                "GEN8BATTLESTADIUMSINGLES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_MOONBLAST",
+                "MOVE_SURF",
+                "MOVE_ICE_BEAM",
+                "MOVE_TRICK"
+            ],
+            "Ability": "ABILITY_MISTY_SURGE",
+            "Item": "ITEM_CHOICE_SPECS",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Attacker",
+            "SourceTiers": [
+                "GEN8BATTLESTADIUMSINGLES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_MOONBLAST",
+                "MOVE_TAUNT",
+                "MOVE_TRICK",
+                "MOVE_NATURES_MADNESS"
+            ],
+            "Ability": "ABILITY_MISTY_SURGE",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8BATTLESTADIUMSINGLES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_IRON_DEFENSE",
+                "MOVE_CALM_MIND",
+                "MOVE_TAUNT",
+                "MOVE_DRAINING_KISS"
+            ],
+            "Ability": "ABILITY_MISTY_SURGE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Leftovers",
+            "SourceTiers": [
+                "GEN81V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_MOONBLAST",
+                "MOVE_SURF",
+                "MOVE_CALM_MIND",
+                "MOVE_TAUNT"
+            ],
+            "Ability": "ABILITY_MISTY_SURGE",
+            "Item": "ITEM_SITRUS_BERRY",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Sitrus Berry",
+            "SourceTiers": [
+                "GEN81V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SURF",
+                "MOVE_MOONBLAST",
+                "MOVE_TRICK",
+                "MOVE_REST"
+            ],
+            "Ability": "ABILITY_TELEPATHY",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Scarf",
+            "SourceTiers": [
+                "GEN81V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_IRON_DEFENSE",
+                "MOVE_CALM_MIND",
+                "MOVE_DRAINING_KISS",
+                "MOVE_TAUNT"
+            ],
+            "Ability": "ABILITY_MISTY_SURGE",
+            "Item": "ITEM_WIKI_BERRY",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Anti-Galarian Darmanitan",
+            "SourceTiers": [
+                "GEN81V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_CALM_MIND",
+                "MOVE_HYDRO_PUMP",
+                "MOVE_MOONBLAST",
+                "MOVE_HYPER_BEAM"
+            ],
+            "Ability": "ABILITY_MISTY_SURGE",
+            "Item": "ITEM_WEAKNESS_POLICY",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Anti-Volcanion",
+            "SourceTiers": [
+                "GEN81V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_MOONBLAST",
+                "MOVE_HYDRO_PUMP",
+                "MOVE_ICE_BEAM",
+                "MOVE_TRICK"
+            ],
+            "Ability": "ABILITY_MISTY_SURGE",
+            "Item": "ITEM_CHOICE_SPECS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Specs",
+            "SourceTiers": [
+                "GEN81V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_CALM_MIND",
+                "MOVE_MOONBLAST",
+                "MOVE_TAUNT",
+                "MOVE_IRON_DEFENSE"
+            ],
+            "Ability": "ABILITY_MISTY_SURGE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN81V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_CALM_MIND",
+                "MOVE_SCALD",
+                "MOVE_DRAINING_KISS",
+                "MOVE_TAUNT"
+            ],
+            "Ability": "ABILITY_MISTY_SURGE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Calm Mind (Fairy)",
+            "SourceTiers": [
+                "GEN8MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_MOONBLAST",
+                "MOVE_TRICK",
+                "MOVE_ICE_BEAM",
+                "MOVE_SURF"
+            ],
+            "Ability": "ABILITY_MISTY_SURGE",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Scarf (Water)",
+            "SourceTiers": [
+                "GEN8MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_CALM_MIND",
+                "MOVE_DRAINING_KISS",
+                "MOVE_SCALD",
+                "MOVE_TAUNT"
+            ],
+            "Ability": "ABILITY_MISTY_SURGE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_CALM",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Calm Mind (Water)",
+            "SourceTiers": [
+                "GEN8MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_MOONBLAST",
+                "MOVE_SCALD",
+                "MOVE_CALM_MIND",
+                "MOVE_ICE_BEAM"
+            ],
+            "Ability": "ABILITY_MISTY_SURGE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_MOONBLAST",
+                "MOVE_CALM_MIND",
+                "MOVE_SCALD",
+                "MOVE_TAUNT"
+            ],
+            "Ability": "ABILITY_MISTY_SURGE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8NATIONALDEXMONOTYPE"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,550 @@
+{
+    "Species": "SPECIES_NIDOKING",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_DRILL_RUN",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_MEGAHORN",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_PECK",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_FOCUS_ENERGY",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_DOUBLE_KICK",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_POISON_STING",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_CHIP_AWAY",
+            "Level": "23"
+        },
+        {
+            "Move": "MOVE_THRASH",
+            "Level": "35"
+        },
+        {
+            "Move": "MOVE_EARTH_POWER",
+            "Level": "43"
+        },
+        {
+            "Move": "MOVE_MEGAHORN",
+            "Level": "58"
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_ICE_BEAM",
+        "MOVE_SLUDGE_WAVE",
+        "MOVE_ATTRACT",
+        "MOVE_ROCK_BLAST",
+        "MOVE_ROCK_TOMB",
+        "MOVE_VENOSHOCK",
+        "MOVE_HIGH_HORSEPOWER",
+        "MOVE_STONE_EDGE",
+        "MOVE_THROAT_CHOP",
+        "MOVE_IRON_TAIL",
+        "MOVE_SUBSTITUTE",
+        "MOVE_UPROAR",
+        "MOVE_SUNNY_DAY",
+        "MOVE_BRICK_BREAK",
+        "MOVE_FACADE",
+        "MOVE_STOMPING_TANTRUM",
+        "MOVE_DRAGON_PULSE",
+        "MOVE_WHIRLPOOL",
+        "MOVE_BEAT_UP",
+        "MOVE_MEGA_KICK",
+        "MOVE_STEALTH_ROCK",
+        "MOVE_SLEEP_TALK",
+        "MOVE_SLUDGE_BOMB",
+        "MOVE_THUNDERBOLT",
+        "MOVE_DIG",
+        "MOVE_ENDURE",
+        "MOVE_PAY_DAY",
+        "MOVE_MUD_SHOT",
+        "MOVE_THUNDER",
+        "MOVE_FIRE_PUNCH",
+        "MOVE_ROUND",
+        "MOVE_BLIZZARD",
+        "MOVE_MEGA_PUNCH",
+        "MOVE_RAIN_DANCE",
+        "MOVE_ROCK_SLIDE",
+        "MOVE_VENOM_DRENCH",
+        "MOVE_FLAMETHROWER",
+        "MOVE_TOXIC_SPIKES",
+        "MOVE_FIRE_BLAST",
+        "MOVE_BODY_PRESS",
+        "MOVE_REST",
+        "MOVE_SUPERPOWER",
+        "MOVE_HELPING_HAND",
+        "MOVE_SMART_STRIKE",
+        "MOVE_THUNDER_PUNCH",
+        "MOVE_FLING",
+        "MOVE_AMNESIA",
+        "MOVE_OUTRAGE",
+        "MOVE_BULLDOZE",
+        "MOVE_PROTECT",
+        "MOVE_SHADOW_CLAW",
+        "MOVE_THIEF",
+        "MOVE_HYPER_BEAM",
+        "MOVE_SCORCHING_SANDS",
+        "MOVE_SHADOW_BALL",
+        "MOVE_ICY_WIND",
+        "MOVE_SAND_TOMB",
+        "MOVE_AVALANCHE",
+        "MOVE_GIGA_IMPACT",
+        "MOVE_EARTHQUAKE",
+        "MOVE_HEX",
+        "MOVE_ICE_PUNCH",
+        "MOVE_FOCUS_BLAST",
+        "MOVE_POISON_JAB",
+        "MOVE_SURF",
+        "MOVE_SNORE",
+        "MOVE_SANDSTORM",
+        "MOVE_TAUNT",
+        "MOVE_BODY_SLAM"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_EARTH_POWER",
+                "MOVE_SLUDGE_WAVE",
+                "MOVE_ICE_BEAM",
+                "MOVE_FLAMETHROWER"
+            ],
+            "Ability": "ABILITY_SHEER_FORCE",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Wallbreaker",
+            "SourceTiers": [
+                "GEN6OU",
+                "GEN6OU",
+                "GEN8NATIONALDEX"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SLUDGE_WAVE",
+                "MOVE_EARTH_POWER",
+                "MOVE_ICE_BEAM",
+                "MOVE_SUPERPOWER"
+            ],
+            "Ability": "ABILITY_SHEER_FORCE",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_NAIVE",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Wallbreaker",
+            "SourceTiers": [
+                "GEN6UU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_EARTH_POWER",
+                "MOVE_SLUDGE_WAVE",
+                "MOVE_ICE_BEAM",
+                "MOVE_THUNDERBOLT"
+            ],
+            "Ability": "ABILITY_SHEER_FORCE",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6UU",
+                "GEN8UU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_EARTH_POWER",
+                "MOVE_ICE_BEAM",
+                "MOVE_SLUDGE_WAVE",
+                "MOVE_FLAMETHROWER"
+            ],
+            "Ability": "ABILITY_SHEER_FORCE",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6BATTLESPOTSINGLES",
+                "GEN6MONOTYPE",
+                "GEN8OU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_EARTH_POWER",
+                "MOVE_SLUDGE_WAVE",
+                "MOVE_ICE_BEAM",
+                "MOVE_SUBSTITUTE"
+            ],
+            "Ability": "ABILITY_SHEER_FORCE",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Life Orb Attacker",
+            "SourceTiers": [
+                "GEN7OU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_ICE_BEAM",
+                "MOVE_EARTH_POWER",
+                "MOVE_SLUDGE_WAVE",
+                "MOVE_FLAMETHROWER"
+            ],
+            "Ability": "ABILITY_SHEER_FORCE",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7OU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SLUDGE_WAVE",
+                "MOVE_EARTH_POWER",
+                "MOVE_ICE_BEAM",
+                "MOVE_SUBSTITUTE"
+            ],
+            "Ability": "ABILITY_SHEER_FORCE",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Wallbreaker",
+            "SourceTiers": [
+                "GEN7UU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SLUDGE_WAVE",
+                "MOVE_ICE_BEAM",
+                "MOVE_EARTH_POWER",
+                "MOVE_STEALTH_ROCK"
+            ],
+            "Ability": "ABILITY_SHEER_FORCE",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7UU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_EARTH_POWER",
+                "MOVE_SLUDGE_WAVE",
+                "MOVE_ICE_BEAM",
+                "MOVE_FLAMETHROWER"
+            ],
+            "Ability": "ABILITY_SHEER_FORCE",
+            "Item": "ITEM_FOCUS_SASH",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Offensive",
+            "SourceTiers": [
+                "GEN7BATTLESPOTSINGLES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_ICE_BEAM",
+                "MOVE_EARTH_POWER",
+                "MOVE_SLUDGE_WAVE",
+                "MOVE_FIRE_BLAST"
+            ],
+            "Ability": "ABILITY_SHEER_FORCE",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7BATTLESPOTSINGLES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_EARTH_POWER",
+                "MOVE_PROTECT",
+                "MOVE_THUNDERBOLT",
+                "MOVE_FLAMETHROWER"
+            ],
+            "Ability": "ABILITY_SHEER_FORCE",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7BATTLESPOTDOUBLES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_EARTHQUAKE",
+                "MOVE_ICE_PUNCH",
+                "MOVE_TOXIC",
+                "MOVE_STEALTH_ROCK"
+            ],
+            "Ability": null,
+            "Item": null,
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Wallbreaker",
+            "SourceTiers": [
+                "GEN7LETSGOOU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_EARTHQUAKE",
+                "MOVE_STEALTH_ROCK",
+                "MOVE_ICE_PUNCH",
+                "MOVE_POISON_JAB"
+            ],
+            "Ability": null,
+            "Item": null,
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7LETSGOOU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SLUDGE_WAVE",
+                "MOVE_EARTH_POWER",
+                "MOVE_ICE_BEAM",
+                "MOVE_FLAMETHROWER"
+            ],
+            "Ability": "ABILITY_SHEER_FORCE",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Wallbreaker (Ground)",
+            "SourceTiers": [
+                "GEN7MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_STEALTH_ROCK",
+                "MOVE_EARTH_POWER",
+                "MOVE_ICE_BEAM",
+                "MOVE_FLAMETHROWER"
+            ],
+            "Ability": "ABILITY_SHEER_FORCE",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Wallbreaker (Poison)",
+            "SourceTiers": [
+                "GEN7MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_EARTH_POWER",
+                "MOVE_ICE_BEAM",
+                "MOVE_FLAMETHROWER",
+                "MOVE_SLUDGE_WAVE"
+            ],
+            "Ability": "ABILITY_SHEER_FORCE",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7MONOTYPE",
+                "GEN8NATIONALDEXMONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SLUDGE_WAVE",
+                "MOVE_EARTH_POWER",
+                "MOVE_ICE_BEAM",
+                "MOVE_FLAMETHROWER"
+            ],
+            "Ability": "ABILITY_SHEER_FORCE",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Wallbreaker",
+            "SourceTiers": [
+                "GEN8OU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SLUDGE_WAVE",
+                "MOVE_EARTH_POWER",
+                "MOVE_FIRE_BLAST",
+                "MOVE_THUNDERBOLT"
+            ],
+            "Ability": "ABILITY_SHEER_FORCE",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Wallbreaker",
+            "SourceTiers": [
+                "GEN8UU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_EARTH_POWER",
+                "MOVE_THUNDERBOLT",
+                "MOVE_FLAMETHROWER",
+                "MOVE_ICE_BEAM"
+            ],
+            "Ability": "ABILITY_SHEER_FORCE",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8DOUBLESOU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_EARTH_POWER",
+                "MOVE_SLUDGE_WAVE",
+                "MOVE_FLAMETHROWER",
+                "MOVE_PROTECT"
+            ],
+            "Ability": "ABILITY_SHEER_FORCE",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Life Orb",
+            "SourceTiers": [
+                "GEN81V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SLUDGE_WAVE",
+                "MOVE_EARTH_POWER",
+                "MOVE_FOCUS_BLAST",
+                "MOVE_ICE_BEAM"
+            ],
+            "Ability": "ABILITY_SHEER_FORCE",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Scarf",
+            "SourceTiers": [
+                "GEN81V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_EARTH_POWER",
+                "MOVE_SLUDGE_WAVE",
+                "MOVE_FLAMETHROWER",
+                "MOVE_FIRE_BLAST"
+            ],
+            "Ability": "ABILITY_SHEER_FORCE",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN81V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_EARTH_POWER",
+                "MOVE_FLAMETHROWER",
+                "MOVE_ICE_BEAM",
+                "MOVE_THUNDERBOLT"
+            ],
+            "Ability": "ABILITY_SHEER_FORCE",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Wallbreaker (Ground)",
+            "SourceTiers": [
+                "GEN8MONOTYPE",
+                "GEN8NATIONALDEXMONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_EARTH_POWER",
+                "MOVE_FLAMETHROWER",
+                "MOVE_THUNDERBOLT",
+                "MOVE_ICE_BEAM"
+            ],
+            "Ability": "ABILITY_SHEER_FORCE",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Wallbreaker (Poison)",
+            "SourceTiers": [
+                "GEN8MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_ICE_BEAM",
+                "MOVE_EARTH_POWER",
+                "MOVE_FLAMETHROWER",
+                "MOVE_THUNDERBOLT"
+            ],
+            "Ability": "ABILITY_SHEER_FORCE",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8MONOTYPE"
+            ]
+        }
+    ]
+}

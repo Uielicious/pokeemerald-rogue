@@ -1,0 +1,322 @@
+{
+    "Species": "SPECIES_PIKACHU",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_TAIL_WHIP",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_THUNDER_SHOCK",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_GROWL",
+            "Level": "5"
+        },
+        {
+            "Move": "MOVE_PLAY_NICE",
+            "Level": "7"
+        },
+        {
+            "Move": "MOVE_QUICK_ATTACK",
+            "Level": "10"
+        },
+        {
+            "Move": "MOVE_ELECTRO_BALL",
+            "Level": "13"
+        },
+        {
+            "Move": "MOVE_THUNDER_WAVE",
+            "Level": "18"
+        },
+        {
+            "Move": "MOVE_FEINT",
+            "Level": "21"
+        },
+        {
+            "Move": "MOVE_DOUBLE_TEAM",
+            "Level": "23"
+        },
+        {
+            "Move": "MOVE_SPARK",
+            "Level": "26"
+        },
+        {
+            "Move": "MOVE_NUZZLE",
+            "Level": "29"
+        },
+        {
+            "Move": "MOVE_DISCHARGE",
+            "Level": "34"
+        },
+        {
+            "Move": "MOVE_SLAM",
+            "Level": "37"
+        },
+        {
+            "Move": "MOVE_THUNDERBOLT",
+            "Level": "42"
+        },
+        {
+            "Move": "MOVE_AGILITY",
+            "Level": "45"
+        },
+        {
+            "Move": "MOVE_WILD_CHARGE",
+            "Level": "50"
+        },
+        {
+            "Move": "MOVE_LIGHT_SCREEN",
+            "Level": "53"
+        },
+        {
+            "Move": "MOVE_THUNDER",
+            "Level": "58"
+        },
+        {
+            "Move": "MOVE_SPLISHY_SPLASH",
+            "Level": "61"
+        },
+        {
+            "Move": "MOVE_FLOATY_FALL",
+            "Level": "61"
+        },
+        {
+            "Move": "MOVE_ZIPPY_ZAP",
+            "Level": "66"
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_DISARMING_VOICE",
+        "MOVE_FAKE_OUT",
+        "MOVE_HELPING_HAND",
+        "MOVE_EXTREME_SPEED",
+        "MOVE_THUNDER_PUNCH",
+        "MOVE_FLING",
+        "MOVE_REFLECT",
+        "MOVE_GRASS_KNOT",
+        "MOVE_EERIE_IMPULSE",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_KNOCK_OFF",
+        "MOVE_PROTECT",
+        "MOVE_THIEF",
+        "MOVE_TAKE_DOWN",
+        "MOVE_BODY_SLAM",
+        "MOVE_SUBSTITUTE",
+        "MOVE_BRICK_BREAK",
+        "MOVE_ENDEAVOR",
+        "MOVE_FACADE",
+        "MOVE_SWIFT",
+        "MOVE_REVERSAL",
+        "MOVE_SLEEP_TALK",
+        "MOVE_TRAILBLAZE",
+        "MOVE_DRAINING_KISS",
+        "MOVE_ENCORE",
+        "MOVE_DIG",
+        "MOVE_VOLT_TACKLE",
+        "MOVE_FAKE_TEARS",
+        "MOVE_NASTY_PLOT",
+        "MOVE_ELECTRIC_TERRAIN",
+        "MOVE_CHARGE_BEAM",
+        "MOVE_ELECTROWEB",
+        "MOVE_ENDURE",
+        "MOVE_TERA_BLAST",
+        "MOVE_PLAY_ROUGH",
+        "MOVE_VOLT_SWITCH",
+        "MOVE_CHARM",
+        "MOVE_SURF",
+        "MOVE_RAIN_DANCE",
+        "MOVE_CHARGE",
+        "MOVE_FOCUS_PUNCH",
+        "MOVE_REST"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_KNOCK_OFF",
+                "MOVE_VOLT_SWITCH",
+                "MOVE_VOLT_TACKLE",
+                "MOVE_FAKE_OUT"
+            ],
+            "Ability": "ABILITY_LIGHTNING_ROD",
+            "Item": "ITEM_LIGHT_BALL",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_EXTREME_SPEED",
+                "MOVE_VOLT_SWITCH",
+                "MOVE_KNOCK_OFF",
+                "MOVE_HIDDEN_POWER"
+            ],
+            "Ability": "ABILITY_STATIC",
+            "Item": "ITEM_LIGHT_BALL",
+            "Nature": "NATURE_LONELY",
+            "HiddenPower": "TYPE_ICE",
+            "TeraType": null,
+            "Name": "Revenge Killer",
+            "SourceTiers": [
+                "GEN6ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_VOLT_TACKLE",
+                "MOVE_FAKE_OUT",
+                "MOVE_THUNDERBOLT",
+                "MOVE_QUICK_ATTACK"
+            ],
+            "Ability": "ABILITY_STATIC",
+            "Item": "ITEM_LIGHT_BALL",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6BATTLESPOTSINGLES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_VOLT_TACKLE",
+                "MOVE_EXTREME_SPEED",
+                "MOVE_KNOCK_OFF",
+                "MOVE_VOLT_SWITCH"
+            ],
+            "Ability": "ABILITY_STATIC",
+            "Item": "ITEM_LIGHT_BALL",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_VOLT_TACKLE",
+                "MOVE_KNOCK_OFF",
+                "MOVE_EXTREME_SPEED",
+                "MOVE_VOLT_SWITCH"
+            ],
+            "Ability": "ABILITY_STATIC",
+            "Item": "ITEM_LIGHT_BALL",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FAKE_OUT",
+                "MOVE_EXTREME_SPEED",
+                "MOVE_VOLT_TACKLE",
+                "MOVE_KNOCK_OFF"
+            ],
+            "Ability": "ABILITY_LIGHTNING_ROD",
+            "Item": "ITEM_LIGHT_BALL",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_VOLT_SWITCH",
+                "MOVE_VOLT_TACKLE",
+                "MOVE_EXTREME_SPEED",
+                "MOVE_SURF"
+            ],
+            "Ability": "ABILITY_LIGHTNING_ROD",
+            "Item": "ITEM_LIGHT_BALL",
+            "Nature": "NATURE_HASTY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_THUNDERBOLT",
+                "MOVE_IRON_TAIL",
+                "MOVE_VOLT_TACKLE",
+                "MOVE_QUICK_ATTACK"
+            ],
+            "Ability": "ABILITY_LIGHTNING_ROD",
+            "Item": "ITEM_LIGHT_BALL",
+            "Nature": "NATURE_HASTY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8BATTLESTADIUMSINGLES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_PROTECT",
+                "MOVE_SURF",
+                "MOVE_GRASS_KNOT",
+                "MOVE_FAKE_OUT"
+            ],
+            "Ability": "ABILITY_LIGHTNING_ROD",
+            "Item": "ITEM_LIGHT_BALL",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8VGC2020"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SURF",
+                "MOVE_VOLT_SWITCH",
+                "MOVE_THUNDERBOLT",
+                "MOVE_FAKE_OUT"
+            ],
+            "Ability": "ABILITY_LIGHTNING_ROD",
+            "Item": "ITEM_LIGHT_BALL",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN9ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_VOLT_TACKLE",
+                "MOVE_FAKE_OUT",
+                "MOVE_EXTREME_SPEED",
+                "MOVE_THUNDERBOLT"
+            ],
+            "Ability": "ABILITY_STATIC",
+            "Item": "ITEM_LIGHT_BALL",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN9NATIONALDEXAG"
+            ]
+        }
+    ]
+}

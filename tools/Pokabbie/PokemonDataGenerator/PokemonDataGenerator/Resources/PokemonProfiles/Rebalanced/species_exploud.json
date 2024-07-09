@@ -1,0 +1,277 @@
+{
+    "Species": "SPECIES_EXPLOUD",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_CRUNCH",
+            "Level": "0"
+        },
+        {
+            "Move": "MOVE_CRUNCH",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_BITE",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_BOOMBURST",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_ICE_FANG",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_FIRE_FANG",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_THUNDER_FANG",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_POUND",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_ECHOED_VOICE",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_ASTONISH",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_HOWL",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_ECHOED_VOICE",
+            "Level": "4"
+        },
+        {
+            "Move": "MOVE_ASTONISH",
+            "Level": "9"
+        },
+        {
+            "Move": "MOVE_HOWL",
+            "Level": "11"
+        },
+        {
+            "Move": "MOVE_SCREECH",
+            "Level": "15"
+        },
+        {
+            "Move": "MOVE_SUPERSONIC",
+            "Level": "18"
+        },
+        {
+            "Move": "MOVE_STOMP",
+            "Level": "23"
+        },
+        {
+            "Move": "MOVE_UPROAR",
+            "Level": "27"
+        },
+        {
+            "Move": "MOVE_ROAR",
+            "Level": "32"
+        },
+        {
+            "Move": "MOVE_REST",
+            "Level": "36"
+        },
+        {
+            "Move": "MOVE_SLEEP_TALK",
+            "Level": "42"
+        },
+        {
+            "Move": "MOVE_HYPER_VOICE",
+            "Level": "46"
+        },
+        {
+            "Move": "MOVE_SYNCHRONOISE",
+            "Level": "50"
+        },
+        {
+            "Move": "MOVE_OVERDRIVE",
+            "Level": "54"
+        },
+        {
+            "Move": "MOVE_BOOMBURST",
+            "Level": "58"
+        },
+        {
+            "Move": "MOVE_HYPER_BEAM",
+            "Level": "64"
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_ICE_BEAM",
+        "MOVE_THUNDER_PUNCH",
+        "MOVE_FLING",
+        "MOVE_SOLAR_BEAM",
+        "MOVE_ATTRACT",
+        "MOVE_ZEN_HEADBUTT",
+        "MOVE_OVERHEAT",
+        "MOVE_ROCK_TOMB",
+        "MOVE_OUTRAGE",
+        "MOVE_BULLDOZE",
+        "MOVE_WORK_UP",
+        "MOVE_PROTECT",
+        "MOVE_HYDRO_PUMP",
+        "MOVE_SUBSTITUTE",
+        "MOVE_SUNNY_DAY",
+        "MOVE_BRICK_BREAK",
+        "MOVE_FACADE",
+        "MOVE_STOMPING_TANTRUM",
+        "MOVE_WHIRLPOOL",
+        "MOVE_SHADOW_BALL",
+        "MOVE_ICY_WIND",
+        "MOVE_MEGA_KICK",
+        "MOVE_AVALANCHE",
+        "MOVE_GIGA_IMPACT",
+        "MOVE_FAKE_TEARS",
+        "MOVE_EARTHQUAKE",
+        "MOVE_BUG_BUZZ",
+        "MOVE_ICE_PUNCH",
+        "MOVE_ENDURE",
+        "MOVE_FOCUS_BLAST",
+        "MOVE_FIRE_PUNCH",
+        "MOVE_LOW_KICK",
+        "MOVE_ROUND",
+        "MOVE_BLIZZARD",
+        "MOVE_SURF",
+        "MOVE_SNORE",
+        "MOVE_TERRAIN_PULSE",
+        "MOVE_MEGA_PUNCH",
+        "MOVE_RAIN_DANCE",
+        "MOVE_ROCK_SLIDE",
+        "MOVE_RETALIATE",
+        "MOVE_FLAMETHROWER",
+        "MOVE_FIRE_BLAST",
+        "MOVE_TAUNT",
+        "MOVE_BODY_SLAM"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_BOOMBURST",
+                "MOVE_FOCUS_BLAST",
+                "MOVE_FIRE_BLAST",
+                "MOVE_SURF"
+            ],
+            "Ability": "ABILITY_SOUNDPROOF",
+            "Item": "ITEM_CHOICE_SPECS",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Specs",
+            "SourceTiers": [
+                "GEN6UU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_BOOMBURST",
+                "MOVE_FIRE_BLAST",
+                "MOVE_FOCUS_BLAST",
+                "MOVE_SURF"
+            ],
+            "Ability": "ABILITY_SCRAPPY",
+            "Item": "ITEM_CHOICE_SPECS",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Specs",
+            "SourceTiers": [
+                "GEN6RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_BOOMBURST",
+                "MOVE_SURF",
+                "MOVE_FIRE_BLAST",
+                "MOVE_FOCUS_BLAST"
+            ],
+            "Ability": "ABILITY_SCRAPPY",
+            "Item": "ITEM_CHOICE_SPECS",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_BOOMBURST",
+                "MOVE_FOCUS_BLAST",
+                "MOVE_FIRE_BLAST",
+                "MOVE_SURF"
+            ],
+            "Ability": "ABILITY_SCRAPPY",
+            "Item": "ITEM_CHOICE_SPECS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Specs",
+            "SourceTiers": [
+                "GEN7RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_BOOMBURST",
+                "MOVE_OVERHEAT",
+                "MOVE_SURF",
+                "MOVE_FOCUS_BLAST"
+            ],
+            "Ability": "ABILITY_SCRAPPY",
+            "Item": "ITEM_CHOICE_SPECS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "DAT LOUD",
+            "SourceTiers": [
+                "GEN8NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_BOOMBURST",
+                "MOVE_FOCUS_BLAST",
+                "MOVE_SURF",
+                "MOVE_OVERHEAT"
+            ],
+            "Ability": "ABILITY_SCRAPPY",
+            "Item": "ITEM_CHOICE_SPECS",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_BOOMBURST",
+                "MOVE_OVERDRIVE",
+                "MOVE_FOCUS_BLAST",
+                "MOVE_SHADOW_BALL"
+            ],
+            "Item": "ITEM_CHOICE_SCARF",
+            "Ability": "ABILITY_PUNK_ROCK",
+            "HiddenPower": null,
+            "SourceTiers": [
+                "GEN7RU"
+            ],
+            "Name": "Punk Rock",
+            "Nature": "NATURE_HARDY",
+            "TeraType": null
+        }
+    ]
+}

@@ -1,0 +1,422 @@
+{
+    "Species": "SPECIES_ACCELGOR",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_DARK_PULSE",
+            "Level": "0"
+        },
+        {
+            "Move": "MOVE_DARK_PULSE",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_WATER_SHURIKEN",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_FINAL_GAMBIT",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_POWER_SWAP",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_ABSORB",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_ACID_SPRAY",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_DOUBLE_TEAM",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_QUICK_ATTACK",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_ACID_SPRAY",
+            "Level": "4"
+        },
+        {
+            "Move": "MOVE_DOUBLE_TEAM",
+            "Level": "8"
+        },
+        {
+            "Move": "MOVE_QUICK_ATTACK",
+            "Level": "13"
+        },
+        {
+            "Move": "MOVE_STRUGGLE_BUG",
+            "Level": "16"
+        },
+        {
+            "Move": "MOVE_MEGA_DRAIN",
+            "Level": "20"
+        },
+        {
+            "Move": "MOVE_SWIFT",
+            "Level": "25"
+        },
+        {
+            "Move": "MOVE_ME_FIRST",
+            "Level": "28"
+        },
+        {
+            "Move": "MOVE_AGILITY",
+            "Level": "32"
+        },
+        {
+            "Move": "MOVE_GIGA_DRAIN",
+            "Level": "37"
+        },
+        {
+            "Move": "MOVE_U_TURN",
+            "Level": "40"
+        },
+        {
+            "Move": "MOVE_BUG_BUZZ",
+            "Level": "44"
+        },
+        {
+            "Move": "MOVE_RECOVER",
+            "Level": "49"
+        },
+        {
+            "Move": "MOVE_POWER_SWAP",
+            "Level": "52"
+        },
+        {
+            "Move": "MOVE_FINAL_GAMBIT",
+            "Level": "56"
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_SKITTER_SMACK",
+        "MOVE_ATTRACT",
+        "MOVE_SPIKES",
+        "MOVE_VENOSHOCK",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_KNOCK_OFF",
+        "MOVE_PROTECT",
+        "MOVE_BATON_PASS",
+        "MOVE_HYPER_BEAM",
+        "MOVE_SUBSTITUTE",
+        "MOVE_FACADE",
+        "MOVE_LEECH_LIFE",
+        "MOVE_REVERSAL",
+        "MOVE_SLEEP_TALK",
+        "MOVE_ENERGY_BALL",
+        "MOVE_SLUDGE_BOMB",
+        "MOVE_REST",
+        "MOVE_ENCORE",
+        "MOVE_GIGA_IMPACT",
+        "MOVE_TERA_BLAST",
+        "MOVE_ENDURE",
+        "MOVE_MUD_SHOT",
+        "MOVE_FOCUS_BLAST",
+        "MOVE_ROUND",
+        "MOVE_SNORE",
+        "MOVE_RAIN_DANCE",
+        "MOVE_VENOM_DRENCH",
+        "MOVE_DRAIN_PUNCH",
+        "MOVE_SANDSTORM",
+        "MOVE_TOXIC_SPIKES",
+        "MOVE_GUARD_SWAP",
+        "MOVE_BODY_SLAM"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_SPIKES",
+                "MOVE_ENCORE",
+                "MOVE_FINAL_GAMBIT",
+                "MOVE_BUG_BUZZ"
+            ],
+            "Ability": "ABILITY_UNBURDEN",
+            "Item": "ITEM_FOCUS_SASH",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Spikes Lead",
+            "SourceTiers": [
+                "GEN6UU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SPIKES",
+                "MOVE_FINAL_GAMBIT",
+                "MOVE_ENCORE",
+                "MOVE_BUG_BUZZ"
+            ],
+            "Ability": "ABILITY_UNBURDEN",
+            "Item": "ITEM_FOCUS_SASH",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Spikes Lead",
+            "SourceTiers": [
+                "GEN6RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_BUG_BUZZ",
+                "MOVE_HIDDEN_POWER",
+                "MOVE_FOCUS_BLAST",
+                "MOVE_GIGA_DRAIN"
+            ],
+            "Ability": "ABILITY_STICKY_HOLD",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": "TYPE_GROUND",
+            "TeraType": null,
+            "Name": "Offensive",
+            "SourceTiers": [
+                "GEN6RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_BUG_BUZZ",
+                "MOVE_FOCUS_BLAST",
+                "MOVE_SPIKES",
+                "MOVE_SLUDGE_BOMB"
+            ],
+            "Ability": "ABILITY_UNBURDEN",
+            "Item": "ITEM_FOCUS_SASH",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_BUG_BUZZ",
+                "MOVE_ENERGY_BALL",
+                "MOVE_FINAL_GAMBIT",
+                "MOVE_FOCUS_BLAST"
+            ],
+            "Ability": "ABILITY_UNBURDEN",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_BUG_BUZZ",
+                "MOVE_FOCUS_BLAST",
+                "MOVE_ENERGY_BALL",
+                "MOVE_SPIKES"
+            ],
+            "Ability": "ABILITY_STICKY_HOLD",
+            "Item": "ITEM_CHOICE_SPECS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Specs",
+            "SourceTiers": [
+                "GEN7NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SPIKES",
+                "MOVE_DARK_PULSE",
+                "MOVE_FOCUS_BLAST",
+                "MOVE_RECOVER"
+            ],
+            "Ability": "ABILITY_INFILTRATOR",
+            "Item": "ITEM_FIGHTINIUM_Z",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Fightinium Z",
+            "SourceTiers": [
+                "GEN7NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_BUG_BUZZ",
+                "MOVE_FOCUS_BLAST",
+                "MOVE_SPIKES",
+                "MOVE_ENERGY_BALL"
+            ],
+            "Ability": "ABILITY_STICKY_HOLD",
+            "Item": "ITEM_CHOICE_SPECS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FINAL_GAMBIT",
+                "MOVE_ACID_SPRAY",
+                "MOVE_PROTECT",
+                "MOVE_STRUGGLE_BUG"
+            ],
+            "Ability": "ABILITY_UNBURDEN",
+            "Item": "ITEM_PSYCHIC_SEED",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7BATTLESPOTDOUBLES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FINAL_GAMBIT",
+                "MOVE_ACID_SPRAY",
+                "MOVE_ENCORE",
+                "MOVE_STRUGGLE_BUG"
+            ],
+            "Ability": "ABILITY_UNBURDEN",
+            "Item": "ITEM_PSYCHIC_SEED",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7VGC2018"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SPIKES",
+                "MOVE_FINAL_GAMBIT",
+                "MOVE_BUG_BUZZ",
+                "MOVE_ENERGY_BALL"
+            ],
+            "Ability": "ABILITY_UNBURDEN",
+            "Item": "ITEM_THROAT_SPRAY",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SPIKES",
+                "MOVE_BUG_BUZZ",
+                "MOVE_DARK_PULSE",
+                "MOVE_U_TURN"
+            ],
+            "Ability": "ABILITY_STICKY_HOLD",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Spikes",
+            "SourceTiers": [
+                "GEN8PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_BUG_BUZZ",
+                "MOVE_FOCUS_BLAST",
+                "MOVE_DARK_PULSE",
+                "MOVE_SLUDGE_BOMB"
+            ],
+            "Ability": "ABILITY_UNBURDEN",
+            "Item": "ITEM_THROAT_SPRAY",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Throat Spray",
+            "SourceTiers": [
+                "GEN8PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_BUG_BUZZ",
+                "MOVE_SLUDGE_BOMB",
+                "MOVE_FOCUS_BLAST",
+                "MOVE_ENERGY_BALL"
+            ],
+            "Ability": "ABILITY_UNBURDEN",
+            "Item": "ITEM_THROAT_SPRAY",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_BUG_BUZZ",
+                "MOVE_DARK_PULSE",
+                "MOVE_SLUDGE_BOMB",
+                "MOVE_GIGA_DRAIN"
+            ],
+            "Ability": "ABILITY_UNBURDEN",
+            "Item": "ITEM_THROAT_SPRAY",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Throat Spray",
+            "SourceTiers": [
+                "GEN8ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SPIKES",
+                "MOVE_FINAL_GAMBIT",
+                "MOVE_ENCORE",
+                "MOVE_YAWN"
+            ],
+            "Ability": "ABILITY_UNBURDEN",
+            "Item": "ITEM_FOCUS_SASH",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Suicide Lead",
+            "SourceTiers": [
+                "GEN8ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_BUG_BUZZ",
+                "MOVE_SLUDGE_BOMB",
+                "MOVE_FOCUS_BLAST",
+                "MOVE_GIGA_DRAIN"
+            ],
+            "Ability": "ABILITY_UNBURDEN",
+            "Item": "ITEM_THROAT_SPRAY",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8ZU"
+            ]
+        }
+    ]
+}

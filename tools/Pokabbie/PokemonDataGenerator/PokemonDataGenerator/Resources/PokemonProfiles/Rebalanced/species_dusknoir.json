@@ -1,0 +1,376 @@
+{
+    "Species": "SPECIES_DUSKNOIR",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_FIRE_PUNCH",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_ICE_PUNCH",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_THUNDER_PUNCH",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_BIND",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_LEER",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_DISABLE",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_ASTONISH",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_SHADOW_PUNCH",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_GRAVITY",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_SHADOW_SNEAK",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_CONFUSE_RAY",
+            "Level": 12
+        },
+        {
+            "Move": "MOVE_NIGHT_SHADE",
+            "Level": 16
+        },
+        {
+            "Move": "MOVE_PAYBACK",
+            "Level": 20
+        },
+        {
+            "Move": "MOVE_WILL_O_WISP",
+            "Level": 24
+        },
+        {
+            "Move": "MOVE_MEAN_LOOK",
+            "Level": 28
+        },
+        {
+            "Move": "MOVE_HEX",
+            "Level": 32
+        },
+        {
+            "Move": "MOVE_CURSE",
+            "Level": 36
+        },
+        {
+            "Move": "MOVE_SHADOW_BALL",
+            "Level": 42
+        },
+        {
+            "Move": "MOVE_FUTURE_SIGHT",
+            "Level": 48
+        },
+        {
+            "Move": "MOVE_DESTINY_BOND",
+            "Level": 54
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_ICE_BEAM",
+        "MOVE_PAIN_SPLIT",
+        "MOVE_HELPING_HAND",
+        "MOVE_DARK_PULSE",
+        "MOVE_FLING",
+        "MOVE_POWER_UP_PUNCH",
+        "MOVE_SUCKER_PUNCH",
+        "MOVE_SKITTER_SMACK",
+        "MOVE_ROCK_TOMB",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_POLTERGEIST",
+        "MOVE_HARD_PRESS",
+        "MOVE_PROTECT",
+        "MOVE_SKILL_SWAP",
+        "MOVE_THIEF",
+        "MOVE_CALM_MIND",
+        "MOVE_HYPER_BEAM",
+        "MOVE_SUBSTITUTE",
+        "MOVE_METRONOME",
+        "MOVE_SUNNY_DAY",
+        "MOVE_BRICK_BREAK",
+        "MOVE_FACADE",
+        "MOVE_LEECH_LIFE",
+        "MOVE_PHANTOM_FORCE",
+        "MOVE_TRICK",
+        "MOVE_ICY_WIND",
+        "MOVE_SWIFT",
+        "MOVE_IMPRISON",
+        "MOVE_SLEEP_TALK",
+        "MOVE_PSYCHIC",
+        "MOVE_HAZE",
+        "MOVE_REST",
+        "MOVE_MEMENTO",
+        "MOVE_GIGA_IMPACT",
+        "MOVE_EARTHQUAKE",
+        "MOVE_TERA_BLAST",
+        "MOVE_CHARGE_BEAM",
+        "MOVE_ENDURE",
+        "MOVE_SPITE",
+        "MOVE_FOCUS_BLAST",
+        "MOVE_BLIZZARD",
+        "MOVE_TRICK_ROOM",
+        "MOVE_RAIN_DANCE",
+        "MOVE_ROCK_SLIDE",
+        "MOVE_PSYCH_UP",
+        "MOVE_TAUNT",
+        "MOVE_FOCUS_PUNCH",
+        "MOVE_BODY_SLAM"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_SHADOW_SNEAK",
+                "MOVE_EARTHQUAKE",
+                "MOVE_ICE_PUNCH",
+                "MOVE_TRICK"
+            ],
+            "Ability": "ABILITY_FRISK",
+            "Item": "ITEM_CHOICE_BAND",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Band",
+            "SourceTiers": [
+                "GEN6NU",
+                "GEN6PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SHADOW_SNEAK",
+                "MOVE_EARTHQUAKE",
+                "MOVE_ICE_PUNCH",
+                "MOVE_WILL_O_WISP"
+            ],
+            "Ability": "ABILITY_PRESSURE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SHADOW_SNEAK",
+                "MOVE_SUCKER_PUNCH",
+                "MOVE_EARTHQUAKE",
+                "MOVE_ICE_PUNCH"
+            ],
+            "Ability": "ABILITY_PRESSURE",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Life Orb Attacker",
+            "SourceTiers": [
+                "GEN6PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SHADOW_SNEAK",
+                "MOVE_EARTHQUAKE",
+                "MOVE_WILL_O_WISP",
+                "MOVE_ICE_PUNCH"
+            ],
+            "Ability": "ABILITY_PRESSURE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_EARTHQUAKE",
+                "MOVE_SHADOW_SNEAK",
+                "MOVE_ICE_PUNCH",
+                "MOVE_TRICK"
+            ],
+            "Ability": "ABILITY_FRISK",
+            "Item": "ITEM_CHOICE_BAND",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Band",
+            "SourceTiers": [
+                "GEN7PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SHADOW_SNEAK",
+                "MOVE_EARTHQUAKE",
+                "MOVE_ICE_PUNCH",
+                "MOVE_WILL_O_WISP"
+            ],
+            "Ability": "ABILITY_FRISK",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_TRICK_ROOM",
+                "MOVE_WILL_O_WISP",
+                "MOVE_BRICK_BREAK",
+                "MOVE_MEMENTO"
+            ],
+            "Ability": "ABILITY_FRISK",
+            "Item": "ITEM_DARKINIUM_Z",
+            "Nature": "NATURE_RELAXED",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Trick Room Setter",
+            "SourceTiers": [
+                "GEN7ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SHADOW_SNEAK",
+                "MOVE_EARTHQUAKE",
+                "MOVE_WILL_O_WISP",
+                "MOVE_ICE_PUNCH"
+            ],
+            "Ability": "ABILITY_FRISK",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SHADOW_SNEAK",
+                "MOVE_POLTERGEIST",
+                "MOVE_EARTHQUAKE",
+                "MOVE_POWER_UP_PUNCH"
+            ],
+            "Ability": "ABILITY_FRISK",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SUBSTITUTE",
+                "MOVE_POLTERGEIST",
+                "MOVE_SHADOW_SNEAK",
+                "MOVE_FOCUS_PUNCH"
+            ],
+            "Ability": "ABILITY_FRISK",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Substitute + 3 Attacks",
+            "SourceTiers": [
+                "GEN8ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_POLTERGEIST",
+                "MOVE_SHADOW_SNEAK",
+                "MOVE_EARTHQUAKE",
+                "MOVE_FOCUS_PUNCH"
+            ],
+            "Ability": "ABILITY_FRISK",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_POLTERGEIST",
+                "MOVE_SHADOW_SNEAK",
+                "MOVE_EARTHQUAKE",
+                "MOVE_WILL_O_WISP"
+            ],
+            "Ability": "ABILITY_FRISK",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN9PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_POLTERGEIST",
+                "MOVE_SHADOW_SNEAK",
+                "MOVE_LEECH_LIFE",
+                "MOVE_EARTHQUAKE"
+            ],
+            "Ability": "ABILITY_FRISK",
+            "Item": "ITEM_ASSAULT_VEST",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN91V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SHADOW_PUNCH",
+                "MOVE_ICE_PUNCH",
+                "MOVE_THUNDER_PUNCH",
+                "MOVE_EARTHQUAKE"
+            ],
+            "Item": "ITEM_ASSAULT_VEST",
+            "Ability": "ABILITY_IRON_FIST",
+            "HiddenPower": null,
+            "SourceTiers": [
+                "GEN7PU"
+            ],
+            "Name": "Assault Vest",
+            "Nature": "NATURE_HARDY",
+            "TeraType": null
+        }
+    ]
+}

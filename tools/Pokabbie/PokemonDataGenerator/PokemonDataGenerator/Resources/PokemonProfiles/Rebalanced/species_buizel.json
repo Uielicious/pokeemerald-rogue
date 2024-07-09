@@ -1,0 +1,218 @@
+{
+    "Species": "SPECIES_BUIZEL",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_BITE",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_SONIC_BOOM",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_GROWL",
+            "Level": "4"
+        },
+        {
+            "Move": "MOVE_WATER_SPORT",
+            "Level": "7"
+        },
+        {
+            "Move": "MOVE_QUICK_ATTACK",
+            "Level": "11"
+        },
+        {
+            "Move": "MOVE_WATER_GUN",
+            "Level": "15"
+        },
+        {
+            "Move": "MOVE_PURSUIT",
+            "Level": "18"
+        },
+        {
+            "Move": "MOVE_SWIFT",
+            "Level": "21"
+        },
+        {
+            "Move": "MOVE_AQUA_JET",
+            "Level": "24"
+        },
+        {
+            "Move": "MOVE_DOUBLE_HIT",
+            "Level": "27"
+        },
+        {
+            "Move": "MOVE_WHIRLPOOL",
+            "Level": "31"
+        },
+        {
+            "Move": "MOVE_RAZOR_WIND",
+            "Level": "35"
+        },
+        {
+            "Move": "MOVE_AQUA_TAIL",
+            "Level": "38"
+        },
+        {
+            "Move": "MOVE_AGILITY",
+            "Level": "41"
+        },
+        {
+            "Move": "MOVE_HYDRO_PUMP",
+            "Level": "45"
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_ICE_BEAM",
+        "MOVE_HELPING_HAND",
+        "MOVE_FLING",
+        "MOVE_POWER_UP_PUNCH",
+        "MOVE_CHILLING_WATER",
+        "MOVE_ROCK_TOMB",
+        "MOVE_WATERFALL",
+        "MOVE_AQUA_RING",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_PROTECT",
+        "MOVE_BATON_PASS",
+        "MOVE_THIEF",
+        "MOVE_HEADBUTT",
+        "MOVE_TAKE_DOWN",
+        "MOVE_SUBSTITUTE",
+        "MOVE_LUNGE",
+        "MOVE_BRICK_BREAK",
+        "MOVE_FACADE",
+        "MOVE_ICY_WIND",
+        "MOVE_SLEEP_TALK",
+        "MOVE_FURY_SWIPES",
+        "MOVE_MUD_SLAP",
+        "MOVE_ROAR",
+        "MOVE_DIG",
+        "MOVE_ICE_PUNCH",
+        "MOVE_LIQUIDATION",
+        "MOVE_TERA_BLAST",
+        "MOVE_ENDURE",
+        "MOVE_WATER_PULSE",
+        "MOVE_LOW_SWEEP",
+        "MOVE_LOW_KICK",
+        "MOVE_ICE_SPINNER",
+        "MOVE_BLIZZARD",
+        "MOVE_SURF",
+        "MOVE_FLIP_TURN",
+        "MOVE_SCALD",
+        "MOVE_RAIN_DANCE",
+        "MOVE_BULK_UP",
+        "MOVE_SLASH",
+        "MOVE_ICE_FANG",
+        "MOVE_FURY_CUTTER",
+        "MOVE_TAIL_SLAP",
+        "MOVE_CRUNCH",
+        "MOVE_TAUNT",
+        "MOVE_FOCUS_PUNCH",
+        "MOVE_CUT",
+        "MOVE_REST"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_AQUA_TAIL",
+                "MOVE_ICE_PUNCH",
+                "MOVE_BRICK_BREAK",
+                "MOVE_AQUA_JET"
+            ],
+            "Ability": "ABILITY_WATER_VEIL",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Life Orb Attacker",
+            "SourceTiers": [
+                "GEN6LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_AQUA_JET",
+                "MOVE_ICE_PUNCH",
+                "MOVE_WATERFALL",
+                "MOVE_BRICK_BREAK"
+            ],
+            "Ability": "ABILITY_WATER_VEIL",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_BLIZZARD",
+                "MOVE_SCALD",
+                "MOVE_HIDDEN_POWER",
+                "MOVE_AQUA_JET"
+            ],
+            "Ability": "ABILITY_TECHNICIAN",
+            "Item": "ITEM_ICIUM_Z",
+            "Nature": "NATURE_NAIVE",
+            "HiddenPower": "TYPE_FIRE",
+            "TeraType": null,
+            "Name": "Icium Z",
+            "SourceTiers": [
+                "GEN7LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_BULK_UP",
+                "MOVE_WAVE_CRASH",
+                "MOVE_ICE_SPINNER",
+                "MOVE_BRICK_BREAK"
+            ],
+            "Ability": "ABILITY_SWIFT_SWIM",
+            "Item": "ITEM_ORAN_BERRY",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": "TYPE_WATER",
+            "Name": "Rain Wallbreaker",
+            "SourceTiers": [
+                "GEN9LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_ICE_SPINNER",
+                "MOVE_WAVE_CRASH",
+                "MOVE_AQUA_JET",
+                "MOVE_FLIP_TURN"
+            ],
+            "Ability": "ABILITY_SWIFT_SWIM",
+            "Item": "ITEM_CHOICE_BAND",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN9LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_AQUA_JET",
+                "MOVE_POWER_UP_PUNCH",
+                "MOVE_ICE_PUNCH",
+                "MOVE_ROCK_TOMB"
+            ],
+            "Item": "ITEM_LIFE_ORB",
+            "Ability": "ABILITY_TECHNICIAN",
+            "HiddenPower": null,
+            "SourceTiers": [
+                "GEN7LC"
+            ],
+            "Name": "Technician Offense",
+            "Nature": "NATURE_HARDY",
+            "TeraType": null
+        }
+    ]
+}

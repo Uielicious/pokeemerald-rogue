@@ -1,0 +1,257 @@
+{
+    "Species": "SPECIES_ILLUMISE",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_PLAY_NICE",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_TACKLE",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_SWEET_SCENT",
+            "Level": "5"
+        },
+        {
+            "Move": "MOVE_CHARM",
+            "Level": "9"
+        },
+        {
+            "Move": "MOVE_QUICK_ATTACK",
+            "Level": "11"
+        },
+        {
+            "Move": "MOVE_STRUGGLE_BUG",
+            "Level": "14"
+        },
+        {
+            "Move": "MOVE_DISARMING_VOICE",
+            "Level": "17"
+        },
+        {
+            "Move": "MOVE_MOONLIGHT",
+            "Level": "20"
+        },
+        {
+            "Move": "MOVE_QUIVER_DANCE",
+            "Level": "23"
+        },
+        {
+            "Move": "MOVE_ENCORE",
+            "Level": "26"
+        },
+        {
+            "Move": "MOVE_WISH",
+            "Level": "29"
+        },
+        {
+            "Move": "MOVE_DRAINING_KISS",
+            "Level": "32"
+        },
+        {
+            "Move": "MOVE_ZEN_HEADBUTT",
+            "Level": "35"
+        },
+        {
+            "Move": "MOVE_HELPING_HAND",
+            "Level": "38"
+        },
+        {
+            "Move": "MOVE_BUG_BUZZ",
+            "Level": "41"
+        },
+        {
+            "Move": "MOVE_PLAY_ROUGH",
+            "Level": "45"
+        },
+        {
+            "Move": "MOVE_COVET",
+            "Level": "49"
+        },
+        {
+            "Move": "MOVE_INFESTATION",
+            "Level": "54"
+        },
+        {
+            "Move": "MOVE_MOONBLAST",
+            "Level": "60"
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_AIR_CUTTER",
+        "MOVE_GIGA_DRAIN",
+        "MOVE_THUNDER_PUNCH",
+        "MOVE_FLING",
+        "MOVE_SOLAR_BEAM",
+        "MOVE_FLATTER",
+        "MOVE_SKITTER_SMACK",
+        "MOVE_ATTRACT",
+        "MOVE_LIGHT_SCREEN",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_PROTECT",
+        "MOVE_BATON_PASS",
+        "MOVE_THIEF",
+        "MOVE_DOUBLE_EDGE",
+        "MOVE_TAKE_DOWN",
+        "MOVE_SUBSTITUTE",
+        "MOVE_METRONOME",
+        "MOVE_SUNNY_DAY",
+        "MOVE_BRICK_BREAK",
+        "MOVE_ENDEAVOR",
+        "MOVE_FACADE",
+        "MOVE_TAILWIND",
+        "MOVE_TRICK",
+        "MOVE_AIR_SLASH",
+        "MOVE_ACROBATICS",
+        "MOVE_BUG_BITE",
+        "MOVE_SHADOW_BALL",
+        "MOVE_SWIFT",
+        "MOVE_DUAL_WINGBEAT",
+        "MOVE_SLEEP_TALK",
+        "MOVE_TRAILBLAZE",
+        "MOVE_LUNGE",
+        "MOVE_MUD_SLAP",
+        "MOVE_CONFUSE_RAY",
+        "MOVE_THUNDERBOLT",
+        "MOVE_FAKE_TEARS",
+        "MOVE_GROWTH",
+        "MOVE_ICE_PUNCH",
+        "MOVE_TERA_BLAST",
+        "MOVE_CHARGE_BEAM",
+        "MOVE_ENDURE",
+        "MOVE_WATER_PULSE",
+        "MOVE_ROOST",
+        "MOVE_DAZZLING_GLEAM",
+        "MOVE_THUNDER",
+        "MOVE_POUNCE",
+        "MOVE_THUNDER_WAVE",
+        "MOVE_RAIN_DANCE",
+        "MOVE_U_TURN",
+        "MOVE_PSYCH_UP",
+        "MOVE_AERIAL_ACE",
+        "MOVE_FOCUS_PUNCH",
+        "MOVE_REST"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_BUG_BUZZ",
+                "MOVE_THUNDERBOLT",
+                "MOVE_GIGA_DRAIN",
+                "MOVE_U_TURN"
+            ],
+            "Ability": "ABILITY_TINTED_LENS",
+            "Item": "ITEM_CHOICE_SPECS",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Specs",
+            "SourceTiers": [
+                "GEN6PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_BUG_BUZZ",
+                "MOVE_U_TURN",
+                "MOVE_DAZZLING_GLEAM",
+                "MOVE_HIDDEN_POWER"
+            ],
+            "Ability": "ABILITY_TINTED_LENS",
+            "Item": "ITEM_CHOICE_SPECS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": "TYPE_GROUND",
+            "TeraType": null,
+            "Name": "Choice Specs",
+            "SourceTiers": [
+                "GEN6ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SUNNY_DAY",
+                "MOVE_U_TURN",
+                "MOVE_THUNDER_WAVE",
+                "MOVE_ENCORE"
+            ],
+            "Ability": "ABILITY_PRANKSTER",
+            "Item": "ITEM_HEAT_ROCK",
+            "Nature": "NATURE_RELAXED",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Weather Setter",
+            "SourceTiers": [
+                "GEN7PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_CHARM",
+                "MOVE_ENCORE",
+                "MOVE_ROOST",
+                "MOVE_INFESTATION"
+            ],
+            "Ability": "ABILITY_PRANKSTER",
+            "Item": "ITEM_FAIRIUM_Z",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Prankster Charm",
+            "SourceTiers": [
+                "GEN71V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_QUIVER_DANCE",
+                "MOVE_BUG_BUZZ",
+                "MOVE_MOONBLAST",
+                "MOVE_THUNDERBOLT"
+            ],
+            "Item": "ITEM_LIFE_ORB",
+            "Ability": "ABILITY_TINTED_LENS",
+            "HiddenPower": null,
+            "SourceTiers": [
+                "GEN7NU"
+            ],
+            "Name": "Offensive Quiver Dance",
+            "Nature": "NATURE_HARDY",
+            "TeraType": null
+        },
+        {
+            "Moves": [
+                "MOVE_QUIVER_DANCE",
+                "MOVE_BATON_PASS",
+                "MOVE_SUBSTITUTE",
+                "MOVE_DRAINING_KISS"
+            ],
+            "Item": "ITEM_LEFTOVERS",
+            "Ability": "ABILITY_PRANKSTER",
+            "HiddenPower": null,
+            "SourceTiers": [
+                "GEN7NU"
+            ],
+            "Name": "Quiver Dance + Baton Pass",
+            "Nature": "NATURE_HARDY",
+            "TeraType": null
+        },
+        {
+            "Moves": [
+                "MOVE_U_TURN",
+                "MOVE_THUNDER_WAVE",
+                "MOVE_ENCORE",
+                "MOVE_DRAINING_KISS"
+            ],
+            "Item": "ITEM_LEFTOVERS",
+            "Ability": "ABILITY_PRANKSTER",
+            "HiddenPower": null,
+            "SourceTiers": [
+                "GEN7PU"
+            ],
+            "Name": "Weather Setter",
+            "Nature": "NATURE_HARDY",
+            "TeraType": null
+        }
+    ]
+}

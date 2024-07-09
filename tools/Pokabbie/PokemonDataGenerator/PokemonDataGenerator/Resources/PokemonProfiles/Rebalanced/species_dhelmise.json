@@ -1,0 +1,367 @@
+{
+    "Species": "SPECIES_DHELMISE",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_SWITCHEROO",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_ABSORB",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_GROWTH",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_RAPID_SPIN",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_ASTONISH",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_MEGA_DRAIN",
+            "Level": "5"
+        },
+        {
+            "Move": "MOVE_WRAP",
+            "Level": "9"
+        },
+        {
+            "Move": "MOVE_GYRO_BALL",
+            "Level": "14"
+        },
+        {
+            "Move": "MOVE_METAL_SOUND",
+            "Level": "18"
+        },
+        {
+            "Move": "MOVE_GIGA_DRAIN",
+            "Level": "23"
+        },
+        {
+            "Move": "MOVE_WHIRLPOOL",
+            "Level": "27"
+        },
+        {
+            "Move": "MOVE_ANCHOR_SHOT",
+            "Level": "32"
+        },
+        {
+            "Move": "MOVE_SHADOW_BALL",
+            "Level": "36"
+        },
+        {
+            "Move": "MOVE_ENERGY_BALL",
+            "Level": "41"
+        },
+        {
+            "Move": "MOVE_SLAM",
+            "Level": "45"
+        },
+        {
+            "Move": "MOVE_HEAVY_SLAM",
+            "Level": "50"
+        },
+        {
+            "Move": "MOVE_PHANTOM_FORCE",
+            "Level": "54"
+        },
+        {
+            "Move": "MOVE_POWER_WHIP",
+            "Level": "59"
+        },
+        {
+            "Move": "MOVE_SPIRIT_SHACKLE",
+            "Level": "64"
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_SLUDGE_WAVE",
+        "MOVE_HELPING_HAND",
+        "MOVE_SOLAR_BEAM",
+        "MOVE_BRUTAL_SWING",
+        "MOVE_GRASS_KNOT",
+        "MOVE_IRON_HEAD",
+        "MOVE_SWORDS_DANCE",
+        "MOVE_BRINE",
+        "MOVE_BULLDOZE",
+        "MOVE_POLTERGEIST",
+        "MOVE_KNOCK_OFF",
+        "MOVE_PAYBACK",
+        "MOVE_PROTECT",
+        "MOVE_ASSURANCE",
+        "MOVE_GRASSY_GLIDE",
+        "MOVE_HYDRO_PUMP",
+        "MOVE_IRON_DEFENSE",
+        "MOVE_SHADOW_CLAW",
+        "MOVE_STEEL_ROLLER",
+        "MOVE_HYPER_BEAM",
+        "MOVE_SUBSTITUTE",
+        "MOVE_THIEF",
+        "MOVE_SUNNY_DAY",
+        "MOVE_BRICK_BREAK",
+        "MOVE_FACADE",
+        "MOVE_SYNTHESIS",
+        "MOVE_SLEEP_TALK",
+        "MOVE_REST",
+        "MOVE_GIGA_IMPACT",
+        "MOVE_EARTHQUAKE",
+        "MOVE_MUDDY_WATER",
+        "MOVE_HEX",
+        "MOVE_LIQUIDATION",
+        "MOVE_SOLAR_BLADE",
+        "MOVE_ENDURE",
+        "MOVE_ROUND",
+        "MOVE_SURF",
+        "MOVE_SNORE",
+        "MOVE_RAIN_DANCE",
+        "MOVE_ROCK_SLIDE",
+        "MOVE_BODY_PRESS",
+        "MOVE_ALLY_SWITCH",
+        "MOVE_FLASH_CANNON"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_RAPID_SPIN",
+                "MOVE_POWER_WHIP",
+                "MOVE_ANCHOR_SHOT",
+                "MOVE_REST"
+            ],
+            "Ability": "ABILITY_STEELWORKER",
+            "Item": "ITEM_COLBUR_BERRY",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Bulky Spinner",
+            "SourceTiers": [
+                "GEN7RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_ANCHOR_SHOT",
+                "MOVE_RAPID_SPIN",
+                "MOVE_POWER_WHIP",
+                "MOVE_KNOCK_OFF"
+            ],
+            "Ability": "ABILITY_STEELWORKER",
+            "Item": "ITEM_ASSAULT_VEST",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_POWER_WHIP",
+                "MOVE_ANCHOR_SHOT",
+                "MOVE_RAPID_SPIN",
+                "MOVE_SYNTHESIS"
+            ],
+            "Ability": "ABILITY_STEELWORKER",
+            "Item": "ITEM_STEELIUM_Z",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Rapid Spin",
+            "SourceTiers": [
+                "GEN7NU",
+                "GEN7NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_POWER_WHIP",
+                "MOVE_HEAVY_SLAM",
+                "MOVE_EARTHQUAKE",
+                "MOVE_KNOCK_OFF"
+            ],
+            "Ability": "ABILITY_STEELWORKER",
+            "Item": "ITEM_CHOICE_BAND",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Band",
+            "SourceTiers": [
+                "GEN7NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_POWER_WHIP",
+                "MOVE_PROTECT",
+                "MOVE_ANCHOR_SHOT",
+                "MOVE_SHADOW_CLAW"
+            ],
+            "Ability": "ABILITY_STEELWORKER",
+            "Item": "ITEM_FIGY_BERRY",
+            "Nature": "NATURE_BRAVE",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7BATTLESPOTDOUBLES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_HEAVY_SLAM",
+                "MOVE_POWER_WHIP",
+                "MOVE_SHADOW_CLAW",
+                "MOVE_PROTECT"
+            ],
+            "Ability": "ABILITY_STEELWORKER",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_BRAVE",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Offensive",
+            "SourceTiers": [
+                "GEN7VGC2017"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_POWER_WHIP",
+                "MOVE_HEAVY_SLAM",
+                "MOVE_SHADOW_CLAW",
+                "MOVE_ROCK_SLIDE"
+            ],
+            "Ability": "ABILITY_STEELWORKER",
+            "Item": "ITEM_ASSAULT_VEST",
+            "Nature": "NATURE_BRAVE",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Assault Vest",
+            "SourceTiers": [
+                "GEN7VGC2017"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_POWER_WHIP",
+                "MOVE_POLTERGEIST",
+                "MOVE_RAPID_SPIN",
+                "MOVE_SYNTHESIS"
+            ],
+            "Ability": "ABILITY_STEELWORKER",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_CAREFUL",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Spinblocker",
+            "SourceTiers": [
+                "GEN8UU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_RAPID_SPIN",
+                "MOVE_POWER_WHIP",
+                "MOVE_SYNTHESIS",
+                "MOVE_POLTERGEIST"
+            ],
+            "Ability": "ABILITY_STEELWORKER",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_CAREFUL",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8UU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_RAPID_SPIN",
+                "MOVE_POWER_WHIP",
+                "MOVE_POLTERGEIST",
+                "MOVE_SYNTHESIS"
+            ],
+            "Ability": "ABILITY_STEELWORKER",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Offensive Utility",
+            "SourceTiers": [
+                "GEN8RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_POWER_WHIP",
+                "MOVE_RAPID_SPIN",
+                "MOVE_POLTERGEIST",
+                "MOVE_SYNTHESIS"
+            ],
+            "Ability": "ABILITY_STEELWORKER",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_POWER_WHIP",
+                "MOVE_SPIRIT_SHACKLE",
+                "MOVE_RAPID_SPIN",
+                "MOVE_SYNTHESIS"
+            ],
+            "Ability": "ABILITY_STEELWORKER",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_IMPISH",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Defensive",
+            "SourceTiers": [
+                "GEN8NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_POWER_WHIP",
+                "MOVE_POLTERGEIST",
+                "MOVE_RAPID_SPIN",
+                "MOVE_ANCHOR_SHOT"
+            ],
+            "Ability": "ABILITY_STEELWORKER",
+            "Item": "ITEM_ASSAULT_VEST",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_ANCHOR_SHOT",
+                "MOVE_POLTERGEIST",
+                "MOVE_POWER_WHIP",
+                "MOVE_PROTECT"
+            ],
+            "Ability": "ABILITY_STEELWORKER",
+            "Item": "ITEM_WEAKNESS_POLICY",
+            "Nature": "NATURE_BRAVE",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8VGC2020"
+            ]
+        }
+    ]
+}

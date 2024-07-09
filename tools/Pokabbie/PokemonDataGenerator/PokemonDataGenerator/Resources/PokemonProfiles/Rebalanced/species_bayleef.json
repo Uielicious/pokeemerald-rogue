@@ -1,0 +1,117 @@
+{
+    "Species": "SPECIES_BAYLEEF",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_TACKLE",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_GROWL",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_RAZOR_LEAF",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_POISON_POWDER",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_RAZOR_LEAF",
+            "Level": "6"
+        },
+        {
+            "Move": "MOVE_POISON_POWDER",
+            "Level": "9"
+        },
+        {
+            "Move": "MOVE_SYNTHESIS",
+            "Level": "12"
+        },
+        {
+            "Move": "MOVE_REFLECT",
+            "Level": "18"
+        },
+        {
+            "Move": "MOVE_LIGHT_SCREEN",
+            "Level": "18"
+        },
+        {
+            "Move": "MOVE_MAGICAL_LEAF",
+            "Level": "22"
+        },
+        {
+            "Move": "MOVE_NATURAL_GIFT",
+            "Level": "26"
+        },
+        {
+            "Move": "MOVE_DRAINING_KISS",
+            "Level": "29"
+        },
+        {
+            "Move": "MOVE_SWEET_SCENT",
+            "Level": "32"
+        },
+        {
+            "Move": "MOVE_MOONBLAST",
+            "Level": "36"
+        },
+        {
+            "Move": "MOVE_BODY_SLAM",
+            "Level": "40"
+        },
+        {
+            "Move": "MOVE_SAFEGUARD",
+            "Level": "46"
+        },
+        {
+            "Move": "MOVE_AROMATHERAPY",
+            "Level": "50"
+        },
+        {
+            "Move": "MOVE_SOLAR_BEAM",
+            "Level": "54"
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_GRASS_PLEDGE",
+        "MOVE_INGRAIN",
+        "MOVE_GRASSY_TERRAIN",
+        "MOVE_HELPING_HAND",
+        "MOVE_GIGA_DRAIN",
+        "MOVE_HEAL_PULSE",
+        "MOVE_GRASS_KNOT",
+        "MOVE_LEAF_STORM",
+        "MOVE_SWORDS_DANCE",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_KNOCK_OFF",
+        "MOVE_PROTECT",
+        "MOVE_FLAIL",
+        "MOVE_BULLET_SEED",
+        "MOVE_DOUBLE_EDGE",
+        "MOVE_GRASSY_GLIDE",
+        "MOVE_SEED_BOMB",
+        "MOVE_TAKE_DOWN",
+        "MOVE_VINE_WHIP",
+        "MOVE_SUBSTITUTE",
+        "MOVE_SUNNY_DAY",
+        "MOVE_FACADE",
+        "MOVE_STOMPING_TANTRUM",
+        "MOVE_SLEEP_TALK",
+        "MOVE_ENERGY_BALL",
+        "MOVE_TRAILBLAZE",
+        "MOVE_MUD_SLAP",
+        "MOVE_ENCORE",
+        "MOVE_FAKE_TEARS",
+        "MOVE_ANCIENT_POWER",
+        "MOVE_SOLAR_BLADE",
+        "MOVE_TERA_BLAST",
+        "MOVE_CURSE",
+        "MOVE_ENDURE",
+        "MOVE_COUNTER",
+        "MOVE_CHARM",
+        "MOVE_REST"
+    ],
+    "CompetitiveSets": []
+}

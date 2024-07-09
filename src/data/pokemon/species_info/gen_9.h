@@ -622,12 +622,21 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
 
     [SPECIES_SPIDOPS] =
     {
+    #ifdef ROGUE_DRAYANO
+        .baseHP        = 85,
+        .baseAttack    = 94,
+        .baseDefense   = 92,
+        .baseSpeed     = 41,
+        .baseSpAttack  = 52,
+        .baseSpDefense = 86,
+    #else
         .baseHP        = 60,
         .baseAttack    = 79,
         .baseDefense   = 92,
         .baseSpeed     = 35,
         .baseSpAttack  = 52,
         .baseSpDefense = 86,
+    #endif
         .types = { TYPE_BUG, TYPE_BUG },
         .catchRate = 120,
         .expYield = 141,
@@ -1268,14 +1277,26 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
     },
 #endif //P_FAMILY_SMOLIV
 
+#ifdef ROGUE_DRAYANO
+    #define SQUAWKABILLY_ATTACK 99
+    #define SQUAWKABILLY_DEFENSE 61
+    #define SQUAWKABILLY_SPEED 102
+    #define SQUAWKABILLY_SPDEFENSE 61
+#else
+    #define SQUAWKABILLY_ATTACK 96
+    #define SQUAWKABILLY_DEFENSE 51
+    #define SQUAWKABILLY_SPEED 92
+    #define SQUAWKABILLY_SPDEFENSE 51
+#endif
+
 #if P_FAMILY_SQUAWKABILLY
 #define SQUAWKABILLY_MISC_INFO                                  \
         .baseHP        = 82,                                    \
-        .baseAttack    = 96,                                    \
-        .baseDefense   = 51,                                    \
-        .baseSpeed     = 92,                                    \
+        .baseAttack    = SQUAWKABILLY_ATTACK,                   \
+        .baseDefense   = SQUAWKABILLY_DEFENSE,                  \
+        .baseSpeed     = SQUAWKABILLY_SPEED,                    \
         .baseSpAttack  = 45,                                    \
-        .baseSpDefense = 51,                                    \
+        .baseSpDefense = SQUAWKABILLY_SPDEFENSE,                \
         .types = { TYPE_NORMAL, TYPE_FLYING },                  \
         .catchRate = 190,                                       \
         .expYield = 146,                                        \
@@ -2969,12 +2990,21 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
     [SPECIES_PALAFIN_HERO] =
     {
         PALAFIN_MISC_INFO,
+    #ifdef ROGUE_DRAYANO
+        .baseHP        = 100,
+        .baseAttack    = 145,
+        .baseDefense   = 87,
+        .baseSpeed     = 100,
+        .baseSpAttack  = 86 ,
+        .baseSpDefense = 82,
+    #else
         .baseHP        = 100,
         .baseAttack    = 160,
         .baseDefense   = 97,
         .baseSpeed     = 100,
         .baseSpAttack  = 106,
         .baseSpDefense = 87,
+    #endif
         .expYield = 228,
         .cryId = CRY_PALAFIN_HERO,
         .categoryName = _("Hero"),

@@ -1,0 +1,168 @@
+{
+    "Species": "SPECIES_NOSEPASS",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_TACKLE",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_HARDEN",
+            "Level": "4"
+        },
+        {
+            "Move": "MOVE_BLOCK",
+            "Level": "7"
+        },
+        {
+            "Move": "MOVE_ROCK_THROW",
+            "Level": "10"
+        },
+        {
+            "Move": "MOVE_THUNDER_WAVE",
+            "Level": "13"
+        },
+        {
+            "Move": "MOVE_REST",
+            "Level": "16"
+        },
+        {
+            "Move": "MOVE_SPARK",
+            "Level": "19"
+        },
+        {
+            "Move": "MOVE_ROCK_SLIDE",
+            "Level": "22"
+        },
+        {
+            "Move": "MOVE_POWER_GEM",
+            "Level": "25"
+        },
+        {
+            "Move": "MOVE_ROCK_BLAST",
+            "Level": "28"
+        },
+        {
+            "Move": "MOVE_DISCHARGE",
+            "Level": "31"
+        },
+        {
+            "Move": "MOVE_SANDSTORM",
+            "Level": "34"
+        },
+        {
+            "Move": "MOVE_EARTH_POWER",
+            "Level": "37"
+        },
+        {
+            "Move": "MOVE_STONE_EDGE",
+            "Level": "40"
+        },
+        {
+            "Move": "MOVE_LOCK_ON",
+            "Level": "43"
+        },
+        {
+            "Move": "MOVE_ZAP_CANNON",
+            "Level": "43"
+        },
+        {
+            "Move": "MOVE_HEAD_SMASH",
+            "Level": "46"
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_PAIN_SPLIT",
+        "MOVE_THUNDER_PUNCH",
+        "MOVE_HELPING_HAND",
+        "MOVE_WIDE_GUARD",
+        "MOVE_ROCK_TOMB",
+        "MOVE_BULLDOZE",
+        "MOVE_STEEL_BEAM",
+        "MOVE_HIGH_HORSEPOWER",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_PROTECT",
+        "MOVE_DOUBLE_EDGE",
+        "MOVE_IRON_DEFENSE",
+        "MOVE_TAKE_DOWN",
+        "MOVE_SUBSTITUTE",
+        "MOVE_SUNNY_DAY",
+        "MOVE_FACADE",
+        "MOVE_STOMPING_TANTRUM",
+        "MOVE_STEALTH_ROCK",
+        "MOVE_SAND_TOMB",
+        "MOVE_SLEEP_TALK",
+        "MOVE_THUNDERBOLT",
+        "MOVE_ROLLOUT",
+        "MOVE_EARTHQUAKE",
+        "MOVE_ICE_PUNCH",
+        "MOVE_TERA_BLAST",
+        "MOVE_CURSE",
+        "MOVE_ENDURE",
+        "MOVE_METEOR_BEAM",
+        "MOVE_DAZZLING_GLEAM",
+        "MOVE_THUNDER",
+        "MOVE_VOLT_SWITCH",
+        "MOVE_HEAVY_SLAM",
+        "MOVE_FIRE_PUNCH",
+        "MOVE_SMACK_DOWN",
+        "MOVE_GRAVITY",
+        "MOVE_TAUNT",
+        "MOVE_BODY_PRESS",
+        "MOVE_BODY_SLAM",
+        "MOVE_FLASH_CANNON"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_STEALTH_ROCK",
+                "MOVE_THUNDER_WAVE",
+                "MOVE_VOLT_SWITCH",
+                "MOVE_POWER_GEM"
+            ],
+            "Ability": "ABILITY_STURDY",
+            "Item": "ITEM_BERRY_JUICE",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Utility",
+            "SourceTiers": [
+                "GEN6LC",
+                "GEN6LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_STEALTH_ROCK",
+                "MOVE_ROCK_BLAST",
+                "MOVE_THUNDER_WAVE",
+                "MOVE_VOLT_SWITCH"
+            ],
+            "Ability": "ABILITY_STURDY",
+            "Item": "ITEM_BERRY_JUICE",
+            "Nature": "NATURE_RELAXED",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "SturdyJuice Utility",
+            "SourceTiers": [
+                "GEN7LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_BODY_PRESS",
+                "MOVE_STEALTH_ROCK",
+                "MOVE_IRON_DEFENSE",
+                "MOVE_VOLT_SWITCH"
+            ],
+            "Ability": "ABILITY_STURDY",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_IMPISH",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN9LC"
+            ]
+        }
+    ]
+}

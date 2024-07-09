@@ -1,4 +1,4 @@
-﻿using PokemonDataGenerator.OverworldSprites;
+using PokemonDataGenerator.OverworldSprites;
 using PokemonDataGenerator.OverworldSprites.NPC;
 using PokemonDataGenerator.Pokedex;
 using PokemonDataGenerator.Utils;
@@ -19,7 +19,10 @@ namespace PokemonDataGenerator
 		{
 			Console.WriteLine("1 - Vanilla");
 			Console.WriteLine("2 - EX");
-			bool isVanillaVersion = ReadOption(1, 2) == 1;
+			Console.WriteLine("3 - Rebalanced");
+			int version = ReadOption(1, 3);
+			bool isVanillaVersion = version == 1;
+			bool isRebalanced = version == 3;
 
 			GameDataHelpers.IsVanillaVersion = isVanillaVersion;
 
@@ -35,7 +38,7 @@ namespace PokemonDataGenerator
 			{
 				case 1:
 					Console.WriteLine("==Gathering Pokemon Data Profile==");
-					PokemonProfileGenerator.GatherProfiles();
+					PokemonProfileGenerator.GatherProfiles(isRebalanced);
 					break;
 
 				case 2:

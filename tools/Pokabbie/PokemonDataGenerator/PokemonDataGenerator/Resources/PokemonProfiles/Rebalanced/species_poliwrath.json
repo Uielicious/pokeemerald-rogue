@@ -1,0 +1,532 @@
+{
+    "Species": "SPECIES_POLIWRATH",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_SUBMISSION",
+            "Level": "0"
+        },
+        {
+            "Move": "MOVE_SUBMISSION",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_CIRCLE_THROW",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_BUBBLE_BEAM",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_HYPNOSIS",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_DOUBLE_SLAP",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_DYNAMIC_PUNCH",
+            "Level": "32"
+        },
+        {
+            "Move": "MOVE_MIND_READER",
+            "Level": "43"
+        },
+        {
+            "Move": "MOVE_STORM_THROW",
+            "Level": "53"
+        },
+        {
+            "Move": "MOVE_CLOSE_COMBAT",
+            "Level": "64"
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_ICE_BEAM",
+        "MOVE_CHILLING_WATER",
+        "MOVE_ROCK_TOMB",
+        "MOVE_EARTH_POWER",
+        "MOVE_COACHING",
+        "MOVE_HIGH_HORSEPOWER",
+        "MOVE_BATON_PASS",
+        "MOVE_SPLASH",
+        "MOVE_DOUBLE_EDGE",
+        "MOVE_THROAT_CHOP",
+        "MOVE_SUBSTITUTE",
+        "MOVE_BRICK_BREAK",
+        "MOVE_FACADE",
+        "MOVE_WHIRLPOOL",
+        "MOVE_POUND",
+        "MOVE_SLEEP_TALK",
+        "MOVE_PSYCHIC",
+        "MOVE_MUD_SLAP",
+        "MOVE_WATER_GUN",
+        "MOVE_DIG",
+        "MOVE_MUDDY_WATER",
+        "MOVE_LIQUIDATION",
+        "MOVE_TERA_BLAST",
+        "MOVE_WATER_PULSE",
+        "MOVE_ENDURE",
+        "MOVE_MUD_SHOT",
+        "MOVE_ROCK_CLIMB",
+        "MOVE_LOVELY_KISS",
+        "MOVE_SCARY_FACE",
+        "MOVE_LOW_KICK",
+        "MOVE_BELLY_DRUM",
+        "MOVE_BLIZZARD",
+        "MOVE_RAIN_DANCE",
+        "MOVE_ROCK_SLIDE",
+        "MOVE_BULK_UP",
+        "MOVE_MIST",
+        "MOVE_WEATHER_BALL",
+        "MOVE_REST",
+        "MOVE_SUPERPOWER",
+        "MOVE_SEISMIC_TOSS",
+        "MOVE_HELPING_HAND",
+        "MOVE_VACUUM_WAVE",
+        "MOVE_FLING",
+        "MOVE_AMNESIA",
+        "MOVE_BULLDOZE",
+        "MOVE_WATERFALL",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_KNOCK_OFF",
+        "MOVE_PROTECT",
+        "MOVE_HYDRO_PUMP",
+        "MOVE_THIEF",
+        "MOVE_TAKE_DOWN",
+        "MOVE_HYPER_BEAM",
+        "MOVE_METRONOME",
+        "MOVE_ENDEAVOR",
+        "MOVE_ICY_WIND",
+        "MOVE_SWIFT",
+        "MOVE_REVERSAL",
+        "MOVE_HAZE",
+        "MOVE_ENCORE",
+        "MOVE_GIGA_IMPACT",
+        "MOVE_EARTHQUAKE",
+        "MOVE_ICE_PUNCH",
+        "MOVE_CURSE",
+        "MOVE_DARKEST_LARIAT",
+        "MOVE_FOCUS_BLAST",
+        "MOVE_LOW_SWEEP",
+        "MOVE_POISON_JAB",
+        "MOVE_SURF",
+        "MOVE_DRAIN_PUNCH",
+        "MOVE_PSYCH_UP",
+        "MOVE_TAUNT",
+        "MOVE_FOCUS_PUNCH",
+        "MOVE_BODY_SLAM"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_REST",
+                "MOVE_SLEEP_TALK",
+                "MOVE_HYDRO_PUMP",
+                "MOVE_CIRCLE_THROW"
+            ],
+            "Ability": "ABILITY_WATER_ABSORB",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_RELAXED",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "RestTalk",
+            "SourceTiers": [
+                "GEN6UU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_CIRCLE_THROW",
+                "MOVE_HYDRO_PUMP",
+                "MOVE_REST",
+                "MOVE_SLEEP_TALK"
+            ],
+            "Ability": "ABILITY_WATER_ABSORB",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_RELAXED",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Defensive",
+            "SourceTiers": [
+                "GEN6RU",
+                "GEN7PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_HYDRO_PUMP",
+                "MOVE_FOCUS_BLAST",
+                "MOVE_ICE_BEAM",
+                "MOVE_VACUUM_WAVE"
+            ],
+            "Ability": "ABILITY_WATER_ABSORB",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Special Attacker",
+            "SourceTiers": [
+                "GEN6NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_WATERFALL",
+                "MOVE_HYDRO_PUMP",
+                "MOVE_BRICK_BREAK",
+                "MOVE_ICE_PUNCH"
+            ],
+            "Ability": "ABILITY_WATER_ABSORB",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_WATERFALL",
+                "MOVE_DRAIN_PUNCH",
+                "MOVE_LOVELY_KISS",
+                "MOVE_PROTECT"
+            ],
+            "Ability": "ABILITY_WATER_ABSORB",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Special Tank",
+            "SourceTiers": [
+                "GEN7PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_CIRCLE_THROW",
+                "MOVE_WATERFALL",
+                "MOVE_FOCUS_PUNCH",
+                "MOVE_BRICK_BREAK"
+            ],
+            "Ability": "ABILITY_WATER_ABSORB",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_HYDRO_PUMP",
+                "MOVE_FOCUS_BLAST",
+                "MOVE_ICE_BEAM",
+                "MOVE_PROTECT"
+            ],
+            "Ability": "ABILITY_WATER_ABSORB",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Special Tank",
+            "SourceTiers": [
+                "GEN7ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_CIRCLE_THROW",
+                "MOVE_HYDRO_PUMP",
+                "MOVE_HYPNOSIS",
+                "MOVE_PROTECT"
+            ],
+            "Ability": "ABILITY_WATER_ABSORB",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Physically Defensive",
+            "SourceTiers": [
+                "GEN7ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_WATERFALL",
+                "MOVE_CIRCLE_THROW",
+                "MOVE_HYDRO_PUMP",
+                "MOVE_ICE_PUNCH"
+            ],
+            "Ability": "ABILITY_WATER_ABSORB",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_IMPISH",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SUPERPOWER",
+                "MOVE_HYPNOSIS",
+                "MOVE_WATERFALL",
+                "MOVE_SEISMIC_TOSS"
+            ],
+            "Ability": null,
+            "Item": null,
+            "Nature": "NATURE_IMPISH",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Tank",
+            "SourceTiers": [
+                "GEN7LETSGOOU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_WATERFALL",
+                "MOVE_SUPERPOWER",
+                "MOVE_ICE_PUNCH",
+                "MOVE_HYPNOSIS"
+            ],
+            "Ability": null,
+            "Item": null,
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7LETSGOOU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_LIQUIDATION",
+                "MOVE_CLOSE_COMBAT",
+                "MOVE_DARKEST_LARIAT",
+                "MOVE_EARTHQUAKE"
+            ],
+            "Ability": "ABILITY_WATER_ABSORB",
+            "Item": "ITEM_CHOICE_BAND",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Band",
+            "SourceTiers": [
+                "GEN8PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_CIRCLE_THROW",
+                "MOVE_HYDRO_PUMP",
+                "MOVE_REST",
+                "MOVE_SLEEP_TALK"
+            ],
+            "Ability": "ABILITY_WATER_ABSORB",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Defensive",
+            "SourceTiers": [
+                "GEN8PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_LIQUIDATION",
+                "MOVE_CLOSE_COMBAT",
+                "MOVE_DARKEST_LARIAT",
+                "MOVE_ICE_PUNCH"
+            ],
+            "Ability": "ABILITY_WATER_ABSORB",
+            "Item": "ITEM_CHOICE_BAND",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_HYDRO_PUMP",
+                "MOVE_FOCUS_BLAST",
+                "MOVE_ICE_BEAM",
+                "MOVE_VACUUM_WAVE"
+            ],
+            "Ability": "ABILITY_WATER_ABSORB",
+            "Item": "ITEM_CHOICE_SPECS",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Specs",
+            "SourceTiers": [
+                "GEN8ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_HYDRO_PUMP",
+                "MOVE_CIRCLE_THROW",
+                "MOVE_REST",
+                "MOVE_SLEEP_TALK"
+            ],
+            "Ability": "ABILITY_WATER_ABSORB",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_IMPISH",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "RestTalk",
+            "SourceTiers": [
+                "GEN8ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_LIQUIDATION",
+                "MOVE_REST",
+                "MOVE_DRAIN_PUNCH",
+                "MOVE_HYDRO_PUMP"
+            ],
+            "Ability": "ABILITY_WATER_ABSORB",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_IMPISH",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_LIQUIDATION",
+                "MOVE_DRAIN_PUNCH",
+                "MOVE_KNOCK_OFF",
+                "MOVE_BELLY_DRUM"
+            ],
+            "Ability": "ABILITY_WATER_ABSORB",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN9NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_BULK_UP",
+                "MOVE_DRAIN_PUNCH",
+                "MOVE_KNOCK_OFF",
+                "MOVE_SUBSTITUTE"
+            ],
+            "Ability": "ABILITY_WATER_ABSORB",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_CAREFUL",
+            "HiddenPower": null,
+            "TeraType": "TYPE_STEEL",
+            "Name": "Bulk Up",
+            "SourceTiers": [
+                "GEN9PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_LIQUIDATION",
+                "MOVE_DRAIN_PUNCH",
+                "MOVE_KNOCK_OFF",
+                "MOVE_BULK_UP"
+            ],
+            "Ability": "ABILITY_WATER_ABSORB",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN9PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_BULK_UP",
+                "MOVE_SUBSTITUTE",
+                "MOVE_DRAIN_PUNCH",
+                "MOVE_KNOCK_OFF"
+            ],
+            "Ability": "ABILITY_WATER_ABSORB",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_CAREFUL",
+            "HiddenPower": null,
+            "TeraType": "TYPE_DARK",
+            "Name": "Bulk Up",
+            "SourceTiers": [
+                "GEN9ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_CLOSE_COMBAT",
+                "MOVE_LOVELY_KISS",
+                "MOVE_WATERFALL",
+                "MOVE_SEISMIC_TOSS"
+            ],
+            "Item": "ITEM_LEFTOVERS",
+            "Ability": "ABILITY_SWIFT_SWIM",
+            "HiddenPower": null,
+            "SourceTiers": [
+                "GEN7LETSGOOU"
+            ],
+            "Name": "Tank",
+            "Nature": "NATURE_HARDY",
+            "TeraType": null
+        },
+        {
+            "Moves": [
+                "MOVE_LIQUIDATION",
+                "MOVE_DRAIN_PUNCH",
+                "MOVE_ICE_PUNCH",
+                "MOVE_PROTECT"
+            ],
+            "Item": "ITEM_FIGHTINIUM_Z",
+            "Ability": "ABILITY_WATER_ABSORB",
+            "HiddenPower": null,
+            "SourceTiers": [
+                "GEN7ZU"
+            ],
+            "Name": "Special Tank",
+            "Nature": "NATURE_HARDY",
+            "TeraType": null
+        },
+        {
+            "Moves": [
+                "MOVE_LIQUIDATION",
+                "MOVE_DRAIN_PUNCH",
+                "MOVE_ICE_PUNCH",
+                "MOVE_EARTHQUAKE"
+            ],
+            "Item": "ITEM_CHOICE_BAND",
+            "Ability": "ABILITY_SWIFT_SWIM",
+            "HiddenPower": null,
+            "SourceTiers": [
+                "GEN8ZU"
+            ],
+            "Name": "Choice Specs",
+            "Nature": "NATURE_HARDY",
+            "TeraType": null
+        }
+    ]
+}

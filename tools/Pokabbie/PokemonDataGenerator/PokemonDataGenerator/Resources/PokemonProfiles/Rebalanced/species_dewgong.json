@@ -1,0 +1,160 @@
+{
+    "Species": "SPECIES_DEWGONG",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_SHEER_COLD",
+            "Level": 0
+        },
+        {
+            "Move": "MOVE_HEADBUTT",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_GROWL",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_ICY_WIND",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_ENCORE",
+            "Level": 13
+        },
+        {
+            "Move": "MOVE_ICE_SHARD",
+            "Level": 17
+        },
+        {
+            "Move": "MOVE_REST",
+            "Level": 21
+        },
+        {
+            "Move": "MOVE_AQUA_RING",
+            "Level": 23
+        },
+        {
+            "Move": "MOVE_AURORA_BEAM",
+            "Level": 27
+        },
+        {
+            "Move": "MOVE_AQUA_JET",
+            "Level": 31
+        },
+        {
+            "Move": "MOVE_BRINE",
+            "Level": 33
+        },
+        {
+            "Move": "MOVE_TAKE_DOWN",
+            "Level": 39
+        },
+        {
+            "Move": "MOVE_DIVE",
+            "Level": 45
+        },
+        {
+            "Move": "MOVE_AQUA_TAIL",
+            "Level": 49
+        },
+        {
+            "Move": "MOVE_ICE_BEAM",
+            "Level": 55
+        },
+        {
+            "Move": "MOVE_SAFEGUARD",
+            "Level": 61
+        },
+        {
+            "Move": "MOVE_SNOWSCAPE",
+            "Level": 65
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_BELCH",
+        "MOVE_FAKE_OUT",
+        "MOVE_HELPING_HAND",
+        "MOVE_SMART_STRIKE",
+        "MOVE_FLING",
+        "MOVE_DISABLE",
+        "MOVE_ENTRAINMENT",
+        "MOVE_CHILLING_WATER",
+        "MOVE_DRILL_RUN",
+        "MOVE_STOCKPILE",
+        "MOVE_WATERFALL",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_KNOCK_OFF",
+        "MOVE_PROTECT",
+        "MOVE_HYDRO_PUMP",
+        "MOVE_DOUBLE_EDGE",
+        "MOVE_THIEF",
+        "MOVE_HYPER_BEAM",
+        "MOVE_SUBSTITUTE",
+        "MOVE_UPROAR",
+        "MOVE_ENDEAVOR",
+        "MOVE_FACADE",
+        "MOVE_ICICLE_SPEAR",
+        "MOVE_WHIRLPOOL",
+        "MOVE_TRIPLE_AXEL",
+        "MOVE_SLEEP_TALK",
+        "MOVE_LICK",
+        "MOVE_HAZE",
+        "MOVE_AVALANCHE",
+        "MOVE_GIGA_IMPACT",
+        "MOVE_HORN_DRILL",
+        "MOVE_PERISH_SONG",
+        "MOVE_SWALLOW",
+        "MOVE_MUDDY_WATER",
+        "MOVE_LIQUIDATION",
+        "MOVE_TERA_BLAST",
+        "MOVE_WATER_PULSE",
+        "MOVE_CURSE",
+        "MOVE_ENDURE",
+        "MOVE_PLAY_ROUGH",
+        "MOVE_CHARM",
+        "MOVE_ICE_SPINNER",
+        "MOVE_BLIZZARD",
+        "MOVE_SURF",
+        "MOVE_FLIP_TURN",
+        "MOVE_RAIN_DANCE",
+        "MOVE_SPIT_UP",
+        "MOVE_WEATHER_BALL",
+        "MOVE_BODY_SLAM"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_KNOCK_OFF",
+                "MOVE_PROTECT",
+                "MOVE_SURF",
+                "MOVE_PERISH_SONG"
+            ],
+            "Ability": "ABILITY_THICK_FAT",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_CALM",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Specially Defensive",
+            "SourceTiers": [
+                "GEN6PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_WHIRLPOOL",
+                "MOVE_PERISH_SONG",
+                "MOVE_ICE_BEAM",
+                "MOVE_REST"
+            ],
+            "Ability": "ABILITY_ICE_SCALES",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_CALM",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Perish Trapper",
+            "SourceTiers": [
+                "GEN7PU"
+            ]
+        }
+    ]
+}

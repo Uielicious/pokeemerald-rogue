@@ -1,0 +1,137 @@
+{
+    "Species": "SPECIES_VANILLITE",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_ICICLE_SPEAR",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_POWDER_SNOW",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_HARDEN",
+            "Level": "4"
+        },
+        {
+            "Move": "MOVE_ASTONISH",
+            "Level": "7"
+        },
+        {
+            "Move": "MOVE_UPROAR",
+            "Level": "10"
+        },
+        {
+            "Move": "MOVE_ICY_WIND",
+            "Level": "13"
+        },
+        {
+            "Move": "MOVE_MIST",
+            "Level": "16"
+        },
+        {
+            "Move": "MOVE_AVALANCHE",
+            "Level": "19"
+        },
+        {
+            "Move": "MOVE_DISARMING_VOICE",
+            "Level": "22"
+        },
+        {
+            "Move": "MOVE_TAUNT",
+            "Level": "25"
+        },
+        {
+            "Move": "MOVE_MIRROR_SHOT",
+            "Level": "28"
+        },
+        {
+            "Move": "MOVE_ACID_ARMOR",
+            "Level": "31"
+        },
+        {
+            "Move": "MOVE_ICE_BEAM",
+            "Level": "35"
+        },
+        {
+            "Move": "MOVE_HAIL",
+            "Level": "40"
+        },
+        {
+            "Move": "MOVE_MIRROR_COAT",
+            "Level": "44"
+        },
+        {
+            "Move": "MOVE_BLIZZARD",
+            "Level": "49"
+        },
+        {
+            "Move": "MOVE_SHEER_COLD",
+            "Level": "53"
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_AURORA_VEIL",
+        "MOVE_ATTRACT",
+        "MOVE_EXPLOSION",
+        "MOVE_AUTOTOMIZE",
+        "MOVE_LIGHT_SCREEN",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_PROTECT",
+        "MOVE_IRON_DEFENSE",
+        "MOVE_SUBSTITUTE",
+        "MOVE_FACADE",
+        "MOVE_ALLY_SWITCH",
+        "MOVE_MAGNET_RISE",
+        "MOVE_IMPRISON",
+        "MOVE_SLEEP_TALK",
+        "MOVE_HYPER_VOICE",
+        "MOVE_TERA_BLAST",
+        "MOVE_ENDURE",
+        "MOVE_SELF_DESTRUCT",
+        "MOVE_ICE_SHARD",
+        "MOVE_ROUND",
+        "MOVE_ICICLE_CRASH",
+        "MOVE_SNORE",
+        "MOVE_SNOWSCAPE",
+        "MOVE_RAIN_DANCE",
+        "MOVE_REST",
+        "MOVE_FLASH_CANNON"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_AUTOTOMIZE",
+                "MOVE_ICE_BEAM",
+                "MOVE_HIDDEN_POWER",
+                "MOVE_ICE_SHARD"
+            ],
+            "Ability": "ABILITY_ICE_BODY",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_MILD",
+            "HiddenPower": "TYPE_GROUND",
+            "TeraType": null,
+            "Name": "Autotomize",
+            "SourceTiers": [
+                "GEN6LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_ICE_BEAM",
+                "MOVE_HIDDEN_POWER",
+                "MOVE_EXPLOSION",
+                "MOVE_SUBSTITUTE"
+            ],
+            "Ability": "ABILITY_WEAK_ARMOR",
+            "Item": "ITEM_ICIUM_Z",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": "TYPE_FIGHTING",
+            "TeraType": null,
+            "Name": "Weak Armor Sweeper",
+            "SourceTiers": [
+                "GEN7LC"
+            ]
+        }
+    ]
+}

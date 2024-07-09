@@ -1,0 +1,441 @@
+{
+    "Species": "SPECIES_PERSIAN_ALOLAN",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_POWER_GEM",
+            "Level": 0
+        },
+        {
+            "Move": "MOVE_SCRATCH",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_GROWL",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_FAKE_OUT",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_FEINT",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_SWITCHEROO",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_QUASH",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_PAY_DAY",
+            "Level": 12
+        },
+        {
+            "Move": "MOVE_BITE",
+            "Level": 16
+        },
+        {
+            "Move": "MOVE_TAUNT",
+            "Level": 20
+        },
+        {
+            "Move": "MOVE_ASSURANCE",
+            "Level": 24
+        },
+        {
+            "Move": "MOVE_FURY_SWIPES",
+            "Level": 31
+        },
+        {
+            "Move": "MOVE_SCREECH",
+            "Level": 36
+        },
+        {
+            "Move": "MOVE_NIGHT_SLASH",
+            "Level": 42
+        },
+        {
+            "Move": "MOVE_NASTY_PLOT",
+            "Level": 48
+        },
+        {
+            "Move": "MOVE_PLAY_ROUGH",
+            "Level": 54
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_BURNING_JEALOUSY",
+        "MOVE_HELPING_HAND",
+        "MOVE_DARK_PULSE",
+        "MOVE_GUNK_SHOT",
+        "MOVE_LASH_OUT",
+        "MOVE_AMNESIA",
+        "MOVE_AGILITY",
+        "MOVE_SKITTER_SMACK",
+        "MOVE_CHILLING_WATER",
+        "MOVE_MIMIC",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_SWAGGER",
+        "MOVE_KNOCK_OFF",
+        "MOVE_PROTECT",
+        "MOVE_THROAT_CHOP",
+        "MOVE_DOUBLE_EDGE",
+        "MOVE_SHADOW_CLAW",
+        "MOVE_SEED_BOMB",
+        "MOVE_THIEF",
+        "MOVE_DREAM_EATER",
+        "MOVE_TAKE_DOWN",
+        "MOVE_SUBSTITUTE",
+        "MOVE_HYPER_BEAM",
+        "MOVE_SUNNY_DAY",
+        "MOVE_FACADE",
+        "MOVE_ENDEAVOR",
+        "MOVE_BEAT_UP",
+        "MOVE_SHADOW_BALL",
+        "MOVE_ICY_WIND",
+        "MOVE_SWIFT",
+        "MOVE_SLEEP_TALK",
+        "MOVE_TRAILBLAZE",
+        "MOVE_MUD_SLAP",
+        "MOVE_ROAR",
+        "MOVE_REST",
+        "MOVE_CONFUSE_RAY",
+        "MOVE_GIGA_IMPACT",
+        "MOVE_THUNDERBOLT",
+        "MOVE_DIG",
+        "MOVE_HYPER_VOICE",
+        "MOVE_FAKE_TEARS",
+        "MOVE_PARTING_SHOT",
+        "MOVE_METAL_CLAW",
+        "MOVE_SNARL",
+        "MOVE_TERA_BLAST",
+        "MOVE_ENDURE",
+        "MOVE_CURSE",
+        "MOVE_SPITE",
+        "MOVE_THUNDER",
+        "MOVE_DAZZLING_GLEAM",
+        "MOVE_FOUL_PLAY",
+        "MOVE_CHARM",
+        "MOVE_DEFENSE_CURL",
+        "MOVE_THUNDER_WAVE",
+        "MOVE_SNORE",
+        "MOVE_SMACK_DOWN",
+        "MOVE_SURF",
+        "MOVE_RAIN_DANCE",
+        "MOVE_U_TURN",
+        "MOVE_PSYCH_UP",
+        "MOVE_AERIAL_ACE",
+        "MOVE_BODY_SLAM"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_NASTY_PLOT",
+                "MOVE_DARK_PULSE",
+                "MOVE_PARTING_SHOT",
+                "MOVE_THUNDERBOLT"
+            ],
+            "Ability": "ABILITY_FUR_COAT",
+            "Item": "ITEM_DARKINIUM_Z",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Nasty Plot",
+            "SourceTiers": [
+                "GEN7PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_PARTING_SHOT",
+                "MOVE_TAUNT",
+                "MOVE_FOUL_PLAY",
+                "MOVE_THUNDER_WAVE"
+            ],
+            "Ability": "ABILITY_FUR_COAT",
+            "Item": "ITEM_DARKINIUM_Z",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Bulky Pivot",
+            "SourceTiers": [
+                "GEN7PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_PARTING_SHOT",
+                "MOVE_TAUNT",
+                "MOVE_FOUL_PLAY",
+                "MOVE_DARK_PULSE"
+            ],
+            "Ability": "ABILITY_FUR_COAT",
+            "Item": "ITEM_DARKINIUM_Z",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FAKE_OUT",
+                "MOVE_PARTING_SHOT",
+                "MOVE_FOUL_PLAY",
+                "MOVE_PROTECT"
+            ],
+            "Ability": "ABILITY_FUR_COAT",
+            "Item": "ITEM_DARKINIUM_Z",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7BATTLESPOTDOUBLES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_PARTING_SHOT",
+                "MOVE_FAKE_OUT",
+                "MOVE_FOUL_PLAY",
+                "MOVE_SNARL"
+            ],
+            "Ability": "ABILITY_FUR_COAT",
+            "Item": "ITEM_DARKINIUM_Z",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Parting Shot",
+            "SourceTiers": [
+                "GEN7VGC2017"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FAKE_OUT",
+                "MOVE_SNARL",
+                "MOVE_FOUL_PLAY",
+                "MOVE_FEINT"
+            ],
+            "Ability": "ABILITY_FUR_COAT",
+            "Item": "ITEM_ASSAULT_VEST",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Assault Vest",
+            "SourceTiers": [
+                "GEN7VGC2017"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FAKE_OUT",
+                "MOVE_FOUL_PLAY",
+                "MOVE_PARTING_SHOT",
+                "MOVE_QUASH"
+            ],
+            "Ability": "ABILITY_FUR_COAT",
+            "Item": "ITEM_MAGO_BERRY",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7VGC2017"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_PARTING_SHOT",
+                "MOVE_FAKE_OUT",
+                "MOVE_FOUL_PLAY",
+                "MOVE_TAUNT"
+            ],
+            "Ability": "ABILITY_FUR_COAT",
+            "Item": "ITEM_DARKINIUM_Z",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7VGC2018"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SWITCHEROO",
+                "MOVE_PARTING_SHOT",
+                "MOVE_KNOCK_OFF",
+                "MOVE_GUNK_SHOT"
+            ],
+            "Ability": "ABILITY_FUR_COAT",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Scarf",
+            "SourceTiers": [
+                "GEN8PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_PARTING_SHOT",
+                "MOVE_KNOCK_OFF",
+                "MOVE_FOUL_PLAY",
+                "MOVE_TAUNT"
+            ],
+            "Ability": "ABILITY_FUR_COAT",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_PARTING_SHOT",
+                "MOVE_FOUL_PLAY",
+                "MOVE_THUNDER_WAVE",
+                "MOVE_KNOCK_OFF"
+            ],
+            "Ability": "ABILITY_FUR_COAT",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Bulky Pivot",
+            "SourceTiers": [
+                "GEN8ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_PARTING_SHOT",
+                "MOVE_SWITCHEROO",
+                "MOVE_FOUL_PLAY",
+                "MOVE_KNOCK_OFF"
+            ],
+            "Ability": "ABILITY_FUR_COAT",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Scarf",
+            "SourceTiers": [
+                "GEN8ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_PARTING_SHOT",
+                "MOVE_KNOCK_OFF",
+                "MOVE_FOUL_PLAY",
+                "MOVE_TAUNT"
+            ],
+            "Ability": "ABILITY_FUR_COAT",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FAKE_OUT",
+                "MOVE_PARTING_SHOT",
+                "MOVE_BEAT_UP",
+                "MOVE_TAUNT"
+            ],
+            "Ability": "ABILITY_FUR_COAT",
+            "Item": "ITEM_SAFETY_GOGGLES",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8VGC2020"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_PARTING_SHOT",
+                "MOVE_DARK_PULSE",
+                "MOVE_TAUNT",
+                "MOVE_THUNDER_WAVE"
+            ],
+            "Ability": "ABILITY_FUR_COAT",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN9PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_PARTING_SHOT",
+                "MOVE_FOUL_PLAY",
+                "MOVE_KNOCK_OFF",
+                "MOVE_TAUNT"
+            ],
+            "Ability": "ABILITY_FUR_COAT",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": "TYPE_GHOST",
+            "Name": "Defensive Pivot",
+            "SourceTiers": [
+                "GEN9ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_PARTING_SHOT",
+                "MOVE_SWITCHEROO",
+                "MOVE_FOUL_PLAY",
+                "MOVE_TAUNT"
+            ],
+            "Ability": "ABILITY_FUR_COAT",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": "TYPE_GHOST",
+            "Name": "Choice Scarf",
+            "SourceTiers": [
+                "GEN9ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_NASTY_PLOT",
+                "MOVE_DARK_PULSE",
+                "MOVE_POWER_GEM",
+                "MOVE_THUNDERBOLT"
+            ],
+            "Ability": "ABILITY_FUR_COAT",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": "TYPE_DARK",
+            "Name": "Nasty Plot",
+            "SourceTiers": [
+                "GEN9ZU"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "Species": "SPECIES_BELDUM",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_TACKLE",
+            "Level": 1
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_HEADBUTT",
+        "MOVE_IRON_DEFENSE",
+        "MOVE_TAKE_DOWN",
+        "MOVE_TERA_BLAST",
+        "MOVE_IRON_HEAD",
+        "MOVE_ZEN_HEADBUTT",
+        "MOVE_STEEL_BEAM",
+        "MOVE_HIDDEN_POWER"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_IRON_DEFENSE",
+                "MOVE_ZEN_HEADBUTT",
+                "MOVE_IRON_HEAD",
+                "MOVE_HEADBUTT"
+            ],
+            "Item": "ITEM_EVIOLITE",
+            "Ability": "ABILITY_CLEAR_BODY",
+            "HiddenPower": null,
+            "SourceTiers": [
+                "GEN7LC"
+            ],
+            "Name": "Beldum",
+            "Nature": "NATURE_HARDY",
+            "TeraType": null
+        }
+    ]
+}

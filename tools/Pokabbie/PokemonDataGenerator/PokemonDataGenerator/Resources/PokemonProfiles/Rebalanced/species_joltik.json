@@ -1,0 +1,198 @@
+{
+    "Species": "SPECIES_JOLTIK",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_ABSORB",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_FURY_CUTTER",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_ELECTROWEB",
+            "Level": 4
+        },
+        {
+            "Move": "MOVE_BUG_BITE",
+            "Level": 8
+        },
+        {
+            "Move": "MOVE_STRING_SHOT",
+            "Level": 12
+        },
+        {
+            "Move": "MOVE_THUNDER_WAVE",
+            "Level": 16
+        },
+        {
+            "Move": "MOVE_ELECTRO_BALL",
+            "Level": 20
+        },
+        {
+            "Move": "MOVE_AGILITY",
+            "Level": 24
+        },
+        {
+            "Move": "MOVE_SUCKER_PUNCH",
+            "Level": 28
+        },
+        {
+            "Move": "MOVE_SLASH",
+            "Level": 32
+        },
+        {
+            "Move": "MOVE_DISCHARGE",
+            "Level": 37
+        },
+        {
+            "Move": "MOVE_SCREECH",
+            "Level": 40
+        },
+        {
+            "Move": "MOVE_GASTRO_ACID",
+            "Level": 44
+        },
+        {
+            "Move": "MOVE_BUG_BUZZ",
+            "Level": 48
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_HELPING_HAND",
+        "MOVE_GIGA_DRAIN",
+        "MOVE_SKITTER_SMACK",
+        "MOVE_LIGHT_SCREEN",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_PROTECT",
+        "MOVE_THIEF",
+        "MOVE_SUBSTITUTE",
+        "MOVE_LUNGE",
+        "MOVE_FACADE",
+        "MOVE_LEECH_LIFE",
+        "MOVE_STRUGGLE_BUG",
+        "MOVE_SWIFT",
+        "MOVE_INFESTATION",
+        "MOVE_SLEEP_TALK",
+        "MOVE_ENERGY_BALL",
+        "MOVE_WILD_CHARGE",
+        "MOVE_THUNDERBOLT",
+        "MOVE_TERA_BLAST",
+        "MOVE_CHARGE_BEAM",
+        "MOVE_ENDURE",
+        "MOVE_X_SCISSOR",
+        "MOVE_ROCK_CLIMB",
+        "MOVE_THUNDER",
+        "MOVE_VOLT_SWITCH",
+        "MOVE_DOUBLE_TEAM",
+        "MOVE_POISON_JAB",
+        "MOVE_POUNCE",
+        "MOVE_RAIN_DANCE",
+        "MOVE_POISON_STING",
+        "MOVE_REST"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_THUNDERBOLT",
+                "MOVE_BUG_BUZZ",
+                "MOVE_VOLT_SWITCH",
+                "MOVE_GIGA_DRAIN"
+            ],
+            "Ability": "ABILITY_SWARM",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Scarf",
+            "SourceTiers": [
+                "GEN6LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SUBSTITUTE",
+                "MOVE_THUNDERBOLT",
+                "MOVE_BUG_BUZZ",
+                "MOVE_GIGA_DRAIN"
+            ],
+            "Ability": "ABILITY_SWARM",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Substitute + 3 Attacks",
+            "SourceTiers": [
+                "GEN6LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_BUG_BUZZ",
+                "MOVE_THUNDERBOLT",
+                "MOVE_VOLT_SWITCH",
+                "MOVE_GIGA_DRAIN"
+            ],
+            "Ability": "ABILITY_COMPOUND_EYES",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_VOLT_SWITCH",
+                "MOVE_THUNDERBOLT",
+                "MOVE_GIGA_DRAIN",
+                "MOVE_BUG_BUZZ"
+            ],
+            "Ability": "ABILITY_SWARM",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "All Out Attacker",
+            "SourceTiers": [
+                "GEN7LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_BUG_BUZZ",
+                "MOVE_VOLT_SWITCH",
+                "MOVE_THUNDERBOLT",
+                "MOVE_GIGA_DRAIN"
+            ],
+            "Ability": "ABILITY_SWARM",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_BUG_BUZZ",
+                "MOVE_GIGA_DRAIN",
+                "MOVE_VOLT_SWITCH",
+                "MOVE_SUCKER_PUNCH"
+            ],
+            "Ability": "ABILITY_COMPOUND_EYES",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8LC"
+            ]
+        }
+    ]
+}

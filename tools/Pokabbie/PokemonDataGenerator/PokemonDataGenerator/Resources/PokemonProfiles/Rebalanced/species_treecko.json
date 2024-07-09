@@ -1,0 +1,218 @@
+{
+    "Species": "SPECIES_TREECKO",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_POUND",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_LEER",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_ABSORB",
+            "Level": "5"
+        },
+        {
+            "Move": "MOVE_QUICK_ATTACK",
+            "Level": "9"
+        },
+        {
+            "Move": "MOVE_MEGA_DRAIN",
+            "Level": "12"
+        },
+        {
+            "Move": "MOVE_PURSUIT",
+            "Level": "16"
+        },
+        {
+            "Move": "MOVE_SCREECH",
+            "Level": "19"
+        },
+        {
+            "Move": "MOVE_GIGA_DRAIN",
+            "Level": "23"
+        },
+        {
+            "Move": "MOVE_AGILITY",
+            "Level": "26"
+        },
+        {
+            "Move": "MOVE_SLASH",
+            "Level": "30"
+        },
+        {
+            "Move": "MOVE_DETECT",
+            "Level": "33"
+        },
+        {
+            "Move": "MOVE_ENERGY_BALL",
+            "Level": "37"
+        },
+        {
+            "Move": "MOVE_QUICK_GUARD",
+            "Level": "41"
+        },
+        {
+            "Move": "MOVE_ENDEAVOR",
+            "Level": "45"
+        },
+        {
+            "Move": "MOVE_LEAF_STORM",
+            "Level": "49"
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_DRAGON_BREATH",
+        "MOVE_GRASS_PLEDGE",
+        "MOVE_GRASSY_TERRAIN",
+        "MOVE_DOUBLE_KICK",
+        "MOVE_HELPING_HAND",
+        "MOVE_THUNDER_PUNCH",
+        "MOVE_FLING",
+        "MOVE_SOLAR_BEAM",
+        "MOVE_DYNAMIC_PUNCH",
+        "MOVE_GRASS_KNOT",
+        "MOVE_SWORDS_DANCE",
+        "MOVE_ROCK_TOMB",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_WORK_UP",
+        "MOVE_PROTECT",
+        "MOVE_THIEF",
+        "MOVE_BULLET_SEED",
+        "MOVE_GRASSY_GLIDE",
+        "MOVE_SEED_BOMB",
+        "MOVE_TAKE_DOWN",
+        "MOVE_SLAM",
+        "MOVE_ASSURANCE",
+        "MOVE_SUBSTITUTE",
+        "MOVE_IRON_TAIL",
+        "MOVE_MAGICAL_LEAF",
+        "MOVE_BRICK_BREAK",
+        "MOVE_FACADE",
+        "MOVE_SUNNY_DAY",
+        "MOVE_ACROBATICS",
+        "MOVE_SYNTHESIS",
+        "MOVE_SWIFT",
+        "MOVE_SLEEP_TALK",
+        "MOVE_TRAILBLAZE",
+        "MOVE_DIG",
+        "MOVE_WORRY_SEED",
+        "MOVE_BREAKING_SWIPE",
+        "MOVE_TERA_BLAST",
+        "MOVE_ENDURE",
+        "MOVE_LOW_KICK",
+        "MOVE_ROCK_SLIDE",
+        "MOVE_DRAIN_PUNCH",
+        "MOVE_DRAGON_TAIL",
+        "MOVE_LEECH_SEED",
+        "MOVE_NIGHT_SLASH",
+        "MOVE_CRUNCH",
+        "MOVE_AERIAL_ACE",
+        "MOVE_REST"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_SWORDS_DANCE",
+                "MOVE_BULLET_SEED",
+                "MOVE_ACROBATICS",
+                "MOVE_DRAIN_PUNCH"
+            ],
+            "Ability": "ABILITY_UNBURDEN",
+            "Item": "ITEM_BERRY_JUICE",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Swords Dance",
+            "SourceTiers": [
+                "GEN6LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_ACROBATICS",
+                "MOVE_DRAIN_PUNCH",
+                "MOVE_SWORDS_DANCE",
+                "MOVE_BULLET_SEED"
+            ],
+            "Ability": "ABILITY_UNBURDEN",
+            "Item": "ITEM_BERRY_JUICE",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SWORDS_DANCE",
+                "MOVE_BULLET_SEED",
+                "MOVE_DRAIN_PUNCH",
+                "MOVE_ACROBATICS"
+            ],
+            "Ability": "ABILITY_UNBURDEN",
+            "Item": "ITEM_BERRY_JUICE",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Swords Dance",
+            "SourceTiers": [
+                "GEN7LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SWORDS_DANCE",
+                "MOVE_BULLET_SEED",
+                "MOVE_DRAIN_PUNCH",
+                "MOVE_ACROBATICS"
+            ],
+            "Ability": "ABILITY_UNBURDEN",
+            "Item": "ITEM_GRASSY_SEED",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Sweeper",
+            "SourceTiers": [
+                "GEN8LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_ACROBATICS",
+                "MOVE_DRAIN_PUNCH",
+                "MOVE_SWORDS_DANCE",
+                "MOVE_BULLET_SEED"
+            ],
+            "Ability": "ABILITY_UNBURDEN",
+            "Item": "ITEM_GRASSY_SEED",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SWORDS_DANCE",
+                "MOVE_ACROBATICS",
+                "MOVE_DRAIN_PUNCH",
+                "MOVE_BULLET_SEED"
+            ],
+            "Ability": "ABILITY_UNBURDEN",
+            "Item": "ITEM_GRASSY_SEED",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": "TYPE_FLYING",
+            "Name": "Setup Sweeper",
+            "SourceTiers": [
+                "GEN9LC"
+            ]
+        }
+    ]
+}

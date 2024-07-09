@@ -1,0 +1,555 @@
+{
+    "Species": "SPECIES_MESPRIT",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_HEALING_WISH",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_NATURAL_GIFT",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_COPYCAT",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_REST",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_CONFUSION",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_IMPRISON",
+            "Level": "6"
+        },
+        {
+            "Move": "MOVE_PROTECT",
+            "Level": "16"
+        },
+        {
+            "Move": "MOVE_SWIFT",
+            "Level": "21"
+        },
+        {
+            "Move": "MOVE_PLAY_ROUGH",
+            "Level": "26"
+        },
+        {
+            "Move": "MOVE_LUCKY_CHANT",
+            "Level": "31"
+        },
+        {
+            "Move": "MOVE_FUTURE_SIGHT",
+            "Level": "36"
+        },
+        {
+            "Move": "MOVE_MOONBLAST",
+            "Level": "41"
+        },
+        {
+            "Move": "MOVE_CHARM",
+            "Level": "46"
+        },
+        {
+            "Move": "MOVE_EXTRASENSORY",
+            "Level": "50"
+        },
+        {
+            "Move": "MOVE_COPYCAT",
+            "Level": "61"
+        },
+        {
+            "Move": "MOVE_NATURAL_GIFT",
+            "Level": "66"
+        },
+        {
+            "Move": "MOVE_HEALING_WISH",
+            "Level": "76"
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_ICE_BEAM",
+        "MOVE_PAIN_SPLIT",
+        "MOVE_THUNDER_PUNCH",
+        "MOVE_HELPING_HAND",
+        "MOVE_FLING",
+        "MOVE_REFLECT",
+        "MOVE_GRASS_KNOT",
+        "MOVE_ZEN_HEADBUTT",
+        "MOVE_LIGHT_SCREEN",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_KNOCK_OFF",
+        "MOVE_BATON_PASS",
+        "MOVE_SKILL_SWAP",
+        "MOVE_DOUBLE_EDGE",
+        "MOVE_PSYSHOCK",
+        "MOVE_CALM_MIND",
+        "MOVE_HYPER_BEAM",
+        "MOVE_SUBSTITUTE",
+        "MOVE_METRONOME",
+        "MOVE_SUNNY_DAY",
+        "MOVE_FACADE",
+        "MOVE_TRICK",
+        "MOVE_EXPANDING_FORCE",
+        "MOVE_SHADOW_BALL",
+        "MOVE_ACROBATICS",
+        "MOVE_STEALTH_ROCK",
+        "MOVE_SLEEP_TALK",
+        "MOVE_ENERGY_BALL",
+        "MOVE_STORED_POWER",
+        "MOVE_PSYCHIC",
+        "MOVE_CONFUSE_RAY",
+        "MOVE_DRAINING_KISS",
+        "MOVE_ENCORE",
+        "MOVE_GIGA_IMPACT",
+        "MOVE_THUNDERBOLT",
+        "MOVE_ICE_PUNCH",
+        "MOVE_NASTY_PLOT",
+        "MOVE_CHARGE_BEAM",
+        "MOVE_ENDURE",
+        "MOVE_TERA_BLAST",
+        "MOVE_WATER_PULSE",
+        "MOVE_DAZZLING_GLEAM",
+        "MOVE_PSYBEAM",
+        "MOVE_THUNDER",
+        "MOVE_FIRE_PUNCH",
+        "MOVE_SIGNAL_BEAM",
+        "MOVE_BLIZZARD",
+        "MOVE_THUNDER_WAVE",
+        "MOVE_TRICK_ROOM",
+        "MOVE_RAIN_DANCE",
+        "MOVE_DRAIN_PUNCH",
+        "MOVE_SANDSTORM",
+        "MOVE_U_TURN",
+        "MOVE_PSYCH_UP"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_STEALTH_ROCK",
+                "MOVE_HEALING_WISH",
+                "MOVE_PSYSHOCK",
+                "MOVE_DAZZLING_GLEAM"
+            ],
+            "Ability": "ABILITY_LEVITATE",
+            "Item": "ITEM_COLBUR_BERRY",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Offensive Stealth Rock",
+            "SourceTiers": [
+                "GEN6RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_PSYCHIC",
+                "MOVE_ICE_BEAM",
+                "MOVE_SIGNAL_BEAM",
+                "MOVE_HEALING_WISH"
+            ],
+            "Ability": "ABILITY_LEVITATE",
+            "Item": "ITEM_CHOICE_SPECS",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Specs",
+            "SourceTiers": [
+                "GEN6NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_PSYCHIC",
+                "MOVE_SIGNAL_BEAM",
+                "MOVE_HIDDEN_POWER",
+                "MOVE_HEALING_WISH"
+            ],
+            "Ability": "ABILITY_LEVITATE",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": "TYPE_GROUND",
+            "TeraType": null,
+            "Name": "Offensive + 3 Attacks",
+            "SourceTiers": [
+                "GEN6NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_STEALTH_ROCK",
+                "MOVE_PSYCHIC",
+                "MOVE_U_TURN",
+                "MOVE_THUNDER_WAVE"
+            ],
+            "Ability": "ABILITY_LEVITATE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Physically Defensive",
+            "SourceTiers": [
+                "GEN6NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SUBSTITUTE",
+                "MOVE_CALM_MIND",
+                "MOVE_PSYSHOCK",
+                "MOVE_ICE_BEAM"
+            ],
+            "Ability": "ABILITY_LEVITATE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Substitute + Calm Mind",
+            "SourceTiers": [
+                "GEN6NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_STEALTH_ROCK",
+                "MOVE_PSYCHIC",
+                "MOVE_HIDDEN_POWER",
+                "MOVE_HEALING_WISH"
+            ],
+            "Ability": "ABILITY_LEVITATE",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": "TYPE_GROUND",
+            "TeraType": null,
+            "Name": "Offensive Stealth Rock",
+            "SourceTiers": [
+                "GEN6NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_PSYCHIC",
+                "MOVE_ICE_BEAM",
+                "MOVE_U_TURN",
+                "MOVE_HEALING_WISH"
+            ],
+            "Ability": "ABILITY_LEVITATE",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Scarf",
+            "SourceTiers": [
+                "GEN6NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_RAIN_DANCE",
+                "MOVE_STEALTH_ROCK",
+                "MOVE_U_TURN",
+                "MOVE_PSYCHIC"
+            ],
+            "Ability": "ABILITY_LEVITATE",
+            "Item": "ITEM_DAMP_ROCK",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Weather Support",
+            "SourceTiers": [
+                "GEN6NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_PSYCHIC",
+                "MOVE_U_TURN",
+                "MOVE_STEALTH_ROCK",
+                "MOVE_ICE_BEAM"
+            ],
+            "Ability": "ABILITY_LEVITATE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_STEALTH_ROCK",
+                "MOVE_PSYCHIC",
+                "MOVE_THUNDER",
+                "MOVE_ENERGY_BALL"
+            ],
+            "Ability": "ABILITY_LEVITATE",
+            "Item": "ITEM_ELECTRIUM_Z",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Offensive Support",
+            "SourceTiers": [
+                "GEN7NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_PSYCHIC",
+                "MOVE_STEALTH_ROCK",
+                "MOVE_U_TURN",
+                "MOVE_HEALING_WISH"
+            ],
+            "Ability": "ABILITY_LEVITATE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_PSYCHIC",
+                "MOVE_MOONBLAST",
+                "MOVE_U_TURN",
+                "MOVE_TRICK"
+            ],
+            "Ability": "ABILITY_LEVITATE",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Scarf",
+            "SourceTiers": [
+                "GEN8PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_NASTY_PLOT",
+                "MOVE_PSYCHIC",
+                "MOVE_MOONBLAST",
+                "MOVE_SHADOW_BALL"
+            ],
+            "Ability": "ABILITY_LEVITATE",
+            "Item": "ITEM_COLBUR_BERRY",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Nasty Plot",
+            "SourceTiers": [
+                "GEN8PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_STEALTH_ROCK",
+                "MOVE_PSYCHIC",
+                "MOVE_MOONBLAST",
+                "MOVE_U_TURN"
+            ],
+            "Ability": "ABILITY_LEVITATE",
+            "Item": "ITEM_COLBUR_BERRY",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Offensive Stealth Rock",
+            "SourceTiers": [
+                "GEN8PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_PSYCHIC",
+                "MOVE_MOONBLAST",
+                "MOVE_SHADOW_BALL",
+                "MOVE_U_TURN"
+            ],
+            "Ability": "ABILITY_LEVITATE",
+            "Item": "ITEM_CHOICE_SPECS",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Specs",
+            "SourceTiers": [
+                "GEN8PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_PSYCHIC",
+                "MOVE_U_TURN",
+                "MOVE_DAZZLING_GLEAM",
+                "MOVE_HEALING_WISH"
+            ],
+            "Ability": "ABILITY_LEVITATE",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_PSYCHIC",
+                "MOVE_U_TURN",
+                "MOVE_HEALING_WISH",
+                "MOVE_DAZZLING_GLEAM"
+            ],
+            "Ability": "ABILITY_LEVITATE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN9NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_NASTY_PLOT",
+                "MOVE_STORED_POWER",
+                "MOVE_DRAINING_KISS",
+                "MOVE_SUBSTITUTE"
+            ],
+            "Ability": "ABILITY_LEVITATE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": "TYPE_FAIRY",
+            "Name": "Setup Sweeper",
+            "SourceTiers": [
+                "GEN9PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_PSYCHIC",
+                "MOVE_DAZZLING_GLEAM",
+                "MOVE_U_TURN",
+                "MOVE_TRICK"
+            ],
+            "Ability": "ABILITY_LEVITATE",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": "TYPE_FAIRY",
+            "Name": "Choice Scarf",
+            "SourceTiers": [
+                "GEN9PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_PSYSHOCK",
+                "MOVE_DAZZLING_GLEAM",
+                "MOVE_U_TURN",
+                "MOVE_TRICK"
+            ],
+            "Ability": "ABILITY_LEVITATE",
+            "Item": "ITEM_CHOICE_SPECS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": "TYPE_FAIRY",
+            "Name": "Choice Specs",
+            "SourceTiers": [
+                "GEN9PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_STEALTH_ROCK",
+                "MOVE_PSYCHIC",
+                "MOVE_U_TURN",
+                "MOVE_HEALING_WISH"
+            ],
+            "Ability": "ABILITY_LEVITATE",
+            "Item": "ITEM_COLBUR_BERRY",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": "TYPE_GHOST",
+            "Name": "Utility",
+            "SourceTiers": [
+                "GEN9PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_PSYCHIC",
+                "MOVE_DAZZLING_GLEAM",
+                "MOVE_U_TURN",
+                "MOVE_HEALING_WISH"
+            ],
+            "Ability": "ABILITY_LEVITATE",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": "TYPE_FAIRY",
+            "Name": "Choice Scarf",
+            "SourceTiers": [
+                "GEN9ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SUBSTITUTE",
+                "MOVE_NASTY_PLOT",
+                "MOVE_PSYSHOCK",
+                "MOVE_DRAINING_KISS"
+            ],
+            "Ability": "ABILITY_LEVITATE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": "TYPE_FAIRY",
+            "Name": "Substitute + Nasty Plot",
+            "SourceTiers": [
+                "GEN9ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_PSYCHIC",
+                "MOVE_DAZZLING_GLEAM",
+                "MOVE_PSYSHOCK",
+                "MOVE_TRICK"
+            ],
+            "Ability": "ABILITY_LEVITATE",
+            "Item": "ITEM_CHOICE_SPECS",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": "TYPE_FAIRY",
+            "Name": "Choice Specs",
+            "SourceTiers": [
+                "GEN9ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_STEALTH_ROCK",
+                "MOVE_U_TURN",
+                "MOVE_KNOCK_OFF"
+            ],
+            "Ability": "ABILITY_LEVITATE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_SASSY",
+            "HiddenPower": null,
+            "TeraType": "TYPE_STEEL",
+            "Name": "Defensive Pivot",
+            "SourceTiers": [
+                "GEN9ZU"
+            ]
+        }
+    ]
+}

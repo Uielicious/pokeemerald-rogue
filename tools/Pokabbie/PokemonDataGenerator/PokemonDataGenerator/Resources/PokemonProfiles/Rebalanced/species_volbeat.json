@@ -1,0 +1,340 @@
+{
+    "Species": "SPECIES_VOLBEAT",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_FLASH",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_TACKLE",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_DOUBLE_TEAM",
+            "Level": "5"
+        },
+        {
+            "Move": "MOVE_CONFUSE_RAY",
+            "Level": "8"
+        },
+        {
+            "Move": "MOVE_QUICK_ATTACK",
+            "Level": "11"
+        },
+        {
+            "Move": "MOVE_STRUGGLE_BUG",
+            "Level": "14"
+        },
+        {
+            "Move": "MOVE_CHARGE_BEAM",
+            "Level": "17"
+        },
+        {
+            "Move": "MOVE_MOONLIGHT",
+            "Level": "20"
+        },
+        {
+            "Move": "MOVE_TAIL_GLOW",
+            "Level": "23"
+        },
+        {
+            "Move": "MOVE_SIGNAL_BEAM",
+            "Level": "26"
+        },
+        {
+            "Move": "MOVE_PROTECT",
+            "Level": "29"
+        },
+        {
+            "Move": "MOVE_THUNDERBOLT",
+            "Level": "32"
+        },
+        {
+            "Move": "MOVE_ZEN_HEADBUTT",
+            "Level": "35"
+        },
+        {
+            "Move": "MOVE_HELPING_HAND",
+            "Level": "38"
+        },
+        {
+            "Move": "MOVE_BUG_BUZZ",
+            "Level": "41"
+        },
+        {
+            "Move": "MOVE_PLAY_ROUGH",
+            "Level": "45"
+        },
+        {
+            "Move": "MOVE_DOUBLE_EDGE",
+            "Level": "49"
+        },
+        {
+            "Move": "MOVE_INFESTATION",
+            "Level": "54"
+        },
+        {
+            "Move": "MOVE_THUNDER",
+            "Level": "60"
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_AIR_CUTTER",
+        "MOVE_SEISMIC_TOSS",
+        "MOVE_GIGA_DRAIN",
+        "MOVE_THUNDER_PUNCH",
+        "MOVE_FLING",
+        "MOVE_SOLAR_BEAM",
+        "MOVE_SKITTER_SMACK",
+        "MOVE_CHILLING_WATER",
+        "MOVE_LIGHT_SCREEN",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_SWAGGER",
+        "MOVE_BATON_PASS",
+        "MOVE_THIEF",
+        "MOVE_TAKE_DOWN",
+        "MOVE_DEFOG",
+        "MOVE_SUBSTITUTE",
+        "MOVE_METRONOME",
+        "MOVE_LUNGE",
+        "MOVE_BRICK_BREAK",
+        "MOVE_ENDEAVOR",
+        "MOVE_FACADE",
+        "MOVE_SUNNY_DAY",
+        "MOVE_TAILWIND",
+        "MOVE_AIR_SLASH",
+        "MOVE_ACROBATICS",
+        "MOVE_BUG_BITE",
+        "MOVE_SHADOW_BALL",
+        "MOVE_SWIFT",
+        "MOVE_DUAL_WINGBEAT",
+        "MOVE_SLEEP_TALK",
+        "MOVE_TRAILBLAZE",
+        "MOVE_MUD_SLAP",
+        "MOVE_REST",
+        "MOVE_ENCORE",
+        "MOVE_ICE_PUNCH",
+        "MOVE_TERA_BLAST",
+        "MOVE_WATER_PULSE",
+        "MOVE_ENDURE",
+        "MOVE_COUNTER",
+        "MOVE_DAZZLING_GLEAM",
+        "MOVE_ROOST",
+        "MOVE_VOLT_SWITCH",
+        "MOVE_TRICK",
+        "MOVE_POUNCE",
+        "MOVE_THUNDER_WAVE",
+        "MOVE_RAIN_DANCE",
+        "MOVE_U_TURN",
+        "MOVE_AERIAL_ACE",
+        "MOVE_TAUNT",
+        "MOVE_FOCUS_PUNCH",
+        "MOVE_BODY_SLAM"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_SUNNY_DAY",
+                "MOVE_U_TURN",
+                "MOVE_ENCORE",
+                "MOVE_THUNDER_WAVE"
+            ],
+            "Ability": "ABILITY_PRANKSTER",
+            "Item": "ITEM_HEAT_ROCK",
+            "Nature": "NATURE_RELAXED",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Weather Supporter",
+            "SourceTiers": [
+                "GEN6PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_THUNDER_WAVE",
+                "MOVE_ENCORE",
+                "MOVE_U_TURN",
+                "MOVE_TAIL_GLOW"
+            ],
+            "Ability": "ABILITY_PRANKSTER",
+            "Item": "ITEM_DAMP_ROCK",
+            "Nature": "NATURE_CALM",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_U_TURN",
+                "MOVE_RAIN_DANCE",
+                "MOVE_ENCORE",
+                "MOVE_ROOST"
+            ],
+            "Ability": "ABILITY_PRANKSTER",
+            "Item": "ITEM_DAMP_ROCK",
+            "Nature": "NATURE_RELAXED",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Weather Setter",
+            "SourceTiers": [
+                "GEN6ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SUNNY_DAY",
+                "MOVE_U_TURN",
+                "MOVE_THUNDER_WAVE",
+                "MOVE_ENCORE"
+            ],
+            "Ability": "ABILITY_PRANKSTER",
+            "Item": "ITEM_HEAT_ROCK",
+            "Nature": "NATURE_RELAXED",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Weather Setter",
+            "SourceTiers": [
+                "GEN7PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_U_TURN",
+                "MOVE_ENCORE",
+                "MOVE_THUNDER_WAVE",
+                "MOVE_DEFOG"
+            ],
+            "Ability": "ABILITY_PRANKSTER",
+            "Item": "ITEM_DAMP_ROCK",
+            "Nature": "NATURE_RELAXED",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SUNNY_DAY",
+                "MOVE_U_TURN",
+                "MOVE_THUNDER_WAVE",
+                "MOVE_ROOST"
+            ],
+            "Ability": "ABILITY_PRANKSTER",
+            "Item": "ITEM_HEAT_ROCK",
+            "Nature": "NATURE_RELAXED",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Weather Setter",
+            "SourceTiers": [
+                "GEN7ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_U_TURN",
+                "MOVE_ENCORE",
+                "MOVE_DEFOG",
+                "MOVE_SUNNY_DAY"
+            ],
+            "Ability": "ABILITY_PRANKSTER",
+            "Item": "ITEM_HEAT_ROCK",
+            "Nature": "NATURE_CAREFUL",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_ENCORE",
+                "MOVE_U_TURN",
+                "MOVE_ROOST",
+                "MOVE_THUNDER_WAVE"
+            ],
+            "Ability": "ABILITY_PRANKSTER",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_CAREFUL",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN9PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_TAIL_GLOW",
+                "MOVE_THUNDERBOLT",
+                "MOVE_BUG_BUZZ",
+                "MOVE_GIGA_DRAIN"
+            ],
+            "Item": "ITEM_LIFE_ORB",
+            "Ability": "ABILITY_TINTED_LENS",
+            "HiddenPower": null,
+            "SourceTiers": [
+                "GEN7NU"
+            ],
+            "Name": "Offensive Tail Glow",
+            "Nature": "NATURE_HARDY",
+            "TeraType": null
+        },
+        {
+            "Moves": [
+                "MOVE_TAIL_GLOW",
+                "MOVE_BATON_PASS",
+                "MOVE_THUNDERBOLT",
+                "MOVE_SUBSTITUTE"
+            ],
+            "Item": "ITEM_LEFTOVERS",
+            "Ability": "ABILITY_PRANKSTER",
+            "HiddenPower": null,
+            "SourceTiers": [
+                "GEN7NU"
+            ],
+            "Name": "Tail Glow + Baton Pass",
+            "Nature": "NATURE_HARDY",
+            "TeraType": null
+        },
+        {
+            "Moves": [
+                "MOVE_VOLT_SWITCH",
+                "MOVE_THUNDER_WAVE",
+                "MOVE_ENCORE",
+                "MOVE_BUG_BUZZ"
+            ],
+            "Item": "ITEM_LEFTOVERS",
+            "Ability": "ABILITY_PRANKSTER",
+            "HiddenPower": null,
+            "SourceTiers": [
+                "GEN7PU"
+            ],
+            "Name": "Weather Setter",
+            "Nature": "NATURE_HARDY",
+            "TeraType": null
+        },
+        {
+            "Moves": [
+                "MOVE_VOLT_SWITCH",
+                "MOVE_THUNDER_WAVE",
+                "MOVE_ROOST",
+                "MOVE_ENCORE"
+            ],
+            "Item": "ITEM_ROCKY_HELMET",
+            "Ability": "ABILITY_PRANKSTER",
+            "HiddenPower": null,
+            "SourceTiers": [
+                "GEN7ZU"
+            ],
+            "Name": "Weather Setter",
+            "Nature": "NATURE_HARDY",
+            "TeraType": null
+        }
+    ]
+}

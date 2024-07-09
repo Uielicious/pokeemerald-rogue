@@ -1,0 +1,196 @@
+{
+    "Species": "SPECIES_GOURGEIST",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_SHADOW_PUNCH",
+            "Level": "0"
+        },
+        {
+            "Move": "MOVE_SHADOW_PUNCH",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_EXPLOSION",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_PHANTOM_FORCE",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_TRICK",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_ASTONISH",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_CONFUSE_RAY",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_SCARY_FACE",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_SCARY_FACE",
+            "Level": "4"
+        },
+        {
+            "Move": "MOVE_TRICK_OR_TREAT",
+            "Level": "6"
+        },
+        {
+            "Move": "MOVE_WORRY_SEED",
+            "Level": "11"
+        },
+        {
+            "Move": "MOVE_RAZOR_LEAF",
+            "Level": "16"
+        },
+        {
+            "Move": "MOVE_LEECH_SEED",
+            "Level": "20"
+        },
+        {
+            "Move": "MOVE_TRICK_OR_TREAT",
+            "Level": "23"
+        },
+        {
+            "Move": "MOVE_BULLET_SEED",
+            "Level": "26"
+        },
+        {
+            "Move": "MOVE_SHADOW_SNEAK",
+            "Level": "30"
+        },
+        {
+            "Move": "MOVE_SHADOW_BALL",
+            "Level": "36"
+        },
+        {
+            "Move": "MOVE_TRICK_OR_TREAT",
+            "Level": "40"
+        },
+        {
+            "Move": "MOVE_PAIN_SPLIT",
+            "Level": "42"
+        },
+        {
+            "Move": "MOVE_SEED_BOMB",
+            "Level": "48"
+        },
+        {
+            "Move": "MOVE_PHANTOM_FORCE",
+            "Level": "57"
+        },
+        {
+            "Move": "MOVE_TRICK_OR_TREAT",
+            "Level": "63"
+        },
+        {
+            "Move": "MOVE_EXPLOSION",
+            "Level": "70"
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_GIGA_DRAIN",
+        "MOVE_DARK_PULSE",
+        "MOVE_SOLAR_BEAM",
+        "MOVE_POWER_WHIP",
+        "MOVE_BRUTAL_SWING",
+        "MOVE_ATTRACT",
+        "MOVE_GRASS_KNOT",
+        "MOVE_SKITTER_SMACK",
+        "MOVE_DESTINY_BOND",
+        "MOVE_LIGHT_SCREEN",
+        "MOVE_POLTERGEIST",
+        "MOVE_WILL_O_WISP",
+        "MOVE_PROTECT",
+        "MOVE_SKILL_SWAP",
+        "MOVE_GRASSY_GLIDE",
+        "MOVE_THIEF",
+        "MOVE_HYPER_BEAM",
+        "MOVE_SUBSTITUTE",
+        "MOVE_SUNNY_DAY",
+        "MOVE_FACADE",
+        "MOVE_ALLY_SWITCH",
+        "MOVE_SAFEGUARD",
+        "MOVE_IMPRISON",
+        "MOVE_SLEEP_TALK",
+        "MOVE_ENERGY_BALL",
+        "MOVE_PSYCHIC",
+        "MOVE_SLUDGE_BOMB",
+        "MOVE_MYSTICAL_FIRE",
+        "MOVE_GIGA_IMPACT",
+        "MOVE_HEX",
+        "MOVE_NASTY_PLOT",
+        "MOVE_ENDURE",
+        "MOVE_FOCUS_BLAST",
+        "MOVE_FOUL_PLAY",
+        "MOVE_FIRE_PUNCH",
+        "MOVE_ROUND",
+        "MOVE_GYRO_BALL",
+        "MOVE_SNORE",
+        "MOVE_TRICK_ROOM",
+        "MOVE_ROCK_SLIDE",
+        "MOVE_FLAMETHROWER",
+        "MOVE_FLAME_CHARGE",
+        "MOVE_FIRE_BLAST",
+        "MOVE_REST"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_TRICK",
+                "MOVE_WILL_O_WISP",
+                "MOVE_SEED_BOMB",
+                "MOVE_DESTINY_BOND"
+            ],
+            "Ability": "ABILITY_FRISK",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Scarf",
+            "SourceTiers": [
+                "GEN6PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_TRICK_OR_TREAT",
+                "MOVE_SEED_BOMB",
+                "MOVE_SHADOW_PUNCH",
+                "MOVE_SHADOW_SNEAK"
+            ],
+            "Ability": "ABILITY_FLASH_FIRE",
+            "Item": "ITEM_GHOSTIUM_Z",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Z-Trick-or-Treat",
+            "SourceTiers": [
+                "GEN7PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FLAME_CHARGE",
+                "MOVE_POLTERGEIST",
+                "MOVE_POWER_WHIP",
+                "MOVE_SHADOW_SNEAK"
+            ],
+            "Ability": "ABILITY_FRISK",
+            "Item": "ITEM_WEAKNESS_POLICY",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Weakness Policy",
+            "SourceTiers": [
+                "GEN8ZU"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,261 @@
+{
+    "Species": "SPECIES_KINGLER",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_HAMMER_ARM",
+            "Level": "0"
+        },
+        {
+            "Move": "MOVE_HAMMER_ARM",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_WIDE_GUARD",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_AQUA_JET",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_MUD_SPORT",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_BUBBLE",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_VISE_GRIP",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_LEER",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_VISE_GRIP",
+            "Level": "5"
+        },
+        {
+            "Move": "MOVE_LEER",
+            "Level": "9"
+        },
+        {
+            "Move": "MOVE_HARDEN",
+            "Level": "11"
+        },
+        {
+            "Move": "MOVE_BUBBLE_BEAM",
+            "Level": "15"
+        },
+        {
+            "Move": "MOVE_MUD_SHOT",
+            "Level": "19"
+        },
+        {
+            "Move": "MOVE_METAL_CLAW",
+            "Level": "21"
+        },
+        {
+            "Move": "MOVE_STOMP",
+            "Level": "25"
+        },
+        {
+            "Move": "MOVE_PROTECT",
+            "Level": "32"
+        },
+        {
+            "Move": "MOVE_GUILLOTINE",
+            "Level": "37"
+        },
+        {
+            "Move": "MOVE_SLAM",
+            "Level": "44"
+        },
+        {
+            "Move": "MOVE_BRINE",
+            "Level": "51"
+        },
+        {
+            "Move": "MOVE_CRABHAMMER",
+            "Level": "56"
+        },
+        {
+            "Move": "MOVE_FLAIL",
+            "Level": "63"
+        },
+        {
+            "Move": "MOVE_ICE_HAMMER",
+            "Level": "70"
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_ICE_BEAM",
+        "MOVE_SUPERPOWER",
+        "MOVE_DIVE",
+        "MOVE_FLING",
+        "MOVE_AMNESIA",
+        "MOVE_AGILITY",
+        "MOVE_ATTRACT",
+        "MOVE_BRUTAL_SWING",
+        "MOVE_ROCK_TOMB",
+        "MOVE_SWORDS_DANCE",
+        "MOVE_WATERFALL",
+        "MOVE_HIGH_HORSEPOWER",
+        "MOVE_KNOCK_OFF",
+        "MOVE_HYDRO_PUMP",
+        "MOVE_IRON_DEFENSE",
+        "MOVE_THIEF",
+        "MOVE_SHADOW_CLAW",
+        "MOVE_BODY_SLAM",
+        "MOVE_HYPER_BEAM",
+        "MOVE_SUBSTITUTE",
+        "MOVE_BRICK_BREAK",
+        "MOVE_FACADE",
+        "MOVE_STOMPING_TANTRUM",
+        "MOVE_WHIRLPOOL",
+        "MOVE_FALSE_SWIPE",
+        "MOVE_ICY_WIND",
+        "MOVE_SLEEP_TALK",
+        "MOVE_REST",
+        "MOVE_GIGA_IMPACT",
+        "MOVE_DIG",
+        "MOVE_LIQUIDATION",
+        "MOVE_RAZOR_SHELL",
+        "MOVE_ENDURE",
+        "MOVE_X_SCISSOR",
+        "MOVE_ROCK_CLIMB",
+        "MOVE_LOW_SWEEP",
+        "MOVE_ROUND",
+        "MOVE_BLIZZARD",
+        "MOVE_SURF",
+        "MOVE_SNORE",
+        "MOVE_SNOWSCAPE",
+        "MOVE_SCALD",
+        "MOVE_RAIN_DANCE",
+        "MOVE_ROCK_SLIDE",
+        "MOVE_ALLY_SWITCH"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_AGILITY",
+                "MOVE_CRABHAMMER",
+                "MOVE_KNOCK_OFF",
+                "MOVE_SUPERPOWER"
+            ],
+            "Ability": "ABILITY_HYPER_CUTTER",
+            "Item": "ITEM_SPLASH_PLATE",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Agility Sweeper",
+            "SourceTiers": [
+                "GEN6PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_CRABHAMMER",
+                "MOVE_KNOCK_OFF",
+                "MOVE_SUPERPOWER",
+                "MOVE_ROCK_SLIDE"
+            ],
+            "Ability": "ABILITY_SHEER_FORCE",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_AGILITY",
+                "MOVE_SWORDS_DANCE",
+                "MOVE_LIQUIDATION",
+                "MOVE_KNOCK_OFF"
+            ],
+            "Ability": "ABILITY_SHEER_FORCE",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Double Dance",
+            "SourceTiers": [
+                "GEN7NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_LIQUIDATION",
+                "MOVE_KNOCK_OFF",
+                "MOVE_AGILITY",
+                "MOVE_SWORDS_DANCE"
+            ],
+            "Ability": "ABILITY_SHEER_FORCE",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_CRABHAMMER",
+                "MOVE_AGILITY",
+                "MOVE_X_SCISSOR",
+                "MOVE_ROCK_SLIDE"
+            ],
+            "Ability": null,
+            "Item": null,
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7LETSGOOU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_LIQUIDATION",
+                "MOVE_AGILITY",
+                "MOVE_KNOCK_OFF",
+                "MOVE_ROCK_SLIDE"
+            ],
+            "Ability": "ABILITY_SHEER_FORCE",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_AQUA_JET",
+                "MOVE_LIQUIDATION",
+                "MOVE_ICE_HAMMER",
+                "MOVE_KNOCK_OFF"
+            ],
+            "Item": "ITEM_CHOICE_BAND",
+            "Ability": "ABILITY_SHEER_FORCE",
+            "HiddenPower": null,
+            "SourceTiers": [
+                "GEN7NU"
+            ],
+            "Name": "Choice Band",
+            "Nature": "NATURE_HARDY",
+            "TeraType": null
+        }
+    ]
+}

@@ -723,7 +723,11 @@ const u32 *const gItemIconTable[ITEMS_COUNT + 1][2] =
     [ITEM_TM98] = {gItemIcon_TM, gItemIconPalette_NormalTMHM},  // Todo
     [ITEM_TM99] = {gItemIcon_TM, gItemIconPalette_NormalTMHM},  // Todo
     [ITEM_TM100] = {gItemIcon_TM, gItemIconPalette_NormalTMHM}, // Todo
+#ifdef ROGUE_DRAYANO
+    [ITEM_HM01] = {gItemIcon_HM, gItemIconPalette_GrassTMHM},
+#else
     [ITEM_HM01] = {gItemIcon_HM, gItemIconPalette_NormalTMHM},
+#endif
     [ITEM_HM02] = {gItemIcon_HM, gItemIconPalette_FlyingTMHM},
     [ITEM_HM03] = {gItemIcon_HM, gItemIconPalette_WaterTMHM},
     [ITEM_HM04] = {gItemIcon_HM, gItemIconPalette_NormalTMHM},

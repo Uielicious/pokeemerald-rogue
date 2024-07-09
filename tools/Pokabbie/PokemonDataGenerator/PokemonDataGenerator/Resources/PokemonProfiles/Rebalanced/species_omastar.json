@@ -1,0 +1,438 @@
+{
+    "Species": "SPECIES_OMASTAR",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_SPIKE_CANNON",
+            "Level": "0"
+        },
+        {
+            "Move": "MOVE_SPIKE_CANNON",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_HYDRO_PUMP",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_SHELTER",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_CONSTRICT",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_WITHDRAW",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_BITE",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_BITE",
+            "Level": "7"
+        },
+        {
+            "Move": "MOVE_WATER_GUN",
+            "Level": "10"
+        },
+        {
+            "Move": "MOVE_ROLLOUT",
+            "Level": "16"
+        },
+        {
+            "Move": "MOVE_LEER",
+            "Level": "19"
+        },
+        {
+            "Move": "MOVE_MUD_SHOT",
+            "Level": "25"
+        },
+        {
+            "Move": "MOVE_BRINE",
+            "Level": "28"
+        },
+        {
+            "Move": "MOVE_PROTECT",
+            "Level": "34"
+        },
+        {
+            "Move": "MOVE_ANCIENT_POWER",
+            "Level": "37"
+        },
+        {
+            "Move": "MOVE_TICKLE",
+            "Level": "48"
+        },
+        {
+            "Move": "MOVE_POWER_GEM",
+            "Level": "56"
+        },
+        {
+            "Move": "MOVE_ROCK_BLAST",
+            "Level": "67"
+        },
+        {
+            "Move": "MOVE_SHELL_SMASH",
+            "Level": "75"
+        },
+        {
+            "Move": "MOVE_HYDRO_PUMP",
+            "Level": "83"
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_ICE_BEAM",
+        "MOVE_DIVE",
+        "MOVE_ATTRACT",
+        "MOVE_SPIKES",
+        "MOVE_ROCK_TOMB",
+        "MOVE_EARTH_POWER",
+        "MOVE_WATERFALL",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_STONE_EDGE",
+        "MOVE_KNOCK_OFF",
+        "MOVE_THIEF",
+        "MOVE_IRON_DEFENSE",
+        "MOVE_HYPER_BEAM",
+        "MOVE_SUBSTITUTE",
+        "MOVE_FACADE",
+        "MOVE_WHIRLPOOL",
+        "MOVE_ICY_WIND",
+        "MOVE_STEALTH_ROCK",
+        "MOVE_SLEEP_TALK",
+        "MOVE_REST",
+        "MOVE_GIGA_IMPACT",
+        "MOVE_MUDDY_WATER",
+        "MOVE_PIN_MISSILE",
+        "MOVE_LIQUIDATION",
+        "MOVE_TERA_BLAST",
+        "MOVE_ENDURE",
+        "MOVE_METEOR_BEAM",
+        "MOVE_ROCK_CLIMB",
+        "MOVE_ROUND",
+        "MOVE_BLIZZARD",
+        "MOVE_GYRO_BALL",
+        "MOVE_SNORE",
+        "MOVE_SNOWSCAPE",
+        "MOVE_SCALD",
+        "MOVE_RAIN_DANCE",
+        "MOVE_ROCK_SLIDE",
+        "MOVE_SURF",
+        "MOVE_SANDSTORM",
+        "MOVE_TOXIC_SPIKES",
+        "MOVE_CRUNCH",
+        "MOVE_BODY_SLAM"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_HYDRO_PUMP",
+                "MOVE_ICE_BEAM",
+                "MOVE_SCALD",
+                "MOVE_KNOCK_OFF"
+            ],
+            "Ability": "ABILITY_SWIFT_SWIM",
+            "Item": "ITEM_CHOICE_SPECS",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Specs",
+            "SourceTiers": [
+                "GEN6OU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SHELL_SMASH",
+                "MOVE_HYDRO_PUMP",
+                "MOVE_ICE_BEAM",
+                "MOVE_HIDDEN_POWER"
+            ],
+            "Ability": "ABILITY_WEAK_ARMOR",
+            "Item": "ITEM_FOCUS_SASH",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": "TYPE_ELECTRIC",
+            "TeraType": null,
+            "Name": "Shell Smash",
+            "SourceTiers": [
+                "GEN6UU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SHELL_SMASH",
+                "MOVE_HYDRO_PUMP",
+                "MOVE_ICE_BEAM",
+                "MOVE_HIDDEN_POWER"
+            ],
+            "Ability": "ABILITY_WEAK_ARMOR",
+            "Item": "ITEM_SHUCA_BERRY",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": "TYPE_GRASS",
+            "TeraType": null,
+            "Name": "Shell Smash",
+            "SourceTiers": [
+                "GEN6RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_STEALTH_ROCK",
+                "MOVE_SPIKES",
+                "MOVE_SCALD",
+                "MOVE_ICE_BEAM"
+            ],
+            "Ability": "ABILITY_WEAK_ARMOR",
+            "Item": "ITEM_FOCUS_SASH",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Lead",
+            "SourceTiers": [
+                "GEN6RU",
+                "GEN6NU",
+                "GEN7PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_ICE_BEAM",
+                "MOVE_SHELL_SMASH",
+                "MOVE_SCALD",
+                "MOVE_SURF"
+            ],
+            "Ability": "ABILITY_WEAK_ARMOR",
+            "Item": "ITEM_FOCUS_SASH",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_STEALTH_ROCK",
+                "MOVE_SPIKES",
+                "MOVE_SCALD",
+                "MOVE_PROTECT"
+            ],
+            "Ability": "ABILITY_SHELL_ARMOR",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Defensive Entry Hazards",
+            "SourceTiers": [
+                "GEN6NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SHELL_SMASH",
+                "MOVE_SURF",
+                "MOVE_ICE_BEAM",
+                "MOVE_HIDDEN_POWER"
+            ],
+            "Ability": "ABILITY_SWIFT_SWIM",
+            "Item": "ITEM_SHUCA_BERRY",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": "TYPE_GRASS",
+            "TeraType": null,
+            "Name": "Shell Smash",
+            "SourceTiers": [
+                "GEN6NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_ICE_BEAM",
+                "MOVE_SHELL_SMASH",
+                "MOVE_SURF",
+                "MOVE_EARTH_POWER"
+            ],
+            "Ability": "ABILITY_SWIFT_SWIM",
+            "Item": "ITEM_FOCUS_SASH",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SHELL_SMASH",
+                "MOVE_ICE_BEAM",
+                "MOVE_SCALD",
+                "MOVE_EARTH_POWER"
+            ],
+            "Ability": "ABILITY_WEAK_ARMOR",
+            "Item": "ITEM_FOCUS_SASH",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_ICE_BEAM",
+                "MOVE_SHELL_SMASH",
+                "MOVE_EARTH_POWER",
+                "MOVE_SURF"
+            ],
+            "Ability": "ABILITY_WEAK_ARMOR",
+            "Item": "ITEM_FOCUS_SASH",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SHELL_SMASH",
+                "MOVE_HYDRO_PUMP",
+                "MOVE_ICE_BEAM",
+                "MOVE_EARTH_POWER"
+            ],
+            "Ability": "ABILITY_WEAK_ARMOR",
+            "Item": "ITEM_WATERIUM_Z",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Shell Smash",
+            "SourceTiers": [
+                "GEN7PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_ICE_BEAM",
+                "MOVE_SHELL_SMASH",
+                "MOVE_EARTH_POWER",
+                "MOVE_SCALD"
+            ],
+            "Ability": "ABILITY_WEAK_ARMOR",
+            "Item": "ITEM_WHITE_HERB",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SHELL_SMASH",
+                "MOVE_SURF",
+                "MOVE_ICE_BEAM",
+                "MOVE_ROCK_SLIDE"
+            ],
+            "Ability": null,
+            "Item": null,
+            "Nature": "NATURE_RASH",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Shell Smash",
+            "SourceTiers": [
+                "GEN7LETSGOOU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SHELL_SMASH",
+                "MOVE_HYDRO_PUMP",
+                "MOVE_ICE_BEAM",
+                "MOVE_HIDDEN_POWER"
+            ],
+            "Ability": "ABILITY_WEAK_ARMOR",
+            "Item": "ITEM_AIR_BALLOON",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": "TYPE_GRASS",
+            "TeraType": null,
+            "Name": "Shell Smash Sweeper (Rock)",
+            "SourceTiers": [
+                "GEN7MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SHELL_SMASH",
+                "MOVE_METEOR_BEAM",
+                "MOVE_SURF",
+                "MOVE_ICE_BEAM"
+            ],
+            "Ability": "ABILITY_WEAK_ARMOR",
+            "Item": "ITEM_POWER_HERB",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Shell Smash Sweeper",
+            "SourceTiers": [
+                "GEN8NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_ICE_BEAM",
+                "MOVE_SHELL_SMASH",
+                "MOVE_SURF",
+                "MOVE_EARTH_POWER"
+            ],
+            "Ability": "ABILITY_WEAK_ARMOR",
+            "Item": "ITEM_FOCUS_SASH",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_ICE_BEAM",
+                "MOVE_SURF",
+                "MOVE_SHELL_SMASH",
+                "MOVE_METEOR_BEAM"
+            ],
+            "Ability": "ABILITY_WEAK_ARMOR",
+            "Item": "ITEM_POWER_HERB",
+            "Nature": "NATURE_CALM",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SHELL_SMASH",
+                "MOVE_SURF",
+                "MOVE_ICE_BEAM",
+                "MOVE_POWER_GEM"
+            ],
+            "Item": "ITEM_LIFE_ORB",
+            "Ability": "ABILITY_WEAK_ARMOR",
+            "HiddenPower": null,
+            "SourceTiers": [
+                "GEN7LETSGOOU"
+            ],
+            "Name": "Shell Smash",
+            "Nature": "NATURE_HARDY",
+            "TeraType": null
+        }
+    ]
+}

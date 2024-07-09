@@ -1,0 +1,524 @@
+{
+    "Species": "SPECIES_KANGASKHAN",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_POUND",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_TAIL_WHIP",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_GROWL",
+            "Level": 4
+        },
+        {
+            "Move": "MOVE_FAKE_OUT",
+            "Level": 8
+        },
+        {
+            "Move": "MOVE_BITE",
+            "Level": 12
+        },
+        {
+            "Move": "MOVE_STOMP",
+            "Level": 16
+        },
+        {
+            "Move": "MOVE_FOCUS_ENERGY",
+            "Level": 20
+        },
+        {
+            "Move": "MOVE_HEADBUTT",
+            "Level": 24
+        },
+        {
+            "Move": "MOVE_SUCKER_PUNCH",
+            "Level": 28
+        },
+        {
+            "Move": "MOVE_DOUBLE_HIT",
+            "Level": 32
+        },
+        {
+            "Move": "MOVE_CRUNCH",
+            "Level": 36
+        },
+        {
+            "Move": "MOVE_ENDURE",
+            "Level": 40
+        },
+        {
+            "Move": "MOVE_REVERSAL",
+            "Level": 44
+        },
+        {
+            "Move": "MOVE_OUTRAGE",
+            "Level": 48
+        },
+        {
+            "Move": "MOVE_LAST_RESORT",
+            "Level": 52
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_ICE_BEAM",
+        "MOVE_POWER_UP_PUNCH",
+        "MOVE_SOLAR_BEAM",
+        "MOVE_ATTRACT",
+        "MOVE_ROCK_TOMB",
+        "MOVE_WORK_UP",
+        "MOVE_DOUBLE_EDGE",
+        "MOVE_IRON_TAIL",
+        "MOVE_SUBSTITUTE",
+        "MOVE_UPROAR",
+        "MOVE_SUNNY_DAY",
+        "MOVE_BRICK_BREAK",
+        "MOVE_FACADE",
+        "MOVE_WHIRLPOOL",
+        "MOVE_BEAT_UP",
+        "MOVE_SAFEGUARD",
+        "MOVE_MEGA_KICK",
+        "MOVE_SLEEP_TALK",
+        "MOVE_THUNDERBOLT",
+        "MOVE_DIG",
+        "MOVE_RETURN",
+        "MOVE_ROCK_CLIMB",
+        "MOVE_THUNDER",
+        "MOVE_CIRCLE_THROW",
+        "MOVE_FIRE_PUNCH",
+        "MOVE_LOW_KICK",
+        "MOVE_ROUND",
+        "MOVE_BLIZZARD",
+        "MOVE_MEGA_PUNCH",
+        "MOVE_RAIN_DANCE",
+        "MOVE_ROCK_SLIDE",
+        "MOVE_FLAMETHROWER",
+        "MOVE_FIRE_BLAST",
+        "MOVE_REST",
+        "MOVE_SEISMIC_TOSS",
+        "MOVE_HELPING_HAND",
+        "MOVE_THUNDER_PUNCH",
+        "MOVE_FLING",
+        "MOVE_DISABLE",
+        "MOVE_BULLDOZE",
+        "MOVE_PROTECT",
+        "MOVE_ASSURANCE",
+        "MOVE_HYDRO_PUMP",
+        "MOVE_SHADOW_CLAW",
+        "MOVE_THIEF",
+        "MOVE_HYPER_BEAM",
+        "MOVE_HAMMER_ARM",
+        "MOVE_ENDEAVOR",
+        "MOVE_SHADOW_BALL",
+        "MOVE_ICY_WIND",
+        "MOVE_AVALANCHE",
+        "MOVE_GIGA_IMPACT",
+        "MOVE_EARTHQUAKE",
+        "MOVE_ICE_PUNCH",
+        "MOVE_COUNTER",
+        "MOVE_FOCUS_BLAST",
+        "MOVE_SURF",
+        "MOVE_SNORE",
+        "MOVE_SNOWSCAPE",
+        "MOVE_DRAIN_PUNCH",
+        "MOVE_RETALIATE",
+        "MOVE_SANDSTORM",
+        "MOVE_TERRAIN_PULSE",
+        "MOVE_FOCUS_PUNCH",
+        "MOVE_BODY_SLAM"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_FAKE_OUT",
+                "MOVE_RETURN",
+                "MOVE_CRUNCH",
+                "MOVE_POWER_UP_PUNCH"
+            ],
+            "Ability": "ABILITY_SCRAPPY",
+            "Item": "ITEM_KANGASKHANITE",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Physical Attacker",
+            "SourceTiers": [
+                "GEN6UBERS"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FAKE_OUT",
+                "MOVE_DOUBLE_EDGE",
+                "MOVE_SUCKER_PUNCH",
+                "MOVE_EARTHQUAKE"
+            ],
+            "Ability": "ABILITY_SCRAPPY",
+            "Item": "ITEM_SILK_SCARF",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Offensive",
+            "SourceTiers": [
+                "GEN6NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FAKE_OUT",
+                "MOVE_SUCKER_PUNCH",
+                "MOVE_EARTHQUAKE",
+                "MOVE_DOUBLE_EDGE"
+            ],
+            "Ability": "ABILITY_SCRAPPY",
+            "Item": "ITEM_SILK_SCARF",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_RETURN",
+                "MOVE_POWER_UP_PUNCH",
+                "MOVE_SUCKER_PUNCH",
+                "MOVE_FAKE_OUT"
+            ],
+            "Ability": "ABILITY_SCRAPPY",
+            "Item": "ITEM_KANGASKHANITE",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Power-Up Punch",
+            "SourceTiers": [
+                "GEN6DOUBLESOU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_DOUBLE_EDGE",
+                "MOVE_LOW_KICK",
+                "MOVE_SUCKER_PUNCH",
+                "MOVE_FAKE_OUT"
+            ],
+            "Ability": "ABILITY_SCRAPPY",
+            "Item": "ITEM_KANGASKHANITE",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "All-Out Attacker",
+            "SourceTiers": [
+                "GEN6DOUBLESOU",
+                "GEN7VGC2018"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_POWER_UP_PUNCH",
+                "MOVE_DOUBLE_EDGE",
+                "MOVE_SUCKER_PUNCH",
+                "MOVE_EARTHQUAKE"
+            ],
+            "Ability": "ABILITY_SCRAPPY",
+            "Item": "ITEM_KANGASKHANITE",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Sweeper",
+            "SourceTiers": [
+                "GEN6BATTLESPOTSINGLES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_DOUBLE_EDGE",
+                "MOVE_SUCKER_PUNCH",
+                "MOVE_EARTHQUAKE",
+                "MOVE_FAKE_OUT"
+            ],
+            "Ability": "ABILITY_SCRAPPY",
+            "Item": "ITEM_KANGASKHANITE",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "All-Out Attacker",
+            "SourceTiers": [
+                "GEN6BATTLESPOTSINGLES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_RETURN",
+                "MOVE_POWER_UP_PUNCH",
+                "MOVE_SUCKER_PUNCH",
+                "MOVE_FAKE_OUT"
+            ],
+            "Ability": "ABILITY_SCRAPPY",
+            "Item": "ITEM_KANGASKHANITE",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "All-Out Attacker",
+            "SourceTiers": [
+                "GEN6BATTLESPOTDOUBLES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_RETURN",
+                "MOVE_LOW_KICK",
+                "MOVE_SUCKER_PUNCH",
+                "MOVE_PROTECT"
+            ],
+            "Ability": "ABILITY_SCRAPPY",
+            "Item": "ITEM_KANGASKHANITE",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Bulky Offensive",
+            "SourceTiers": [
+                "GEN6BATTLESPOTDOUBLES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_DOUBLE_EDGE",
+                "MOVE_LOW_KICK",
+                "MOVE_SUCKER_PUNCH",
+                "MOVE_FAKE_OUT"
+            ],
+            "Ability": "ABILITY_INNER_FOCUS",
+            "Item": "ITEM_KANGASKHANITE",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "All-Out Attacker",
+            "SourceTiers": [
+                "GEN6VGC2016"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_RETURN",
+                "MOVE_POWER_UP_PUNCH",
+                "MOVE_SUCKER_PUNCH",
+                "MOVE_FAKE_OUT"
+            ],
+            "Ability": "ABILITY_INNER_FOCUS",
+            "Item": "ITEM_KANGASKHANITE",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Power-Up Punch",
+            "SourceTiers": [
+                "GEN6VGC2016"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FAKE_OUT",
+                "MOVE_SEISMIC_TOSS",
+                "MOVE_SHADOW_CLAW",
+                "MOVE_BODY_SLAM"
+            ],
+            "Ability": "ABILITY_SCRAPPY",
+            "Item": "ITEM_KANGASKHANITE",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Utility Attacker",
+            "SourceTiers": [
+                "GEN7UBERS"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FAKE_OUT",
+                "MOVE_DOUBLE_EDGE",
+                "MOVE_EARTHQUAKE",
+                "MOVE_SUCKER_PUNCH"
+            ],
+            "Ability": "ABILITY_SCRAPPY",
+            "Item": "ITEM_SILK_SCARF",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "All-Out Attacker",
+            "SourceTiers": [
+                "GEN7PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_POWER_UP_PUNCH",
+                "MOVE_DOUBLE_EDGE",
+                "MOVE_SUCKER_PUNCH",
+                "MOVE_FOCUS_PUNCH"
+            ],
+            "Ability": "ABILITY_SCRAPPY",
+            "Item": "ITEM_FIGHTINIUM_Z",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Power-Up Punch + Z-Move",
+            "SourceTiers": [
+                "GEN7PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SUBSTITUTE",
+                "MOVE_ATTRACT",
+                "MOVE_POWER_UP_PUNCH",
+                "MOVE_RETURN"
+            ],
+            "Ability": "ABILITY_SCRAPPY",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_IMPISH",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Substitute + Toxic",
+            "SourceTiers": [
+                "GEN7PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FAKE_OUT",
+                "MOVE_SUCKER_PUNCH",
+                "MOVE_DOUBLE_EDGE",
+                "MOVE_EARTHQUAKE"
+            ],
+            "Ability": "ABILITY_SCRAPPY",
+            "Item": "ITEM_SILK_SCARF",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_POWER_UP_PUNCH",
+                "MOVE_DOUBLE_EDGE",
+                "MOVE_EARTHQUAKE",
+                "MOVE_SUCKER_PUNCH"
+            ],
+            "Ability": "ABILITY_SCRAPPY",
+            "Item": "ITEM_KANGASKHANITE",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Sweeper",
+            "SourceTiers": [
+                "GEN7BATTLESPOTSINGLES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FAKE_OUT",
+                "MOVE_DOUBLE_EDGE",
+                "MOVE_BULLDOZE",
+                "MOVE_CIRCLE_THROW"
+            ],
+            "Ability": "ABILITY_SCRAPPY",
+            "Item": "ITEM_ASSAULT_VEST",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7VGC2017"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FAKE_OUT",
+                "MOVE_SUCKER_PUNCH",
+                "MOVE_BODY_SLAM"
+            ],
+            "Ability": "ABILITY_SCRAPPY",
+            "Item": "ITEM_SILK_SCARF",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FAKE_OUT",
+                "MOVE_DOUBLE_EDGE",
+                "MOVE_SUCKER_PUNCH",
+                "MOVE_EARTHQUAKE"
+            ],
+            "Ability": "ABILITY_SCRAPPY",
+            "Item": "ITEM_SILK_SCARF",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Priority Attacker",
+            "SourceTiers": [
+                "GEN8ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_WHIRLPOOL",
+                "MOVE_SEISMIC_TOSS",
+                "MOVE_REST",
+                "MOVE_SUBSTITUTE"
+            ],
+            "Ability": "ABILITY_EARLY_BIRD",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_CAREFUL",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Trapper",
+            "SourceTiers": [
+                "GEN8ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FAKE_OUT",
+                "MOVE_EARTHQUAKE",
+                "MOVE_DOUBLE_EDGE",
+                "MOVE_SUCKER_PUNCH"
+            ],
+            "Ability": "ABILITY_SCRAPPY",
+            "Item": "ITEM_SILK_SCARF",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FAKE_OUT",
+                "MOVE_LAST_RESORT",
+                "MOVE_SUCKER_PUNCH"
+            ],
+            "Ability": "ABILITY_SCRAPPY",
+            "Item": "ITEM_SILK_SCARF",
+            "Nature": "NATURE_BRAVE",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8VGC2020"
+            ]
+        }
+    ]
+}

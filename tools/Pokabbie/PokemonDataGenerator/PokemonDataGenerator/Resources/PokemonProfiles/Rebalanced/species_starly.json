@@ -1,0 +1,119 @@
+{
+    "Species": "SPECIES_STARLY",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_TACKLE",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_GROWL",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_QUICK_ATTACK",
+            "Level": 5
+        },
+        {
+            "Move": "MOVE_WING_ATTACK",
+            "Level": 9
+        },
+        {
+            "Move": "MOVE_DOUBLE_TEAM",
+            "Level": 13
+        },
+        {
+            "Move": "MOVE_ENDEAVOR",
+            "Level": 17
+        },
+        {
+            "Move": "MOVE_WHIRLWIND",
+            "Level": 21
+        },
+        {
+            "Move": "MOVE_AERIAL_ACE",
+            "Level": 25
+        },
+        {
+            "Move": "MOVE_TAKE_DOWN",
+            "Level": 29
+        },
+        {
+            "Move": "MOVE_AGILITY",
+            "Level": 33
+        },
+        {
+            "Move": "MOVE_BRAVE_BIRD",
+            "Level": 37
+        },
+        {
+            "Move": "MOVE_FINAL_GAMBIT",
+            "Level": 41
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_AIR_CUTTER",
+        "MOVE_HELPING_HAND",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_FEATHER_DANCE",
+        "MOVE_PROTECT",
+        "MOVE_THIEF",
+        "MOVE_DOUBLE_EDGE",
+        "MOVE_SUBSTITUTE",
+        "MOVE_UPROAR",
+        "MOVE_SUNNY_DAY",
+        "MOVE_FACADE",
+        "MOVE_TAILWIND",
+        "MOVE_DUAL_WINGBEAT",
+        "MOVE_AIR_SLASH",
+        "MOVE_ACROBATICS",
+        "MOVE_SWIFT",
+        "MOVE_SLEEP_TALK",
+        "MOVE_FLY",
+        "MOVE_ASTONISH",
+        "MOVE_HEAT_WAVE",
+        "MOVE_TERA_BLAST",
+        "MOVE_ENDURE",
+        "MOVE_SAND_ATTACK",
+        "MOVE_HURRICANE",
+        "MOVE_RAIN_DANCE",
+        "MOVE_U_TURN",
+        "MOVE_FURY_ATTACK",
+        "MOVE_REST"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_BRAVE_BIRD",
+                "MOVE_DOUBLE_EDGE",
+                "MOVE_U_TURN",
+                "MOVE_HIDDEN_POWER"
+            ],
+            "Ability": "ABILITY_RECKLESS",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_NAIVE",
+            "HiddenPower": "TYPE_GRASS",
+            "TeraType": null,
+            "Name": "Choice Scarf",
+            "SourceTiers": [
+                "GEN6LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_BRAVE_BIRD",
+                "MOVE_DOUBLE_EDGE",
+                "MOVE_U_TURN",
+                "MOVE_HEAT_WAVE"
+            ],
+            "Ability": "ABILITY_RECKLESS",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_NAIVE",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Scarf",
+            "SourceTiers": [
+                "GEN7LC"
+            ]
+        }
+    ]
+}

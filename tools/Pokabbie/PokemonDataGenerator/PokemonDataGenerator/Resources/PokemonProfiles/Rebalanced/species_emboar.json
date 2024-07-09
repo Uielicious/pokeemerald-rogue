@@ -1,0 +1,347 @@
+{
+    "Species": "SPECIES_EMBOAR",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_HIGH_HORSEPOWER",
+            "Level": "0"
+        },
+        {
+            "Move": "MOVE_HIGH_HORSEPOWER",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_MUD_SHOT",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_ARM_THRUST",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_HAMMER_ARM",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_TACKLE",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_TAIL_WHIP",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_EMBER",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_ODOR_SLEUTH",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_TAIL_WHIP",
+            "Level": "3"
+        },
+        {
+            "Move": "MOVE_EMBER",
+            "Level": "7"
+        },
+        {
+            "Move": "MOVE_ODOR_SLEUTH",
+            "Level": "9"
+        },
+        {
+            "Move": "MOVE_DEFENSE_CURL",
+            "Level": "13"
+        },
+        {
+            "Move": "MOVE_FLAME_CHARGE",
+            "Level": "15"
+        },
+        {
+            "Move": "MOVE_SMOG",
+            "Level": "20"
+        },
+        {
+            "Move": "MOVE_ROLLOUT",
+            "Level": "23"
+        },
+        {
+            "Move": "MOVE_TAKE_DOWN",
+            "Level": "28"
+        },
+        {
+            "Move": "MOVE_HEAT_CRASH",
+            "Level": "31"
+        },
+        {
+            "Move": "MOVE_ASSURANCE",
+            "Level": "38"
+        },
+        {
+            "Move": "MOVE_FLAMETHROWER",
+            "Level": "43"
+        },
+        {
+            "Move": "MOVE_HEAD_SMASH",
+            "Level": "50"
+        },
+        {
+            "Move": "MOVE_ROAR",
+            "Level": "55"
+        },
+        {
+            "Move": "MOVE_FLARE_BLITZ",
+            "Level": "62"
+        },
+        {
+            "Move": "MOVE_CROSS_CHOP",
+            "Level": "68"
+        },
+        {
+            "Move": "MOVE_V_CREATE",
+            "Level": "75"
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_SUPERPOWER",
+        "MOVE_HELPING_HAND",
+        "MOVE_THUNDER_PUNCH",
+        "MOVE_FLING",
+        "MOVE_SUCKER_PUNCH",
+        "MOVE_SOLAR_BEAM",
+        "MOVE_GRASS_KNOT",
+        "MOVE_IRON_HEAD",
+        "MOVE_TEMPER_FLARE",
+        "MOVE_OVERHEAT",
+        "MOVE_ROCK_TOMB",
+        "MOVE_ZEN_HEADBUTT",
+        "MOVE_COACHING",
+        "MOVE_BULLDOZE",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_STONE_EDGE",
+        "MOVE_KNOCK_OFF",
+        "MOVE_HARD_PRESS",
+        "MOVE_PROTECT",
+        "MOVE_WILL_O_WISP",
+        "MOVE_DOUBLE_EDGE",
+        "MOVE_BODY_SLAM",
+        "MOVE_FIRE_SPIN",
+        "MOVE_IRON_TAIL",
+        "MOVE_HYPER_BEAM",
+        "MOVE_SUBSTITUTE",
+        "MOVE_SUNNY_DAY",
+        "MOVE_BRICK_BREAK",
+        "MOVE_FACADE",
+        "MOVE_STOMPING_TANTRUM",
+        "MOVE_ENDEAVOR",
+        "MOVE_REVERSAL",
+        "MOVE_TRAILBLAZE",
+        "MOVE_SLEEP_TALK",
+        "MOVE_BLAST_BURN",
+        "MOVE_MUD_SLAP",
+        "MOVE_WILD_CHARGE",
+        "MOVE_GIGA_IMPACT",
+        "MOVE_DIG",
+        "MOVE_CLOSE_COMBAT",
+        "MOVE_YAWN",
+        "MOVE_EARTHQUAKE",
+        "MOVE_HEAT_WAVE",
+        "MOVE_TERA_BLAST",
+        "MOVE_ENDURE",
+        "MOVE_CURSE",
+        "MOVE_FIRE_PLEDGE",
+        "MOVE_ROCK_CLIMB",
+        "MOVE_THRASH",
+        "MOVE_LOW_SWEEP",
+        "MOVE_FOCUS_BLAST",
+        "MOVE_HEAVY_SLAM",
+        "MOVE_FIRE_PUNCH",
+        "MOVE_SCARY_FACE",
+        "MOVE_LOW_KICK",
+        "MOVE_POISON_JAB",
+        "MOVE_GYRO_BALL",
+        "MOVE_SMACK_DOWN",
+        "MOVE_SCALD",
+        "MOVE_ROCK_SLIDE",
+        "MOVE_FOCUS_PUNCH",
+        "MOVE_BULK_UP",
+        "MOVE_DRAIN_PUNCH",
+        "MOVE_FIRE_BLAST",
+        "MOVE_TAUNT",
+        "MOVE_BODY_PRESS",
+        "MOVE_REST"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_FLARE_BLITZ",
+                "MOVE_SUPERPOWER",
+                "MOVE_GRASS_KNOT",
+                "MOVE_SUCKER_PUNCH"
+            ],
+            "Ability": "ABILITY_RECKLESS",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_NAUGHTY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Footloose",
+            "SourceTiers": [
+                "GEN6UU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FLARE_BLITZ",
+                "MOVE_SUPERPOWER",
+                "MOVE_WILD_CHARGE",
+                "MOVE_HEAD_SMASH"
+            ],
+            "Ability": "ABILITY_RECKLESS",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Scarf",
+            "SourceTiers": [
+                "GEN6UU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FLARE_BLITZ",
+                "MOVE_SUPERPOWER",
+                "MOVE_WILD_CHARGE",
+                "MOVE_SUCKER_PUNCH"
+            ],
+            "Ability": "ABILITY_RECKLESS",
+            "Item": "ITEM_CHOICE_BAND",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "All-Out Attacker",
+            "SourceTiers": [
+                "GEN6RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FLARE_BLITZ",
+                "MOVE_SUPERPOWER",
+                "MOVE_WILD_CHARGE",
+                "MOVE_WILL_O_WISP"
+            ],
+            "Ability": "ABILITY_RECKLESS",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Scarf",
+            "SourceTiers": [
+                "GEN6RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FLARE_BLITZ",
+                "MOVE_WILD_CHARGE",
+                "MOVE_SUPERPOWER",
+                "MOVE_SUCKER_PUNCH"
+            ],
+            "Ability": "ABILITY_RECKLESS",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FLARE_BLITZ",
+                "MOVE_SUPERPOWER",
+                "MOVE_WILD_CHARGE",
+                "MOVE_EARTHQUAKE"
+            ],
+            "Ability": "ABILITY_RECKLESS",
+            "Item": "ITEM_CHOICE_BAND",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Wallbreaker",
+            "SourceTiers": [
+                "GEN7RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FLARE_BLITZ",
+                "MOVE_WILD_CHARGE",
+                "MOVE_SUPERPOWER",
+                "MOVE_SUCKER_PUNCH"
+            ],
+            "Ability": "ABILITY_RECKLESS",
+            "Item": "ITEM_CHOICE_BAND",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_ROCK_CLIMB",
+                "MOVE_V_CREATE",
+                "MOVE_CROSS_CHOP",
+                "MOVE_EARTHQUAKE"
+            ],
+            "Ability": "ABILITY_MOLD_BREAKER",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Fast Choice Scarf",
+            "SourceTiers": [
+                "GEN71V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FLARE_BLITZ",
+                "MOVE_CLOSE_COMBAT",
+                "MOVE_KNOCK_OFF",
+                "MOVE_SUCKER_PUNCH"
+            ],
+            "Ability": "ABILITY_RECKLESS",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": "TYPE_DARK",
+            "Name": "Wallbreaker",
+            "SourceTiers": [
+                "GEN9NU",
+                "GEN9PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FLARE_BLITZ",
+                "MOVE_CLOSE_COMBAT",
+                "MOVE_KNOCK_OFF",
+                "MOVE_EARTHQUAKE"
+            ],
+            "Ability": "ABILITY_RECKLESS",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": "TYPE_DARK",
+            "Name": "Choice Scarf",
+            "SourceTiers": [
+                "GEN9PU"
+            ]
+        }
+    ]
+}

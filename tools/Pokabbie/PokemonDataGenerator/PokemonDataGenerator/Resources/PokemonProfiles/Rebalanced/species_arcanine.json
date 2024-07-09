@@ -1,0 +1,751 @@
+{
+    "Species": "SPECIES_ARCANINE",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_EXTREME_SPEED",
+            "Level": 0
+        },
+        {
+            "Move": "MOVE_TAKE_DOWN",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_LEER",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_BITE",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_ROAR",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_EMBER",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_AGILITY",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_FLAME_WHEEL",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_REVERSAL",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_CRUNCH",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_HELPING_HAND",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_HOWL",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_FLARE_BLITZ",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_FIRE_FANG",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_RETALIATE",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_PLAY_ROUGH",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_FLAMETHROWER",
+            "Level": 5
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_SUPERPOWER",
+        "MOVE_MORNING_SUN",
+        "MOVE_THUNDER_FANG",
+        "MOVE_SOLAR_BEAM",
+        "MOVE_PSYCHIC_FANGS",
+        "MOVE_IRON_HEAD",
+        "MOVE_OVERHEAT",
+        "MOVE_TEMPER_FLARE",
+        "MOVE_OUTRAGE",
+        "MOVE_BULLDOZE",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_TELEPORT",
+        "MOVE_WILL_O_WISP",
+        "MOVE_HEAT_CRASH",
+        "MOVE_PROTECT",
+        "MOVE_THIEF",
+        "MOVE_DOUBLE_EDGE",
+        "MOVE_FIRE_SPIN",
+        "MOVE_HYPER_BEAM",
+        "MOVE_SUBSTITUTE",
+        "MOVE_SCORCHING_SANDS",
+        "MOVE_SUNNY_DAY",
+        "MOVE_FACADE",
+        "MOVE_DRAGON_PULSE",
+        "MOVE_SWIFT",
+        "MOVE_SLEEP_TALK",
+        "MOVE_WILD_CHARGE",
+        "MOVE_REST",
+        "MOVE_GIGA_IMPACT",
+        "MOVE_DIG",
+        "MOVE_HYPER_VOICE",
+        "MOVE_CLOSE_COMBAT",
+        "MOVE_HEAT_WAVE",
+        "MOVE_SNARL",
+        "MOVE_TERA_BLAST",
+        "MOVE_CURSE",
+        "MOVE_ENDURE",
+        "MOVE_BURN_UP",
+        "MOVE_CHARM",
+        "MOVE_SCARY_FACE",
+        "MOVE_HONE_CLAWS",
+        "MOVE_FLAME_CHARGE",
+        "MOVE_FIRE_BLAST",
+        "MOVE_AERIAL_ACE",
+        "MOVE_BODY_SLAM"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_MORNING_SUN",
+                "MOVE_WILL_O_WISP",
+                "MOVE_FLARE_BLITZ",
+                "MOVE_EXTREME_SPEED"
+            ],
+            "Ability": "ABILITY_INTIMIDATE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_IMPISH",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Defensive",
+            "SourceTiers": [
+                "GEN6UU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FLARE_BLITZ",
+                "MOVE_EXTREME_SPEED",
+                "MOVE_WILD_CHARGE",
+                "MOVE_CLOSE_COMBAT"
+            ],
+            "Ability": "ABILITY_FLASH_FIRE",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Offensive",
+            "SourceTiers": [
+                "GEN6UU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FLARE_BLITZ",
+                "MOVE_EXTREME_SPEED",
+                "MOVE_MORNING_SUN",
+                "MOVE_WILL_O_WISP"
+            ],
+            "Ability": "ABILITY_INTIMIDATE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_IMPISH",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6UU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_EXTREME_SPEED",
+                "MOVE_FLARE_BLITZ",
+                "MOVE_CLOSE_COMBAT",
+                "MOVE_WILD_CHARGE"
+            ],
+            "Ability": "ABILITY_INTIMIDATE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6DOUBLESOU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_EXTREME_SPEED",
+                "MOVE_FLARE_BLITZ",
+                "MOVE_CLOSE_COMBAT",
+                "MOVE_MORNING_SUN"
+            ],
+            "Ability": "ABILITY_INTIMIDATE",
+            "Item": "ITEM_ROCKY_HELMET",
+            "Nature": "NATURE_IMPISH",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6BATTLESPOTSINGLES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FLAMETHROWER",
+                "MOVE_WILL_O_WISP",
+                "MOVE_SNARL",
+                "MOVE_PROTECT"
+            ],
+            "Ability": "ABILITY_INTIMIDATE",
+            "Item": "ITEM_SITRUS_BERRY",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Bulky Support",
+            "SourceTiers": [
+                "GEN6BATTLESPOTDOUBLES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FLARE_BLITZ",
+                "MOVE_CLOSE_COMBAT",
+                "MOVE_EXTREME_SPEED",
+                "MOVE_WILD_CHARGE"
+            ],
+            "Ability": "ABILITY_INTIMIDATE",
+            "Item": "ITEM_CHOICE_BAND",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choiced",
+            "SourceTiers": [
+                "GEN6BATTLESPOTDOUBLES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FLARE_BLITZ",
+                "MOVE_EXTREME_SPEED",
+                "MOVE_ROAR",
+                "MOVE_PROTECT"
+            ],
+            "Ability": "ABILITY_INTIMIDATE",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6VGC2016"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FLARE_BLITZ",
+                "MOVE_CLOSE_COMBAT",
+                "MOVE_OUTRAGE",
+                "MOVE_IRON_HEAD"
+            ],
+            "Ability": "ABILITY_INTIMIDATE",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Scarf",
+            "SourceTiers": [
+                "GEN61V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FLARE_BLITZ",
+                "MOVE_IRON_HEAD",
+                "MOVE_CLOSE_COMBAT",
+                "MOVE_FLAME_CHARGE"
+            ],
+            "Ability": "ABILITY_INTIMIDATE",
+            "Item": "ITEM_CHOICE_BAND",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Band",
+            "SourceTiers": [
+                "GEN61V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_EXTREME_SPEED",
+                "MOVE_FLARE_BLITZ",
+                "MOVE_CLOSE_COMBAT",
+                "MOVE_MORNING_SUN"
+            ],
+            "Ability": "ABILITY_INTIMIDATE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_EXTREME_SPEED",
+                "MOVE_FLARE_BLITZ",
+                "MOVE_MORNING_SUN",
+                "MOVE_WILL_O_WISP"
+            ],
+            "Ability": "ABILITY_INTIMIDATE",
+            "Item": "ITEM_ROCKY_HELMET",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7UU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FLARE_BLITZ",
+                "MOVE_WILD_CHARGE",
+                "MOVE_EXTREME_SPEED",
+                "MOVE_MORNING_SUN"
+            ],
+            "Ability": "ABILITY_FLASH_FIRE",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Wallbreaker",
+            "SourceTiers": [
+                "GEN7RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FLARE_BLITZ",
+                "MOVE_EXTREME_SPEED",
+                "MOVE_MORNING_SUN",
+                "MOVE_WILD_CHARGE"
+            ],
+            "Ability": "ABILITY_INTIMIDATE",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_EXTREME_SPEED",
+                "MOVE_FLARE_BLITZ",
+                "MOVE_CLOSE_COMBAT",
+                "MOVE_WILD_CHARGE"
+            ],
+            "Ability": "ABILITY_INTIMIDATE",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7DOUBLESOU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FLARE_BLITZ",
+                "MOVE_EXTREME_SPEED",
+                "MOVE_MORNING_SUN",
+                "MOVE_WILL_O_WISP"
+            ],
+            "Ability": "ABILITY_INTIMIDATE",
+            "Item": "ITEM_ROCKY_HELMET",
+            "Nature": "NATURE_IMPISH",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7BATTLESPOTSINGLES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_EXTREME_SPEED",
+                "MOVE_FLARE_BLITZ",
+                "MOVE_PROTECT",
+                "MOVE_SUNNY_DAY"
+            ],
+            "Ability": "ABILITY_INTIMIDATE",
+            "Item": "ITEM_HEAT_ROCK",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7BATTLESPOTDOUBLES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FLAMETHROWER",
+                "MOVE_SNARL",
+                "MOVE_WILL_O_WISP",
+                "MOVE_PROTECT"
+            ],
+            "Ability": "ABILITY_INTIMIDATE",
+            "Item": "ITEM_AGUAV_BERRY",
+            "Nature": "NATURE_CALM",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Helpful Pupper (Bulky Support)",
+            "SourceTiers": [
+                "GEN7VGC2017"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FLARE_BLITZ",
+                "MOVE_WILD_CHARGE",
+                "MOVE_EXTREME_SPEED",
+                "MOVE_PROTECT"
+            ],
+            "Ability": "ABILITY_INTIMIDATE",
+            "Item": "ITEM_FIRIUM_Z",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Attack Doggo (Physically Offensive)",
+            "SourceTiers": [
+                "GEN7VGC2017"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FLARE_BLITZ",
+                "MOVE_PROTECT",
+                "MOVE_EXTREME_SPEED",
+                "MOVE_HELPING_HAND"
+            ],
+            "Ability": "ABILITY_INTIMIDATE",
+            "Item": "ITEM_MAGO_BERRY",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7VGC2017"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SNARL",
+                "MOVE_BURN_UP",
+                "MOVE_FIRE_BLAST",
+                "MOVE_HIDDEN_POWER"
+            ],
+            "Ability": "ABILITY_INTIMIDATE",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": "TYPE_ICE",
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7VGC2018"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_BURN_UP",
+                "MOVE_WILL_O_WISP",
+                "MOVE_MORNING_SUN",
+                "MOVE_SNARL"
+            ],
+            "Ability": "ABILITY_INTIMIDATE",
+            "Item": "ITEM_WIKI_BERRY",
+            "Nature": "NATURE_CALM",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Defensive",
+            "SourceTiers": [
+                "GEN71V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FLARE_BLITZ",
+                "MOVE_SUPERPOWER",
+                "MOVE_WILL_O_WISP",
+                "MOVE_PLAY_ROUGH"
+            ],
+            "Ability": null,
+            "Item": null,
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7LETSGOOU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FLARE_BLITZ",
+                "MOVE_EXTREME_SPEED",
+                "MOVE_MORNING_SUN",
+                "MOVE_CLOSE_COMBAT"
+            ],
+            "Ability": "ABILITY_INTIMIDATE",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8UU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FLARE_BLITZ",
+                "MOVE_EXTREME_SPEED",
+                "MOVE_CLOSE_COMBAT",
+                "MOVE_MORNING_SUN"
+            ],
+            "Ability": "ABILITY_INTIMIDATE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FLAMETHROWER",
+                "MOVE_MORNING_SUN",
+                "MOVE_TELEPORT",
+                "MOVE_WILL_O_WISP"
+            ],
+            "Ability": "ABILITY_INTIMIDATE",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Defensive Pivot",
+            "SourceTiers": [
+                "GEN8NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_MORNING_SUN",
+                "MOVE_FLARE_BLITZ",
+                "MOVE_EXTREME_SPEED",
+                "MOVE_FLAMETHROWER"
+            ],
+            "Ability": "ABILITY_INTIMIDATE",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_EXTREME_SPEED",
+                "MOVE_FLARE_BLITZ",
+                "MOVE_CLOSE_COMBAT",
+                "MOVE_CRUNCH"
+            ],
+            "Ability": "ABILITY_INTIMIDATE",
+            "Item": "ITEM_ASSAULT_VEST",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8DOUBLESOU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SNARL",
+                "MOVE_WILL_O_WISP",
+                "MOVE_PROTECT",
+                "MOVE_HEAT_WAVE"
+            ],
+            "Ability": "ABILITY_INTIMIDATE",
+            "Item": "ITEM_AGUAV_BERRY",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8VGC2020"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FLARE_BLITZ",
+                "MOVE_EXTREME_SPEED",
+                "MOVE_BULLDOZE",
+                "MOVE_OUTRAGE"
+            ],
+            "Ability": "ABILITY_INTIMIDATE",
+            "Item": "ITEM_ASSAULT_VEST",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Assault Vest",
+            "SourceTiers": [
+                "GEN81V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_BURN_UP",
+                "MOVE_WILL_O_WISP",
+                "MOVE_SNARL",
+                "MOVE_MORNING_SUN"
+            ],
+            "Ability": "ABILITY_INTIMIDATE",
+            "Item": "ITEM_SITRUS_BERRY",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Sitrus Berry",
+            "SourceTiers": [
+                "GEN81V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FLARE_BLITZ",
+                "MOVE_CLOSE_COMBAT",
+                "MOVE_OUTRAGE",
+                "MOVE_BULLDOZE"
+            ],
+            "Ability": "ABILITY_INTIMIDATE",
+            "Item": "ITEM_CHOICE_BAND",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Band",
+            "SourceTiers": [
+                "GEN81V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FLARE_BLITZ",
+                "MOVE_OUTRAGE",
+                "MOVE_PLAY_ROUGH",
+                "MOVE_SUPERPOWER"
+            ],
+            "Ability": "ABILITY_INTIMIDATE",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Scarf",
+            "SourceTiers": [
+                "GEN81V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FLARE_BLITZ",
+                "MOVE_EXTREME_SPEED",
+                "MOVE_MORNING_SUN",
+                "MOVE_WILL_O_WISP"
+            ],
+            "Ability": "ABILITY_INTIMIDATE",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN9RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FLARE_BLITZ",
+                "MOVE_EXTREME_SPEED",
+                "MOVE_IRON_HEAD",
+                "MOVE_MORNING_SUN"
+            ],
+            "Ability": "ABILITY_INTIMIDATE",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": "TYPE_NORMAL",
+            "Name": "Offensive",
+            "SourceTiers": [
+                "GEN9NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_CURSE",
+                "MOVE_FLARE_BLITZ",
+                "MOVE_EXTREME_SPEED",
+                "MOVE_MORNING_SUN"
+            ],
+            "Ability": "ABILITY_INTIMIDATE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": "TYPE_NORMAL",
+            "Name": "Curse",
+            "SourceTiers": [
+                "GEN9PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_EXTREME_SPEED",
+                "MOVE_FLARE_BLITZ",
+                "MOVE_CLOSE_COMBAT",
+                "MOVE_PLAY_ROUGH"
+            ],
+            "Ability": "ABILITY_INTIMIDATE",
+            "Item": "ITEM_ASSAULT_VEST",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN91V1"
+            ]
+        }
+    ]
+}

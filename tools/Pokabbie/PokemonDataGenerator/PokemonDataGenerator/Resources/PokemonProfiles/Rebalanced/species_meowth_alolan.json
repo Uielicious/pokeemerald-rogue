@@ -1,0 +1,172 @@
+{
+    "Species": "SPECIES_MEOWTH_ALOLAN",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_GROWL",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_FAKE_OUT",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_FEINT",
+            "Level": 4
+        },
+        {
+            "Move": "MOVE_SCRATCH",
+            "Level": 8
+        },
+        {
+            "Move": "MOVE_PAY_DAY",
+            "Level": 12
+        },
+        {
+            "Move": "MOVE_BITE",
+            "Level": 16
+        },
+        {
+            "Move": "MOVE_TAUNT",
+            "Level": 20
+        },
+        {
+            "Move": "MOVE_ASSURANCE",
+            "Level": 24
+        },
+        {
+            "Move": "MOVE_FURY_SWIPES",
+            "Level": 29
+        },
+        {
+            "Move": "MOVE_SCREECH",
+            "Level": 32
+        },
+        {
+            "Move": "MOVE_NIGHT_SLASH",
+            "Level": 36
+        },
+        {
+            "Move": "MOVE_NASTY_PLOT",
+            "Level": 40
+        },
+        {
+            "Move": "MOVE_PLAY_ROUGH",
+            "Level": 44
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_HELPING_HAND",
+        "MOVE_DARK_PULSE",
+        "MOVE_FLATTER",
+        "MOVE_GUNK_SHOT",
+        "MOVE_HYPNOSIS",
+        "MOVE_LASH_OUT",
+        "MOVE_AMNESIA",
+        "MOVE_AGILITY",
+        "MOVE_CHILLING_WATER",
+        "MOVE_MIMIC",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_SWAGGER",
+        "MOVE_KNOCK_OFF",
+        "MOVE_PROTECT",
+        "MOVE_FLAIL",
+        "MOVE_DOUBLE_EDGE",
+        "MOVE_SHADOW_CLAW",
+        "MOVE_SEED_BOMB",
+        "MOVE_TAKE_DOWN",
+        "MOVE_THIEF",
+        "MOVE_THROAT_CHOP",
+        "MOVE_SUBSTITUTE",
+        "MOVE_DREAM_EATER",
+        "MOVE_SUNNY_DAY",
+        "MOVE_ENDEAVOR",
+        "MOVE_FACADE",
+        "MOVE_BODY_SLAM",
+        "MOVE_SHADOW_BALL",
+        "MOVE_ICY_WIND",
+        "MOVE_SWIFT",
+        "MOVE_SLEEP_TALK",
+        "MOVE_TRAILBLAZE",
+        "MOVE_MUD_SLAP",
+        "MOVE_CONFUSE_RAY",
+        "MOVE_THUNDERBOLT",
+        "MOVE_DIG",
+        "MOVE_HYPER_VOICE",
+        "MOVE_FAKE_TEARS",
+        "MOVE_COVET",
+        "MOVE_POWER_GEM",
+        "MOVE_METAL_CLAW",
+        "MOVE_PARTING_SHOT",
+        "MOVE_SNARL",
+        "MOVE_TERA_BLAST",
+        "MOVE_CURSE",
+        "MOVE_ENDURE",
+        "MOVE_SPITE",
+        "MOVE_THUNDER",
+        "MOVE_DAZZLING_GLEAM",
+        "MOVE_FOUL_PLAY",
+        "MOVE_CHARM",
+        "MOVE_DEFENSE_CURL",
+        "MOVE_THUNDER_WAVE",
+        "MOVE_SNORE",
+        "MOVE_SURF",
+        "MOVE_RAIN_DANCE",
+        "MOVE_U_TURN",
+        "MOVE_PSYCH_UP",
+        "MOVE_AERIAL_ACE",
+        "MOVE_REST"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_PARTING_SHOT",
+                "MOVE_DARK_PULSE",
+                "MOVE_HIDDEN_POWER",
+                "MOVE_TAUNT"
+            ],
+            "Ability": "ABILITY_TECHNICIAN",
+            "Item": "ITEM_DARKINIUM_Z",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": "TYPE_FIGHTING",
+            "TeraType": null,
+            "Name": "Z-Parting Shot",
+            "SourceTiers": [
+                "GEN7LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_NASTY_PLOT",
+                "MOVE_DARK_PULSE",
+                "MOVE_HIDDEN_POWER",
+                "MOVE_THUNDERBOLT"
+            ],
+            "Ability": "ABILITY_TECHNICIAN",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": "TYPE_FIGHTING",
+            "TeraType": null,
+            "Name": "Nasty Plot",
+            "SourceTiers": [
+                "GEN7LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FAKE_OUT",
+                "MOVE_PARTING_SHOT",
+                "MOVE_DARK_PULSE",
+                "MOVE_TAUNT"
+            ],
+            "Ability": "ABILITY_TECHNICIAN",
+            "Item": "ITEM_DARKINIUM_Z",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7LC"
+            ]
+        }
+    ]
+}

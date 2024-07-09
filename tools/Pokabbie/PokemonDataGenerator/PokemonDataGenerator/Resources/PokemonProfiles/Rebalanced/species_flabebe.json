@@ -1,0 +1,134 @@
+{
+    "Species": "SPECIES_FLABEBE",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_TACKLE",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_VINE_WHIP",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_FAIRY_WIND",
+            "Level": "6"
+        },
+        {
+            "Move": "MOVE_LUCKY_CHANT",
+            "Level": "10"
+        },
+        {
+            "Move": "MOVE_RAZOR_LEAF",
+            "Level": "13"
+        },
+        {
+            "Move": "MOVE_WISH",
+            "Level": "17"
+        },
+        {
+            "Move": "MOVE_MAGICAL_LEAF",
+            "Level": "20"
+        },
+        {
+            "Move": "MOVE_GRASSY_TERRAIN",
+            "Level": "24"
+        },
+        {
+            "Move": "MOVE_PETAL_BLIZZARD",
+            "Level": "27"
+        },
+        {
+            "Move": "MOVE_DRAINING_KISS",
+            "Level": "30"
+        },
+        {
+            "Move": "MOVE_AROMATHERAPY",
+            "Level": "33"
+        },
+        {
+            "Move": "MOVE_MISTY_TERRAIN",
+            "Level": "37"
+        },
+        {
+            "Move": "MOVE_MOONBLAST",
+            "Level": "41"
+        },
+        {
+            "Move": "MOVE_PETAL_DANCE",
+            "Level": "45"
+        },
+        {
+            "Move": "MOVE_SOLAR_BEAM",
+            "Level": "48"
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_DISARMING_VOICE",
+        "MOVE_HELPING_HAND",
+        "MOVE_GIGA_DRAIN",
+        "MOVE_GRASS_KNOT",
+        "MOVE_CHILLING_WATER",
+        "MOVE_LIGHT_SCREEN",
+        "MOVE_POLLEN_PUFF",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_PROTECT",
+        "MOVE_BATON_PASS",
+        "MOVE_CALM_MIND",
+        "MOVE_SEED_BOMB",
+        "MOVE_SUBSTITUTE",
+        "MOVE_SUNNY_DAY",
+        "MOVE_ENDEAVOR",
+        "MOVE_FACADE",
+        "MOVE_SYNTHESIS",
+        "MOVE_SWIFT",
+        "MOVE_COPYCAT",
+        "MOVE_SLEEP_TALK",
+        "MOVE_ENERGY_BALL",
+        "MOVE_STORED_POWER",
+        "MOVE_PSYCHIC",
+        "MOVE_TRAILBLAZE",
+        "MOVE_TEARFUL_LOOK",
+        "MOVE_TERA_BLAST",
+        "MOVE_ENDURE",
+        "MOVE_DAZZLING_GLEAM",
+        "MOVE_CHARM",
+        "MOVE_RAIN_DANCE",
+        "MOVE_REST"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_CALM_MIND",
+                "MOVE_SYNTHESIS",
+                "MOVE_MOONBLAST",
+                "MOVE_PSYCHIC"
+            ],
+            "Ability": "ABILITY_FLOWER_VEIL",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Calm Mind Attacker",
+            "SourceTiers": [
+                "GEN6LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_CALM_MIND",
+                "MOVE_PSYCHIC",
+                "MOVE_MOONBLAST",
+                "MOVE_SYNTHESIS"
+            ],
+            "Ability": "ABILITY_NATURAL_CURE",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Calm Mind",
+            "SourceTiers": [
+                "GEN7LC"
+            ]
+        }
+    ]
+}

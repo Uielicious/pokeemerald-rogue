@@ -1,0 +1,124 @@
+{
+    "Species": "SPECIES_SURSKIT",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_WATER_GUN",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_QUICK_ATTACK",
+            "Level": 6
+        },
+        {
+            "Move": "MOVE_SWEET_SCENT",
+            "Level": 9
+        },
+        {
+            "Move": "MOVE_SOAK",
+            "Level": 14
+        },
+        {
+            "Move": "MOVE_BUBBLE_BEAM",
+            "Level": 17
+        },
+        {
+            "Move": "MOVE_AGILITY",
+            "Level": 22
+        },
+        {
+            "Move": "MOVE_MIST",
+            "Level": 25
+        },
+        {
+            "Move": "MOVE_HAZE",
+            "Level": 25
+        },
+        {
+            "Move": "MOVE_BATON_PASS",
+            "Level": 35
+        },
+        {
+            "Move": "MOVE_STICKY_WEB",
+            "Level": 38
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_ICE_BEAM",
+        "MOVE_HELPING_HAND",
+        "MOVE_GIGA_DRAIN",
+        "MOVE_POWER_SPLIT",
+        "MOVE_SOLAR_BEAM",
+        "MOVE_SKITTER_SMACK",
+        "MOVE_CHILLING_WATER",
+        "MOVE_WATERFALL",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_PROTECT",
+        "MOVE_HYDRO_PUMP",
+        "MOVE_THIEF",
+        "MOVE_TAKE_DOWN",
+        "MOVE_SUBSTITUTE",
+        "MOVE_LUNGE",
+        "MOVE_FACADE",
+        "MOVE_SUNNY_DAY",
+        "MOVE_LEECH_LIFE",
+        "MOVE_SHADOW_BALL",
+        "MOVE_ACROBATICS",
+        "MOVE_BUG_BITE",
+        "MOVE_ICY_WIND",
+        "MOVE_STRUGGLE_BUG",
+        "MOVE_SLEEP_TALK",
+        "MOVE_MUD_SLAP",
+        "MOVE_BUG_BUZZ",
+        "MOVE_LIQUIDATION",
+        "MOVE_TERA_BLAST",
+        "MOVE_WATER_PULSE",
+        "MOVE_ENDURE",
+        "MOVE_MUD_SHOT",
+        "MOVE_PSYBEAM",
+        "MOVE_SIGNAL_BEAM",
+        "MOVE_POUNCE",
+        "MOVE_BLIZZARD",
+        "MOVE_SURF",
+        "MOVE_RAIN_DANCE",
+        "MOVE_FELL_STINGER",
+        "MOVE_PSYCH_UP",
+        "MOVE_REST",
+        "MOVE_AQUA_JET"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_STICKY_WEB",
+                "MOVE_HYDRO_PUMP",
+                "MOVE_ICY_WIND",
+                "MOVE_GIGA_DRAIN"
+            ],
+            "Ability": "ABILITY_SWIFT_SWIM",
+            "Item": "ITEM_FOCUS_SASH",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Sticky Web Setter",
+            "SourceTiers": [
+                "GEN6LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_STICKY_WEB",
+                "MOVE_HYDRO_PUMP",
+                "MOVE_SIGNAL_BEAM",
+                "MOVE_GIGA_DRAIN"
+            ],
+            "Ability": "ABILITY_SWIFT_SWIM",
+            "Item": "ITEM_FOCUS_SASH",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6LC"
+            ]
+        }
+    ]
+}

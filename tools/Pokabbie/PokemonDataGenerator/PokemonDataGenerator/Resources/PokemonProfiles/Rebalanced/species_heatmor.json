@@ -1,0 +1,275 @@
+{
+    "Species": "SPECIES_HEATMOR",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_HONE_CLAWS",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_TACKLE",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_INCINERATE",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_LICK",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_ODOR_SLEUTH",
+            "Level": "6"
+        },
+        {
+            "Move": "MOVE_BIND",
+            "Level": "11"
+        },
+        {
+            "Move": "MOVE_FIRE_SPIN",
+            "Level": "16"
+        },
+        {
+            "Move": "MOVE_FURY_SWIPES",
+            "Level": "21"
+        },
+        {
+            "Move": "MOVE_SNATCH",
+            "Level": "26"
+        },
+        {
+            "Move": "MOVE_FLAME_BURST",
+            "Level": "31"
+        },
+        {
+            "Move": "MOVE_BUG_BITE",
+            "Level": "34"
+        },
+        {
+            "Move": "MOVE_CROSS_CHOP",
+            "Level": "37"
+        },
+        {
+            "Move": "MOVE_SLASH",
+            "Level": "41"
+        },
+        {
+            "Move": "MOVE_FIRE_LASH",
+            "Level": "44"
+        },
+        {
+            "Move": "MOVE_AMNESIA",
+            "Level": "47"
+        },
+        {
+            "Move": "MOVE_FLAMETHROWER",
+            "Level": "50"
+        },
+        {
+            "Move": "MOVE_STOCKPILE",
+            "Level": "56"
+        },
+        {
+            "Move": "MOVE_SPIT_UP",
+            "Level": "56"
+        },
+        {
+            "Move": "MOVE_SWALLOW",
+            "Level": "56"
+        },
+        {
+            "Move": "MOVE_FLARE_BLITZ",
+            "Level": "61"
+        },
+        {
+            "Move": "MOVE_INFERNO",
+            "Level": "66"
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_BELCH",
+        "MOVE_SUPERPOWER",
+        "MOVE_BURNING_JEALOUSY",
+        "MOVE_THUNDER_PUNCH",
+        "MOVE_GIGA_DRAIN",
+        "MOVE_FLING",
+        "MOVE_SUCKER_PUNCH",
+        "MOVE_SOLAR_BEAM",
+        "MOVE_POWER_WHIP",
+        "MOVE_BRUTAL_SWING",
+        "MOVE_ATTRACT",
+        "MOVE_OVERHEAT",
+        "MOVE_ROCK_TOMB",
+        "MOVE_WORK_UP",
+        "MOVE_KNOCK_OFF",
+        "MOVE_PROTECT",
+        "MOVE_WILL_O_WISP",
+        "MOVE_SHADOW_CLAW",
+        "MOVE_THIEF",
+        "MOVE_THROAT_CHOP",
+        "MOVE_SUBSTITUTE",
+        "MOVE_SCORCHING_SANDS",
+        "MOVE_SUNNY_DAY",
+        "MOVE_FACADE",
+        "MOVE_STOMPING_TANTRUM",
+        "MOVE_SLEEP_TALK",
+        "MOVE_REST",
+        "MOVE_GIGA_IMPACT",
+        "MOVE_DIG",
+        "MOVE_HEAT_WAVE",
+        "MOVE_CURSE",
+        "MOVE_ENDURE",
+        "MOVE_ROCK_CLIMB",
+        "MOVE_FOCUS_BLAST",
+        "MOVE_LOW_SWEEP",
+        "MOVE_FIRE_PUNCH",
+        "MOVE_LOW_KICK",
+        "MOVE_ROUND",
+        "MOVE_SNORE",
+        "MOVE_RAIN_DANCE",
+        "MOVE_DRAIN_PUNCH",
+        "MOVE_TICKLE",
+        "MOVE_NIGHT_SLASH",
+        "MOVE_FIRE_BLAST",
+        "MOVE_TAUNT",
+        "MOVE_BODY_SLAM"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_FIRE_BLAST",
+                "MOVE_GIGA_DRAIN",
+                "MOVE_SUPERPOWER",
+                "MOVE_SUCKER_PUNCH"
+            ],
+            "Ability": "ABILITY_FLASH_FIRE",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_RASH",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Mixed Attacker",
+            "SourceTiers": [
+                "GEN6PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_GIGA_DRAIN",
+                "MOVE_FIRE_BLAST",
+                "MOVE_SUCKER_PUNCH",
+                "MOVE_FOCUS_BLAST"
+            ],
+            "Ability": "ABILITY_FLASH_FIRE",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FIRE_BLAST",
+                "MOVE_KNOCK_OFF",
+                "MOVE_GIGA_DRAIN",
+                "MOVE_FOCUS_BLAST"
+            ],
+            "Ability": "ABILITY_FLASH_FIRE",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_RASH",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Wallbreaker",
+            "SourceTiers": [
+                "GEN6ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FIRE_LASH",
+                "MOVE_SUCKER_PUNCH",
+                "MOVE_KNOCK_OFF",
+                "MOVE_SUPERPOWER"
+            ],
+            "Ability": "ABILITY_FLASH_FIRE",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "All-out Attacker",
+            "SourceTiers": [
+                "GEN7PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FIRE_LASH",
+                "MOVE_KNOCK_OFF",
+                "MOVE_GIGA_DRAIN",
+                "MOVE_SUCKER_PUNCH"
+            ],
+            "Ability": "ABILITY_FLASH_FIRE",
+            "Item": "ITEM_ASSAULT_VEST",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FIRE_LASH",
+                "MOVE_KNOCK_OFF",
+                "MOVE_SUPERPOWER",
+                "MOVE_SUCKER_PUNCH"
+            ],
+            "Ability": "ABILITY_FLASH_FIRE",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FIRE_LASH",
+                "MOVE_KNOCK_OFF",
+                "MOVE_SUCKER_PUNCH",
+                "MOVE_SUPERPOWER"
+            ],
+            "Ability": "ABILITY_FLASH_FIRE",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Physical Attacker",
+            "SourceTiers": [
+                "GEN8ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_GIGA_DRAIN",
+                "MOVE_FIRE_LASH",
+                "MOVE_SCORCHING_SANDS",
+                "MOVE_FIRE_BLAST"
+            ],
+            "Ability": "ABILITY_FLASH_FIRE",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8ZU"
+            ]
+        }
+    ]
+}

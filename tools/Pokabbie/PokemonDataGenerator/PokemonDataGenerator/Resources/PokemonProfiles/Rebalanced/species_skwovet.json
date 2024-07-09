@@ -1,0 +1,93 @@
+{
+    "Species": "SPECIES_SKWOVET",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_TACKLE",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_TAIL_WHIP",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_BITE",
+            "Level": "5"
+        },
+        {
+            "Move": "MOVE_STUFF_CHEEKS",
+            "Level": "10"
+        },
+        {
+            "Move": "MOVE_STOCKPILE",
+            "Level": "15"
+        },
+        {
+            "Move": "MOVE_SWALLOW",
+            "Level": "15"
+        },
+        {
+            "Move": "MOVE_SPIT_UP",
+            "Level": "15"
+        },
+        {
+            "Move": "MOVE_BODY_SLAM",
+            "Level": "20"
+        },
+        {
+            "Move": "MOVE_REST",
+            "Level": "25"
+        },
+        {
+            "Move": "MOVE_COUNTER",
+            "Level": "30"
+        },
+        {
+            "Move": "MOVE_BULLET_SEED",
+            "Level": "35"
+        },
+        {
+            "Move": "MOVE_SUPER_FANG",
+            "Level": "40"
+        },
+        {
+            "Move": "MOVE_BELCH",
+            "Level": "45"
+        },
+        {
+            "Move": "MOVE_RECYCLE",
+            "Level": "50"
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_FLING",
+        "MOVE_LAST_RESORT",
+        "MOVE_FRUSTRATION",
+        "MOVE_AMNESIA",
+        "MOVE_TOXIC",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_PROTECT",
+        "MOVE_THIEF",
+        "MOVE_DOUBLE_EDGE",
+        "MOVE_TAKE_DOWN",
+        "MOVE_SEED_BOMB",
+        "MOVE_SUBSTITUTE",
+        "MOVE_ENDEAVOR",
+        "MOVE_FACADE",
+        "MOVE_TRAILBLAZE",
+        "MOVE_SLEEP_TALK",
+        "MOVE_MUD_SLAP",
+        "MOVE_DIG",
+        "MOVE_HYPER_VOICE",
+        "MOVE_ROLLOUT",
+        "MOVE_TERA_BLAST",
+        "MOVE_CURSE",
+        "MOVE_ENDURE",
+        "MOVE_RETURN",
+        "MOVE_MUD_SHOT",
+        "MOVE_BELLY_DRUM",
+        "MOVE_DEFENSE_CURL",
+        "MOVE_GYRO_BALL",
+        "MOVE_CRUNCH"
+    ],
+    "CompetitiveSets": []
+}

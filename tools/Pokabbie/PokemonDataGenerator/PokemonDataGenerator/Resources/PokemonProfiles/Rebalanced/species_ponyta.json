@@ -1,0 +1,271 @@
+{
+    "Species": "SPECIES_PONYTA",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_GROWL",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_TACKLE",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_TAIL_WHIP",
+            "Level": "4"
+        },
+        {
+            "Move": "MOVE_EMBER",
+            "Level": "9"
+        },
+        {
+            "Move": "MOVE_FLAME_WHEEL",
+            "Level": "13"
+        },
+        {
+            "Move": "MOVE_STOMP",
+            "Level": "17"
+        },
+        {
+            "Move": "MOVE_FLAME_CHARGE",
+            "Level": "21"
+        },
+        {
+            "Move": "MOVE_FIRE_SPIN",
+            "Level": "25"
+        },
+        {
+            "Move": "MOVE_TAKE_DOWN",
+            "Level": "29"
+        },
+        {
+            "Move": "MOVE_INFERNO",
+            "Level": "33"
+        },
+        {
+            "Move": "MOVE_AGILITY",
+            "Level": "37"
+        },
+        {
+            "Move": "MOVE_FIRE_BLAST",
+            "Level": "41"
+        },
+        {
+            "Move": "MOVE_JUMP_KICK",
+            "Level": "43"
+        },
+        {
+            "Move": "MOVE_BOUNCE",
+            "Level": "45"
+        },
+        {
+            "Move": "MOVE_FLARE_BLITZ",
+            "Level": "49"
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_DOUBLE_KICK",
+        "MOVE_MORNING_SUN",
+        "MOVE_SOLAR_BEAM",
+        "MOVE_HYPNOSIS",
+        "MOVE_ATTRACT",
+        "MOVE_OVERHEAT",
+        "MOVE_HIGH_HORSEPOWER",
+        "MOVE_WILL_O_WISP",
+        "MOVE_PROTECT",
+        "MOVE_DOUBLE_EDGE",
+        "MOVE_BODY_SLAM",
+        "MOVE_IRON_TAIL",
+        "MOVE_SUBSTITUTE",
+        "MOVE_SUNNY_DAY",
+        "MOVE_FACADE",
+        "MOVE_ALLY_SWITCH",
+        "MOVE_SWIFT",
+        "MOVE_SLEEP_TALK",
+        "MOVE_MYSTICAL_FIRE",
+        "MOVE_WILD_CHARGE",
+        "MOVE_HORN_DRILL",
+        "MOVE_HEAT_WAVE",
+        "MOVE_SOLAR_BLADE",
+        "MOVE_ENDURE",
+        "MOVE_THRASH",
+        "MOVE_PLAY_ROUGH",
+        "MOVE_CHARM",
+        "MOVE_LOW_KICK",
+        "MOVE_ROUND",
+        "MOVE_SNORE",
+        "MOVE_FLAMETHROWER",
+        "MOVE_REST"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_WILL_O_WISP",
+                "MOVE_FLARE_BLITZ",
+                "MOVE_FLAME_CHARGE",
+                "MOVE_MORNING_SUN"
+            ],
+            "Ability": "ABILITY_FLAME_BODY",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Defensive",
+            "SourceTiers": [
+                "GEN6LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FLARE_BLITZ",
+                "MOVE_MORNING_SUN",
+                "MOVE_WILL_O_WISP",
+                "MOVE_WILD_CHARGE"
+            ],
+            "Ability": "ABILITY_FLAME_BODY",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FLAME_CHARGE",
+                "MOVE_FLARE_BLITZ",
+                "MOVE_HIGH_HORSEPOWER",
+                "MOVE_MORNING_SUN"
+            ],
+            "Ability": "ABILITY_FLAME_BODY",
+            "Item": "ITEM_FIRIUM_Z",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Physical Firium Z",
+            "SourceTiers": [
+                "GEN7LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FLARE_BLITZ",
+                "MOVE_HIGH_HORSEPOWER",
+                "MOVE_WILL_O_WISP",
+                "MOVE_MORNING_SUN"
+            ],
+            "Ability": "ABILITY_FLAME_BODY",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Physical Utility",
+            "SourceTiers": [
+                "GEN7LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SOLAR_BEAM",
+                "MOVE_FLAMETHROWER",
+                "MOVE_FLAME_CHARGE",
+                "MOVE_HYPNOSIS"
+            ],
+            "Ability": "ABILITY_FLASH_FIRE",
+            "Item": "ITEM_GRASSIUM_Z",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Bloom Doom",
+            "SourceTiers": [
+                "GEN7LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FIRE_BLAST",
+                "MOVE_SOLAR_BEAM",
+                "MOVE_SUNNY_DAY",
+                "MOVE_MORNING_SUN"
+            ],
+            "Ability": "ABILITY_FLAME_BODY",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Sunny Day",
+            "SourceTiers": [
+                "GEN7LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FLARE_BLITZ",
+                "MOVE_FLAME_CHARGE",
+                "MOVE_HIGH_HORSEPOWER",
+                "MOVE_MORNING_SUN"
+            ],
+            "Ability": "ABILITY_FLAME_BODY",
+            "Item": "ITEM_FIRIUM_Z",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FLARE_BLITZ",
+                "MOVE_WILD_CHARGE",
+                "MOVE_FLAME_CHARGE",
+                "MOVE_HIGH_HORSEPOWER"
+            ],
+            "Ability": "ABILITY_FLAME_BODY",
+            "Item": "ITEM_BERRY_JUICE",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Berry Juice Attacker",
+            "SourceTiers": [
+                "GEN8LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FLARE_BLITZ",
+                "MOVE_WILL_O_WISP",
+                "MOVE_MORNING_SUN",
+                "MOVE_FLAME_CHARGE"
+            ],
+            "Ability": "ABILITY_FLAME_BODY",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Eviolite",
+            "SourceTiers": [
+                "GEN8LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FLARE_BLITZ",
+                "MOVE_HIGH_HORSEPOWER",
+                "MOVE_WILD_CHARGE",
+                "MOVE_FLAME_CHARGE"
+            ],
+            "Ability": "ABILITY_FLASH_FIRE",
+            "Item": "ITEM_BERRY_JUICE",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8LC"
+            ]
+        }
+    ]
+}

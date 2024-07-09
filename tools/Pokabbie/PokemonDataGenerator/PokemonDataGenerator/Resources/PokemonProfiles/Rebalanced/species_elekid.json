@@ -1,0 +1,250 @@
+{
+    "Species": "SPECIES_ELEKID",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_QUICK_ATTACK",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_LEER",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_THUNDER_SHOCK",
+            "Level": "5"
+        },
+        {
+            "Move": "MOVE_LOW_KICK",
+            "Level": "8"
+        },
+        {
+            "Move": "MOVE_SWIFT",
+            "Level": "12"
+        },
+        {
+            "Move": "MOVE_SHOCK_WAVE",
+            "Level": "15"
+        },
+        {
+            "Move": "MOVE_THUNDER_WAVE",
+            "Level": "19"
+        },
+        {
+            "Move": "MOVE_ELECTRO_BALL",
+            "Level": "22"
+        },
+        {
+            "Move": "MOVE_LIGHT_SCREEN",
+            "Level": "26"
+        },
+        {
+            "Move": "MOVE_THUNDER_PUNCH",
+            "Level": "29"
+        },
+        {
+            "Move": "MOVE_CROSS_CHOP",
+            "Level": "33"
+        },
+        {
+            "Move": "MOVE_DISCHARGE",
+            "Level": "36"
+        },
+        {
+            "Move": "MOVE_SCREECH",
+            "Level": "40"
+        },
+        {
+            "Move": "MOVE_DUAL_CHOP",
+            "Level": "43"
+        },
+        {
+            "Move": "MOVE_THUNDERBOLT",
+            "Level": "47"
+        },
+        {
+            "Move": "MOVE_WILD_CHARGE",
+            "Level": "50"
+        },
+        {
+            "Move": "MOVE_THUNDER",
+            "Level": "54"
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_FEINT",
+        "MOVE_HELPING_HAND",
+        "MOVE_FOLLOW_ME",
+        "MOVE_FLING",
+        "MOVE_DYNAMIC_PUNCH",
+        "MOVE_EERIE_IMPULSE",
+        "MOVE_SUPERCELL_SLAM",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_KNOCK_OFF",
+        "MOVE_PROTECT",
+        "MOVE_THIEF",
+        "MOVE_DOUBLE_EDGE",
+        "MOVE_TAKE_DOWN",
+        "MOVE_BODY_SLAM",
+        "MOVE_METAL_SOUND",
+        "MOVE_HAMMER_ARM",
+        "MOVE_SUBSTITUTE",
+        "MOVE_UPROAR",
+        "MOVE_BRICK_BREAK",
+        "MOVE_FACADE",
+        "MOVE_SLEEP_TALK",
+        "MOVE_TRAILBLAZE",
+        "MOVE_PSYCHIC",
+        "MOVE_ICE_PUNCH",
+        "MOVE_ELECTRIC_TERRAIN",
+        "MOVE_CHARGE_BEAM",
+        "MOVE_ELECTROWEB",
+        "MOVE_ENDURE",
+        "MOVE_TERA_BLAST",
+        "MOVE_FOCUS_BLAST",
+        "MOVE_VOLT_SWITCH",
+        "MOVE_FIRE_PUNCH",
+        "MOVE_RAIN_DANCE",
+        "MOVE_CHARGE",
+        "MOVE_TAUNT",
+        "MOVE_FOCUS_PUNCH",
+        "MOVE_REST"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_THUNDERBOLT",
+                "MOVE_VOLT_SWITCH",
+                "MOVE_PSYCHIC",
+                "MOVE_HIDDEN_POWER"
+            ],
+            "Ability": "ABILITY_STATIC",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": "TYPE_GROUND",
+            "TeraType": null,
+            "Name": "Special Attacker",
+            "SourceTiers": [
+                "GEN6LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_WILD_CHARGE",
+                "MOVE_CROSS_CHOP",
+                "MOVE_FIRE_PUNCH",
+                "MOVE_VOLT_SWITCH"
+            ],
+            "Ability": "ABILITY_STATIC",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_HASTY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Physical Attacker",
+            "SourceTiers": [
+                "GEN6LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_VOLT_SWITCH",
+                "MOVE_THUNDERBOLT",
+                "MOVE_ICE_PUNCH",
+                "MOVE_PSYCHIC"
+            ],
+            "Ability": "ABILITY_STATIC",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_VOLT_SWITCH",
+                "MOVE_THUNDERBOLT",
+                "MOVE_PSYCHIC",
+                "MOVE_HIDDEN_POWER"
+            ],
+            "Ability": "ABILITY_VITAL_SPIRIT",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": "TYPE_GRASS",
+            "TeraType": null,
+            "Name": "Special Attacker",
+            "SourceTiers": [
+                "GEN7LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_VOLT_SWITCH",
+                "MOVE_PSYCHIC",
+                "MOVE_THUNDERBOLT",
+                "MOVE_HIDDEN_POWER"
+            ],
+            "Ability": "ABILITY_VITAL_SPIRIT",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": "TYPE_GRASS",
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_VOLT_SWITCH",
+                "MOVE_THUNDERBOLT",
+                "MOVE_PSYCHIC",
+                "MOVE_ICE_PUNCH"
+            ],
+            "Ability": "ABILITY_VITAL_SPIRIT",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_NAIVE",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Offensive",
+            "SourceTiers": [
+                "GEN8LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_THUNDERBOLT",
+                "MOVE_PSYCHIC",
+                "MOVE_VOLT_SWITCH",
+                "MOVE_ICE_PUNCH"
+            ],
+            "Ability": "ABILITY_STATIC",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_NAIVE",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_THUNDERBOLT",
+                "MOVE_VOLT_SWITCH",
+                "MOVE_KNOCK_OFF",
+                "MOVE_PSYCHIC"
+            ],
+            "Ability": "ABILITY_VITAL_SPIRIT",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": "TYPE_PSYCHIC",
+            "Name": "Offensive Pivot",
+            "SourceTiers": [
+                "GEN9LC"
+            ]
+        }
+    ]
+}

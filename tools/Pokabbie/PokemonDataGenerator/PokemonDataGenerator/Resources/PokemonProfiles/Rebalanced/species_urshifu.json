@@ -1,0 +1,502 @@
+{
+    "Species": "SPECIES_URSHIFU",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_WICKED_BLOW",
+            "Level": 0
+        },
+        {
+            "Move": "MOVE_LEER",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_FOCUS_ENERGY",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_ENDURE",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_ROCK_SMASH",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_SUCKER_PUNCH",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_AERIAL_ACE",
+            "Level": 12
+        },
+        {
+            "Move": "MOVE_SCARY_FACE",
+            "Level": 16
+        },
+        {
+            "Move": "MOVE_HEADBUTT",
+            "Level": 20
+        },
+        {
+            "Move": "MOVE_BRICK_BREAK",
+            "Level": 24
+        },
+        {
+            "Move": "MOVE_DETECT",
+            "Level": 28
+        },
+        {
+            "Move": "MOVE_BULK_UP",
+            "Level": 32
+        },
+        {
+            "Move": "MOVE_IRON_HEAD",
+            "Level": 36
+        },
+        {
+            "Move": "MOVE_DYNAMIC_PUNCH",
+            "Level": 40
+        },
+        {
+            "Move": "MOVE_COUNTER",
+            "Level": 44
+        },
+        {
+            "Move": "MOVE_CLOSE_COMBAT",
+            "Level": 48
+        },
+        {
+            "Move": "MOVE_FOCUS_PUNCH",
+            "Level": 52
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_SUPERPOWER",
+        "MOVE_HELPING_HAND",
+        "MOVE_THUNDER_PUNCH",
+        "MOVE_DARK_PULSE",
+        "MOVE_FLING",
+        "MOVE_LASH_OUT",
+        "MOVE_SWORDS_DANCE",
+        "MOVE_FRUSTRATION",
+        "MOVE_ZEN_HEADBUTT",
+        "MOVE_ROCK_TOMB",
+        "MOVE_TOXIC",
+        "MOVE_COACHING",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_STONE_EDGE",
+        "MOVE_PROTECT",
+        "MOVE_THROAT_CHOP",
+        "MOVE_DOUBLE_EDGE",
+        "MOVE_IRON_DEFENSE",
+        "MOVE_TAKE_DOWN",
+        "MOVE_SUBSTITUTE",
+        "MOVE_FACADE",
+        "MOVE_ACROBATICS",
+        "MOVE_FALSE_SWIPE",
+        "MOVE_SWIFT",
+        "MOVE_REVERSAL",
+        "MOVE_SLEEP_TALK",
+        "MOVE_TRAILBLAZE",
+        "MOVE_ROAR",
+        "MOVE_REST",
+        "MOVE_GIGA_IMPACT",
+        "MOVE_DIG",
+        "MOVE_METAL_CLAW",
+        "MOVE_ICE_PUNCH",
+        "MOVE_SNARL",
+        "MOVE_TERA_BLAST",
+        "MOVE_RETURN",
+        "MOVE_FOCUS_BLAST",
+        "MOVE_FOUL_PLAY",
+        "MOVE_LOW_SWEEP",
+        "MOVE_FIRE_PUNCH",
+        "MOVE_LOW_KICK",
+        "MOVE_POISON_JAB",
+        "MOVE_AURA_SPHERE",
+        "MOVE_ROCK_SLIDE",
+        "MOVE_DRAIN_PUNCH",
+        "MOVE_U_TURN",
+        "MOVE_CRUNCH",
+        "MOVE_TAUNT",
+        "MOVE_BODY_PRESS",
+        "MOVE_BODY_SLAM"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_WICKED_BLOW",
+                "MOVE_LOW_KICK",
+                "MOVE_U_TURN",
+                "MOVE_SUCKER_PUNCH"
+            ],
+            "Ability": "ABILITY_UNSEEN_FIST",
+            "Item": "ITEM_CHOICE_BAND",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Band",
+            "SourceTiers": [
+                "GEN8UBERS"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_WICKED_BLOW",
+                "MOVE_LOW_KICK",
+                "MOVE_BULK_UP",
+                "MOVE_SUCKER_PUNCH"
+            ],
+            "Ability": "ABILITY_UNSEEN_FIST",
+            "Item": "ITEM_BLACK_GLASSES",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Bulk Up",
+            "SourceTiers": [
+                "GEN8UBERS"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_WICKED_BLOW",
+                "MOVE_CLOSE_COMBAT",
+                "MOVE_SUCKER_PUNCH",
+                "MOVE_U_TURN"
+            ],
+            "Ability": "ABILITY_UNSEEN_FIST",
+            "Item": "ITEM_CHOICE_BAND",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8UBERS",
+                "GEN8BATTLESTADIUMSINGLES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_WICKED_BLOW",
+                "MOVE_CLOSE_COMBAT",
+                "MOVE_SUCKER_PUNCH",
+                "MOVE_THUNDER_PUNCH"
+            ],
+            "Ability": "ABILITY_UNSEEN_FIST",
+            "Item": "ITEM_CHOICE_BAND",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Item",
+            "SourceTiers": [
+                "GEN8BATTLESTADIUMSINGLES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_WICKED_BLOW",
+                "MOVE_COUNTER",
+                "MOVE_SUCKER_PUNCH",
+                "MOVE_CLOSE_COMBAT"
+            ],
+            "Ability": "ABILITY_UNSEEN_FIST",
+            "Item": "ITEM_FOCUS_SASH",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Focus Sash",
+            "SourceTiers": [
+                "GEN8BATTLESTADIUMSINGLES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_WICKED_BLOW",
+                "MOVE_CLOSE_COMBAT",
+                "MOVE_SUCKER_PUNCH",
+                "MOVE_DETECT"
+            ],
+            "Ability": "ABILITY_UNSEEN_FIST",
+            "Item": "ITEM_FOCUS_SASH",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8VGC2020"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_WICKED_BLOW",
+                "MOVE_SUPERPOWER",
+                "MOVE_SUCKER_PUNCH",
+                "MOVE_STONE_EDGE"
+            ],
+            "Ability": "ABILITY_UNSEEN_FIST",
+            "Item": "ITEM_ASSAULT_VEST",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Assault Vest",
+            "SourceTiers": [
+                "GEN81V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_WICKED_BLOW",
+                "MOVE_CLOSE_COMBAT",
+                "MOVE_SUCKER_PUNCH",
+                "MOVE_BULK_UP"
+            ],
+            "Ability": "ABILITY_UNSEEN_FIST",
+            "Item": "ITEM_CHOPLE_BERRY",
+            "Nature": "NATURE_IMPISH",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Bulky Chople Berry",
+            "SourceTiers": [
+                "GEN81V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_BULK_UP",
+                "MOVE_WICKED_BLOW",
+                "MOVE_REVERSAL",
+                "MOVE_ENDURE"
+            ],
+            "Ability": "ABILITY_UNSEEN_FIST",
+            "Item": "ITEM_CUSTAP_BERRY",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Custap Berry",
+            "SourceTiers": [
+                "GEN81V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_WICKED_BLOW",
+                "MOVE_CLOSE_COMBAT",
+                "MOVE_SUCKER_PUNCH",
+                "MOVE_FLING"
+            ],
+            "Ability": "ABILITY_UNSEEN_FIST",
+            "Item": "ITEM_CHOICE_BAND",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Band",
+            "SourceTiers": [
+                "GEN81V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_WICKED_BLOW",
+                "MOVE_CLOSE_COMBAT",
+                "MOVE_FIRE_PUNCH",
+                "MOVE_ICE_PUNCH"
+            ],
+            "Ability": "ABILITY_UNSEEN_FIST",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Scarf",
+            "SourceTiers": [
+                "GEN81V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_WICKED_BLOW",
+                "MOVE_CLOSE_COMBAT",
+                "MOVE_SUCKER_PUNCH",
+                "MOVE_BULK_UP"
+            ],
+            "Ability": "ABILITY_UNSEEN_FIST",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Life Orb",
+            "SourceTiers": [
+                "GEN81V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_WICKED_BLOW",
+                "MOVE_CLOSE_COMBAT",
+                "MOVE_SUCKER_PUNCH",
+                "MOVE_BULK_UP"
+            ],
+            "Ability": "ABILITY_UNSEEN_FIST",
+            "Item": "ITEM_ASSAULT_VEST",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN81V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_WICKED_BLOW",
+                "MOVE_CLOSE_COMBAT",
+                "MOVE_U_TURN",
+                "MOVE_STONE_EDGE"
+            ],
+            "Ability": "ABILITY_UNSEEN_FIST",
+            "Item": "ITEM_CHOICE_BAND",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Band",
+            "SourceTiers": [
+                "GEN8ANYTHINGGOES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_WICKED_BLOW",
+                "MOVE_CLOSE_COMBAT",
+                "MOVE_SUCKER_PUNCH",
+                "MOVE_ICE_PUNCH"
+            ],
+            "Ability": "ABILITY_UNSEEN_FIST",
+            "Item": "ITEM_CHOICE_BAND",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8ANYTHINGGOES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_WICKED_BLOW",
+                "MOVE_CLOSE_COMBAT",
+                "MOVE_SUCKER_PUNCH",
+                "MOVE_U_TURN"
+            ],
+            "Ability": "ABILITY_UNSEEN_FIST",
+            "Item": "ITEM_CHOICE_BAND",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": "TYPE_DARK",
+            "Name": "Choice Band",
+            "SourceTiers": [
+                "GEN9UBERS"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_WICKED_BLOW",
+                "MOVE_CLOSE_COMBAT",
+                "MOVE_SUCKER_PUNCH",
+                "MOVE_SWORDS_DANCE"
+            ],
+            "Ability": "ABILITY_UNSEEN_FIST",
+            "Item": "ITEM_BLACK_GLASSES",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": "TYPE_DARK",
+            "Name": "Swords Dance",
+            "SourceTiers": [
+                "GEN9UBERS"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_WICKED_BLOW",
+                "MOVE_REVERSAL",
+                "MOVE_BULK_UP",
+                "MOVE_ENDURE"
+            ],
+            "Ability": "ABILITY_UNSEEN_FIST",
+            "Item": "ITEM_CUSTAP_BERRY",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": "TYPE_FIGHTING",
+            "Name": "Custap Berry",
+            "SourceTiers": [
+                "GEN91V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_CLOSE_COMBAT",
+                "MOVE_WICKED_BLOW",
+                "MOVE_SUCKER_PUNCH",
+                "MOVE_COUNTER"
+            ],
+            "Ability": "ABILITY_UNSEEN_FIST",
+            "Item": "ITEM_ASSAULT_VEST",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": "TYPE_FIGHTING",
+            "Name": "Assault Vest",
+            "SourceTiers": [
+                "GEN91V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_CLOSE_COMBAT",
+                "MOVE_SUCKER_PUNCH",
+                "MOVE_WICKED_BLOW",
+                "MOVE_BULK_UP"
+            ],
+            "Ability": "ABILITY_UNSEEN_FIST",
+            "Item": "ITEM_CHOPLE_BERRY",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": "TYPE_FIGHTING",
+            "Name": "Chople Berry",
+            "SourceTiers": [
+                "GEN91V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_WICKED_BLOW",
+                "MOVE_CLOSE_COMBAT",
+                "MOVE_SUCKER_PUNCH",
+                "MOVE_IRON_HEAD"
+            ],
+            "Ability": "ABILITY_UNSEEN_FIST",
+            "Item": "ITEM_CHOICE_BAND",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN91V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_WICKED_BLOW",
+                "MOVE_CLOSE_COMBAT",
+                "MOVE_SUCKER_PUNCH",
+                "MOVE_ICE_PUNCH"
+            ],
+            "Ability": "ABILITY_UNSEEN_FIST",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN9NATIONALDEXAG"
+            ]
+        }
+    ]
+}

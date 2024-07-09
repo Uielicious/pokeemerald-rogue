@@ -1,0 +1,148 @@
+{
+    "Species": "SPECIES_GREEDENT",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_COVET",
+            "Level": "0"
+        },
+        {
+            "Move": "MOVE_COVET",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_TACKLE",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_TAIL_WHIP",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_BITE",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_STUFF_CHEEKS",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_STOCKPILE",
+            "Level": "15"
+        },
+        {
+            "Move": "MOVE_SWALLOW",
+            "Level": "15"
+        },
+        {
+            "Move": "MOVE_SPIT_UP",
+            "Level": "15"
+        },
+        {
+            "Move": "MOVE_BODY_SLAM",
+            "Level": "20"
+        },
+        {
+            "Move": "MOVE_REST",
+            "Level": "27"
+        },
+        {
+            "Move": "MOVE_COUNTER",
+            "Level": "34"
+        },
+        {
+            "Move": "MOVE_BULLET_SEED",
+            "Level": "41"
+        },
+        {
+            "Move": "MOVE_SUPER_FANG",
+            "Level": "48"
+        },
+        {
+            "Move": "MOVE_BELCH",
+            "Level": "55"
+        },
+        {
+            "Move": "MOVE_RECYCLE",
+            "Level": "62"
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_THUNDER_FANG",
+        "MOVE_FLING",
+        "MOVE_FIRE_FANG",
+        "MOVE_AMNESIA",
+        "MOVE_PSYCHIC_FANGS",
+        "MOVE_SWORDS_DANCE",
+        "MOVE_FRUSTRATION",
+        "MOVE_TOXIC",
+        "MOVE_BULLDOZE",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_HIGH_HORSEPOWER",
+        "MOVE_KNOCK_OFF",
+        "MOVE_PROTECT",
+        "MOVE_THIEF",
+        "MOVE_DOUBLE_EDGE",
+        "MOVE_TAKE_DOWN",
+        "MOVE_SEED_BOMB",
+        "MOVE_HYPER_BEAM",
+        "MOVE_SUBSTITUTE",
+        "MOVE_SUNNY_DAY",
+        "MOVE_ENDEAVOR",
+        "MOVE_FACADE",
+        "MOVE_STOMPING_TANTRUM",
+        "MOVE_SLEEP_TALK",
+        "MOVE_MUD_SLAP",
+        "MOVE_WILD_CHARGE",
+        "MOVE_GIGA_IMPACT",
+        "MOVE_DIG",
+        "MOVE_HYPER_VOICE",
+        "MOVE_EARTHQUAKE",
+        "MOVE_TERA_BLAST",
+        "MOVE_CURSE",
+        "MOVE_ENDURE",
+        "MOVE_RETURN",
+        "MOVE_MUD_SHOT",
+        "MOVE_BELLY_DRUM",
+        "MOVE_GYRO_BALL",
+        "MOVE_RAIN_DANCE",
+        "MOVE_ICE_FANG",
+        "MOVE_CRUNCH",
+        "MOVE_BODY_PRESS"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_BELLY_DRUM",
+                "MOVE_FACADE",
+                "MOVE_EARTHQUAKE",
+                "MOVE_CRUNCH"
+            ],
+            "Ability": "ABILITY_CHEEK_POUCH",
+            "Item": "ITEM_SITRUS_BERRY",
+            "Nature": "NATURE_BRAVE",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Belly Drum",
+            "SourceTiers": [
+                "GEN8ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_BODY_SLAM",
+                "MOVE_EARTHQUAKE",
+                "MOVE_SWORDS_DANCE",
+                "MOVE_CRUNCH"
+            ],
+            "Ability": "ABILITY_CHEEK_POUCH",
+            "Item": "ITEM_SITRUS_BERRY",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN9ZU"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,892 @@
+{
+    "Species": "SPECIES_TAPU_LELE",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_PSYCHIC_TERRAIN",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_AROMATIC_MIST",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_AROMATHERAPY",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_MEAN_LOOK",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_DRAINING_KISS",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_ASTONISH",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_WITHDRAW",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_CONFUSION",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_PSYWAVE",
+            "Level": "8"
+        },
+        {
+            "Move": "MOVE_PSYBEAM",
+            "Level": "14"
+        },
+        {
+            "Move": "MOVE_SWEET_SCENT",
+            "Level": "20"
+        },
+        {
+            "Move": "MOVE_SKILL_SWAP",
+            "Level": "26"
+        },
+        {
+            "Move": "MOVE_PSYSHOCK",
+            "Level": "32"
+        },
+        {
+            "Move": "MOVE_TICKLE",
+            "Level": "38"
+        },
+        {
+            "Move": "MOVE_NATURES_MADNESS",
+            "Level": "43"
+        },
+        {
+            "Move": "MOVE_EXTRASENSORY",
+            "Level": "48"
+        },
+        {
+            "Move": "MOVE_FLATTER",
+            "Level": "53"
+        },
+        {
+            "Move": "MOVE_MOONBLAST",
+            "Level": "58"
+        },
+        {
+            "Move": "MOVE_PLAY_ROUGH",
+            "Level": "63"
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_MAGIC_ROOM",
+        "MOVE_FLING",
+        "MOVE_REFLECT",
+        "MOVE_FUTURE_SIGHT",
+        "MOVE_GRASS_KNOT",
+        "MOVE_SPEED_SWAP",
+        "MOVE_LIGHT_SCREEN",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_PROTECT",
+        "MOVE_THIEF",
+        "MOVE_IRON_DEFENSE",
+        "MOVE_CALM_MIND",
+        "MOVE_HYPER_BEAM",
+        "MOVE_SUBSTITUTE",
+        "MOVE_SUNNY_DAY",
+        "MOVE_FACADE",
+        "MOVE_ALLY_SWITCH",
+        "MOVE_SHADOW_BALL",
+        "MOVE_SAFEGUARD",
+        "MOVE_SLEEP_TALK",
+        "MOVE_ENERGY_BALL",
+        "MOVE_STORED_POWER",
+        "MOVE_PSYCHIC",
+        "MOVE_PSYCHO_CUT",
+        "MOVE_GIGA_IMPACT",
+        "MOVE_THUNDERBOLT",
+        "MOVE_TERA_BLAST",
+        "MOVE_ENDURE",
+        "MOVE_DAZZLING_GLEAM",
+        "MOVE_THUNDER",
+        "MOVE_FOCUS_BLAST",
+        "MOVE_CHARM",
+        "MOVE_ROUND",
+        "MOVE_POWER_SWAP",
+        "MOVE_SNORE",
+        "MOVE_WONDER_ROOM",
+        "MOVE_TAUNT",
+        "MOVE_GUARD_SWAP",
+        "MOVE_REST"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_PSYCHIC",
+                "MOVE_MOONBLAST",
+                "MOVE_NATURES_MADNESS",
+                "MOVE_TAUNT"
+            ],
+            "Ability": "ABILITY_PSYCHIC_SURGE",
+            "Item": "ITEM_TERRAIN_EXTENDER",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Psychic Terrain Support",
+            "SourceTiers": [
+                "GEN7UBERS"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_PSYCHIC",
+                "MOVE_MOONBLAST",
+                "MOVE_AROMATHERAPY",
+                "MOVE_HIDDEN_POWER"
+            ],
+            "Ability": "ABILITY_PSYCHIC_SURGE",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": "TYPE_FIRE",
+            "TeraType": null,
+            "Name": "Choice Scarf",
+            "SourceTiers": [
+                "GEN7UBERS"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_PSYCHIC",
+                "MOVE_MOONBLAST",
+                "MOVE_PSYSHOCK",
+                "MOVE_HIDDEN_POWER"
+            ],
+            "Ability": "ABILITY_PSYCHIC_SURGE",
+            "Item": "ITEM_CHOICE_SPECS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": "TYPE_FIRE",
+            "TeraType": null,
+            "Name": "Choice Specs",
+            "SourceTiers": [
+                "GEN7OU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_PSYSHOCK",
+                "MOVE_MOONBLAST",
+                "MOVE_FOCUS_BLAST",
+                "MOVE_CALM_MIND"
+            ],
+            "Ability": "ABILITY_PSYCHIC_SURGE",
+            "Item": "ITEM_FIGHTINIUM_Z",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "3 Attacks",
+            "SourceTiers": [
+                "GEN7OU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_PSYCHIC",
+                "MOVE_MOONBLAST",
+                "MOVE_HIDDEN_POWER",
+                "MOVE_FOCUS_BLAST"
+            ],
+            "Ability": "ABILITY_PSYCHIC_SURGE",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": "TYPE_FIRE",
+            "TeraType": null,
+            "Name": "Choice Scarf",
+            "SourceTiers": [
+                "GEN7OU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_MOONBLAST",
+                "MOVE_PSYSHOCK",
+                "MOVE_PSYCHIC",
+                "MOVE_FOCUS_BLAST"
+            ],
+            "Ability": "ABILITY_PSYCHIC_SURGE",
+            "Item": "ITEM_CHOICE_SPECS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7OU",
+                "GEN81V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_PSYCHIC",
+                "MOVE_MOONBLAST",
+                "MOVE_DAZZLING_GLEAM",
+                "MOVE_NATURES_MADNESS"
+            ],
+            "Ability": "ABILITY_PSYCHIC_SURGE",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Scarf",
+            "SourceTiers": [
+                "GEN7DOUBLESOU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_PSYSHOCK",
+                "MOVE_MOONBLAST",
+                "MOVE_TAUNT",
+                "MOVE_PROTECT"
+            ],
+            "Ability": "ABILITY_PSYCHIC_SURGE",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "All-out Attacker",
+            "SourceTiers": [
+                "GEN7DOUBLESOU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_MOONBLAST",
+                "MOVE_PSYCHIC",
+                "MOVE_PROTECT",
+                "MOVE_DAZZLING_GLEAM"
+            ],
+            "Ability": "ABILITY_PSYCHIC_SURGE",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7DOUBLESOU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_PSYCHIC",
+                "MOVE_MOONBLAST",
+                "MOVE_SHADOW_BALL",
+                "MOVE_HIDDEN_POWER"
+            ],
+            "Ability": "ABILITY_PSYCHIC_SURGE",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": "TYPE_FIRE",
+            "TeraType": null,
+            "Name": "Choice Scarf",
+            "SourceTiers": [
+                "GEN7BATTLESPOTSINGLES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_PSYCHIC",
+                "MOVE_MOONBLAST",
+                "MOVE_SHADOW_BALL",
+                "MOVE_HIDDEN_POWER"
+            ],
+            "Ability": "ABILITY_PSYCHIC_SURGE",
+            "Item": "ITEM_CHOICE_SPECS",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": "TYPE_FIRE",
+            "TeraType": null,
+            "Name": "Choice Specs",
+            "SourceTiers": [
+                "GEN7BATTLESPOTSINGLES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_PSYCHIC",
+                "MOVE_MOONBLAST",
+                "MOVE_SHADOW_BALL",
+                "MOVE_TAUNT"
+            ],
+            "Ability": "ABILITY_PSYCHIC_SURGE",
+            "Item": "ITEM_PSYCHIUM_Z",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Versatile Attacker",
+            "SourceTiers": [
+                "GEN7BATTLESPOTSINGLES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_MOONBLAST",
+                "MOVE_PSYCHIC",
+                "MOVE_PSYSHOCK",
+                "MOVE_SHADOW_BALL"
+            ],
+            "Ability": "ABILITY_PSYCHIC_SURGE",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7BATTLESPOTSINGLES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_PSYCHIC",
+                "MOVE_MOONBLAST",
+                "MOVE_PROTECT",
+                "MOVE_FOCUS_BLAST"
+            ],
+            "Ability": "ABILITY_PSYCHIC_SURGE",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7BATTLESPOTDOUBLES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_PSYCHIC",
+                "MOVE_MOONBLAST",
+                "MOVE_DAZZLING_GLEAM",
+                "MOVE_HIDDEN_POWER"
+            ],
+            "Ability": "ABILITY_PSYCHIC_SURGE",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": "TYPE_FIRE",
+            "TeraType": null,
+            "Name": "Choice Scarf",
+            "SourceTiers": [
+                "GEN7VGC2017"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_PSYCHIC",
+                "MOVE_MOONBLAST",
+                "MOVE_TAUNT",
+                "MOVE_PROTECT"
+            ],
+            "Ability": "ABILITY_PSYCHIC_SURGE",
+            "Item": "ITEM_PSYCHIUM_Z",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Psychium Z",
+            "SourceTiers": [
+                "GEN7VGC2017"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_PSYCHIC",
+                "MOVE_MOONBLAST",
+                "MOVE_THUNDERBOLT",
+                "MOVE_PROTECT"
+            ],
+            "Ability": "ABILITY_PSYCHIC_SURGE",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Life Orb",
+            "SourceTiers": [
+                "GEN7VGC2017"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_MOONBLAST",
+                "MOVE_PSYCHIC",
+                "MOVE_PROTECT",
+                "MOVE_THUNDERBOLT"
+            ],
+            "Ability": "ABILITY_PSYCHIC_SURGE",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7VGC2017"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_PSYCHIC",
+                "MOVE_MOONBLAST",
+                "MOVE_THUNDERBOLT",
+                "MOVE_PROTECT"
+            ],
+            "Ability": "ABILITY_PSYCHIC_SURGE",
+            "Item": "ITEM_PSYCHIUM_Z",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Offensive",
+            "SourceTiers": [
+                "GEN7VGC2018"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_PSYCHIC",
+                "MOVE_MOONBLAST",
+                "MOVE_DAZZLING_GLEAM",
+                "MOVE_HIDDEN_POWER"
+            ],
+            "Ability": "ABILITY_PSYCHIC_SURGE",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": "TYPE_GROUND",
+            "TeraType": null,
+            "Name": "Choice Scarf",
+            "SourceTiers": [
+                "GEN7VGC2018"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_PSYCHIC",
+                "MOVE_MOONBLAST",
+                "MOVE_PROTECT",
+                "MOVE_DAZZLING_GLEAM"
+            ],
+            "Ability": "ABILITY_PSYCHIC_SURGE",
+            "Item": "ITEM_PSYCHIUM_Z",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7VGC2018"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_PSYCHIC",
+                "MOVE_MOONBLAST",
+                "MOVE_REFLECT",
+                "MOVE_CALM_MIND"
+            ],
+            "Ability": "ABILITY_PSYCHIC_SURGE",
+            "Item": "ITEM_PSYCHIUM_Z",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Speedy Bulky",
+            "SourceTiers": [
+                "GEN71V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_MOONBLAST",
+                "MOVE_PSYCHIC",
+                "MOVE_REFLECT",
+                "MOVE_CALM_MIND"
+            ],
+            "Ability": "ABILITY_PSYCHIC_SURGE",
+            "Item": "ITEM_PSYCHIUM_Z",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN71V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_PSYSHOCK",
+                "MOVE_MOONBLAST",
+                "MOVE_PSYCHIC",
+                "MOVE_FOCUS_BLAST"
+            ],
+            "Ability": "ABILITY_PSYCHIC_SURGE",
+            "Item": "ITEM_CHOICE_SPECS",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Specs",
+            "SourceTiers": [
+                "GEN8OU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FUTURE_SIGHT",
+                "MOVE_PSYSHOCK",
+                "MOVE_MOONBLAST",
+                "MOVE_FOCUS_BLAST"
+            ],
+            "Ability": "ABILITY_PSYCHIC_SURGE",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Scarf",
+            "SourceTiers": [
+                "GEN8OU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_CALM_MIND",
+                "MOVE_PSYSHOCK",
+                "MOVE_DRAINING_KISS",
+                "MOVE_FOCUS_BLAST"
+            ],
+            "Ability": "ABILITY_PSYCHIC_SURGE",
+            "Item": "ITEM_TWISTED_SPOON",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Calm Mind",
+            "SourceTiers": [
+                "GEN8OU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_MOONBLAST",
+                "MOVE_PSYSHOCK",
+                "MOVE_FOCUS_BLAST",
+                "MOVE_PSYCHIC"
+            ],
+            "Ability": "ABILITY_PSYCHIC_SURGE",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8OU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_PSYCHIC",
+                "MOVE_MOONBLAST",
+                "MOVE_FOCUS_BLAST",
+                "MOVE_FUTURE_SIGHT"
+            ],
+            "Ability": "ABILITY_PSYCHIC_SURGE",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Scarf",
+            "SourceTiers": [
+                "GEN8NATIONALDEX"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_PSYSHOCK",
+                "MOVE_MOONBLAST",
+                "MOVE_FOCUS_BLAST",
+                "MOVE_HIDDEN_POWER"
+            ],
+            "Ability": "ABILITY_PSYCHIC_SURGE",
+            "Item": "ITEM_ASSAULT_VEST",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": "TYPE_FIRE",
+            "TeraType": null,
+            "Name": "Assault Vest",
+            "SourceTiers": [
+                "GEN8NATIONALDEX"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_CALM_MIND",
+                "MOVE_PSYCHIC",
+                "MOVE_MOONBLAST",
+                "MOVE_FOCUS_BLAST"
+            ],
+            "Ability": "ABILITY_PSYCHIC_SURGE",
+            "Item": "ITEM_FIGHTINIUM_Z",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Calm Mind",
+            "SourceTiers": [
+                "GEN8NATIONALDEX"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_PSYCHIC",
+                "MOVE_MOONBLAST",
+                "MOVE_PSYSHOCK",
+                "MOVE_FOCUS_BLAST"
+            ],
+            "Ability": "ABILITY_PSYCHIC_SURGE",
+            "Item": "ITEM_CHOICE_SPECS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Specs",
+            "SourceTiers": [
+                "GEN8NATIONALDEX"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_MOONBLAST",
+                "MOVE_PSYCHIC",
+                "MOVE_FOCUS_BLAST",
+                "MOVE_PSYSHOCK"
+            ],
+            "Ability": "ABILITY_PSYCHIC_SURGE",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8NATIONALDEX"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_PSYCHIC",
+                "MOVE_MOONBLAST",
+                "MOVE_TAUNT",
+                "MOVE_PROTECT"
+            ],
+            "Ability": "ABILITY_PSYCHIC_SURGE",
+            "Item": "ITEM_SITRUS_BERRY",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Bulky Taunt",
+            "SourceTiers": [
+                "GEN8DOUBLESOU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_MOONBLAST",
+                "MOVE_PSYCHIC",
+                "MOVE_PROTECT",
+                "MOVE_ENERGY_BALL"
+            ],
+            "Ability": "ABILITY_PSYCHIC_SURGE",
+            "Item": "ITEM_SITRUS_BERRY",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8DOUBLESOU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_PSYCHIC",
+                "MOVE_MOONBLAST",
+                "MOVE_THUNDERBOLT",
+                "MOVE_PSYSHOCK"
+            ],
+            "Ability": "ABILITY_PSYCHIC_SURGE",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Offensive",
+            "SourceTiers": [
+                "GEN8BATTLESTADIUMSINGLES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_MOONBLAST",
+                "MOVE_PSYSHOCK",
+                "MOVE_TAUNT",
+                "MOVE_CALM_MIND"
+            ],
+            "Ability": "ABILITY_PSYCHIC_SURGE",
+            "Item": "ITEM_PSYCHIC_SEED",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Psychic Seed",
+            "SourceTiers": [
+                "GEN81V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_CALM_MIND",
+                "MOVE_PSYSHOCK",
+                "MOVE_MOONBLAST",
+                "MOVE_ENDURE"
+            ],
+            "Ability": "ABILITY_PSYCHIC_SURGE",
+            "Item": "ITEM_CUSTAP_BERRY",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Custap Berry",
+            "SourceTiers": [
+                "GEN81V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_MOONBLAST",
+                "MOVE_PSYSHOCK",
+                "MOVE_THUNDER",
+                "MOVE_FOCUS_BLAST"
+            ],
+            "Ability": "ABILITY_PSYCHIC_SURGE",
+            "Item": "ITEM_CHOICE_SPECS",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Specs",
+            "SourceTiers": [
+                "GEN81V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_IRON_DEFENSE",
+                "MOVE_CALM_MIND",
+                "MOVE_STORED_POWER",
+                "MOVE_MOONBLAST"
+            ],
+            "Ability": "ABILITY_PSYCHIC_SURGE",
+            "Item": "ITEM_WEAKNESS_POLICY",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Weakness Policy",
+            "SourceTiers": [
+                "GEN81V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_PSYSHOCK",
+                "MOVE_MOONBLAST",
+                "MOVE_PSYCHIC",
+                "MOVE_FOCUS_BLAST"
+            ],
+            "Ability": "ABILITY_PSYCHIC_SURGE",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Scarf",
+            "SourceTiers": [
+                "GEN81V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SKILL_SWAP",
+                "MOVE_PSYSHOCK",
+                "MOVE_FOCUS_BLAST",
+                "MOVE_MOONBLAST"
+            ],
+            "Ability": "ABILITY_PSYCHIC_SURGE",
+            "Item": "ITEM_PSYCHIC_SEED",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Anti-Magnezone",
+            "SourceTiers": [
+                "GEN81V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_PSYCHIC",
+                "MOVE_MOONBLAST",
+                "MOVE_FOCUS_BLAST",
+                "MOVE_THUNDERBOLT"
+            ],
+            "Ability": "ABILITY_PSYCHIC_SURGE",
+            "Item": "ITEM_CHOICE_SPECS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Specs (Psychic)",
+            "SourceTiers": [
+                "GEN8MONOTYPE",
+                "GEN8NATIONALDEXMONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_PSYCHIC",
+                "MOVE_MOONBLAST",
+                "MOVE_FOCUS_BLAST",
+                "MOVE_THUNDERBOLT"
+            ],
+            "Ability": "ABILITY_PSYCHIC_SURGE",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Scarf (Fairy)",
+            "SourceTiers": [
+                "GEN8MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_MOONBLAST",
+                "MOVE_FOCUS_BLAST",
+                "MOVE_PSYCHIC",
+                "MOVE_PSYSHOCK"
+            ],
+            "Ability": "ABILITY_PSYCHIC_SURGE",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8MONOTYPE",
+                "GEN8NATIONALDEXMONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_CALM_MIND",
+                "MOVE_MOONBLAST",
+                "MOVE_PSYCHIC",
+                "MOVE_FOCUS_BLAST"
+            ],
+            "Ability": "ABILITY_PSYCHIC_SURGE",
+            "Item": "ITEM_FIGHTINIUM_Z",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Calm Mind (Fairy)",
+            "SourceTiers": [
+                "GEN8NATIONALDEXMONOTYPE"
+            ]
+        }
+    ]
+}

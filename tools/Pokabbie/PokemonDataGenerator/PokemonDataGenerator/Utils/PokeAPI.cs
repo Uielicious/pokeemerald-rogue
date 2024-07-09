@@ -308,6 +308,32 @@ namespace PokemonDataGenerator.Utils
 						variantName = "meowstic-female";
 						break;
 
+					case "SPECIES_PUMPKABOO_SMALL":
+						apiSpecies = "SPECIES_PUMPKABOO";
+						variantName = "pumpkaboo-small";
+						break;
+					case "SPECIES_PUMPKABOO_LARGE":
+						apiSpecies = "SPECIES_PUMPKABOO";
+						variantName = "pumpkaboo-large";
+						break;
+					case "SPECIES_PUMPKABOO_SUPER":
+						apiSpecies = "SPECIES_PUMPKABOO";
+						variantName = "pumpkaboo-super";
+						break;
+
+					case "SPECIES_GOURGEIST_SMALL":
+						apiSpecies = "SPECIES_GOURGEIST";
+						variantName = "gourgeist-small";
+						break;
+					case "SPECIES_GOURGEIST_LARGE":
+						apiSpecies = "SPECIES_GOURGEIST";
+						variantName = "gourgeist-large";
+						break;
+					case "SPECIES_GOURGEIST_SUPER":
+						apiSpecies = "SPECIES_GOURGEIST";
+						variantName = "gourgeist-super";
+						break;
+
 					case "SPECIES_HOOPA_UNBOUND":
 						apiSpecies = "SPECIES_HOOPA";
 						break;
@@ -528,6 +554,7 @@ namespace PokemonDataGenerator.Utils
 							foreach (var currentSetKvp in speciesSetGroupKvp.Value.Value<JObject>())
 							{
 								var currentSet = currentSetKvp.Value.Value<JObject>();
+								currentSet.Add("name", currentSetKvp.Key);
 
 								tierOutput.Add(currentSet);
 							}
@@ -686,6 +713,10 @@ namespace PokemonDataGenerator.Utils
 
 		private static bool IsSpeciesIgnored(string apiName)
 		{
+			if (apiName.EndsWith("-mega", StringComparison.CurrentCultureIgnoreCase))
+            {
+				return true;
+            }
 			//string speciesName = CompetitiveApiNameToSpeciesName(apiName);
 			//
 			//switch(speciesName)

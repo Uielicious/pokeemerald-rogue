@@ -1,0 +1,114 @@
+{
+    "Species": "SPECIES_SLAKOTH",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_SCRATCH",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_YAWN",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_ENCORE",
+            "Level": "6"
+        },
+        {
+            "Move": "MOVE_SLACK_OFF",
+            "Level": "9"
+        },
+        {
+            "Move": "MOVE_FEINT_ATTACK",
+            "Level": "14"
+        },
+        {
+            "Move": "MOVE_AMNESIA",
+            "Level": "17"
+        },
+        {
+            "Move": "MOVE_COVET",
+            "Level": "21"
+        },
+        {
+            "Move": "MOVE_CHIP_AWAY",
+            "Level": "25"
+        },
+        {
+            "Move": "MOVE_COUNTER",
+            "Level": "29"
+        },
+        {
+            "Move": "MOVE_FLAIL",
+            "Level": "33"
+        },
+        {
+            "Move": "MOVE_KNOCK_OFF",
+            "Level": "37"
+        },
+        {
+            "Move": "MOVE_PLAY_ROUGH",
+            "Level": "41"
+        },
+        {
+            "Move": "MOVE_DOUBLE_EDGE",
+            "Level": "45"
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_ICE_BEAM",
+        "MOVE_HELPING_HAND",
+        "MOVE_THUNDER_PUNCH",
+        "MOVE_FLING",
+        "MOVE_SOLAR_BEAM",
+        "MOVE_GUNK_SHOT",
+        "MOVE_ZEN_HEADBUTT",
+        "MOVE_CHILLING_WATER",
+        "MOVE_ROCK_TOMB",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_PROTECT",
+        "MOVE_SHADOW_CLAW",
+        "MOVE_THIEF",
+        "MOVE_TAKE_DOWN",
+        "MOVE_SEED_BOMB",
+        "MOVE_THROAT_CHOP",
+        "MOVE_HAMMER_ARM",
+        "MOVE_METRONOME",
+        "MOVE_SUBSTITUTE",
+        "MOVE_BRICK_BREAK",
+        "MOVE_FACADE",
+        "MOVE_SUNNY_DAY",
+        "MOVE_SHADOW_BALL",
+        "MOVE_FALSE_SWIPE",
+        "MOVE_ICY_WIND",
+        "MOVE_SLEEP_TALK",
+        "MOVE_MUD_SLAP",
+        "MOVE_REST",
+        "MOVE_THUNDERBOLT",
+        "MOVE_METAL_CLAW",
+        "MOVE_ICE_PUNCH",
+        "MOVE_TERA_BLAST",
+        "MOVE_CURSE",
+        "MOVE_ENDURE",
+        "MOVE_MUD_SHOT",
+        "MOVE_X_SCISSOR",
+        "MOVE_THUNDER",
+        "MOVE_FIRE_PUNCH",
+        "MOVE_POISON_JAB",
+        "MOVE_AFTER_YOU",
+        "MOVE_BLIZZARD",
+        "MOVE_SNORE",
+        "MOVE_RAIN_DANCE",
+        "MOVE_ROCK_SLIDE",
+        "MOVE_BULK_UP",
+        "MOVE_SLASH",
+        "MOVE_FLAMETHROWER",
+        "MOVE_TICKLE",
+        "MOVE_NIGHT_SLASH",
+        "MOVE_FIRE_BLAST",
+        "MOVE_AERIAL_ACE",
+        "MOVE_FOCUS_PUNCH",
+        "MOVE_CRUSH_CLAW",
+        "MOVE_BODY_SLAM"
+    ],
+    "CompetitiveSets": []
+}

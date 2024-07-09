@@ -1,0 +1,352 @@
+{
+    "Species": "SPECIES_SPIRITOMB",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_CURSE",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_PURSUIT",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_CONFUSE_RAY",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_SPITE",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_SHADOW_SNEAK",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_FEINT_ATTACK",
+            "Level": "7"
+        },
+        {
+            "Move": "MOVE_HYPNOSIS",
+            "Level": "12"
+        },
+        {
+            "Move": "MOVE_DREAM_EATER",
+            "Level": "18"
+        },
+        {
+            "Move": "MOVE_OMINOUS_WIND",
+            "Level": "23"
+        },
+        {
+            "Move": "MOVE_SUCKER_PUNCH",
+            "Level": "29"
+        },
+        {
+            "Move": "MOVE_EXTRASENSORY",
+            "Level": "34"
+        },
+        {
+            "Move": "MOVE_NASTY_PLOT",
+            "Level": "40"
+        },
+        {
+            "Move": "MOVE_MEMENTO",
+            "Level": "45"
+        },
+        {
+            "Move": "MOVE_DARK_PULSE",
+            "Level": "51"
+        },
+        {
+            "Move": "MOVE_PARTING_SHOT",
+            "Level": "56"
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_PAIN_SPLIT",
+        "MOVE_BURNING_JEALOUSY",
+        "MOVE_HELPING_HAND",
+        "MOVE_DISABLE",
+        "MOVE_LASH_OUT",
+        "MOVE_ROCK_TOMB",
+        "MOVE_TOXIC",
+        "MOVE_DESTINY_BOND",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_POLTERGEIST",
+        "MOVE_WILL_O_WISP",
+        "MOVE_PROTECT",
+        "MOVE_SKILL_SWAP",
+        "MOVE_PSYSHOCK",
+        "MOVE_THIEF",
+        "MOVE_CALM_MIND",
+        "MOVE_BODY_SLAM",
+        "MOVE_HYPER_BEAM",
+        "MOVE_SUBSTITUTE",
+        "MOVE_SUNNY_DAY",
+        "MOVE_FACADE",
+        "MOVE_PHANTOM_FORCE",
+        "MOVE_TRICK",
+        "MOVE_SHADOW_BALL",
+        "MOVE_ICY_WIND",
+        "MOVE_IMPRISON",
+        "MOVE_SLEEP_TALK",
+        "MOVE_STORED_POWER",
+        "MOVE_PSYCHIC",
+        "MOVE_REST",
+        "MOVE_GIGA_IMPACT",
+        "MOVE_HEX",
+        "MOVE_SNARL",
+        "MOVE_TERA_BLAST",
+        "MOVE_ENDURE",
+        "MOVE_NIGHT_SHADE",
+        "MOVE_PSYBEAM",
+        "MOVE_FOUL_PLAY",
+        "MOVE_SCARY_FACE",
+        "MOVE_TRICK_ROOM",
+        "MOVE_RAIN_DANCE",
+        "MOVE_SMOKESCREEN",
+        "MOVE_TAUNT",
+        "MOVE_ALLY_SWITCH"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_SUCKER_PUNCH",
+                "MOVE_WILL_O_WISP",
+                "MOVE_FOUL_PLAY",
+                "MOVE_TAUNT"
+            ],
+            "Ability": "ABILITY_INFILTRATOR",
+            "Item": "ITEM_BLACK_GLASSES",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Offensive Support",
+            "SourceTiers": [
+                "GEN6UU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_CALM_MIND",
+                "MOVE_DARK_PULSE",
+                "MOVE_REST",
+                "MOVE_WILL_O_WISP"
+            ],
+            "Ability": "ABILITY_PRESSURE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Calm Mind",
+            "SourceTiers": [
+                "GEN6UU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SUCKER_PUNCH",
+                "MOVE_PURSUIT",
+                "MOVE_TAUNT",
+                "MOVE_WILL_O_WISP"
+            ],
+            "Ability": "ABILITY_INFILTRATOR",
+            "Item": "ITEM_BLACK_GLASSES",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Physical Attacker",
+            "SourceTiers": [
+                "GEN6RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_CALM_MIND",
+                "MOVE_DARK_PULSE",
+                "MOVE_REST",
+                "MOVE_SLEEP_TALK"
+            ],
+            "Ability": "ABILITY_INFILTRATOR",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Mono-attacker",
+            "SourceTiers": [
+                "GEN6RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_WILL_O_WISP",
+                "MOVE_SUCKER_PUNCH",
+                "MOVE_PURSUIT",
+                "MOVE_DARK_PULSE"
+            ],
+            "Ability": "ABILITY_INFILTRATOR",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_WILL_O_WISP",
+                "MOVE_DARK_PULSE",
+                "MOVE_SUCKER_PUNCH",
+                "MOVE_PAIN_SPLIT"
+            ],
+            "Ability": "ABILITY_INFILTRATOR",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_CAREFUL",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_PURSUIT",
+                "MOVE_SUCKER_PUNCH",
+                "MOVE_PARTING_SHOT",
+                "MOVE_WILL_O_WISP"
+            ],
+            "Ability": "ABILITY_INFILTRATOR",
+            "Item": "ITEM_FIGY_BERRY",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Pursuit Trapper",
+            "SourceTiers": [
+                "GEN7PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_CALM_MIND",
+                "MOVE_DARK_PULSE",
+                "MOVE_REST",
+                "MOVE_SLEEP_TALK"
+            ],
+            "Ability": "ABILITY_PRESSURE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Calm Mind",
+            "SourceTiers": [
+                "GEN7PU",
+                "GEN8ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_DARK_PULSE",
+                "MOVE_SUCKER_PUNCH",
+                "MOVE_WILL_O_WISP",
+                "MOVE_PURSUIT"
+            ],
+            "Ability": "ABILITY_INFILTRATOR",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_POLTERGEIST",
+                "MOVE_SHADOW_SNEAK",
+                "MOVE_WILL_O_WISP",
+                "MOVE_SUCKER_PUNCH"
+            ],
+            "Ability": "ABILITY_INFILTRATOR",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_DARK_PULSE",
+                "MOVE_CALM_MIND",
+                "MOVE_REST",
+                "MOVE_SLEEP_TALK"
+            ],
+            "Ability": "ABILITY_PRESSURE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_CALM_MIND",
+                "MOVE_DARK_PULSE",
+                "MOVE_REST",
+                "MOVE_SLEEP_TALK"
+            ],
+            "Ability": "ABILITY_PRESSURE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_CALM",
+            "HiddenPower": null,
+            "TeraType": "TYPE_FAIRY",
+            "Name": "Calm Mind",
+            "SourceTiers": [
+                "GEN9NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_DARK_PULSE",
+                "MOVE_PAIN_SPLIT",
+                "MOVE_WILL_O_WISP",
+                "MOVE_NASTY_PLOT"
+            ],
+            "Ability": "ABILITY_PRESSURE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_QUIET",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN9PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FOUL_PLAY",
+                "MOVE_WILL_O_WISP",
+                "MOVE_PAIN_SPLIT",
+                "MOVE_HEX"
+            ],
+            "Ability": "ABILITY_INFILTRATOR",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": "TYPE_POISON",
+            "Name": "Physical Wall",
+            "SourceTiers": [
+                "GEN9ZU"
+            ]
+        }
+    ]
+}

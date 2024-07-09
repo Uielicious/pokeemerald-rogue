@@ -1,0 +1,489 @@
+{
+    "Species": "SPECIES_UXIE",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_MEMENTO",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_NATURAL_GIFT",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_FLAIL",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_REST",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_CONFUSION",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_IMPRISON",
+            "Level": "6"
+        },
+        {
+            "Move": "MOVE_ENDURE",
+            "Level": "16"
+        },
+        {
+            "Move": "MOVE_SWIFT",
+            "Level": "21"
+        },
+        {
+            "Move": "MOVE_PLAY_ROUGH",
+            "Level": "26"
+        },
+        {
+            "Move": "MOVE_YAWN",
+            "Level": "31"
+        },
+        {
+            "Move": "MOVE_FUTURE_SIGHT",
+            "Level": "36"
+        },
+        {
+            "Move": "MOVE_MOONBLAST",
+            "Level": "41"
+        },
+        {
+            "Move": "MOVE_AMNESIA",
+            "Level": "46"
+        },
+        {
+            "Move": "MOVE_EXTRASENSORY",
+            "Level": "50"
+        },
+        {
+            "Move": "MOVE_FLAIL",
+            "Level": "61"
+        },
+        {
+            "Move": "MOVE_NATURAL_GIFT",
+            "Level": "66"
+        },
+        {
+            "Move": "MOVE_MEMENTO",
+            "Level": "76"
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_PAIN_SPLIT",
+        "MOVE_GIGA_DRAIN",
+        "MOVE_HELPING_HAND",
+        "MOVE_THUNDER_PUNCH",
+        "MOVE_FLING",
+        "MOVE_SOLAR_BEAM",
+        "MOVE_REFLECT",
+        "MOVE_GRASS_KNOT",
+        "MOVE_ZEN_HEADBUTT",
+        "MOVE_MAGIC_COAT",
+        "MOVE_LIGHT_SCREEN",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_KNOCK_OFF",
+        "MOVE_PROTECT",
+        "MOVE_BATON_PASS",
+        "MOVE_SKILL_SWAP",
+        "MOVE_PSYSHOCK",
+        "MOVE_CALM_MIND",
+        "MOVE_HYPER_BEAM",
+        "MOVE_SUBSTITUTE",
+        "MOVE_METRONOME",
+        "MOVE_SUNNY_DAY",
+        "MOVE_FACADE",
+        "MOVE_TRICK",
+        "MOVE_EXPANDING_FORCE",
+        "MOVE_SHADOW_BALL",
+        "MOVE_ACROBATICS",
+        "MOVE_STEALTH_ROCK",
+        "MOVE_SLEEP_TALK",
+        "MOVE_ENERGY_BALL",
+        "MOVE_STORED_POWER",
+        "MOVE_PSYCHIC",
+        "MOVE_MUD_SLAP",
+        "MOVE_CONFUSE_RAY",
+        "MOVE_DRAINING_KISS",
+        "MOVE_ENCORE",
+        "MOVE_GIGA_IMPACT",
+        "MOVE_THUNDERBOLT",
+        "MOVE_ICE_PUNCH",
+        "MOVE_NASTY_PLOT",
+        "MOVE_CHARGE_BEAM",
+        "MOVE_TERA_BLAST",
+        "MOVE_WATER_PULSE",
+        "MOVE_DAZZLING_GLEAM",
+        "MOVE_PSYBEAM",
+        "MOVE_THUNDER",
+        "MOVE_FOUL_PLAY",
+        "MOVE_FIRE_PUNCH",
+        "MOVE_THUNDER_WAVE",
+        "MOVE_TRICK_ROOM",
+        "MOVE_RAIN_DANCE",
+        "MOVE_DRAIN_PUNCH",
+        "MOVE_SANDSTORM",
+        "MOVE_U_TURN",
+        "MOVE_PSYCH_UP"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_PSYCHIC",
+                "MOVE_U_TURN",
+                "MOVE_STEALTH_ROCK",
+                "MOVE_THUNDER_WAVE"
+            ],
+            "Ability": "ABILITY_LEVITATE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Support",
+            "SourceTiers": [
+                "GEN6UU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_STEALTH_ROCK",
+                "MOVE_U_TURN",
+                "MOVE_YAWN",
+                "MOVE_PSYSHOCK"
+            ],
+            "Ability": "ABILITY_LEVITATE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Defensive Pivot",
+            "SourceTiers": [
+                "GEN6RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_STEALTH_ROCK",
+                "MOVE_U_TURN",
+                "MOVE_THUNDER_WAVE",
+                "MOVE_PSYSHOCK"
+            ],
+            "Ability": "ABILITY_LEVITATE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_TRICK_ROOM",
+                "MOVE_STEALTH_ROCK",
+                "MOVE_MEMENTO",
+                "MOVE_MAGIC_COAT"
+            ],
+            "Ability": "ABILITY_LEVITATE",
+            "Item": "ITEM_MENTAL_HERB",
+            "Nature": "NATURE_RELAXED",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Trick Room Setter",
+            "SourceTiers": [
+                "GEN7OU",
+                "GEN7UU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_STEALTH_ROCK",
+                "MOVE_PSYSHOCK",
+                "MOVE_YAWN",
+                "MOVE_U_TURN"
+            ],
+            "Ability": "ABILITY_LEVITATE",
+            "Item": "ITEM_WIKI_BERRY",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Utility",
+            "SourceTiers": [
+                "GEN7RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_STEALTH_ROCK",
+                "MOVE_U_TURN",
+                "MOVE_YAWN",
+                "MOVE_MEMENTO"
+            ],
+            "Ability": "ABILITY_LEVITATE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_STEALTH_ROCK",
+                "MOVE_U_TURN",
+                "MOVE_MEMENTO",
+                "MOVE_TRICK_ROOM"
+            ],
+            "Ability": "ABILITY_LEVITATE",
+            "Item": "ITEM_MENTAL_HERB",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_STEALTH_ROCK",
+                "MOVE_U_TURN",
+                "MOVE_PSYCHIC",
+                "MOVE_CALM_MIND"
+            ],
+            "Ability": "ABILITY_LEVITATE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_RELAXED",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_CALM_MIND",
+                "MOVE_STORED_POWER",
+                "MOVE_DRAINING_KISS",
+                "MOVE_REST"
+            ],
+            "Ability": "ABILITY_LEVITATE",
+            "Item": "ITEM_GRASSY_SEED",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Grassy Seed Sweeper",
+            "SourceTiers": [
+                "GEN8PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_STEALTH_ROCK",
+                "MOVE_U_TURN",
+                "MOVE_KNOCK_OFF",
+                "MOVE_PSYCHIC"
+            ],
+            "Ability": "ABILITY_LEVITATE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_NASTY_PLOT",
+                "MOVE_SUBSTITUTE",
+                "MOVE_PSYSHOCK",
+                "MOVE_DRAINING_KISS"
+            ],
+            "Ability": "ABILITY_LEVITATE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Nasty Plot",
+            "SourceTiers": [
+                "GEN8ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_U_TURN",
+                "MOVE_STEALTH_ROCK",
+                "MOVE_YAWN",
+                "MOVE_KNOCK_OFF"
+            ],
+            "Ability": "ABILITY_LEVITATE",
+            "Item": "ITEM_COLBUR_BERRY",
+            "Nature": "NATURE_RELAXED",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Defensive Pivot",
+            "SourceTiers": [
+                "GEN8ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_CALM_MIND",
+                "MOVE_STORED_POWER",
+                "MOVE_DRAINING_KISS",
+                "MOVE_REST"
+            ],
+            "Ability": "ABILITY_LEVITATE",
+            "Item": "ITEM_ELECTRIC_SEED",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Calm Mind",
+            "SourceTiers": [
+                "GEN8ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_STEALTH_ROCK",
+                "MOVE_MEMENTO",
+                "MOVE_ENCORE",
+                "MOVE_YAWN"
+            ],
+            "Ability": "ABILITY_LEVITATE",
+            "Item": "ITEM_MENTAL_HERB",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Offense Lead",
+            "SourceTiers": [
+                "GEN8ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SUNNY_DAY",
+                "MOVE_STEALTH_ROCK",
+                "MOVE_U_TURN",
+                "MOVE_YAWN"
+            ],
+            "Ability": "ABILITY_LEVITATE",
+            "Item": "ITEM_HEAT_ROCK",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Sun Setter",
+            "SourceTiers": [
+                "GEN8ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_TRICK_ROOM",
+                "MOVE_STEALTH_ROCK",
+                "MOVE_MEMENTO",
+                "MOVE_KNOCK_OFF"
+            ],
+            "Ability": "ABILITY_LEVITATE",
+            "Item": "ITEM_MENTAL_HERB",
+            "Nature": "NATURE_RELAXED",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Trick Room Lead",
+            "SourceTiers": [
+                "GEN8ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_STEALTH_ROCK",
+                "MOVE_U_TURN",
+                "MOVE_PSYCHIC",
+                "MOVE_KNOCK_OFF"
+            ],
+            "Ability": "ABILITY_LEVITATE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_RELAXED",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_STEALTH_ROCK",
+                "MOVE_PSYCHIC",
+                "MOVE_U_TURN",
+                "MOVE_KNOCK_OFF"
+            ],
+            "Ability": "ABILITY_LEVITATE",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": "TYPE_DARK",
+            "Name": "Utility",
+            "SourceTiers": [
+                "GEN9NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_STEALTH_ROCK",
+                "MOVE_U_TURN",
+                "MOVE_KNOCK_OFF",
+                "MOVE_DRAINING_KISS"
+            ],
+            "Ability": "ABILITY_LEVITATE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN9NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_STEALTH_ROCK",
+                "MOVE_ENCORE",
+                "MOVE_U_TURN"
+            ],
+            "Ability": "ABILITY_LEVITATE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": "TYPE_POISON",
+            "Name": "Utility",
+            "SourceTiers": [
+                "GEN9PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_CALM_MIND",
+                "MOVE_STORED_POWER",
+                "MOVE_DRAINING_KISS",
+                "MOVE_REST"
+            ],
+            "Ability": "ABILITY_LEVITATE",
+            "Item": "ITEM_GRASSY_SEED",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": "TYPE_POISON",
+            "Name": "Terrain Sweeper",
+            "SourceTiers": [
+                "GEN9PU"
+            ]
+        }
+    ]
+}

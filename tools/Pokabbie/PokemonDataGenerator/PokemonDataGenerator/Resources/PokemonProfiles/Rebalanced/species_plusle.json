@@ -1,0 +1,155 @@
+{
+    "Species": "SPECIES_PLUSLE",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_GROWL",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_THUNDER_WAVE",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_QUICK_ATTACK",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_PLAY_NICE",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_HELPING_HAND",
+            "Level": 4
+        },
+        {
+            "Move": "MOVE_SPARK",
+            "Level": 7
+        },
+        {
+            "Move": "MOVE_ENCORE",
+            "Level": 10
+        },
+        {
+            "Move": "MOVE_SWITCHEROO",
+            "Level": 13
+        },
+        {
+            "Move": "MOVE_SWIFT",
+            "Level": 16
+        },
+        {
+            "Move": "MOVE_ELECTRO_BALL",
+            "Level": 19
+        },
+        {
+            "Move": "MOVE_COPYCAT",
+            "Level": 22
+        },
+        {
+            "Move": "MOVE_CHARGE",
+            "Level": 26
+        },
+        {
+            "Move": "MOVE_DISCHARGE",
+            "Level": 31
+        },
+        {
+            "Move": "MOVE_BATON_PASS",
+            "Level": 34
+        },
+        {
+            "Move": "MOVE_AGILITY",
+            "Level": 37
+        },
+        {
+            "Move": "MOVE_LAST_RESORT",
+            "Level": 40
+        },
+        {
+            "Move": "MOVE_THUNDER",
+            "Level": 43
+        },
+        {
+            "Move": "MOVE_NASTY_PLOT",
+            "Level": 46
+        },
+        {
+            "Move": "MOVE_ENTRAINMENT",
+            "Level": 49
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_THUNDER_PUNCH",
+        "MOVE_SUPER_FANG",
+        "MOVE_FLING",
+        "MOVE_SING",
+        "MOVE_GRASS_KNOT",
+        "MOVE_NUZZLE",
+        "MOVE_EERIE_IMPULSE",
+        "MOVE_LIGHT_SCREEN",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_PROTECT",
+        "MOVE_SKILL_SWAP",
+        "MOVE_SUBSTITUTE",
+        "MOVE_UPROAR",
+        "MOVE_ENDEAVOR",
+        "MOVE_FACADE",
+        "MOVE_TRAILBLAZE",
+        "MOVE_SLEEP_TALK",
+        "MOVE_PSYCHIC",
+        "MOVE_MUD_SLAP",
+        "MOVE_WILD_CHARGE",
+        "MOVE_THUNDERBOLT",
+        "MOVE_FAKE_TEARS",
+        "MOVE_ELECTRIC_TERRAIN",
+        "MOVE_CHARGE_BEAM",
+        "MOVE_ELECTROWEB",
+        "MOVE_ENDURE",
+        "MOVE_TERA_BLAST",
+        "MOVE_WISH",
+        "MOVE_PLAY_ROUGH",
+        "MOVE_SWEET_KISS",
+        "MOVE_VOLT_SWITCH",
+        "MOVE_CHARM",
+        "MOVE_SIGNAL_BEAM",
+        "MOVE_RAIN_DANCE",
+        "MOVE_REST",
+        "MOVE_FLASH_CANNON"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_SUBSTITUTE",
+                "MOVE_NASTY_PLOT",
+                "MOVE_THUNDERBOLT",
+                "MOVE_HIDDEN_POWER"
+            ],
+            "Ability": "ABILITY_LIGHTNING_ROD",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": "TYPE_ICE",
+            "TeraType": null,
+            "Name": "'Offensive'",
+            "SourceTiers": [
+                "GEN6PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_NASTY_PLOT",
+                "MOVE_THUNDERBOLT",
+                "MOVE_HIDDEN_POWER",
+                "MOVE_SUBSTITUTE"
+            ],
+            "Ability": "ABILITY_LIGHTNING_ROD",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": "TYPE_ICE",
+            "TeraType": null,
+            "Name": "Nasty Plot",
+            "SourceTiers": [
+                "GEN7PU"
+            ]
+        }
+    ]
+}

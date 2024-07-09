@@ -1,0 +1,323 @@
+{
+    "Species": "SPECIES_MEGANIUM",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_PETAL_DANCE",
+            "Level": "0"
+        },
+        {
+            "Move": "MOVE_PETAL_DANCE",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_EARTH_POWER",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_PETAL_BLIZZARD",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_TACKLE",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_GROWL",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_RAZOR_LEAF",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_POISON_POWDER",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_RAZOR_LEAF",
+            "Level": "6"
+        },
+        {
+            "Move": "MOVE_POISON_POWDER",
+            "Level": "9"
+        },
+        {
+            "Move": "MOVE_SYNTHESIS",
+            "Level": "12"
+        },
+        {
+            "Move": "MOVE_REFLECT",
+            "Level": "18"
+        },
+        {
+            "Move": "MOVE_LIGHT_SCREEN",
+            "Level": "18"
+        },
+        {
+            "Move": "MOVE_MAGICAL_LEAF",
+            "Level": "22"
+        },
+        {
+            "Move": "MOVE_NATURAL_GIFT",
+            "Level": "26"
+        },
+        {
+            "Move": "MOVE_DRAINING_KISS",
+            "Level": "30"
+        },
+        {
+            "Move": "MOVE_SWEET_SCENT",
+            "Level": "34"
+        },
+        {
+            "Move": "MOVE_MOONBLAST",
+            "Level": "40"
+        },
+        {
+            "Move": "MOVE_BODY_SLAM",
+            "Level": "46"
+        },
+        {
+            "Move": "MOVE_SAFEGUARD",
+            "Level": "54"
+        },
+        {
+            "Move": "MOVE_AROMATHERAPY",
+            "Level": "60"
+        },
+        {
+            "Move": "MOVE_SOLAR_BEAM",
+            "Level": "66"
+        },
+        {
+            "Move": "MOVE_PETAL_BLIZZARD",
+            "Level": "70"
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_GRASS_PLEDGE",
+        "MOVE_INGRAIN",
+        "MOVE_GRASSY_TERRAIN",
+        "MOVE_HELPING_HAND",
+        "MOVE_GIGA_DRAIN",
+        "MOVE_HEAL_PULSE",
+        "MOVE_GRASS_KNOT",
+        "MOVE_LEAF_STORM",
+        "MOVE_SWORDS_DANCE",
+        "MOVE_ZEN_HEADBUTT",
+        "MOVE_OUTRAGE",
+        "MOVE_BULLDOZE",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_KNOCK_OFF",
+        "MOVE_PROTECT",
+        "MOVE_FLAIL",
+        "MOVE_BULLET_SEED",
+        "MOVE_DOUBLE_EDGE",
+        "MOVE_GRASSY_GLIDE",
+        "MOVE_SEED_BOMB",
+        "MOVE_TAKE_DOWN",
+        "MOVE_HYPER_BEAM",
+        "MOVE_SUBSTITUTE",
+        "MOVE_VINE_WHIP",
+        "MOVE_SUNNY_DAY",
+        "MOVE_ENDEAVOR",
+        "MOVE_FACADE",
+        "MOVE_STOMPING_TANTRUM",
+        "MOVE_SLEEP_TALK",
+        "MOVE_ENERGY_BALL",
+        "MOVE_TRAILBLAZE",
+        "MOVE_MUD_SLAP",
+        "MOVE_ENCORE",
+        "MOVE_GIGA_IMPACT",
+        "MOVE_FAKE_TEARS",
+        "MOVE_ANCIENT_POWER",
+        "MOVE_EARTHQUAKE",
+        "MOVE_FRENZY_PLANT",
+        "MOVE_SOLAR_BLADE",
+        "MOVE_TERA_BLAST",
+        "MOVE_CURSE",
+        "MOVE_ENDURE",
+        "MOVE_ROCK_CLIMB",
+        "MOVE_COUNTER",
+        "MOVE_DAZZLING_GLEAM",
+        "MOVE_PLAY_ROUGH",
+        "MOVE_CHARM",
+        "MOVE_DRAGON_TAIL",
+        "MOVE_BODY_PRESS",
+        "MOVE_WEATHER_BALL",
+        "MOVE_REST"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_AROMATHERAPY",
+                "MOVE_SYNTHESIS",
+                "MOVE_GIGA_DRAIN",
+                "MOVE_DRAGON_TAIL"
+            ],
+            "Ability": "ABILITY_OVERGROW",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_CALM",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Specially Defensive Support",
+            "SourceTiers": [
+                "GEN6PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_GIGA_DRAIN",
+                "MOVE_AROMATHERAPY",
+                "MOVE_SYNTHESIS",
+                "MOVE_LEECH_SEED"
+            ],
+            "Ability": "ABILITY_OVERGROW",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_CALM",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6PU",
+                "GEN7ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SYNTHESIS",
+                "MOVE_AROMATHERAPY",
+                "MOVE_GIGA_DRAIN",
+                "MOVE_KNOCK_OFF"
+            ],
+            "Ability": "ABILITY_OVERGROW",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_CALM",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Special Wall",
+            "SourceTiers": [
+                "GEN6ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SWORDS_DANCE",
+                "MOVE_PETAL_BLIZZARD",
+                "MOVE_EARTHQUAKE",
+                "MOVE_SYNTHESIS"
+            ],
+            "Ability": "ABILITY_OVERGROW",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Swords Dance",
+            "SourceTiers": [
+                "GEN6ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_AROMATHERAPY",
+                "MOVE_GIGA_DRAIN",
+                "MOVE_SYNTHESIS",
+                "MOVE_DRAGON_TAIL"
+            ],
+            "Ability": "ABILITY_FILTER",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_CALM",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Cleric",
+            "SourceTiers": [
+                "GEN7PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_GIGA_DRAIN",
+                "MOVE_SYNTHESIS",
+                "MOVE_AROMATHERAPY",
+                "MOVE_KNOCK_OFF"
+            ],
+            "Ability": "ABILITY_OVERGROW",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_SERIOUS",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_AROMATHERAPY",
+                "MOVE_GIGA_DRAIN",
+                "MOVE_SYNTHESIS",
+                "MOVE_MOONBLAST"
+            ],
+            "Item": "ITEM_LEFTOVERS",
+            "Ability": "ABILITY_FILTER",
+            "HiddenPower": null,
+            "SourceTiers": [
+                "GEN7PU"
+            ],
+            "Name": "Cleric (Moonblast)",
+            "Nature": "NATURE_HARDY",
+            "TeraType": null
+        },
+        {
+            "Moves": [
+                "MOVE_GIGA_DRAIN",
+                "MOVE_DRAINING_KISS",
+                "MOVE_AROMATHERAPY",
+                "MOVE_SYNTHESIS"
+            ],
+            "Item": "ITEM_LEFTOVERS",
+            "Ability": "ABILITY_TRIAGE",
+            "HiddenPower": null,
+            "SourceTiers": [
+                "GEN7NU"
+            ],
+            "Name": "Triage (Leftovers)",
+            "Nature": "NATURE_HARDY",
+            "TeraType": null
+        },
+        {
+            "Moves": [
+                "MOVE_GIGA_DRAIN",
+                "MOVE_DRAINING_KISS",
+                "MOVE_MOONBLAST",
+                "MOVE_EARTH_POWER"
+            ],
+            "Item": "ITEM_ASSAULT_VEST",
+            "Ability": "ABILITY_TRIAGE",
+            "HiddenPower": null,
+            "SourceTiers": [
+                "GEN7NU"
+            ],
+            "Name": "Triage (Assault Vest)",
+            "Nature": "NATURE_HARDY",
+            "TeraType": null
+        },
+        {
+            "Moves": [
+                "MOVE_GIGA_DRAIN",
+                "MOVE_DRAINING_KISS",
+                "MOVE_REFLECT",
+                "MOVE_LIGHT_SCREEN"
+            ],
+            "Item": "ITEM_LIGHT_CLAY",
+            "Ability": "ABILITY_TRIAGE",
+            "HiddenPower": null,
+            "SourceTiers": [
+                "GEN7NU"
+            ],
+            "Name": "Triage (Dual Screens)",
+            "Nature": "NATURE_HARDY",
+            "TeraType": null
+        }
+    ]
+}

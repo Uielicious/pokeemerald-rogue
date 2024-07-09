@@ -1,0 +1,348 @@
+{
+    "Species": "SPECIES_DRACOZOLT",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_TACKLE",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_THUNDER_SHOCK",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_CHARGE",
+            "Level": 7
+        },
+        {
+            "Move": "MOVE_AERIAL_ACE",
+            "Level": 14
+        },
+        {
+            "Move": "MOVE_ANCIENT_POWER",
+            "Level": 21
+        },
+        {
+            "Move": "MOVE_PLUCK",
+            "Level": 28
+        },
+        {
+            "Move": "MOVE_DRAGON_TAIL",
+            "Level": 35
+        },
+        {
+            "Move": "MOVE_STOMP",
+            "Level": 42
+        },
+        {
+            "Move": "MOVE_SLAM",
+            "Level": 49
+        },
+        {
+            "Move": "MOVE_DISCHARGE",
+            "Level": 56
+        },
+        {
+            "Move": "MOVE_BOLT_BEAK",
+            "Level": 63
+        },
+        {
+            "Move": "MOVE_DRAGON_PULSE",
+            "Level": 70
+        },
+        {
+            "Move": "MOVE_DRAGON_RUSH",
+            "Level": 77
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_THUNDER_PUNCH",
+        "MOVE_THUNDER_FANG",
+        "MOVE_DRACO_METEOR",
+        "MOVE_FIRE_FANG",
+        "MOVE_BRUTAL_SWING",
+        "MOVE_ROCK_BLAST",
+        "MOVE_FRUSTRATION",
+        "MOVE_ROCK_TOMB",
+        "MOVE_OUTRAGE",
+        "MOVE_EARTH_POWER",
+        "MOVE_TOXIC",
+        "MOVE_BULLDOZE",
+        "MOVE_HIGH_HORSEPOWER",
+        "MOVE_STONE_EDGE",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_PROTECT",
+        "MOVE_FIRE_SPIN",
+        "MOVE_IRON_TAIL",
+        "MOVE_HYPER_BEAM",
+        "MOVE_SUBSTITUTE",
+        "MOVE_SUNNY_DAY",
+        "MOVE_FACADE",
+        "MOVE_STOMPING_TANTRUM",
+        "MOVE_MEGA_KICK",
+        "MOVE_SLEEP_TALK",
+        "MOVE_RISING_VOLTAGE",
+        "MOVE_WILD_CHARGE",
+        "MOVE_REST",
+        "MOVE_GIGA_IMPACT",
+        "MOVE_THUNDERBOLT",
+        "MOVE_EARTHQUAKE",
+        "MOVE_BREAKING_SWIPE",
+        "MOVE_DRAGON_CLAW",
+        "MOVE_ENDURE",
+        "MOVE_RETURN",
+        "MOVE_METEOR_BEAM",
+        "MOVE_ELECTRO_BALL",
+        "MOVE_THUNDER",
+        "MOVE_LOW_KICK",
+        "MOVE_ROUND",
+        "MOVE_THUNDER_WAVE",
+        "MOVE_SNORE",
+        "MOVE_MEGA_PUNCH",
+        "MOVE_RAIN_DANCE",
+        "MOVE_ROCK_SLIDE",
+        "MOVE_FLAMETHROWER",
+        "MOVE_FIRE_BLAST",
+        "MOVE_TAUNT",
+        "MOVE_BODY_SLAM"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_BOLT_BEAK",
+                "MOVE_DRACO_METEOR",
+                "MOVE_SUBSTITUTE",
+                "MOVE_FIRE_SPIN"
+            ],
+            "Ability": "ABILITY_SAND_RUSH",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_LONELY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Substitute + Fire Spin",
+            "SourceTiers": [
+                "GEN8OU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_BOLT_BEAK",
+                "MOVE_DRACO_METEOR",
+                "MOVE_EARTHQUAKE",
+                "MOVE_FIRE_BLAST"
+            ],
+            "Ability": "ABILITY_SAND_RUSH",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_NAUGHTY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Life Orb",
+            "SourceTiers": [
+                "GEN8OU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_BOLT_BEAK",
+                "MOVE_EARTHQUAKE",
+                "MOVE_FIRE_BLAST",
+                "MOVE_DRACO_METEOR"
+            ],
+            "Ability": "ABILITY_SAND_RUSH",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8OU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SUBSTITUTE",
+                "MOVE_BOLT_BEAK",
+                "MOVE_DRACO_METEOR",
+                "MOVE_FIRE_BLAST"
+            ],
+            "Ability": "ABILITY_SAND_RUSH",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_NAUGHTY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Substitute Attacker",
+            "SourceTiers": [
+                "GEN8NATIONALDEX"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_BOLT_BEAK",
+                "MOVE_EARTHQUAKE",
+                "MOVE_FIRE_BLAST",
+                "MOVE_DRACO_METEOR"
+            ],
+            "Ability": "ABILITY_SAND_RUSH",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_NAUGHTY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8NATIONALDEX"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_BOLT_BEAK",
+                "MOVE_DRACO_METEOR",
+                "MOVE_SUBSTITUTE",
+                "MOVE_PROTECT"
+            ],
+            "Ability": "ABILITY_SAND_RUSH",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_NAUGHTY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Sand Attacker",
+            "SourceTiers": [
+                "GEN8DOUBLESOU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_BOLT_BEAK",
+                "MOVE_OUTRAGE",
+                "MOVE_FIRE_FANG",
+                "MOVE_HIGH_HORSEPOWER"
+            ],
+            "Ability": "ABILITY_HUSTLE",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8BATTLESTADIUMSINGLES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_BOLT_BEAK",
+                "MOVE_DRAGON_CLAW",
+                "MOVE_AERIAL_ACE",
+                "MOVE_PROTECT"
+            ],
+            "Ability": "ABILITY_HUSTLE",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8VGC2020"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_BOLT_BEAK",
+                "MOVE_OUTRAGE",
+                "MOVE_FLAMETHROWER",
+                "MOVE_EARTHQUAKE"
+            ],
+            "Ability": "ABILITY_HUSTLE",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_NAIVE",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Scarf",
+            "SourceTiers": [
+                "GEN81V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_BOLT_BEAK",
+                "MOVE_OUTRAGE",
+                "MOVE_PROTECT",
+                "MOVE_SUBSTITUTE"
+            ],
+            "Ability": "ABILITY_HUSTLE",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Life Orb",
+            "SourceTiers": [
+                "GEN81V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_BOLT_BEAK",
+                "MOVE_OUTRAGE",
+                "MOVE_FLAMETHROWER",
+                "MOVE_ENDURE"
+            ],
+            "Ability": "ABILITY_HUSTLE",
+            "Item": "ITEM_CUSTAP_BERRY",
+            "Nature": "NATURE_NAUGHTY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Custap Berry",
+            "SourceTiers": [
+                "GEN81V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_BOLT_BEAK",
+                "MOVE_DRAGON_CLAW",
+                "MOVE_OUTRAGE",
+                "MOVE_FIRE_FANG"
+            ],
+            "Ability": "ABILITY_HUSTLE",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Scarf (Electric)",
+            "SourceTiers": [
+                "GEN8MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_BOLT_BEAK",
+                "MOVE_EARTHQUAKE",
+                "MOVE_DRAGON_CLAW",
+                "MOVE_FIRE_FANG"
+            ],
+            "Ability": "ABILITY_HUSTLE",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_BOLT_BEAK",
+                "MOVE_EARTHQUAKE",
+                "MOVE_OUTRAGE",
+                "MOVE_FIRE_FANG"
+            ],
+            "Ability": "ABILITY_HUSTLE",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8NATIONALDEXMONOTYPE"
+            ]
+        }
+    ]
+}

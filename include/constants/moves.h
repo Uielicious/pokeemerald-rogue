@@ -910,7 +910,16 @@
 
 #define MOVES_COUNT_GEN9 848
 
+#ifdef ROGUE_DRAYANO
+#define MOVE_SWIRLING_BLADE 848
+
+#define MOVES_COUNT_EXTRAS 849
+
+#define MOVES_COUNT         MOVES_COUNT_EXTRAS
+#else
 #define MOVES_COUNT         MOVES_COUNT_GEN9
+#endif
+
 
 // Z Moves
 #define MOVE_BREAKNECK_BLITZ (MOVES_COUNT + 0)

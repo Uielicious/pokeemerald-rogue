@@ -1,0 +1,443 @@
+{
+    "Species": "SPECIES_SHIFTRY",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_PARTING_SHOT",
+            "Level": "0"
+        },
+        {
+            "Move": "MOVE_PARTING_SHOT",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_RAZOR_LEAF",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_FEINT_ATTACK",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_WHIRLWIND",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_NASTY_PLOT",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_LEAF_TORNADO",
+            "Level": "20"
+        },
+        {
+            "Move": "MOVE_HURRICANE",
+            "Level": "32"
+        },
+        {
+            "Move": "MOVE_LEAF_STORM",
+            "Level": "44"
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_GRASSY_TERRAIN",
+        "MOVE_GIGA_DRAIN",
+        "MOVE_DARK_PULSE",
+        "MOVE_SUCKER_PUNCH",
+        "MOVE_SOLAR_BEAM",
+        "MOVE_LASH_OUT",
+        "MOVE_GRASS_KNOT",
+        "MOVE_CHILLING_WATER",
+        "MOVE_EXPLOSION",
+        "MOVE_ROCK_TOMB",
+        "MOVE_WILL_O_WISP",
+        "MOVE_THROAT_CHOP",
+        "MOVE_DOUBLE_EDGE",
+        "MOVE_GRASSY_GLIDE",
+        "MOVE_SEED_BOMB",
+        "MOVE_DEFOG",
+        "MOVE_SUBSTITUTE",
+        "MOVE_UPROAR",
+        "MOVE_SUNNY_DAY",
+        "MOVE_TAILWIND",
+        "MOVE_BRICK_BREAK",
+        "MOVE_FACADE",
+        "MOVE_BEAT_UP",
+        "MOVE_FALSE_SWIPE",
+        "MOVE_IMPRISON",
+        "MOVE_SLEEP_TALK",
+        "MOVE_ENERGY_BALL",
+        "MOVE_CONFUSE_RAY",
+        "MOVE_DIG",
+        "MOVE_HARDEN",
+        "MOVE_ROLLOUT",
+        "MOVE_WORRY_SEED",
+        "MOVE_PETAL_BLIZZARD",
+        "MOVE_TERA_BLAST",
+        "MOVE_SNARL",
+        "MOVE_ENDURE",
+        "MOVE_X_SCISSOR",
+        "MOVE_SCARY_FACE",
+        "MOVE_LOW_KICK",
+        "MOVE_ROCK_SLIDE",
+        "MOVE_RAIN_DANCE",
+        "MOVE_TORMENT",
+        "MOVE_NIGHT_SLASH",
+        "MOVE_TOXIC_SPIKES",
+        "MOVE_WEATHER_BALL",
+        "MOVE_REST",
+        "MOVE_AIR_CUTTER",
+        "MOVE_FAKE_OUT",
+        "MOVE_VACUUM_WAVE",
+        "MOVE_LEAF_BLADE",
+        "MOVE_FLING",
+        "MOVE_SWORDS_DANCE",
+        "MOVE_AMNESIA",
+        "MOVE_MEGA_DRAIN",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_SWAGGER",
+        "MOVE_KNOCK_OFF",
+        "MOVE_PROTECT",
+        "MOVE_THIEF",
+        "MOVE_BULLET_SEED",
+        "MOVE_TAKE_DOWN",
+        "MOVE_HYPER_BEAM",
+        "MOVE_MAGICAL_LEAF",
+        "MOVE_ENDEAVOR",
+        "MOVE_AIR_SLASH",
+        "MOVE_SHADOW_BALL",
+        "MOVE_SYNTHESIS",
+        "MOVE_SWIFT",
+        "MOVE_ICY_WIND",
+        "MOVE_REVERSAL",
+        "MOVE_TRAILBLAZE",
+        "MOVE_GIGA_IMPACT",
+        "MOVE_ASTONISH",
+        "MOVE_GROWTH",
+        "MOVE_HEAT_WAVE",
+        "MOVE_HEX",
+        "MOVE_SOLAR_BLADE",
+        "MOVE_CURSE",
+        "MOVE_SPITE",
+        "MOVE_TACKLE",
+        "MOVE_ABSORB",
+        "MOVE_QUICK_ATTACK",
+        "MOVE_LOW_SWEEP",
+        "MOVE_FOUL_PLAY",
+        "MOVE_FOCUS_BLAST",
+        "MOVE_EXTRASENSORY",
+        "MOVE_LEECH_SEED",
+        "MOVE_PSYCH_UP",
+        "MOVE_AERIAL_ACE",
+        "MOVE_TAUNT",
+        "MOVE_BODY_SLAM"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_DEFOG",
+                "MOVE_KNOCK_OFF",
+                "MOVE_SUCKER_PUNCH",
+                "MOVE_LEAF_STORM"
+            ],
+            "Ability": "ABILITY_CHLOROPHYLL",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_HASTY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Offensive Defogger",
+            "SourceTiers": [
+                "GEN6RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SWORDS_DANCE",
+                "MOVE_KNOCK_OFF",
+                "MOVE_SUCKER_PUNCH",
+                "MOVE_SEED_BOMB"
+            ],
+            "Ability": "ABILITY_CHLOROPHYLL",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Swords Dance",
+            "SourceTiers": [
+                "GEN6RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_KNOCK_OFF",
+                "MOVE_LEAF_STORM",
+                "MOVE_SUCKER_PUNCH",
+                "MOVE_EXPLOSION"
+            ],
+            "Ability": "ABILITY_CHLOROPHYLL",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_LONELY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Physically Mixed",
+            "SourceTiers": [
+                "GEN6NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SWORDS_DANCE",
+                "MOVE_KNOCK_OFF",
+                "MOVE_SEED_BOMB",
+                "MOVE_SUCKER_PUNCH"
+            ],
+            "Ability": "ABILITY_CHLOROPHYLL",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Swords Dance",
+            "SourceTiers": [
+                "GEN6NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_KNOCK_OFF",
+                "MOVE_LEAF_BLADE",
+                "MOVE_ROCK_SLIDE",
+                "MOVE_EXPLOSION"
+            ],
+            "Ability": "ABILITY_PICKPOCKET",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Scarf",
+            "SourceTiers": [
+                "GEN6NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_KNOCK_OFF",
+                "MOVE_SUCKER_PUNCH",
+                "MOVE_LEAF_STORM",
+                "MOVE_DEFOG"
+            ],
+            "Ability": "ABILITY_CHLOROPHYLL",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_LONELY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6NU",
+                "GEN7PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_KNOCK_OFF",
+                "MOVE_SUCKER_PUNCH",
+                "MOVE_LEAF_BLADE",
+                "MOVE_SWORDS_DANCE"
+            ],
+            "Ability": "ABILITY_RATTLED",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Swords Dance",
+            "SourceTiers": [
+                "GEN7PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_KNOCK_OFF",
+                "MOVE_LEAF_BLADE",
+                "MOVE_ROCK_SLIDE",
+                "MOVE_PARTING_SHOT"
+            ],
+            "Ability": "ABILITY_CHLOROPHYLL",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Scarf",
+            "SourceTiers": [
+                "GEN7PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_KNOCK_OFF",
+                "MOVE_SUCKER_PUNCH",
+                "MOVE_LEAF_STORM",
+                "MOVE_DEFOG"
+            ],
+            "Ability": "ABILITY_CHLOROPHYLL",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_GROWTH",
+                "MOVE_SOLAR_BLADE",
+                "MOVE_KNOCK_OFF",
+                "MOVE_LOW_KICK"
+            ],
+            "Ability": "ABILITY_CHLOROPHYLL",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Sun Sweeper",
+            "SourceTiers": [
+                "GEN8RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_DEFOG",
+                "MOVE_KNOCK_OFF",
+                "MOVE_LEAF_STORM",
+                "MOVE_SYNTHESIS"
+            ],
+            "Ability": "ABILITY_PICKPOCKET",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Defog",
+            "SourceTiers": [
+                "GEN8PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_KNOCK_OFF",
+                "MOVE_LEAF_BLADE",
+                "MOVE_SUCKER_PUNCH",
+                "MOVE_HEAT_WAVE"
+            ],
+            "Ability": "ABILITY_CHLOROPHYLL",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_KNOCK_OFF",
+                "MOVE_SUCKER_PUNCH",
+                "MOVE_LEAF_STORM",
+                "MOVE_SWORDS_DANCE"
+            ],
+            "Ability": "ABILITY_CHLOROPHYLL",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_LONELY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Mixed Attacker",
+            "SourceTiers": [
+                "GEN8ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SWORDS_DANCE",
+                "MOVE_SOLAR_BLADE",
+                "MOVE_KNOCK_OFF",
+                "MOVE_SUCKER_PUNCH"
+            ],
+            "Ability": "ABILITY_CHLOROPHYLL",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Sun Sweeper",
+            "SourceTiers": [
+                "GEN8ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_KNOCK_OFF",
+                "MOVE_SOLAR_BLADE",
+                "MOVE_HEAT_WAVE",
+                "MOVE_GROWTH"
+            ],
+            "Ability": "ABILITY_CHLOROPHYLL",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_NAUGHTY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SWORDS_DANCE",
+                "MOVE_SUBSTITUTE",
+                "MOVE_KNOCK_OFF",
+                "MOVE_SUCKER_PUNCH"
+            ],
+            "Ability": "ABILITY_CHLOROPHYLL",
+            "Item": "ITEM_BLACK_GLASSES",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Swords Dance (Grass)",
+            "SourceTiers": [
+                "GEN8MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_KNOCK_OFF",
+                "MOVE_TAILWIND",
+                "MOVE_EXPLOSION",
+                "MOVE_LEAF_BLADE"
+            ],
+            "Ability": "ABILITY_WIND_RIDER",
+            "Item": "ITEM_FOCUS_SASH",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN9UU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_KNOCK_OFF",
+                "MOVE_SUCKER_PUNCH",
+                "MOVE_LEAF_BLADE",
+                "MOVE_PARTING_SHOT"
+            ],
+            "Item": "ITEM_LIFE_ORB",
+            "Ability": "ABILITY_CHLOROPHYLL",
+            "HiddenPower": null,
+            "SourceTiers": [
+                "GEN7PU"
+            ],
+            "Name": "Mixed Life Orb",
+            "Nature": "NATURE_HARDY",
+            "TeraType": null
+        }
+    ]
+}

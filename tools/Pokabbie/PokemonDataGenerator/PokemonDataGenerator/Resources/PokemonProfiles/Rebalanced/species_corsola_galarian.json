@@ -1,0 +1,257 @@
+{
+    "Species": "SPECIES_CORSOLA_GALARIAN",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_TACKLE",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_HARDEN",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_ASTONISH",
+            "Level": 5
+        },
+        {
+            "Move": "MOVE_DISABLE",
+            "Level": 10
+        },
+        {
+            "Move": "MOVE_SPITE",
+            "Level": 15
+        },
+        {
+            "Move": "MOVE_ANCIENT_POWER",
+            "Level": 20
+        },
+        {
+            "Move": "MOVE_HEX",
+            "Level": 25
+        },
+        {
+            "Move": "MOVE_CURSE",
+            "Level": 30
+        },
+        {
+            "Move": "MOVE_STRENGTH_SAP",
+            "Level": 35
+        },
+        {
+            "Move": "MOVE_POWER_GEM",
+            "Level": 40
+        },
+        {
+            "Move": "MOVE_NIGHT_SHADE",
+            "Level": 45
+        },
+        {
+            "Move": "MOVE_GRUDGE",
+            "Level": 50
+        },
+        {
+            "Move": "MOVE_MIRROR_COAT",
+            "Level": 55
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_ICE_BEAM",
+        "MOVE_GIGA_DRAIN",
+        "MOVE_REFLECT",
+        "MOVE_AMNESIA",
+        "MOVE_ATTRACT",
+        "MOVE_ROCK_BLAST",
+        "MOVE_FRUSTRATION",
+        "MOVE_ROCK_TOMB",
+        "MOVE_BRINE",
+        "MOVE_EARTH_POWER",
+        "MOVE_TOXIC",
+        "MOVE_BULLDOZE",
+        "MOVE_DESTINY_BOND",
+        "MOVE_LIGHT_SCREEN",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_STONE_EDGE",
+        "MOVE_WILL_O_WISP",
+        "MOVE_PROTECT",
+        "MOVE_HYDRO_PUMP",
+        "MOVE_IRON_DEFENSE",
+        "MOVE_THROAT_CHOP",
+        "MOVE_CALM_MIND",
+        "MOVE_BODY_SLAM",
+        "MOVE_SUBSTITUTE",
+        "MOVE_SUNNY_DAY",
+        "MOVE_FACADE",
+        "MOVE_SCREECH",
+        "MOVE_ICICLE_SPEAR",
+        "MOVE_STOMPING_TANTRUM",
+        "MOVE_WHIRLPOOL",
+        "MOVE_SHADOW_BALL",
+        "MOVE_SAFEGUARD",
+        "MOVE_HEAD_SMASH",
+        "MOVE_ICY_WIND",
+        "MOVE_STEALTH_ROCK",
+        "MOVE_SLEEP_TALK",
+        "MOVE_PSYCHIC",
+        "MOVE_HAZE",
+        "MOVE_CONFUSE_RAY",
+        "MOVE_DIG",
+        "MOVE_EARTHQUAKE",
+        "MOVE_NATURE_POWER",
+        "MOVE_LIQUIDATION",
+        "MOVE_WATER_PULSE",
+        "MOVE_ENDURE",
+        "MOVE_SELF_DESTRUCT",
+        "MOVE_RETURN",
+        "MOVE_METEOR_BEAM",
+        "MOVE_ROUND",
+        "MOVE_BLIZZARD",
+        "MOVE_SURF",
+        "MOVE_SNORE",
+        "MOVE_SNOWSCAPE",
+        "MOVE_SCALD",
+        "MOVE_RAIN_DANCE",
+        "MOVE_ROCK_SLIDE",
+        "MOVE_SANDSTORM",
+        "MOVE_REST"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_STRENGTH_SAP",
+                "MOVE_WILL_O_WISP",
+                "MOVE_NIGHT_SHADE",
+                "MOVE_STEALTH_ROCK"
+            ],
+            "Ability": "ABILITY_CURSED_BODY",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8OU",
+                "GEN8UU",
+                "GEN8NATIONALDEXMONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_STRENGTH_SAP",
+                "MOVE_WILL_O_WISP",
+                "MOVE_NIGHT_SHADE",
+                "MOVE_WHIRLPOOL"
+            ],
+            "Ability": "ABILITY_CURSED_BODY",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_CALM",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_STRENGTH_SAP",
+                "MOVE_WILL_O_WISP",
+                "MOVE_NIGHT_SHADE",
+                "MOVE_STEALTH_ROCK"
+            ],
+            "Ability": "ABILITY_CURSED_BODY",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_CALM",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_REST",
+                "MOVE_STRENGTH_SAP",
+                "MOVE_AMNESIA",
+                "MOVE_WILL_O_WISP"
+            ],
+            "Ability": "ABILITY_CURSED_BODY",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_IMPISH",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Stall",
+            "SourceTiers": [
+                "GEN81V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_STRENGTH_SAP",
+                "MOVE_NIGHT_SHADE",
+                "MOVE_AMNESIA",
+                "MOVE_REST"
+            ],
+            "Ability": "ABILITY_CURSED_BODY",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_CALM",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN81V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_WILL_O_WISP",
+                "MOVE_STRENGTH_SAP",
+                "MOVE_STEALTH_ROCK",
+                "MOVE_NIGHT_SHADE"
+            ],
+            "Ability": "ABILITY_CURSED_BODY",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Defensive Wall (Ghost)",
+            "SourceTiers": [
+                "GEN8MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_STRENGTH_SAP",
+                "MOVE_NIGHT_SHADE",
+                "MOVE_WILL_O_WISP",
+                "MOVE_STEALTH_ROCK"
+            ],
+            "Ability": "ABILITY_CURSED_BODY",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_STEALTH_ROCK",
+                "MOVE_NIGHT_SHADE",
+                "MOVE_WILL_O_WISP",
+                "MOVE_STRENGTH_SAP"
+            ],
+            "Ability": "ABILITY_CURSED_BODY",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Physically Defensive (Ghost)",
+            "SourceTiers": [
+                "GEN8NATIONALDEXMONOTYPE"
+            ]
+        }
+    ]
+}

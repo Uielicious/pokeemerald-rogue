@@ -1,0 +1,912 @@
+{
+    "Species": "SPECIES_WEAVILE",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_SCRATCH",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_LEER",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_AGILITY",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_QUICK_ATTACK",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_SLASH",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_BEAT_UP",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_TAUNT",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_ASSURANCE",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_ICE_SHARD",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_METAL_CLAW",
+            "Level": 18
+        },
+        {
+            "Move": "MOVE_ICY_WIND",
+            "Level": 24
+        },
+        {
+            "Move": "MOVE_FURY_SWIPES",
+            "Level": 30
+        },
+        {
+            "Move": "MOVE_HONE_CLAWS",
+            "Level": 36
+        },
+        {
+            "Move": "MOVE_FLING",
+            "Level": 42
+        },
+        {
+            "Move": "MOVE_NASTY_PLOT",
+            "Level": 48
+        },
+        {
+            "Move": "MOVE_SCREECH",
+            "Level": 54
+        },
+        {
+            "Move": "MOVE_NIGHT_SLASH",
+            "Level": 60
+        },
+        {
+            "Move": "MOVE_DARK_PULSE",
+            "Level": 66
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_ICE_BEAM",
+        "MOVE_FEINT",
+        "MOVE_FAKE_OUT",
+        "MOVE_HELPING_HAND",
+        "MOVE_LASH_OUT",
+        "MOVE_SWORDS_DANCE",
+        "MOVE_CHILLING_WATER",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_KNOCK_OFF",
+        "MOVE_PROTECT",
+        "MOVE_BATON_PASS",
+        "MOVE_THROAT_CHOP",
+        "MOVE_PUNISHMENT",
+        "MOVE_SHADOW_CLAW",
+        "MOVE_CALM_MIND",
+        "MOVE_THIEF",
+        "MOVE_TAKE_DOWN",
+        "MOVE_HYPER_BEAM",
+        "MOVE_SUBSTITUTE",
+        "MOVE_METRONOME",
+        "MOVE_SUNNY_DAY",
+        "MOVE_BRICK_BREAK",
+        "MOVE_FACADE",
+        "MOVE_ICICLE_SPEAR",
+        "MOVE_SHADOW_BALL",
+        "MOVE_FALSE_SWIPE",
+        "MOVE_SWIFT",
+        "MOVE_TRIPLE_AXEL",
+        "MOVE_SLEEP_TALK",
+        "MOVE_TRAILBLAZE",
+        "MOVE_AVALANCHE",
+        "MOVE_GIGA_IMPACT",
+        "MOVE_DIG",
+        "MOVE_FAKE_TEARS",
+        "MOVE_SNARL",
+        "MOVE_TERA_BLAST",
+        "MOVE_WATER_PULSE",
+        "MOVE_ENDURE",
+        "MOVE_ICE_PUNCH",
+        "MOVE_SPITE",
+        "MOVE_X_SCISSOR",
+        "MOVE_PURSUIT",
+        "MOVE_FOCUS_BLAST",
+        "MOVE_FOUL_PLAY",
+        "MOVE_LOW_SWEEP",
+        "MOVE_SCARY_FACE",
+        "MOVE_LOW_KICK",
+        "MOVE_POISON_JAB",
+        "MOVE_ICE_SPINNER",
+        "MOVE_BLIZZARD",
+        "MOVE_ICICLE_CRASH",
+        "MOVE_SURF",
+        "MOVE_SNOWSCAPE",
+        "MOVE_RAIN_DANCE",
+        "MOVE_CRUNCH",
+        "MOVE_AERIAL_ACE",
+        "MOVE_FOCUS_PUNCH",
+        "MOVE_REST"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_KNOCK_OFF",
+                "MOVE_ICICLE_CRASH",
+                "MOVE_PURSUIT",
+                "MOVE_ICE_SHARD"
+            ],
+            "Ability": "ABILITY_PRESSURE",
+            "Item": "ITEM_CHOICE_BAND",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Band",
+            "SourceTiers": [
+                "GEN6OU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_KNOCK_OFF",
+                "MOVE_ICE_SHARD",
+                "MOVE_ICICLE_CRASH",
+                "MOVE_PURSUIT"
+            ],
+            "Ability": "ABILITY_PRESSURE",
+            "Item": "ITEM_CHOICE_BAND",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6OU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_KNOCK_OFF",
+                "MOVE_FAKE_OUT",
+                "MOVE_ICICLE_CRASH",
+                "MOVE_ICE_SHARD"
+            ],
+            "Ability": "ABILITY_PRESSURE",
+            "Item": "ITEM_FOCUS_SASH",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6DOUBLESOU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FAKE_OUT",
+                "MOVE_KNOCK_OFF",
+                "MOVE_LOW_KICK",
+                "MOVE_ICE_SHARD"
+            ],
+            "Ability": "ABILITY_PRESSURE",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Physical Attacker",
+            "SourceTiers": [
+                "GEN6BATTLESPOTSINGLES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_KNOCK_OFF",
+                "MOVE_ICE_SHARD",
+                "MOVE_ICICLE_CRASH",
+                "MOVE_LOW_KICK"
+            ],
+            "Ability": "ABILITY_PRESSURE",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6BATTLESPOTSINGLES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FAKE_OUT",
+                "MOVE_KNOCK_OFF",
+                "MOVE_ICICLE_CRASH",
+                "MOVE_LOW_KICK"
+            ],
+            "Ability": "ABILITY_PRESSURE",
+            "Item": "ITEM_FOCUS_SASH",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Offensive Support",
+            "SourceTiers": [
+                "GEN6BATTLESPOTDOUBLES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FAKE_OUT",
+                "MOVE_KNOCK_OFF",
+                "MOVE_ICICLE_CRASH",
+                "MOVE_FEINT"
+            ],
+            "Ability": "ABILITY_PRESSURE",
+            "Item": "ITEM_FOCUS_SASH",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Offensive Focus Sash",
+            "SourceTiers": [
+                "GEN6VGC2016",
+                "GEN6VGC2016"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_ICICLE_CRASH",
+                "MOVE_KNOCK_OFF",
+                "MOVE_ICE_SHARD",
+                "MOVE_FAKE_OUT"
+            ],
+            "Ability": "ABILITY_PRESSURE",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN61V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_ICE_SHARD",
+                "MOVE_FAKE_OUT",
+                "MOVE_ICICLE_CRASH",
+                "MOVE_NIGHT_SLASH"
+            ],
+            "Ability": "ABILITY_PRESSURE",
+            "Item": "ITEM_FOCUS_SASH",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6ANYTHINGGOES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_ICICLE_CRASH",
+                "MOVE_KNOCK_OFF",
+                "MOVE_ICE_SHARD",
+                "MOVE_PURSUIT"
+            ],
+            "Ability": "ABILITY_PRESSURE",
+            "Item": "ITEM_CHOICE_BAND",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Band (Dark)",
+            "SourceTiers": [
+                "GEN6MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_KNOCK_OFF",
+                "MOVE_ICICLE_CRASH",
+                "MOVE_ICE_SHARD",
+                "MOVE_LOW_KICK"
+            ],
+            "Ability": "ABILITY_PRESSURE",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "All-out Attacker (Ice)",
+            "SourceTiers": [
+                "GEN6MONOTYPE",
+                "GEN6MONOTYPE",
+                "GEN7MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_KNOCK_OFF",
+                "MOVE_ICICLE_CRASH",
+                "MOVE_ICE_SHARD",
+                "MOVE_PURSUIT"
+            ],
+            "Ability": "ABILITY_PRESSURE",
+            "Item": "ITEM_CHOICE_BAND",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Band",
+            "SourceTiers": [
+                "GEN7OU",
+                "GEN7OU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_KNOCK_OFF",
+                "MOVE_ICE_SHARD",
+                "MOVE_ICICLE_CRASH",
+                "MOVE_FAKE_OUT"
+            ],
+            "Ability": "ABILITY_PRESSURE",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Offensive",
+            "SourceTiers": [
+                "GEN7BATTLESPOTSINGLES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FAKE_OUT",
+                "MOVE_KNOCK_OFF",
+                "MOVE_ICICLE_CRASH",
+                "MOVE_POISON_JAB"
+            ],
+            "Ability": "ABILITY_PRESSURE",
+            "Item": "ITEM_FOCUS_SASH",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7BATTLESPOTDOUBLES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FOUL_PLAY",
+                "MOVE_FAKE_OUT",
+                "MOVE_ICICLE_CRASH",
+                "MOVE_TAUNT"
+            ],
+            "Ability": "ABILITY_PRESSURE",
+            "Item": "ITEM_DARKINIUM_Z",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Z-Move",
+            "SourceTiers": [
+                "GEN71V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_PROTECT",
+                "MOVE_SUBSTITUTE",
+                "MOVE_SPITE",
+                "MOVE_TAUNT"
+            ],
+            "Ability": "ABILITY_PRESSURE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Pressure Stall",
+            "SourceTiers": [
+                "GEN71V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_ICICLE_CRASH",
+                "MOVE_ICE_SHARD",
+                "MOVE_KNOCK_OFF",
+                "MOVE_PURSUIT"
+            ],
+            "Ability": "ABILITY_PRESSURE",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "All-out Attacker (Dark)",
+            "SourceTiers": [
+                "GEN7MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_ICE_SHARD",
+                "MOVE_KNOCK_OFF",
+                "MOVE_ICICLE_CRASH",
+                "MOVE_FAKE_OUT"
+            ],
+            "Ability": "ABILITY_PRESSURE",
+            "Item": "ITEM_FOCUS_SASH",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SWORDS_DANCE",
+                "MOVE_TRIPLE_AXEL",
+                "MOVE_KNOCK_OFF",
+                "MOVE_ICE_SHARD"
+            ],
+            "Ability": "ABILITY_PRESSURE",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Swords Dance",
+            "SourceTiers": [
+                "GEN8UBERS",
+                "GEN8NATIONALDEX",
+                "GEN8MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_BEAT_UP",
+                "MOVE_TRIPLE_AXEL",
+                "MOVE_KNOCK_OFF",
+                "MOVE_ICE_SHARD"
+            ],
+            "Ability": "ABILITY_PRESSURE",
+            "Item": "ITEM_CHOICE_BAND",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Band",
+            "SourceTiers": [
+                "GEN8UBERS"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_TRIPLE_AXEL",
+                "MOVE_ICE_SHARD",
+                "MOVE_KNOCK_OFF",
+                "MOVE_SWORDS_DANCE"
+            ],
+            "Ability": "ABILITY_PRESSURE",
+            "Item": "ITEM_FOCUS_SASH",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8UBERS"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SWORDS_DANCE",
+                "MOVE_ICE_SHARD",
+                "MOVE_TRIPLE_AXEL",
+                "MOVE_KNOCK_OFF"
+            ],
+            "Ability": "ABILITY_PRESSURE",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Swords Dance",
+            "SourceTiers": [
+                "GEN8OU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_ICE_SHARD",
+                "MOVE_TRIPLE_AXEL",
+                "MOVE_KNOCK_OFF",
+                "MOVE_LOW_KICK"
+            ],
+            "Ability": "ABILITY_PRESSURE",
+            "Item": "ITEM_CHOICE_BAND",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Band",
+            "SourceTiers": [
+                "GEN8OU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_KNOCK_OFF",
+                "MOVE_ICE_SHARD",
+                "MOVE_TRIPLE_AXEL",
+                "MOVE_SWORDS_DANCE"
+            ],
+            "Ability": "ABILITY_PRESSURE",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8OU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_TRIPLE_AXEL",
+                "MOVE_KNOCK_OFF",
+                "MOVE_PURSUIT",
+                "MOVE_ICE_SHARD"
+            ],
+            "Ability": "ABILITY_PRESSURE",
+            "Item": "ITEM_CHOICE_BAND",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Band",
+            "SourceTiers": [
+                "GEN8NATIONALDEX"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_KNOCK_OFF",
+                "MOVE_TRIPLE_AXEL",
+                "MOVE_ICE_SHARD",
+                "MOVE_PURSUIT"
+            ],
+            "Ability": "ABILITY_PRESSURE",
+            "Item": "ITEM_CHOICE_BAND",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8NATIONALDEX"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FAKE_OUT",
+                "MOVE_KNOCK_OFF",
+                "MOVE_ICE_PUNCH",
+                "MOVE_ICE_SHARD"
+            ],
+            "Ability": "ABILITY_PRESSURE",
+            "Item": "ITEM_FOCUS_SASH",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8DOUBLESOU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FAKE_OUT",
+                "MOVE_TRIPLE_AXEL",
+                "MOVE_BEAT_UP",
+                "MOVE_SURF"
+            ],
+            "Ability": "ABILITY_PRESSURE",
+            "Item": "ITEM_FOCUS_SASH",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8VGC2020"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FAKE_OUT",
+                "MOVE_ICE_SHARD",
+                "MOVE_TRIPLE_AXEL",
+                "MOVE_KNOCK_OFF"
+            ],
+            "Ability": "ABILITY_PRESSURE",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Life Orb",
+            "SourceTiers": [
+                "GEN81V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_LOW_KICK",
+                "MOVE_TRIPLE_AXEL",
+                "MOVE_KNOCK_OFF",
+                "MOVE_ENDURE"
+            ],
+            "Ability": "ABILITY_PICKPOCKET",
+            "Item": "ITEM_LIECHI_BERRY",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Liechi Berry + Pickpocket",
+            "SourceTiers": [
+                "GEN81V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_TRIPLE_AXEL",
+                "MOVE_KNOCK_OFF",
+                "MOVE_PROTECT",
+                "MOVE_SUBSTITUTE"
+            ],
+            "Ability": "ABILITY_PRESSURE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN81V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_KNOCK_OFF",
+                "MOVE_ICICLE_CRASH",
+                "MOVE_FOUL_PLAY",
+                "MOVE_LOW_KICK"
+            ],
+            "Ability": "ABILITY_PRESSURE",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Revenge Killer (Ice)",
+            "SourceTiers": [
+                "GEN8MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_TRIPLE_AXEL",
+                "MOVE_KNOCK_OFF",
+                "MOVE_LOW_KICK",
+                "MOVE_ICE_SHARD"
+            ],
+            "Ability": "ABILITY_PRESSURE",
+            "Item": "ITEM_CHOICE_BAND",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Band (Dark)",
+            "SourceTiers": [
+                "GEN8MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_KNOCK_OFF",
+                "MOVE_TRIPLE_AXEL",
+                "MOVE_ICE_SHARD",
+                "MOVE_LOW_KICK"
+            ],
+            "Ability": "ABILITY_PRESSURE",
+            "Item": "ITEM_FOCUS_SASH",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8MONOTYPE",
+                "GEN8NATIONALDEXMONOTYPE",
+                "GEN9NATIONALDEXMONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_KNOCK_OFF",
+                "MOVE_ICICLE_CRASH",
+                "MOVE_LOW_KICK",
+                "MOVE_PUNISHMENT"
+            ],
+            "Ability": "ABILITY_PRESSURE",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Scarf (Ice)",
+            "SourceTiers": [
+                "GEN8NATIONALDEXMONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_TRIPLE_AXEL",
+                "MOVE_KNOCK_OFF",
+                "MOVE_ICE_SHARD",
+                "MOVE_SWORDS_DANCE"
+            ],
+            "Ability": "ABILITY_PRESSURE",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": "TYPE_ICE",
+            "Name": "Offensive",
+            "SourceTiers": [
+                "GEN9OU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_KNOCK_OFF",
+                "MOVE_ICE_SHARD",
+                "MOVE_SWORDS_DANCE",
+                "MOVE_ICICLE_CRASH"
+            ],
+            "Ability": "ABILITY_PRESSURE",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN9OU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_TRIPLE_AXEL",
+                "MOVE_KNOCK_OFF",
+                "MOVE_ICE_SHARD",
+                "MOVE_PURSUIT"
+            ],
+            "Ability": "ABILITY_PRESSURE",
+            "Item": "ITEM_CHOICE_BAND",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": "TYPE_DARK",
+            "Name": "Choice Band",
+            "SourceTiers": [
+                "GEN9NATIONALDEX"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SWORDS_DANCE",
+                "MOVE_TRIPLE_AXEL",
+                "MOVE_KNOCK_OFF",
+                "MOVE_ICE_SHARD"
+            ],
+            "Ability": "ABILITY_PRESSURE",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": "TYPE_DARK",
+            "Name": "Offensive",
+            "SourceTiers": [
+                "GEN9NATIONALDEX"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_KNOCK_OFF",
+                "MOVE_ICE_SHARD",
+                "MOVE_TRIPLE_AXEL",
+                "MOVE_PURSUIT"
+            ],
+            "Ability": "ABILITY_PRESSURE",
+            "Item": "ITEM_CHOICE_BAND",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN9NATIONALDEX"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_ICICLE_CRASH",
+                "MOVE_LOW_KICK",
+                "MOVE_NIGHT_SLASH",
+                "MOVE_DIG"
+            ],
+            "Ability": "ABILITY_PRESSURE",
+            "Item": "ITEM_CHOICE_BAND",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN91V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_KNOCK_OFF",
+                "MOVE_TRIPLE_AXEL",
+                "MOVE_ICE_SHARD",
+                "MOVE_SWORDS_DANCE"
+            ],
+            "Ability": "ABILITY_PRESSURE",
+            "Item": "ITEM_FOCUS_SASH",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN9NATIONALDEXAG"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SWORDS_DANCE",
+                "MOVE_KNOCK_OFF",
+                "MOVE_TRIPLE_AXEL",
+                "MOVE_ICE_SHARD"
+            ],
+            "Ability": "ABILITY_PRESSURE",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Swords Dance (Ice)",
+            "SourceTiers": [
+                "GEN9MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SWORDS_DANCE",
+                "MOVE_ICICLE_CRASH",
+                "MOVE_KNOCK_OFF",
+                "MOVE_ICE_SHARD"
+            ],
+            "Ability": "ABILITY_PRESSURE",
+            "Item": "ITEM_ICIUM_Z",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Swords Dance (Dark)",
+            "SourceTiers": [
+                "GEN9NATIONALDEXMONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_PUNISHMENT",
+                "MOVE_ICE_SPINNER",
+                "MOVE_LOW_KICK",
+                "MOVE_KNOCK_OFF"
+            ],
+            "Ability": "ABILITY_PRESSURE",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Scarf (Ice)",
+            "SourceTiers": [
+                "GEN9NATIONALDEXMONOTYPE"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,252 @@
+{
+    "Species": "SPECIES_KECLEON",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_SCRATCH",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_TAIL_WHIP",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_LICK",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_THIEF",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_ASTONISH",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_BIND",
+            "Level": 4
+        },
+        {
+            "Move": "MOVE_SHADOW_SNEAK",
+            "Level": 7
+        },
+        {
+            "Move": "MOVE_FEINT",
+            "Level": 10
+        },
+        {
+            "Move": "MOVE_FURY_SWIPES",
+            "Level": 13
+        },
+        {
+            "Move": "MOVE_FEINT_ATTACK",
+            "Level": 16
+        },
+        {
+            "Move": "MOVE_PSYBEAM",
+            "Level": 18
+        },
+        {
+            "Move": "MOVE_ANCIENT_POWER",
+            "Level": 21
+        },
+        {
+            "Move": "MOVE_SLASH",
+            "Level": 25
+        },
+        {
+            "Move": "MOVE_CAMOUFLAGE",
+            "Level": 30
+        },
+        {
+            "Move": "MOVE_SHADOW_CLAW",
+            "Level": 33
+        },
+        {
+            "Move": "MOVE_SCREECH",
+            "Level": 38
+        },
+        {
+            "Move": "MOVE_SUBSTITUTE",
+            "Level": 42
+        },
+        {
+            "Move": "MOVE_SUCKER_PUNCH",
+            "Level": 46
+        },
+        {
+            "Move": "MOVE_SYNCHRONOISE",
+            "Level": 50
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_ICE_BEAM",
+        "MOVE_FAKE_OUT",
+        "MOVE_THUNDER_PUNCH",
+        "MOVE_FLING",
+        "MOVE_POWER_UP_PUNCH",
+        "MOVE_LAST_RESORT",
+        "MOVE_SOLAR_BEAM",
+        "MOVE_DISABLE",
+        "MOVE_RECYCLE",
+        "MOVE_GRASS_KNOT",
+        "MOVE_ATTRACT",
+        "MOVE_FRUSTRATION",
+        "MOVE_ROCK_TOMB",
+        "MOVE_MAGIC_COAT",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_WORK_UP",
+        "MOVE_SWAGGER",
+        "MOVE_KNOCK_OFF",
+        "MOVE_PROTECT",
+        "MOVE_SKILL_SWAP",
+        "MOVE_FIRE_BLAST",
+        "MOVE_IRON_TAIL",
+        "MOVE_SUNNY_DAY",
+        "MOVE_BRICK_BREAK",
+        "MOVE_FACADE",
+        "MOVE_TRICK",
+        "MOVE_CONFIDE",
+        "MOVE_ACROBATICS",
+        "MOVE_SHADOW_BALL",
+        "MOVE_ICY_WIND",
+        "MOVE_STEALTH_ROCK",
+        "MOVE_SLEEP_TALK",
+        "MOVE_ROLE_PLAY",
+        "MOVE_THUNDERBOLT",
+        "MOVE_NASTY_PLOT",
+        "MOVE_TERA_BLAST",
+        "MOVE_WATER_PULSE",
+        "MOVE_ICE_PUNCH",
+        "MOVE_CHARGE_BEAM",
+        "MOVE_RETURN",
+        "MOVE_SHOCK_WAVE",
+        "MOVE_THUNDER",
+        "MOVE_DIZZY_PUNCH",
+        "MOVE_FOUL_PLAY",
+        "MOVE_FIRE_PUNCH",
+        "MOVE_DOUBLE_TEAM",
+        "MOVE_LOW_KICK",
+        "MOVE_ROUND",
+        "MOVE_AERIAL_ACE",
+        "MOVE_AQUA_TAIL",
+        "MOVE_AFTER_YOU",
+        "MOVE_BLIZZARD",
+        "MOVE_THUNDER_WAVE",
+        "MOVE_WONDER_ROOM",
+        "MOVE_SNORE",
+        "MOVE_RAIN_DANCE",
+        "MOVE_ROCK_SLIDE",
+        "MOVE_TRICK_ROOM",
+        "MOVE_DRAIN_PUNCH",
+        "MOVE_FLAMETHROWER",
+        "MOVE_SNATCH",
+        "MOVE_PSYCH_UP",
+        "MOVE_RECOVER",
+        "MOVE_FOCUS_PUNCH",
+        "MOVE_REST"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_SUCKER_PUNCH",
+                "MOVE_FIRE_BLAST",
+                "MOVE_GRASS_KNOT",
+                "MOVE_KNOCK_OFF"
+            ],
+            "Ability": "ABILITY_PROTEAN",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_MILD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Mixed Wallbreaker",
+            "SourceTiers": [
+                "GEN6NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SHADOW_SNEAK",
+                "MOVE_SUCKER_PUNCH",
+                "MOVE_DRAIN_PUNCH",
+                "MOVE_FAKE_OUT"
+            ],
+            "Ability": "ABILITY_PROTEAN",
+            "Item": "ITEM_ASSAULT_VEST",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_KNOCK_OFF",
+                "MOVE_DRAIN_PUNCH",
+                "MOVE_SHADOW_SNEAK",
+                "MOVE_SUCKER_PUNCH"
+            ],
+            "Ability": "ABILITY_PROTEAN",
+            "Item": "ITEM_ASSAULT_VEST",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Assault Vest",
+            "SourceTiers": [
+                "GEN7PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SHADOW_SNEAK",
+                "MOVE_DRAIN_PUNCH",
+                "MOVE_KNOCK_OFF",
+                "MOVE_POWER_UP_PUNCH"
+            ],
+            "Ability": "ABILITY_PROTEAN",
+            "Item": "ITEM_ASSAULT_VEST",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_KNOCK_OFF",
+                "MOVE_DRAIN_PUNCH",
+                "MOVE_SHADOW_SNEAK",
+                "MOVE_ICE_BEAM"
+            ],
+            "Ability": "ABILITY_PROTEAN",
+            "Item": "ITEM_ASSAULT_VEST",
+            "Nature": "NATURE_BRAVE",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Bulky Mixed Attacker",
+            "SourceTiers": [
+                "GEN7ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SHADOW_SNEAK",
+                "MOVE_DRAIN_PUNCH",
+                "MOVE_KNOCK_OFF",
+                "MOVE_FAKE_OUT"
+            ],
+            "Ability": "ABILITY_PROTEAN",
+            "Item": "ITEM_ASSAULT_VEST",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7ZU"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,431 @@
+{
+    "Species": "SPECIES_SLAKING",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_SWAGGER",
+            "Level": "0"
+        },
+        {
+            "Move": "MOVE_SWAGGER",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_HAMMER_ARM",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_PUNISHMENT",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_FLING",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_SCRATCH",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_YAWN",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_ENCORE",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_SLACK_OFF",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_ENCORE",
+            "Level": "6"
+        },
+        {
+            "Move": "MOVE_SLACK_OFF",
+            "Level": "9"
+        },
+        {
+            "Move": "MOVE_FEINT_ATTACK",
+            "Level": "14"
+        },
+        {
+            "Move": "MOVE_AMNESIA",
+            "Level": "17"
+        },
+        {
+            "Move": "MOVE_COVET",
+            "Level": "22"
+        },
+        {
+            "Move": "MOVE_CHIP_AWAY",
+            "Level": "27"
+        },
+        {
+            "Move": "MOVE_COUNTER",
+            "Level": "32"
+        },
+        {
+            "Move": "MOVE_FLAIL",
+            "Level": "37"
+        },
+        {
+            "Move": "MOVE_KNOCK_OFF",
+            "Level": "42"
+        },
+        {
+            "Move": "MOVE_FLING",
+            "Level": "47"
+        },
+        {
+            "Move": "MOVE_DOUBLE_EDGE",
+            "Level": "52"
+        },
+        {
+            "Move": "MOVE_PUNISHMENT",
+            "Level": "57"
+        },
+        {
+            "Move": "MOVE_HAMMER_ARM",
+            "Level": "62"
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_ICE_BEAM",
+        "MOVE_SOLAR_BEAM",
+        "MOVE_LASH_OUT",
+        "MOVE_CHILLING_WATER",
+        "MOVE_ROCK_TOMB",
+        "MOVE_HIGH_HORSEPOWER",
+        "MOVE_THROAT_CHOP",
+        "MOVE_SEED_BOMB",
+        "MOVE_SUBSTITUTE",
+        "MOVE_UPROAR",
+        "MOVE_SUNNY_DAY",
+        "MOVE_BRICK_BREAK",
+        "MOVE_FACADE",
+        "MOVE_STOMPING_TANTRUM",
+        "MOVE_FALSE_SWIPE",
+        "MOVE_SLEEP_TALK",
+        "MOVE_MUD_SLAP",
+        "MOVE_WILD_CHARGE",
+        "MOVE_THUNDERBOLT",
+        "MOVE_DIG",
+        "MOVE_HYPER_VOICE",
+        "MOVE_TERA_BLAST",
+        "MOVE_ENDURE",
+        "MOVE_RETURN",
+        "MOVE_MUD_SHOT",
+        "MOVE_X_SCISSOR",
+        "MOVE_THUNDER",
+        "MOVE_HEAVY_SLAM",
+        "MOVE_FIRE_PUNCH",
+        "MOVE_SCARY_FACE",
+        "MOVE_LOW_KICK",
+        "MOVE_BLIZZARD",
+        "MOVE_SMACK_DOWN",
+        "MOVE_ROCK_SLIDE",
+        "MOVE_RAIN_DANCE",
+        "MOVE_BULK_UP",
+        "MOVE_FLAMETHROWER",
+        "MOVE_NIGHT_SLASH",
+        "MOVE_FIRE_BLAST",
+        "MOVE_BODY_PRESS",
+        "MOVE_REST",
+        "MOVE_HELPING_HAND",
+        "MOVE_THUNDER_PUNCH",
+        "MOVE_GUNK_SHOT",
+        "MOVE_ZEN_HEADBUTT",
+        "MOVE_OUTRAGE",
+        "MOVE_BULLDOZE",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_HARD_PRESS",
+        "MOVE_PROTECT",
+        "MOVE_SHADOW_CLAW",
+        "MOVE_THIEF",
+        "MOVE_TAKE_DOWN",
+        "MOVE_HYPER_BEAM",
+        "MOVE_METRONOME",
+        "MOVE_ENDEAVOR",
+        "MOVE_SHADOW_BALL",
+        "MOVE_ICY_WIND",
+        "MOVE_REVERSAL",
+        "MOVE_TRAILBLAZE",
+        "MOVE_ROAR",
+        "MOVE_GIGA_IMPACT",
+        "MOVE_EARTHQUAKE",
+        "MOVE_METAL_CLAW",
+        "MOVE_ICE_PUNCH",
+        "MOVE_CURSE",
+        "MOVE_PURSUIT",
+        "MOVE_PLAY_ROUGH",
+        "MOVE_LOW_SWEEP",
+        "MOVE_FOCUS_BLAST",
+        "MOVE_POISON_JAB",
+        "MOVE_POUNCE",
+        "MOVE_THUNDER_WAVE",
+        "MOVE_DRAIN_PUNCH",
+        "MOVE_RETALIATE",
+        "MOVE_AERIAL_ACE",
+        "MOVE_TAUNT",
+        "MOVE_FOCUS_PUNCH",
+        "MOVE_BODY_SLAM"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_RETURN",
+                "MOVE_EARTHQUAKE",
+                "MOVE_NIGHT_SLASH",
+                "MOVE_ENCORE"
+            ],
+            "Ability": "ABILITY_TRUANT",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Wallbreaker",
+            "SourceTiers": [
+                "GEN6PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_EARTHQUAKE",
+                "MOVE_RETALIATE",
+                "MOVE_NIGHT_SLASH",
+                "MOVE_GIGA_IMPACT"
+            ],
+            "Ability": "ABILITY_TRUANT",
+            "Item": "ITEM_CHOICE_BAND",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_RETURN",
+                "MOVE_PURSUIT",
+                "MOVE_EARTHQUAKE",
+                "MOVE_NIGHT_SLASH"
+            ],
+            "Ability": "ABILITY_TRUANT",
+            "Item": "ITEM_CHOICE_BAND",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Band",
+            "SourceTiers": [
+                "GEN6ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_RETURN",
+                "MOVE_PURSUIT",
+                "MOVE_EARTHQUAKE",
+                "MOVE_NIGHT_SLASH"
+            ],
+            "Ability": "ABILITY_TRUANT",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Scarf",
+            "SourceTiers": [
+                "GEN6ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_GIGA_IMPACT",
+                "MOVE_EARTHQUAKE",
+                "MOVE_NIGHT_SLASH",
+                "MOVE_FIRE_PUNCH"
+            ],
+            "Ability": "ABILITY_TRUANT",
+            "Item": "ITEM_CHOICE_BAND",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Band",
+            "SourceTiers": [
+                "GEN61V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_GIGA_IMPACT",
+                "MOVE_EARTHQUAKE",
+                "MOVE_FIRE_PUNCH",
+                "MOVE_HAMMER_ARM"
+            ],
+            "Ability": "ABILITY_TRUANT",
+            "Item": "ITEM_CHOICE_BAND",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN61V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_RETURN",
+                "MOVE_PURSUIT",
+                "MOVE_EARTHQUAKE",
+                "MOVE_FIRE_BLAST"
+            ],
+            "Ability": "ABILITY_TRUANT",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_NAIVE",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "All-out Attacker",
+            "SourceTiers": [
+                "GEN7PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_EARTHQUAKE",
+                "MOVE_RETALIATE",
+                "MOVE_GIGA_IMPACT",
+                "MOVE_HAMMER_ARM"
+            ],
+            "Ability": "ABILITY_TRUANT",
+            "Item": "ITEM_CHOICE_BAND",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_EARTHQUAKE",
+                "MOVE_GIGA_IMPACT",
+                "MOVE_PURSUIT",
+                "MOVE_BULK_UP"
+            ],
+            "Ability": "ABILITY_TRUANT",
+            "Item": "ITEM_CHOICE_BAND",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_RETURN",
+                "MOVE_EARTHQUAKE",
+                "MOVE_ROCK_SLIDE",
+                "MOVE_BULK_UP"
+            ],
+            "Ability": "ABILITY_TRUANT",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7BATTLESPOTDOUBLES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_GIGA_IMPACT",
+                "MOVE_ICE_PUNCH",
+                "MOVE_HAMMER_ARM",
+                "MOVE_FIRE_PUNCH"
+            ],
+            "Ability": "ABILITY_TRUANT",
+            "Item": "ITEM_CHOICE_BAND",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Bulky Choice Band",
+            "SourceTiers": [
+                "GEN71V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_GIGA_IMPACT",
+                "MOVE_EARTHQUAKE",
+                "MOVE_FIRE_PUNCH",
+                "MOVE_GUNK_SHOT"
+            ],
+            "Ability": "ABILITY_TRUANT",
+            "Item": "ITEM_CHOICE_BAND",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN71V1"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_EARTHQUAKE",
+                "MOVE_KNOCK_OFF",
+                "MOVE_GIGA_IMPACT",
+                "MOVE_BODY_SLAM"
+            ],
+            "Ability": "ABILITY_TRUANT",
+            "Item": "ITEM_CHOICE_BAND",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN9PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_EARTHQUAKE",
+                "MOVE_BODY_SLAM",
+                "MOVE_GIGA_IMPACT",
+                "MOVE_DRAIN_PUNCH"
+            ],
+            "Ability": "ABILITY_TRUANT",
+            "Item": "ITEM_CHOICE_BAND",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN9ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_GIGA_IMPACT",
+                "MOVE_EARTHQUAKE",
+                "MOVE_OUTRAGE",
+                "MOVE_THROAT_CHOP"
+            ],
+            "Ability": "ABILITY_TRUANT",
+            "Item": "ITEM_CHOICE_BAND",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN91V1"
+            ]
+        }
+    ]
+}

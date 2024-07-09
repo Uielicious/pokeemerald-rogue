@@ -1,0 +1,229 @@
+{
+    "Species": "SPECIES_VENOMOTH",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_AIR_SLASH",
+            "Level": 0
+        },
+        {
+            "Move": "MOVE_TACKLE",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_SUPERSONIC",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_DISABLE",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_QUIVER_DANCE",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_CONFUSION",
+            "Level": 11
+        },
+        {
+            "Move": "MOVE_POISON_POWDER",
+            "Level": 13
+        },
+        {
+            "Move": "MOVE_PSYBEAM",
+            "Level": 17
+        },
+        {
+            "Move": "MOVE_STUN_SPORE",
+            "Level": 23
+        },
+        {
+            "Move": "MOVE_BUG_BUZZ",
+            "Level": 25
+        },
+        {
+            "Move": "MOVE_SLEEP_POWDER",
+            "Level": 29
+        },
+        {
+            "Move": "MOVE_LEECH_LIFE",
+            "Level": 37
+        },
+        {
+            "Move": "MOVE_ZEN_HEADBUTT",
+            "Level": 41
+        },
+        {
+            "Move": "MOVE_POISON_FANG",
+            "Level": 47
+        },
+        {
+            "Move": "MOVE_PSYCHIC",
+            "Level": 55
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_AIR_CUTTER",
+        "MOVE_SLUDGE_WAVE",
+        "MOVE_GIGA_DRAIN",
+        "MOVE_MORNING_SUN",
+        "MOVE_SOLAR_BEAM",
+        "MOVE_SKITTER_SMACK",
+        "MOVE_AGILITY",
+        "MOVE_ACID_SPRAY",
+        "MOVE_TOXIC",
+        "MOVE_VENOSHOCK",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_PROTECT",
+        "MOVE_BATON_PASS",
+        "MOVE_SKILL_SWAP",
+        "MOVE_DOUBLE_EDGE",
+        "MOVE_TAKE_DOWN",
+        "MOVE_THIEF",
+        "MOVE_HYPER_BEAM",
+        "MOVE_SUBSTITUTE",
+        "MOVE_LUNGE",
+        "MOVE_ENDEAVOR",
+        "MOVE_FACADE",
+        "MOVE_SUNNY_DAY",
+        "MOVE_ACROBATICS",
+        "MOVE_BUG_BITE",
+        "MOVE_STRUGGLE_BUG",
+        "MOVE_SWIFT",
+        "MOVE_SLEEP_TALK",
+        "MOVE_ENERGY_BALL",
+        "MOVE_SLUDGE_BOMB",
+        "MOVE_CONFUSE_RAY",
+        "MOVE_GIGA_IMPACT",
+        "MOVE_TERA_BLAST",
+        "MOVE_ENDURE",
+        "MOVE_NIGHT_SHADE",
+        "MOVE_ROOST",
+        "MOVE_POUNCE",
+        "MOVE_HURRICANE",
+        "MOVE_U_TURN",
+        "MOVE_TOXIC_SPIKES",
+        "MOVE_REST"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_QUIVER_DANCE",
+                "MOVE_BUG_BUZZ",
+                "MOVE_SLEEP_POWDER",
+                "MOVE_ROOST"
+            ],
+            "Ability": "ABILITY_TINTED_LENS",
+            "Item": "ITEM_BLACK_SLUDGE",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Mono-Attacker",
+            "SourceTiers": [
+                "GEN6UU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_QUIVER_DANCE",
+                "MOVE_SLEEP_POWDER",
+                "MOVE_BUG_BUZZ",
+                "MOVE_SLUDGE_BOMB"
+            ],
+            "Ability": "ABILITY_TINTED_LENS",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Offensive",
+            "SourceTiers": [
+                "GEN6UU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_QUIVER_DANCE",
+                "MOVE_SLEEP_POWDER",
+                "MOVE_BUG_BUZZ",
+                "MOVE_SLUDGE_BOMB"
+            ],
+            "Ability": "ABILITY_TINTED_LENS",
+            "Item": "ITEM_BUGINIUM_Z",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Quiver Dance",
+            "SourceTiers": [
+                "GEN7UU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_QUIVER_DANCE",
+                "MOVE_SLUDGE_BOMB",
+                "MOVE_BUG_BUZZ",
+                "MOVE_SLEEP_POWDER"
+            ],
+            "Ability": "ABILITY_TINTED_LENS",
+            "Item": "ITEM_BUGINIUM_Z",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7UU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_QUIVER_DANCE",
+                "MOVE_BUG_BUZZ",
+                "MOVE_PSYCHIC",
+                "MOVE_SLEEP_POWDER"
+            ],
+            "Ability": null,
+            "Item": null,
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7LETSGOOU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_QUIVER_DANCE",
+                "MOVE_BUG_BUZZ",
+                "MOVE_SLUDGE_WAVE",
+                "MOVE_PSYCHIC"
+            ],
+            "Ability": "ABILITY_TINTED_LENS",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": "TYPE_BUG",
+            "Name": "Offensive Quiver Dance",
+            "SourceTiers": [
+                "GEN9ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_QUIVER_DANCE",
+                "MOVE_BUG_BUZZ",
+                "MOVE_DISABLE",
+                "MOVE_SUBSTITUTE"
+            ],
+            "Ability": "ABILITY_TINTED_LENS",
+            "Item": "ITEM_BLACK_SLUDGE",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": "TYPE_BUG",
+            "Name": "Quiver Dance + Disable",
+            "SourceTiers": [
+                "GEN9ZU"
+            ]
+        }
+    ]
+}

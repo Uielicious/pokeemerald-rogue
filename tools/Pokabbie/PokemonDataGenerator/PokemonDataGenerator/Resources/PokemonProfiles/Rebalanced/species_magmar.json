@@ -1,0 +1,218 @@
+{
+    "Species": "SPECIES_MAGMAR",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_SMOG",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_LEER",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_EMBER",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_EMBER",
+            "Level": "5"
+        },
+        {
+            "Move": "MOVE_SMOKESCREEN",
+            "Level": "8"
+        },
+        {
+            "Move": "MOVE_FEINT_ATTACK",
+            "Level": "12"
+        },
+        {
+            "Move": "MOVE_FIRE_SPIN",
+            "Level": "15"
+        },
+        {
+            "Move": "MOVE_CLEAR_SMOG",
+            "Level": "19"
+        },
+        {
+            "Move": "MOVE_FLAME_BURST",
+            "Level": "22"
+        },
+        {
+            "Move": "MOVE_CONFUSE_RAY",
+            "Level": "26"
+        },
+        {
+            "Move": "MOVE_FIRE_PUNCH",
+            "Level": "29"
+        },
+        {
+            "Move": "MOVE_AURA_SPHERE",
+            "Level": "33"
+        },
+        {
+            "Move": "MOVE_LAVA_PLUME",
+            "Level": "36"
+        },
+        {
+            "Move": "MOVE_SUNNY_DAY",
+            "Level": "40"
+        },
+        {
+            "Move": "MOVE_SLUDGE_BOMB",
+            "Level": "43"
+        },
+        {
+            "Move": "MOVE_FLAMETHROWER",
+            "Level": "47"
+        },
+        {
+            "Move": "MOVE_SCALD",
+            "Level": "50"
+        },
+        {
+            "Move": "MOVE_MOONBLAST",
+            "Level": "54"
+        },
+        {
+            "Move": "MOVE_FIRE_BLAST",
+            "Level": "60"
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_BELCH",
+        "MOVE_BURNING_JEALOUSY",
+        "MOVE_THUNDER_PUNCH",
+        "MOVE_HELPING_HAND",
+        "MOVE_FOLLOW_ME",
+        "MOVE_FLING",
+        "MOVE_DYNAMIC_PUNCH",
+        "MOVE_ACID_SPRAY",
+        "MOVE_OVERHEAT",
+        "MOVE_TEMPER_FLARE",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_KNOCK_OFF",
+        "MOVE_HEAT_CRASH",
+        "MOVE_PROTECT",
+        "MOVE_THIEF",
+        "MOVE_DOUBLE_EDGE",
+        "MOVE_TAKE_DOWN",
+        "MOVE_WILL_O_WISP",
+        "MOVE_BODY_SLAM",
+        "MOVE_HYPER_BEAM",
+        "MOVE_SUBSTITUTE",
+        "MOVE_METRONOME",
+        "MOVE_SCORCHING_SANDS",
+        "MOVE_BRICK_BREAK",
+        "MOVE_FACADE",
+        "MOVE_MACH_PUNCH",
+        "MOVE_UPROAR",
+        "MOVE_SLEEP_TALK",
+        "MOVE_PSYCHIC",
+        "MOVE_ROAR",
+        "MOVE_FLARE_BLITZ",
+        "MOVE_GIGA_IMPACT",
+        "MOVE_HEAT_WAVE",
+        "MOVE_TERA_BLAST",
+        "MOVE_CURSE",
+        "MOVE_ENDURE",
+        "MOVE_ROCK_CLIMB",
+        "MOVE_FOCUS_BLAST",
+        "MOVE_LOW_SWEEP",
+        "MOVE_SCARY_FACE",
+        "MOVE_LOW_KICK",
+        "MOVE_BELLY_DRUM",
+        "MOVE_POISON_JAB",
+        "MOVE_CROSS_CHOP",
+        "MOVE_FLAME_CHARGE",
+        "MOVE_TAUNT",
+        "MOVE_FOCUS_PUNCH",
+        "MOVE_REST"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_THUNDER_PUNCH",
+                "MOVE_MACH_PUNCH",
+                "MOVE_FLARE_BLITZ",
+                "MOVE_FOCUS_BLAST"
+            ],
+            "Ability": "ABILITY_FLAME_BODY",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_HASTY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FIRE_BLAST",
+                "MOVE_FOCUS_BLAST",
+                "MOVE_HIDDEN_POWER",
+                "MOVE_WILL_O_WISP"
+            ],
+            "Ability": "ABILITY_VITAL_SPIRIT",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": "TYPE_ICE",
+            "TeraType": null,
+            "Name": "Special All-Out Attacker",
+            "SourceTiers": [
+                "GEN6ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FIRE_BLAST",
+                "MOVE_OVERHEAT",
+                "MOVE_FOCUS_BLAST",
+                "MOVE_PSYCHIC"
+            ],
+            "Ability": "ABILITY_VITAL_SPIRIT",
+            "Item": "ITEM_CHOICE_SPECS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Specs",
+            "SourceTiers": [
+                "GEN6ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FIRE_BLAST",
+                "MOVE_OVERHEAT",
+                "MOVE_FOCUS_BLAST",
+                "MOVE_PSYCHIC"
+            ],
+            "Ability": "ABILITY_VITAL_SPIRIT",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Choice Scarf",
+            "SourceTiers": [
+                "GEN6ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FIRE_BLAST",
+                "MOVE_FOCUS_BLAST",
+                "MOVE_HIDDEN_POWER",
+                "MOVE_MACH_PUNCH"
+            ],
+            "Item": "ITEM_LIFE_ORB",
+            "Ability": "ABILITY_VITAL_SPIRIT",
+            "HiddenPower": "TYPE_GRASS",
+            "SourceTiers": [
+                "GEN8ZU"
+            ],
+            "Name": "Life Orb Attacker",
+            "Nature": "NATURE_HARDY",
+            "TeraType": null
+        }
+    ]
+}

@@ -1,0 +1,343 @@
+{
+    "Species": "SPECIES_VILEPLUME",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_SLUDGE",
+            "Level": "0"
+        },
+        {
+            "Move": "MOVE_SLUDGE",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_MEGA_DRAIN",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_AROMATHERAPY",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_POISON_POWDER",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_STUN_SPORE",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_SLEEP_POWDER",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_EARTH_POWER",
+            "Level": "39"
+        },
+        {
+            "Move": "MOVE_PETAL_BLIZZARD",
+            "Level": "49"
+        },
+        {
+            "Move": "MOVE_PETAL_DANCE",
+            "Level": "59"
+        },
+        {
+            "Move": "MOVE_SOLAR_BEAM",
+            "Level": "69"
+        },
+        {
+            "Move": "MOVE_APPLE_ACID",
+            "Level": "79"
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_INGRAIN",
+        "MOVE_GRASSY_TERRAIN",
+        "MOVE_SLUDGE_WAVE",
+        "MOVE_GIGA_DRAIN",
+        "MOVE_HELPING_HAND",
+        "MOVE_FLING",
+        "MOVE_GRASS_KNOT",
+        "MOVE_LEAF_STORM",
+        "MOVE_ACID_SPRAY",
+        "MOVE_SWORDS_DANCE",
+        "MOVE_TOXIC",
+        "MOVE_VENOSHOCK",
+        "MOVE_POLLEN_PUFF",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_PROTECT",
+        "MOVE_FLAIL",
+        "MOVE_BULLET_SEED",
+        "MOVE_GRASSY_GLIDE",
+        "MOVE_SEED_BOMB",
+        "MOVE_BODY_SLAM",
+        "MOVE_HYPER_BEAM",
+        "MOVE_SUBSTITUTE",
+        "MOVE_MAGICAL_LEAF",
+        "MOVE_FACADE",
+        "MOVE_SUNNY_DAY",
+        "MOVE_SYNTHESIS",
+        "MOVE_INFESTATION",
+        "MOVE_SLEEP_TALK",
+        "MOVE_ENERGY_BALL",
+        "MOVE_TRAILBLAZE",
+        "MOVE_SLUDGE_BOMB",
+        "MOVE_GIGA_IMPACT",
+        "MOVE_SOLAR_BLADE",
+        "MOVE_TERA_BLAST",
+        "MOVE_ENDURE",
+        "MOVE_MOONBLAST",
+        "MOVE_DAZZLING_GLEAM",
+        "MOVE_CHARM",
+        "MOVE_AFTER_YOU",
+        "MOVE_TEETER_DANCE",
+        "MOVE_TICKLE",
+        "MOVE_LEECH_SEED",
+        "MOVE_STRENGTH_SAP",
+        "MOVE_CORROSIVE_GAS",
+        "MOVE_RAZOR_LEAF",
+        "MOVE_WEATHER_BALL",
+        "MOVE_REST"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_GIGA_DRAIN",
+                "MOVE_MOONLIGHT",
+                "MOVE_SLUDGE_BOMB",
+                "MOVE_SLEEP_POWDER"
+            ],
+            "Ability": "ABILITY_EFFECT_SPORE",
+            "Item": "ITEM_BLACK_SLUDGE",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Defensive",
+            "SourceTiers": [
+                "GEN6NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_GIGA_DRAIN",
+                "MOVE_SLUDGE_BOMB",
+                "MOVE_MOONLIGHT",
+                "MOVE_HIDDEN_POWER"
+            ],
+            "Ability": "ABILITY_EFFECT_SPORE",
+            "Item": "ITEM_BLACK_SLUDGE",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": "TYPE_GROUND",
+            "TeraType": null,
+            "Name": "Offensive",
+            "SourceTiers": [
+                "GEN6NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_GIGA_DRAIN",
+                "MOVE_SLUDGE_BOMB",
+                "MOVE_MOONLIGHT",
+                "MOVE_SYNTHESIS"
+            ],
+            "Ability": "ABILITY_EFFECT_SPORE",
+            "Item": "ITEM_BLACK_SLUDGE",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_GIGA_DRAIN",
+                "MOVE_SLUDGE_BOMB",
+                "MOVE_STRENGTH_SAP",
+                "MOVE_SLEEP_POWDER"
+            ],
+            "Ability": "ABILITY_EFFECT_SPORE",
+            "Item": "ITEM_POISONIUM_Z",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Strength Sap",
+            "SourceTiers": [
+                "GEN7RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SLUDGE_BOMB",
+                "MOVE_STRENGTH_SAP",
+                "MOVE_PROTECT",
+                "MOVE_INFESTATION"
+            ],
+            "Ability": "ABILITY_EFFECT_SPORE",
+            "Item": "ITEM_ROCKY_HELMET",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_APPLE_ACID",
+                "MOVE_SLUDGE_BOMB",
+                "MOVE_STRENGTH_SAP",
+                "MOVE_SLEEP_POWDER"
+            ],
+            "Ability": "ABILITY_THICK_FAT",
+            "Item": "ITEM_BLACK_SLUDGE",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Physically Defensive",
+            "SourceTiers": [
+                "GEN8RU",
+                "GEN8NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_STRENGTH_SAP",
+                "MOVE_SLUDGE_BOMB",
+                "MOVE_GIGA_DRAIN",
+                "MOVE_LEECH_SEED"
+            ],
+            "Ability": "ABILITY_EFFECT_SPORE",
+            "Item": "ITEM_BLACK_SLUDGE",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_STRENGTH_SAP",
+                "MOVE_SLUDGE_BOMB",
+                "MOVE_GIGA_DRAIN",
+                "MOVE_SLEEP_POWDER"
+            ],
+            "Ability": "ABILITY_EFFECT_SPORE",
+            "Item": "ITEM_BLACK_SLUDGE",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SLUDGE_WAVE",
+                "MOVE_GIGA_DRAIN",
+                "MOVE_STRENGTH_SAP",
+                "MOVE_LEECH_SEED"
+            ],
+            "Ability": "ABILITY_EFFECT_SPORE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": "TYPE_FAIRY",
+            "Name": "Phyiscally Defensive",
+            "SourceTiers": [
+                "GEN9RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_GIGA_DRAIN",
+                "MOVE_SLUDGE_BOMB",
+                "MOVE_LEECH_SEED",
+                "MOVE_STRENGTH_SAP"
+            ],
+            "Ability": "ABILITY_EFFECT_SPORE",
+            "Item": "ITEM_ROCKY_HELMET",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": "TYPE_WATER",
+            "Name": "Physical Wall",
+            "SourceTiers": [
+                "GEN9NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_MOONBLAST",
+                "MOVE_EARTH_POWER",
+                "MOVE_GIGA_DRAIN",
+                "MOVE_STRENGTH_SAP"
+            ],
+            "Item": "ITEM_BLACK_SLUDGE",
+            "Ability": "ABILITY_THICK_FAT",
+            "HiddenPower": null,
+            "SourceTiers": [
+                "GEN7RU"
+            ],
+            "Name": "Defensive Earth Power",
+            "Nature": "NATURE_HARDY",
+            "TeraType": null
+        },
+        {
+            "Moves": [
+                "MOVE_APPLE_ACID",
+                "MOVE_SLUDGE_BOMB",
+                "MOVE_SLEEP_POWDER",
+                "MOVE_EARTH_POWER"
+            ],
+            "Item": "ITEM_LIFE_ORB",
+            "Ability": "ABILITY_CHLOROPHYLL",
+            "HiddenPower": null,
+            "SourceTiers": [
+                "GEN7RU"
+            ],
+            "Name": "Offensive Chlorophyll",
+            "Nature": "NATURE_HARDY",
+            "TeraType": null
+        },
+        {
+            "Moves": [
+                "MOVE_APPLE_ACID",
+                "MOVE_SLUDGE_BOMB",
+                "MOVE_STRENGTH_SAP",
+                "MOVE_SLEEP_POWDER"
+            ],
+            "Item": "ITEM_BLACK_SLUDGE",
+            "Ability": "ABILITY_THICK_FAT",
+            "HiddenPower": null,
+            "SourceTiers": [
+                "GEN8NU"
+            ],
+            "Name": "Defensive",
+            "Nature": "NATURE_HARDY",
+            "TeraType": null
+        },
+        {
+            "Moves": [
+                "MOVE_STRENGTH_SAP",
+                "MOVE_GIGA_DRAIN",
+                "MOVE_SLUDGE_BOMB",
+                "MOVE_SLEEP_POWDER"
+            ],
+            "Item": "ITEM_ROCKY_HELMET",
+            "Ability": "ABILITY_EFFECT_SPORE",
+            "HiddenPower": null,
+            "SourceTiers": [
+                "GEN8NATIONALDEXRU"
+            ],
+            "Name": "Physically Defensive",
+            "Nature": "NATURE_HARDY",
+            "TeraType": null
+        }
+    ]
+}

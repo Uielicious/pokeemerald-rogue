@@ -128,6 +128,9 @@ struct ProtectStruct
     u32 kingsShielded:1;
     u32 banefulBunkered:1;
     u32 obstructed:1;
+#ifdef ROGUE_DRAYANO
+    u32 sheltered:1;
+#endif
     u32 endured:1;
     u32 noValidMoves:1;
     u32 helpingHand:1;
@@ -818,6 +821,12 @@ STATIC_ASSERT(sizeof(((struct BattleStruct *)0)->palaceFlags) * 8 >= MAX_BATTLER
     gBattleMons[battlerId].type3 = TYPE_MYSTERY;                                            \
 }
 
+#ifdef ROGUE_DRAYANO
+    #define SHELTERED(battlerId) (gProtectStructs[battlerId].sheltered)
+#else
+    #define SHELTERED(battlerId) FALSE
+#endif
+
 #define IS_BATTLER_PROTECTED(battlerId)(gProtectStructs[battlerId].protected                                           \
                                         || gSideStatuses[GetBattlerSide(battlerId)] & SIDE_STATUS_WIDE_GUARD           \
                                         || gSideStatuses[GetBattlerSide(battlerId)] & SIDE_STATUS_QUICK_GUARD          \
@@ -828,7 +837,8 @@ STATIC_ASSERT(sizeof(((struct BattleStruct *)0)->palaceFlags) * 8 >= MAX_BATTLER
                                         || gProtectStructs[battlerId].banefulBunkered                                  \
                                         || gProtectStructs[battlerId].burningBulwarked                                 \
                                         || gProtectStructs[battlerId].obstructed                                       \
-                                        || gProtectStructs[battlerId].silkTrapped)
+                                        || gProtectStructs[battlerId].silkTrapped                                      \
+                                        || SHELTERED(battlerId))
 
 #define GET_STAT_BUFF_ID(n)((n & 7))              // first three bits 0x1, 0x2, 0x4
 #define GET_STAT_BUFF_VALUE_WITH_SIGN(n)((n & 0xF8))

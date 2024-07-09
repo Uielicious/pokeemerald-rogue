@@ -1,0 +1,157 @@
+{
+    "Species": "SPECIES_DIGLETT_ALOLAN",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_SAND_ATTACK",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_METAL_CLAW",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_GROWL",
+            "Level": 4
+        },
+        {
+            "Move": "MOVE_ASTONISH",
+            "Level": 8
+        },
+        {
+            "Move": "MOVE_MUD_SLAP",
+            "Level": 12
+        },
+        {
+            "Move": "MOVE_BULLDOZE",
+            "Level": 16
+        },
+        {
+            "Move": "MOVE_SUCKER_PUNCH",
+            "Level": 20
+        },
+        {
+            "Move": "MOVE_IRON_HEAD",
+            "Level": 24
+        },
+        {
+            "Move": "MOVE_SANDSTORM",
+            "Level": 28
+        },
+        {
+            "Move": "MOVE_DIG",
+            "Level": 32
+        },
+        {
+            "Move": "MOVE_EARTH_POWER",
+            "Level": 36
+        },
+        {
+            "Move": "MOVE_EARTHQUAKE",
+            "Level": 40
+        },
+        {
+            "Move": "MOVE_FISSURE",
+            "Level": 44
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_FINAL_GAMBIT",
+        "MOVE_HELPING_HAND",
+        "MOVE_SWORDS_DANCE",
+        "MOVE_AGILITY",
+        "MOVE_ROCK_BLAST",
+        "MOVE_ROCK_TOMB",
+        "MOVE_MIMIC",
+        "MOVE_STEEL_BEAM",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_STONE_EDGE",
+        "MOVE_SWAGGER",
+        "MOVE_PROTECT",
+        "MOVE_SHADOW_CLAW",
+        "MOVE_HEADBUTT",
+        "MOVE_IRON_DEFENSE",
+        "MOVE_TAKE_DOWN",
+        "MOVE_THIEF",
+        "MOVE_METAL_SOUND",
+        "MOVE_DOUBLE_EDGE",
+        "MOVE_SUBSTITUTE",
+        "MOVE_SCORCHING_SANDS",
+        "MOVE_SUNNY_DAY",
+        "MOVE_FACADE",
+        "MOVE_STOMPING_TANTRUM",
+        "MOVE_REVERSAL",
+        "MOVE_STEALTH_ROCK",
+        "MOVE_SAND_TOMB",
+        "MOVE_SLEEP_TALK",
+        "MOVE_SLUDGE_BOMB",
+        "MOVE_REST",
+        "MOVE_MEMENTO",
+        "MOVE_ANCIENT_POWER",
+        "MOVE_TERA_BLAST",
+        "MOVE_ENDURE",
+        "MOVE_MUD_SHOT",
+        "MOVE_THRASH",
+        "MOVE_FOUL_PLAY",
+        "MOVE_CHARM",
+        "MOVE_SCARY_FACE",
+        "MOVE_HONE_CLAWS",
+        "MOVE_SNORE",
+        "MOVE_SMACK_DOWN",
+        "MOVE_ROCK_SLIDE",
+        "MOVE_BODY_SLAM",
+        "MOVE_FLASH_CANNON"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_IRON_HEAD",
+                "MOVE_EARTHQUAKE",
+                "MOVE_ROCK_SLIDE",
+                "MOVE_SUBSTITUTE"
+            ],
+            "Ability": "ABILITY_SAND_FORCE",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Sand Sweeper",
+            "SourceTiers": [
+                "GEN7LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_EARTHQUAKE",
+                "MOVE_IRON_HEAD",
+                "MOVE_ROCK_BLAST",
+                "MOVE_SUCKER_PUNCH"
+            ],
+            "Ability": "ABILITY_TANGLING_HAIR",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": "TYPE_GROUND",
+            "Name": "Life Orb",
+            "SourceTiers": [
+                "GEN9LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_EARTHQUAKE",
+                "MOVE_STEALTH_ROCK",
+                "MOVE_IRON_HEAD",
+                "MOVE_MEMENTO"
+            ],
+            "Ability": "ABILITY_TANGLING_HAIR",
+            "Item": "ITEM_FOCUS_SASH",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN9LC"
+            ]
+        }
+    ]
+}

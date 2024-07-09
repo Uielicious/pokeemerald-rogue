@@ -1,0 +1,228 @@
+{
+    "Species": "SPECIES_GEODUDE",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_TACKLE",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_DEFENSE_CURL",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_RAPID_SPIN",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_MUD_SPORT",
+            "Level": "4"
+        },
+        {
+            "Move": "MOVE_ROCK_POLISH",
+            "Level": "6"
+        },
+        {
+            "Move": "MOVE_ROLLOUT",
+            "Level": "10"
+        },
+        {
+            "Move": "MOVE_MAGNITUDE",
+            "Level": "12"
+        },
+        {
+            "Move": "MOVE_ROCK_THROW",
+            "Level": "16"
+        },
+        {
+            "Move": "MOVE_SMACK_DOWN",
+            "Level": "18"
+        },
+        {
+            "Move": "MOVE_BULLDOZE",
+            "Level": "22"
+        },
+        {
+            "Move": "MOVE_SELF_DESTRUCT",
+            "Level": "24"
+        },
+        {
+            "Move": "MOVE_STEALTH_ROCK",
+            "Level": "28"
+        },
+        {
+            "Move": "MOVE_ROCK_BLAST",
+            "Level": "30"
+        },
+        {
+            "Move": "MOVE_EARTHQUAKE",
+            "Level": "34"
+        },
+        {
+            "Move": "MOVE_ACCELEROCK",
+            "Level": "36"
+        },
+        {
+            "Move": "MOVE_DOUBLE_EDGE",
+            "Level": "40"
+        },
+        {
+            "Move": "MOVE_STONE_EDGE",
+            "Level": "42"
+        },
+        {
+            "Move": "MOVE_HEAD_SMASH",
+            "Level": "46"
+        },
+        {
+            "Move": "MOVE_EXPLOSION",
+            "Level": "48"
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_THUNDER_PUNCH",
+        "MOVE_WIDE_GUARD",
+        "MOVE_FLING",
+        "MOVE_SUCKER_PUNCH",
+        "MOVE_BODY_PRESS",
+        "MOVE_DYNAMIC_PUNCH",
+        "MOVE_ROCK_TOMB",
+        "MOVE_EARTH_POWER",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_HIGH_HORSEPOWER",
+        "MOVE_PROTECT",
+        "MOVE_FLAIL",
+        "MOVE_IRON_DEFENSE",
+        "MOVE_TAKE_DOWN",
+        "MOVE_HAMMER_ARM",
+        "MOVE_METRONOME",
+        "MOVE_SUBSTITUTE",
+        "MOVE_BRICK_BREAK",
+        "MOVE_FACADE",
+        "MOVE_STOMPING_TANTRUM",
+        "MOVE_SUNNY_DAY",
+        "MOVE_SLEEP_TALK",
+        "MOVE_MUD_SLAP",
+        "MOVE_REST",
+        "MOVE_DIG",
+        "MOVE_TERA_BLAST",
+        "MOVE_CURSE",
+        "MOVE_ENDURE",
+        "MOVE_MUD_SHOT",
+        "MOVE_ROCK_CLIMB",
+        "MOVE_FIRE_PUNCH",
+        "MOVE_BLOCK",
+        "MOVE_SCARY_FACE",
+        "MOVE_GYRO_BALL",
+        "MOVE_MEGA_PUNCH",
+        "MOVE_ROCK_SLIDE",
+        "MOVE_FLAMETHROWER",
+        "MOVE_SANDSTORM",
+        "MOVE_FIRE_BLAST",
+        "MOVE_FOCUS_PUNCH",
+        "MOVE_BODY_SLAM"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_STEALTH_ROCK",
+                "MOVE_SUCKER_PUNCH",
+                "MOVE_EARTHQUAKE",
+                "MOVE_ROCK_BLAST"
+            ],
+            "Ability": "ABILITY_STURDY",
+            "Item": "ITEM_BERRY_JUICE",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Stealth Rock Lead",
+            "SourceTiers": [
+                "GEN6LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_EARTHQUAKE",
+                "MOVE_SUCKER_PUNCH",
+                "MOVE_STEALTH_ROCK",
+                "MOVE_EXPLOSION"
+            ],
+            "Ability": "ABILITY_STURDY",
+            "Item": "ITEM_BERRY_JUICE",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_STEALTH_ROCK",
+                "MOVE_ROCK_BLAST",
+                "MOVE_EARTHQUAKE",
+                "MOVE_SUCKER_PUNCH"
+            ],
+            "Ability": "ABILITY_STURDY",
+            "Item": "ITEM_BERRY_JUICE",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Stealth Rock",
+            "SourceTiers": [
+                "GEN7LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_STEALTH_ROCK",
+                "MOVE_RAPID_SPIN",
+                "MOVE_EARTHQUAKE",
+                "MOVE_ROCK_CLIMB"
+            ],
+            "Item": "ITEM_BERRY_JUICE",
+            "Ability": "ABILITY_STURDY",
+            "HiddenPower": null,
+            "SourceTiers": [
+                "GEN7LC"
+            ],
+            "Name": "Spinner",
+            "Nature": "NATURE_HARDY",
+            "TeraType": null
+        },
+        {
+            "Moves": [
+                "MOVE_HEAD_SMASH",
+                "MOVE_EARTHQUAKE",
+                "MOVE_STEALTH_ROCK",
+                "MOVE_EXPLOSION"
+            ],
+            "Item": "ITEM_EVIOLITE",
+            "Ability": "ABILITY_ROCK_HEAD",
+            "HiddenPower": null,
+            "SourceTiers": [
+                "GEN7LC"
+            ],
+            "Name": "Rock Head",
+            "Nature": "NATURE_HARDY",
+            "TeraType": null
+        },
+        {
+            "Moves": [
+                "MOVE_STEALTH_ROCK",
+                "MOVE_ROCK_BLAST",
+                "MOVE_EARTHQUAKE",
+                "MOVE_ACCELEROCK"
+            ],
+            "Item": "ITEM_BERRY_JUICE",
+            "Ability": "ABILITY_STURDY",
+            "HiddenPower": null,
+            "SourceTiers": [
+                "GEN7LC"
+            ],
+            "Name": "Accelerock",
+            "Nature": "NATURE_HARDY",
+            "TeraType": null
+        }
+    ]
+}

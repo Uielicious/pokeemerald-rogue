@@ -1,0 +1,169 @@
+{
+    "Species": "SPECIES_RHYHORN",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_TACKLE",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_TAIL_WHIP",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_SMACK_DOWN",
+            "Level": 5
+        },
+        {
+            "Move": "MOVE_BULLDOZE",
+            "Level": 10
+        },
+        {
+            "Move": "MOVE_HORN_ATTACK",
+            "Level": 15
+        },
+        {
+            "Move": "MOVE_SCARY_FACE",
+            "Level": 20
+        },
+        {
+            "Move": "MOVE_STOMP",
+            "Level": 25
+        },
+        {
+            "Move": "MOVE_ROCK_BLAST",
+            "Level": 30
+        },
+        {
+            "Move": "MOVE_DRILL_RUN",
+            "Level": 35
+        },
+        {
+            "Move": "MOVE_TAKE_DOWN",
+            "Level": 40
+        },
+        {
+            "Move": "MOVE_EARTHQUAKE",
+            "Level": 45
+        },
+        {
+            "Move": "MOVE_STONE_EDGE",
+            "Level": 50
+        },
+        {
+            "Move": "MOVE_MEGAHORN",
+            "Level": 55
+        },
+        {
+            "Move": "MOVE_HORN_DRILL",
+            "Level": 60
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_ICE_BEAM",
+        "MOVE_SMART_STRIKE",
+        "MOVE_DRAGON_RUSH",
+        "MOVE_THUNDER_FANG",
+        "MOVE_FIRE_FANG",
+        "MOVE_SWORDS_DANCE",
+        "MOVE_GUARD_SPLIT",
+        "MOVE_ROCK_TOMB",
+        "MOVE_EARTH_POWER",
+        "MOVE_SUPERCELL_SLAM",
+        "MOVE_HIGH_HORSEPOWER",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_PROTECT",
+        "MOVE_THIEF",
+        "MOVE_DOUBLE_EDGE",
+        "MOVE_BODY_SLAM",
+        "MOVE_SUBSTITUTE",
+        "MOVE_SCORCHING_SANDS",
+        "MOVE_SUNNY_DAY",
+        "MOVE_ENDEAVOR",
+        "MOVE_FACADE",
+        "MOVE_STOMPING_TANTRUM",
+        "MOVE_DRAGON_PULSE",
+        "MOVE_UPROAR",
+        "MOVE_ICY_WIND",
+        "MOVE_REVERSAL",
+        "MOVE_STEALTH_ROCK",
+        "MOVE_SLEEP_TALK",
+        "MOVE_MUD_SLAP",
+        "MOVE_ROAR",
+        "MOVE_THUNDERBOLT",
+        "MOVE_DIG",
+        "MOVE_TERA_BLAST",
+        "MOVE_CURSE",
+        "MOVE_ENDURE",
+        "MOVE_MUD_SHOT",
+        "MOVE_ROCK_CLIMB",
+        "MOVE_COUNTER",
+        "MOVE_THUNDER",
+        "MOVE_HEAVY_SLAM",
+        "MOVE_POISON_JAB",
+        "MOVE_ROCK_POLISH",
+        "MOVE_METAL_BURST",
+        "MOVE_BLIZZARD",
+        "MOVE_RAIN_DANCE",
+        "MOVE_ROCK_SLIDE",
+        "MOVE_FLAMETHROWER",
+        "MOVE_ICE_FANG",
+        "MOVE_SANDSTORM",
+        "MOVE_FIRE_BLAST",
+        "MOVE_CRUNCH",
+        "MOVE_BODY_PRESS",
+        "MOVE_REST"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_STEALTH_ROCK",
+                "MOVE_EARTHQUAKE",
+                "MOVE_ROCK_BLAST",
+                "MOVE_MEGAHORN"
+            ],
+            "Ability": "ABILITY_LIGHTNING_ROD",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Tank",
+            "SourceTiers": [
+                "GEN6LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_STEALTH_ROCK",
+                "MOVE_ROCK_BLAST",
+                "MOVE_EARTHQUAKE",
+                "MOVE_MEGAHORN"
+            ],
+            "Ability": "ABILITY_ROCK_HEAD",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_CAREFUL",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Rhyhorn",
+            "SourceTiers": [
+                "GEN7LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SWORDS_DANCE",
+                "MOVE_ROCK_POLISH",
+                "MOVE_EARTHQUAKE",
+                "MOVE_STONE_EDGE"
+            ],
+            "Ability": "ABILITY_LIGHTNING_ROD",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": "TYPE_FLYING",
+            "Name": "Setup Sweeper",
+            "SourceTiers": [
+                "GEN9LC"
+            ]
+        }
+    ]
+}

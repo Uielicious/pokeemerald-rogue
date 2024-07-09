@@ -1,0 +1,258 @@
+{
+    "Species": "SPECIES_DURALUDON",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_LEER",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_METAL_CLAW",
+            "Level": 1
+        },
+        {
+            "Move": "MOVE_ROCK_SMASH",
+            "Level": 6
+        },
+        {
+            "Move": "MOVE_HONE_CLAWS",
+            "Level": 12
+        },
+        {
+            "Move": "MOVE_METAL_SOUND",
+            "Level": 18
+        },
+        {
+            "Move": "MOVE_BREAKING_SWIPE",
+            "Level": 24
+        },
+        {
+            "Move": "MOVE_DRAGON_TAIL",
+            "Level": 30
+        },
+        {
+            "Move": "MOVE_IRON_DEFENSE",
+            "Level": 36
+        },
+        {
+            "Move": "MOVE_FOCUS_ENERGY",
+            "Level": 42
+        },
+        {
+            "Move": "MOVE_DRAGON_CLAW",
+            "Level": 48
+        },
+        {
+            "Move": "MOVE_FLASH_CANNON",
+            "Level": 54
+        },
+        {
+            "Move": "MOVE_METAL_BURST",
+            "Level": 60
+        },
+        {
+            "Move": "MOVE_HYPER_BEAM",
+            "Level": 66
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_MIRROR_COAT",
+        "MOVE_DARK_PULSE",
+        "MOVE_DRAGON_CHEER",
+        "MOVE_DRACO_METEOR",
+        "MOVE_SOLAR_BEAM",
+        "MOVE_REFLECT",
+        "MOVE_SWORDS_DANCE",
+        "MOVE_FRUSTRATION",
+        "MOVE_IRON_HEAD",
+        "MOVE_ROCK_TOMB",
+        "MOVE_OUTRAGE",
+        "MOVE_TOXIC",
+        "MOVE_LIGHT_SCREEN",
+        "MOVE_STEEL_BEAM",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_STONE_EDGE",
+        "MOVE_PROTECT",
+        "MOVE_DOUBLE_EDGE",
+        "MOVE_TAKE_DOWN",
+        "MOVE_SUBSTITUTE",
+        "MOVE_BRICK_BREAK",
+        "MOVE_FACADE",
+        "MOVE_DRAGON_PULSE",
+        "MOVE_STEALTH_ROCK",
+        "MOVE_SLEEP_TALK",
+        "MOVE_ROAR",
+        "MOVE_REST",
+        "MOVE_GIGA_IMPACT",
+        "MOVE_THUNDERBOLT",
+        "MOVE_SNARL",
+        "MOVE_TERA_BLAST",
+        "MOVE_ENDURE",
+        "MOVE_RETURN",
+        "MOVE_THUNDER",
+        "MOVE_FOUL_PLAY",
+        "MOVE_HEAVY_SLAM",
+        "MOVE_SCARY_FACE",
+        "MOVE_GYRO_BALL",
+        "MOVE_THUNDER_WAVE",
+        "MOVE_ROCK_SLIDE",
+        "MOVE_SLASH",
+        "MOVE_NIGHT_SLASH",
+        "MOVE_BODY_PRESS",
+        "MOVE_BODY_SLAM"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_DRACO_METEOR",
+                "MOVE_FLASH_CANNON",
+                "MOVE_BODY_PRESS",
+                "MOVE_THUNDERBOLT"
+            ],
+            "Ability": "ABILITY_LIGHT_METAL",
+            "Item": "ITEM_EXPERT_BELT",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Expert Belt",
+            "SourceTiers": [
+                "GEN8NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_DRACO_METEOR",
+                "MOVE_FLASH_CANNON",
+                "MOVE_BODY_PRESS",
+                "MOVE_STEALTH_ROCK"
+            ],
+            "Ability": "ABILITY_LIGHT_METAL",
+            "Item": "ITEM_EJECT_PACK",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Eject Pack",
+            "SourceTiers": [
+                "GEN8NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FLASH_CANNON",
+                "MOVE_DRACO_METEOR",
+                "MOVE_THUNDERBOLT",
+                "MOVE_BODY_PRESS"
+            ],
+            "Ability": "ABILITY_LIGHT_METAL",
+            "Item": "ITEM_CHOICE_SPECS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FLASH_CANNON",
+                "MOVE_DRACO_METEOR",
+                "MOVE_THUNDERBOLT",
+                "MOVE_DARK_PULSE"
+            ],
+            "Ability": "ABILITY_STALWART",
+            "Item": "ITEM_ASSAULT_VEST",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8VGC2020"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_STEALTH_ROCK",
+                "MOVE_FLASH_CANNON",
+                "MOVE_BODY_PRESS",
+                "MOVE_THUNDER_WAVE"
+            ],
+            "Ability": "ABILITY_LIGHT_METAL",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Physically Defensive (Dragon)",
+            "SourceTiers": [
+                "GEN8MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FLASH_CANNON",
+                "MOVE_THUNDERBOLT",
+                "MOVE_DRACO_METEOR",
+                "MOVE_BODY_PRESS"
+            ],
+            "Ability": "ABILITY_LIGHT_METAL",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FLASH_CANNON",
+                "MOVE_THUNDERBOLT",
+                "MOVE_DRACO_METEOR",
+                "MOVE_STEALTH_ROCK"
+            ],
+            "Ability": "ABILITY_LIGHT_METAL",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8NATIONALDEXMONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_STEALTH_ROCK",
+                "MOVE_THUNDER_WAVE",
+                "MOVE_FLASH_CANNON",
+                "MOVE_DRAGON_TAIL"
+            ],
+            "Ability": "ABILITY_LIGHT_METAL",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_CALM",
+            "HiddenPower": null,
+            "TeraType": "TYPE_GHOST",
+            "Name": "Defensive",
+            "SourceTiers": [
+                "GEN9PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FLASH_CANNON",
+                "MOVE_DRACO_METEOR",
+                "MOVE_STEEL_BEAM",
+                "MOVE_DRAGON_PULSE"
+            ],
+            "Ability": "ABILITY_LIGHT_METAL",
+            "Item": "ITEM_CHOICE_SCARF",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": "TYPE_STEEL",
+            "Name": "Choice",
+            "SourceTiers": [
+                "GEN9PU"
+            ]
+        }
+    ]
+}

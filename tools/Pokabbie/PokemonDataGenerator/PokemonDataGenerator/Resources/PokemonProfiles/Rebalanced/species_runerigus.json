@@ -1,0 +1,279 @@
+{
+    "Species": "SPECIES_RUNERIGUS",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_SHADOW_CLAW",
+            "Level": "0"
+        },
+        {
+            "Move": "MOVE_SHADOW_CLAW",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_SCARY_FACE",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_ASTONISH",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_PROTECT",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_HAZE",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_NIGHT_SHADE",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_DISABLE",
+            "Level": "12"
+        },
+        {
+            "Move": "MOVE_BRUTAL_SWING",
+            "Level": "16"
+        },
+        {
+            "Move": "MOVE_CRAFTY_SHIELD",
+            "Level": "20"
+        },
+        {
+            "Move": "MOVE_HEX",
+            "Level": "24"
+        },
+        {
+            "Move": "MOVE_MEAN_LOOK",
+            "Level": "28"
+        },
+        {
+            "Move": "MOVE_SLAM",
+            "Level": "32"
+        },
+        {
+            "Move": "MOVE_CURSE",
+            "Level": "38"
+        },
+        {
+            "Move": "MOVE_SHADOW_SNEAK",
+            "Level": "41"
+        },
+        {
+            "Move": "MOVE_SHADOW_BALL",
+            "Level": "44"
+        },
+        {
+            "Move": "MOVE_EARTHQUAKE",
+            "Level": "50"
+        },
+        {
+            "Move": "MOVE_POWER_SPLIT",
+            "Level": "56"
+        },
+        {
+            "Move": "MOVE_GUARD_SPLIT",
+            "Level": "56"
+        },
+        {
+            "Move": "MOVE_DESTINY_BOND",
+            "Level": "62"
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_DARK_PULSE",
+        "MOVE_BODY_PRESS",
+        "MOVE_FRUSTRATION",
+        "MOVE_ATTRACT",
+        "MOVE_AMNESIA",
+        "MOVE_GRASS_KNOT",
+        "MOVE_REVENGE",
+        "MOVE_ROCK_BLAST",
+        "MOVE_EARTH_POWER",
+        "MOVE_ROCK_TOMB",
+        "MOVE_ZEN_HEADBUTT",
+        "MOVE_TOXIC",
+        "MOVE_BULLDOZE",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_POLTERGEIST",
+        "MOVE_PAYBACK",
+        "MOVE_STONE_EDGE",
+        "MOVE_WILL_O_WISP",
+        "MOVE_SKILL_SWAP",
+        "MOVE_IRON_DEFENSE",
+        "MOVE_THIEF",
+        "MOVE_CALM_MIND",
+        "MOVE_HYPER_BEAM",
+        "MOVE_SUBSTITUTE",
+        "MOVE_FACADE",
+        "MOVE_PHANTOM_FORCE",
+        "MOVE_TRICK",
+        "MOVE_DRAGON_PULSE",
+        "MOVE_SAFEGUARD",
+        "MOVE_IMPRISON",
+        "MOVE_STEALTH_ROCK",
+        "MOVE_SAND_TOMB",
+        "MOVE_ENERGY_BALL",
+        "MOVE_SLEEP_TALK",
+        "MOVE_PSYCHIC",
+        "MOVE_REST",
+        "MOVE_GIGA_IMPACT",
+        "MOVE_FAKE_TEARS",
+        "MOVE_NASTY_PLOT",
+        "MOVE_ENDURE",
+        "MOVE_RETURN",
+        "MOVE_ROUND",
+        "MOVE_POWER_SWAP",
+        "MOVE_SNORE",
+        "MOVE_TRICK_ROOM",
+        "MOVE_RAIN_DANCE",
+        "MOVE_ROCK_SLIDE",
+        "MOVE_WONDER_ROOM",
+        "MOVE_BULK_UP",
+        "MOVE_SANDSTORM",
+        "MOVE_TOXIC_SPIKES",
+        "MOVE_TAUNT",
+        "MOVE_GUARD_SWAP",
+        "MOVE_ALLY_SWITCH"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_STEALTH_ROCK",
+                "MOVE_EARTHQUAKE",
+                "MOVE_WILL_O_WISP",
+                "MOVE_TOXIC_SPIKES"
+            ],
+            "Ability": "ABILITY_WANDERING_SPIRIT",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_IMPISH",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Defensive",
+            "SourceTiers": [
+                "GEN8PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_IRON_DEFENSE",
+                "MOVE_AMNESIA",
+                "MOVE_REST",
+                "MOVE_BODY_PRESS"
+            ],
+            "Ability": "ABILITY_WANDERING_SPIRIT",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_IMPISH",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Bulky Setup Sweeper",
+            "SourceTiers": [
+                "GEN8PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_STEALTH_ROCK",
+                "MOVE_EARTHQUAKE",
+                "MOVE_POLTERGEIST",
+                "MOVE_TOXIC_SPIKES"
+            ],
+            "Ability": "ABILITY_WANDERING_SPIRIT",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_IMPISH",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_STEALTH_ROCK",
+                "MOVE_EARTHQUAKE",
+                "MOVE_POLTERGEIST",
+                "MOVE_BODY_PRESS"
+            ],
+            "Ability": "ABILITY_WANDERING_SPIRIT",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_IMPISH",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Physical Wall",
+            "SourceTiers": [
+                "GEN8ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_EARTHQUAKE",
+                "MOVE_POLTERGEIST",
+                "MOVE_STEALTH_ROCK",
+                "MOVE_BODY_PRESS"
+            ],
+            "Ability": "ABILITY_WANDERING_SPIRIT",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_IMPISH",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_STEALTH_ROCK",
+                "MOVE_TOXIC_SPIKES",
+                "MOVE_EARTHQUAKE",
+                "MOVE_WILL_O_WISP"
+            ],
+            "Ability": "ABILITY_WANDERING_SPIRIT",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_IMPISH",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Defensive Hazard Setter (Ghost)",
+            "SourceTiers": [
+                "GEN8MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_STEALTH_ROCK",
+                "MOVE_WILL_O_WISP",
+                "MOVE_TOXIC_SPIKES",
+                "MOVE_EARTHQUAKE"
+            ],
+            "Ability": "ABILITY_WANDERING_SPIRIT",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_IMPISH",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_EARTHQUAKE",
+                "MOVE_BODY_PRESS",
+                "MOVE_STEALTH_ROCK",
+                "MOVE_TRICK_ROOM"
+            ],
+            "Ability": "ABILITY_WANDERING_SPIRIT",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_RELAXED",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8NATIONALDEXMONOTYPE"
+            ]
+        }
+    ]
+}

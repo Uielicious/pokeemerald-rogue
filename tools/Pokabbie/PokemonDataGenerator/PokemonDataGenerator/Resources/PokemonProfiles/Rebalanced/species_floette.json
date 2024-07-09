@@ -1,0 +1,103 @@
+{
+    "Species": "SPECIES_FLOETTE",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_TACKLE",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_VINE_WHIP",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_FAIRY_WIND",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_FAIRY_WIND",
+            "Level": "6"
+        },
+        {
+            "Move": "MOVE_LUCKY_CHANT",
+            "Level": "10"
+        },
+        {
+            "Move": "MOVE_RAZOR_LEAF",
+            "Level": "14"
+        },
+        {
+            "Move": "MOVE_WISH",
+            "Level": "18"
+        },
+        {
+            "Move": "MOVE_MAGICAL_LEAF",
+            "Level": "22"
+        },
+        {
+            "Move": "MOVE_GRASSY_TERRAIN",
+            "Level": "26"
+        },
+        {
+            "Move": "MOVE_PETAL_BLIZZARD",
+            "Level": "30"
+        },
+        {
+            "Move": "MOVE_DRAINING_KISS",
+            "Level": "34"
+        },
+        {
+            "Move": "MOVE_AROMATHERAPY",
+            "Level": "38"
+        },
+        {
+            "Move": "MOVE_MISTY_TERRAIN",
+            "Level": "43"
+        },
+        {
+            "Move": "MOVE_MOONBLAST",
+            "Level": "46"
+        },
+        {
+            "Move": "MOVE_PETAL_DANCE",
+            "Level": "51"
+        },
+        {
+            "Move": "MOVE_SOLAR_BEAM",
+            "Level": "58"
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_DISARMING_VOICE",
+        "MOVE_HELPING_HAND",
+        "MOVE_GIGA_DRAIN",
+        "MOVE_GRASS_KNOT",
+        "MOVE_CHILLING_WATER",
+        "MOVE_LIGHT_SCREEN",
+        "MOVE_POLLEN_PUFF",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_PROTECT",
+        "MOVE_BATON_PASS",
+        "MOVE_SKILL_SWAP",
+        "MOVE_CALM_MIND",
+        "MOVE_SEED_BOMB",
+        "MOVE_SUBSTITUTE",
+        "MOVE_METRONOME",
+        "MOVE_SUNNY_DAY",
+        "MOVE_ENDEAVOR",
+        "MOVE_FACADE",
+        "MOVE_TRICK",
+        "MOVE_SWIFT",
+        "MOVE_SLEEP_TALK",
+        "MOVE_ENERGY_BALL",
+        "MOVE_STORED_POWER",
+        "MOVE_PSYCHIC",
+        "MOVE_TRAILBLAZE",
+        "MOVE_TERA_BLAST",
+        "MOVE_ENDURE",
+        "MOVE_DAZZLING_GLEAM",
+        "MOVE_CHARM",
+        "MOVE_RAIN_DANCE",
+        "MOVE_REST"
+    ],
+    "CompetitiveSets": []
+}

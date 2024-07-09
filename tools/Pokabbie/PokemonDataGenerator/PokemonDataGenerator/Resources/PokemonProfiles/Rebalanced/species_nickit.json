@@ -1,0 +1,84 @@
+{
+    "Species": "SPECIES_NICKIT",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_QUICK_ATTACK",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_TAIL_WHIP",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_BEAT_UP",
+            "Level": "4"
+        },
+        {
+            "Move": "MOVE_HONE_CLAWS",
+            "Level": "8"
+        },
+        {
+            "Move": "MOVE_SNARL",
+            "Level": "12"
+        },
+        {
+            "Move": "MOVE_ASSURANCE",
+            "Level": "16"
+        },
+        {
+            "Move": "MOVE_NASTY_PLOT",
+            "Level": "20"
+        },
+        {
+            "Move": "MOVE_SUCKER_PUNCH",
+            "Level": "24"
+        },
+        {
+            "Move": "MOVE_NIGHT_SLASH",
+            "Level": "28"
+        },
+        {
+            "Move": "MOVE_TAIL_SLAP",
+            "Level": "32"
+        },
+        {
+            "Move": "MOVE_FOUL_PLAY",
+            "Level": "36"
+        },
+        {
+            "Move": "MOVE_MYSTICAL_FIRE",
+            "Level": "39"
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_LASH_OUT",
+        "MOVE_FRUSTRATION",
+        "MOVE_AGILITY",
+        "MOVE_ATTRACT",
+        "MOVE_TOXIC",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_KNOCK_OFF",
+        "MOVE_PROTECT",
+        "MOVE_BATON_PASS",
+        "MOVE_THIEF",
+        "MOVE_SUBSTITUTE",
+        "MOVE_FACADE",
+        "MOVE_SCREECH",
+        "MOVE_SWIFT",
+        "MOVE_SLEEP_TALK",
+        "MOVE_DIG",
+        "MOVE_FAKE_TEARS",
+        "MOVE_HOWL",
+        "MOVE_QUICK_GUARD",
+        "MOVE_ENDURE",
+        "MOVE_RETURN",
+        "MOVE_MUD_SHOT",
+        "MOVE_PLAY_ROUGH",
+        "MOVE_ROUND",
+        "MOVE_SNORE",
+        "MOVE_TORMENT",
+        "MOVE_TAUNT",
+        "MOVE_REST"
+    ],
+    "CompetitiveSets": []
+}

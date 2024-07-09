@@ -1,0 +1,286 @@
+{
+    "Species": "SPECIES_EMOLGA",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_THUNDER_SHOCK",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_QUICK_ATTACK",
+            "Level": "4"
+        },
+        {
+            "Move": "MOVE_TAIL_WHIP",
+            "Level": "7"
+        },
+        {
+            "Move": "MOVE_CHARGE",
+            "Level": "10"
+        },
+        {
+            "Move": "MOVE_SPARK",
+            "Level": "13"
+        },
+        {
+            "Move": "MOVE_NUZZLE",
+            "Level": "15"
+        },
+        {
+            "Move": "MOVE_PURSUIT",
+            "Level": "16"
+        },
+        {
+            "Move": "MOVE_DOUBLE_TEAM",
+            "Level": "19"
+        },
+        {
+            "Move": "MOVE_SHOCK_WAVE",
+            "Level": "22"
+        },
+        {
+            "Move": "MOVE_ELECTRO_BALL",
+            "Level": "26"
+        },
+        {
+            "Move": "MOVE_ACROBATICS",
+            "Level": "30"
+        },
+        {
+            "Move": "MOVE_LIGHT_SCREEN",
+            "Level": "34"
+        },
+        {
+            "Move": "MOVE_ENCORE",
+            "Level": "38"
+        },
+        {
+            "Move": "MOVE_VOLT_SWITCH",
+            "Level": "42"
+        },
+        {
+            "Move": "MOVE_AGILITY",
+            "Level": "46"
+        },
+        {
+            "Move": "MOVE_DISCHARGE",
+            "Level": "50"
+        },
+        {
+            "Move": "MOVE_WILD_CHARGE",
+            "Level": "55"
+        },
+        {
+            "Move": "MOVE_LAST_RESORT",
+            "Level": "60"
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_HELPING_HAND",
+        "MOVE_FLING",
+        "MOVE_SOLAR_BEAM",
+        "MOVE_ATTRACT",
+        "MOVE_SPEED_SWAP",
+        "MOVE_EERIE_IMPULSE",
+        "MOVE_KNOCK_OFF",
+        "MOVE_PROTECT",
+        "MOVE_BATON_PASS",
+        "MOVE_DEFOG",
+        "MOVE_IRON_TAIL",
+        "MOVE_SUBSTITUTE",
+        "MOVE_FACADE",
+        "MOVE_DUAL_WINGBEAT",
+        "MOVE_AIR_SLASH",
+        "MOVE_SWIFT",
+        "MOVE_SLEEP_TALK",
+        "MOVE_ENERGY_BALL",
+        "MOVE_RISING_VOLTAGE",
+        "MOVE_ASTONISH",
+        "MOVE_THUNDERBOLT",
+        "MOVE_COVET",
+        "MOVE_ELECTROWEB",
+        "MOVE_ENDURE",
+        "MOVE_ROOST",
+        "MOVE_THUNDER",
+        "MOVE_CHARM",
+        "MOVE_ROUND",
+        "MOVE_THUNDER_WAVE",
+        "MOVE_SNORE",
+        "MOVE_RAIN_DANCE",
+        "MOVE_TICKLE",
+        "MOVE_U_TURN",
+        "MOVE_TAUNT",
+        "MOVE_REST"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_TAUNT",
+                "MOVE_U_TURN",
+                "MOVE_ROOST",
+                "MOVE_ENCORE"
+            ],
+            "Ability": "ABILITY_MOTOR_DRIVE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Support",
+            "SourceTiers": [
+                "GEN6PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_AIR_SLASH",
+                "MOVE_VOLT_SWITCH",
+                "MOVE_THUNDERBOLT",
+                "MOVE_ROOST"
+            ],
+            "Ability": "ABILITY_MOTOR_DRIVE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_MODEST",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_ACROBATICS",
+                "MOVE_KNOCK_OFF",
+                "MOVE_ROOST",
+                "MOVE_U_TURN"
+            ],
+            "Ability": "ABILITY_MOTOR_DRIVE",
+            "Item": null,
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Offensive Pivot",
+            "SourceTiers": [
+                "GEN6ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_THUNDERBOLT",
+                "MOVE_U_TURN",
+                "MOVE_ENCORE",
+                "MOVE_ROOST"
+            ],
+            "Ability": "ABILITY_MOTOR_DRIVE",
+            "Item": "ITEM_ROCKY_HELMET",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Utility Pivot",
+            "SourceTiers": [
+                "GEN7PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_AIR_SLASH",
+                "MOVE_VOLT_SWITCH",
+                "MOVE_DEFOG",
+                "MOVE_ROOST"
+            ],
+            "Ability": "ABILITY_MOTOR_DRIVE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_AIR_SLASH",
+                "MOVE_DISCHARGE",
+                "MOVE_ENCORE",
+                "MOVE_ELECTROWEB"
+            ],
+            "Ability": "ABILITY_MOTOR_DRIVE",
+            "Item": "ITEM_FOCUS_SASH",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7BATTLESPOTDOUBLES"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_ACROBATICS",
+                "MOVE_KNOCK_OFF",
+                "MOVE_U_TURN",
+                "MOVE_ROOST"
+            ],
+            "Ability": "ABILITY_MOTOR_DRIVE",
+            "Item": null,
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Offensive Utility",
+            "SourceTiers": [
+                "GEN8ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_VOLT_SWITCH",
+                "MOVE_DEFOG",
+                "MOVE_AIR_SLASH",
+                "MOVE_NUZZLE"
+            ],
+            "Ability": "ABILITY_MOTOR_DRIVE",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_ACROBATICS",
+                "MOVE_WILD_CHARGE",
+                "MOVE_U_TURN",
+                "MOVE_NUZZLE"
+            ],
+            "Item": "ITEM_FLYING_GEM",
+            "Ability": "ABILITY_MOTOR_DRIVE",
+            "HiddenPower": null,
+            "SourceTiers": [
+                "GEN7PU"
+            ],
+            "Name": "Flying Gem + Acrobatics",
+            "Nature": "NATURE_HARDY",
+            "TeraType": null
+        },
+        {
+            "Moves": [
+                "MOVE_ACROBATICS",
+                "MOVE_KNOCK_OFF",
+                "MOVE_U_TURN",
+                "MOVE_ROOST"
+            ],
+            "Item": "ITEM_FLYING_GEM",
+            "Ability": "ABILITY_MOTOR_DRIVE",
+            "HiddenPower": null,
+            "SourceTiers": [
+                "GEN8ZU"
+            ],
+            "Name": "Offensive Utility",
+            "Nature": "NATURE_HARDY",
+            "TeraType": null
+        }
+    ]
+}

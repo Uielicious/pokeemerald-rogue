@@ -135,6 +135,7 @@
       "Item": "ITEM_CHOICE_SCARF",
       "Nature": "NATURE_ADAMANT",
       "HiddenPower": null,
+      "Name": "Choice Scarf",
       "SourceTiers": [
         "GEN6UBERS"
       ]
@@ -150,6 +151,7 @@
       "Item": "ITEM_LEFTOVERS",
       "Nature": "NATURE_CAREFUL",
       "HiddenPower": null,
+      "Name": "Support",
       "SourceTiers": [
         "GEN6UBERS"
       ]
@@ -165,6 +167,7 @@
       "Item": "ITEM_LEFTOVERS",
       "Nature": "NATURE_CAREFUL",
       "HiddenPower": null,
+      "Name": "Stealth Rock",
       "SourceTiers": [
         "GEN6OU"
       ]
@@ -180,6 +183,7 @@
       "Item": "ITEM_CHOICE_SCARF",
       "Nature": "NATURE_JOLLY",
       "HiddenPower": null,
+      "Name": "Choice Scarf",
       "SourceTiers": [
         "GEN6OU"
       ]
@@ -195,6 +199,7 @@
       "Item": "ITEM_LEFTOVERS",
       "Nature": "NATURE_JOLLY",
       "HiddenPower": null,
+      "Name": "SubToxic",
       "SourceTiers": [
         "GEN6OU"
       ]
@@ -210,6 +215,7 @@
       "Item": "ITEM_EXPERT_BELT",
       "Nature": "NATURE_MILD",
       "HiddenPower": "TYPE_GROUND",
+      "Name": "Mixed Attacker",
       "SourceTiers": [
         "GEN6OU"
       ]
@@ -225,6 +231,7 @@
       "Item": "ITEM_LEFTOVERS",
       "Nature": "NATURE_CAREFUL",
       "HiddenPower": null,
+      "Name": "Specially Defensive",
       "SourceTiers": [
         "GEN6OU"
       ]
@@ -240,6 +247,7 @@
       "Item": "ITEM_LEFTOVERS",
       "Nature": "NATURE_JOLLY",
       "HiddenPower": null,
+      "Name": "Showdown Usage",
       "SourceTiers": [
         "GEN6OU"
       ]
@@ -255,6 +263,7 @@
       "Item": "ITEM_CHOICE_SCARF",
       "Nature": "NATURE_JOLLY",
       "HiddenPower": null,
+      "Name": "Showdown Usage",
       "SourceTiers": [
         "GEN61V1"
       ]
@@ -270,6 +279,7 @@
       "Item": "ITEM_LEFTOVERS",
       "Nature": "NATURE_CAREFUL",
       "HiddenPower": null,
+      "Name": "Specially Defensive (Psychic)",
       "SourceTiers": [
         "GEN6MONOTYPE"
       ]
@@ -285,6 +295,7 @@
       "Item": "ITEM_CHOICE_SCARF",
       "Nature": "NATURE_JOLLY",
       "HiddenPower": null,
+      "Name": "Showdown Usage",
       "SourceTiers": [
         "GEN6MONOTYPE"
       ]
@@ -300,6 +311,7 @@
       "Item": "ITEM_CHOICE_SCARF",
       "Nature": "NATURE_JOLLY",
       "HiddenPower": null,
+      "Name": "Choice Scarf",
       "SourceTiers": [
         "GEN7OU"
       ]
@@ -315,6 +327,7 @@
       "Item": "ITEM_LEFTOVERS",
       "Nature": "NATURE_CAREFUL",
       "HiddenPower": null,
+      "Name": "Wish",
       "SourceTiers": [
         "GEN7OU"
       ]
@@ -330,6 +343,7 @@
       "Item": "ITEM_LEFTOVERS",
       "Nature": "NATURE_CAREFUL",
       "HiddenPower": null,
+      "Name": "Stealth Rock",
       "SourceTiers": [
         "GEN7OU"
       ]
@@ -345,6 +359,7 @@
       "Item": "ITEM_LEFTOVERS",
       "Nature": "NATURE_JOLLY",
       "HiddenPower": null,
+      "Name": "Showdown Usage",
       "SourceTiers": [
         "GEN7OU"
       ]
@@ -360,6 +375,7 @@
       "Item": "ITEM_CHOICE_SCARF",
       "Nature": "NATURE_JOLLY",
       "HiddenPower": null,
+      "Name": "Choice Scarf",
       "SourceTiers": [
         "GEN71V1"
       ]
@@ -375,6 +391,7 @@
       "Item": "ITEM_LEFTOVERS",
       "Nature": "NATURE_CAREFUL",
       "HiddenPower": null,
+      "Name": "Specially Defensive (Psychic)",
       "SourceTiers": [
         "GEN7MONOTYPE"
       ]
@@ -390,6 +407,7 @@
       "Item": "ITEM_NORMALIUM_Z",
       "Nature": "NATURE_NAIVE",
       "HiddenPower": null,
+      "Name": "Z-Happy Hour (Steel)",
       "SourceTiers": [
         "GEN7MONOTYPE",
         "GEN8NATIONALDEXMONOTYPE"
@@ -406,6 +424,7 @@
       "Item": "ITEM_LEFTOVERS",
       "Nature": "NATURE_TIMID",
       "HiddenPower": null,
+      "Name": "Substitute + Calm Mind (Steel)",
       "SourceTiers": [
         "GEN7MONOTYPE"
       ]
@@ -421,6 +440,7 @@
       "Item": "ITEM_LEFTOVERS",
       "Nature": "NATURE_JOLLY",
       "HiddenPower": null,
+      "Name": "Showdown Usage",
       "SourceTiers": [
         "GEN7MONOTYPE"
       ]
@@ -436,6 +456,7 @@
       "Item": "ITEM_LEFTOVERS",
       "Nature": "NATURE_CAREFUL",
       "HiddenPower": null,
+      "Name": "Specially Defensive",
       "SourceTiers": [
         "GEN8OU"
       ]
@@ -451,6 +472,7 @@
       "Item": "ITEM_CHOICE_SCARF",
       "Nature": "NATURE_JOLLY",
       "HiddenPower": null,
+      "Name": "Choice Scarf",
       "SourceTiers": [
         "GEN8OU"
       ]
@@ -466,6 +488,7 @@
       "Item": "ITEM_LEFTOVERS",
       "Nature": "NATURE_JOLLY",
       "HiddenPower": null,
+      "Name": "Showdown Usage",
       "SourceTiers": [
         "GEN8OU"
       ]
@@ -481,6 +504,7 @@
       "Item": "ITEM_CHOICE_SCARF",
       "Nature": "NATURE_JOLLY",
       "HiddenPower": null,
+      "Name": "Choice Scarf",
       "SourceTiers": [
         "GEN8UU",
         "GEN8MONOTYPE",
@@ -499,6 +523,7 @@
       "Item": "ITEM_LEFTOVERS",
       "Nature": "NATURE_JOLLY",
       "HiddenPower": null,
+      "Name": "SubToxic",
       "SourceTiers": [
         "GEN8UU"
       ]
@@ -514,6 +539,7 @@
       "Item": "ITEM_LEFTOVERS",
       "Nature": "NATURE_JOLLY",
       "HiddenPower": null,
+      "Name": "Wish + Protect",
       "SourceTiers": [
         "GEN8UU"
       ]
@@ -529,6 +555,7 @@
       "Item": "ITEM_LEFTOVERS",
       "Nature": "NATURE_JOLLY",
       "HiddenPower": null,
+      "Name": "Showdown Usage",
       "SourceTiers": [
         "GEN8UU"
       ]
@@ -544,6 +571,7 @@
       "Item": "ITEM_CHOICE_SCARF",
       "Nature": "NATURE_JOLLY",
       "HiddenPower": null,
+      "Name": "Choice Scarf",
       "SourceTiers": [
         "GEN8NATIONALDEX"
       ]
@@ -559,6 +587,7 @@
       "Item": "ITEM_NORMALIUM_Z",
       "Nature": "NATURE_ADAMANT",
       "HiddenPower": null,
+      "Name": "Showdown Usage",
       "SourceTiers": [
         "GEN8NATIONALDEX"
       ]
@@ -574,6 +603,7 @@
       "Item": "ITEM_LEFTOVERS",
       "Nature": "NATURE_CAREFUL",
       "HiddenPower": null,
+      "Name": "Specially Defensive (Psychic)",
       "SourceTiers": [
         "GEN8MONOTYPE",
         "GEN8NATIONALDEXMONOTYPE"
@@ -590,6 +620,7 @@
       "Item": "ITEM_CHOICE_SPECS",
       "Nature": "NATURE_TIMID",
       "HiddenPower": null,
+      "Name": "Choice Specs (Steel)",
       "SourceTiers": [
         "GEN8MONOTYPE"
       ]
@@ -605,6 +636,7 @@
       "Item": "ITEM_LEFTOVERS",
       "Nature": "NATURE_JOLLY",
       "HiddenPower": null,
+      "Name": "Showdown Usage",
       "SourceTiers": [
         "GEN8MONOTYPE"
       ]
@@ -620,6 +652,7 @@
       "Item": "ITEM_NORMALIUM_Z",
       "Nature": "NATURE_JOLLY",
       "HiddenPower": null,
+      "Name": "Showdown Usage",
       "SourceTiers": [
         "GEN8NATIONALDEXMONOTYPE"
       ]
@@ -635,6 +668,7 @@
       "Item": "ITEM_COLBUR_BERRY",
       "Nature": "NATURE_TIMID",
       "HiddenPower": null,
+      "Name": "Wish",
       "SourceTiers": [
         "GEN9UU"
       ]
@@ -650,6 +684,7 @@
       "Item": "ITEM_CHOICE_SCARF",
       "Nature": "NATURE_JOLLY",
       "HiddenPower": null,
+      "Name": "Showdown Usage",
       "SourceTiers": [
         "GEN9UU"
       ]
@@ -665,6 +700,7 @@
       "Item": "ITEM_NORMALIUM_Z",
       "Nature": "NATURE_NAIVE",
       "HiddenPower": null,
+      "Name": "Z-Happy Hour",
       "SourceTiers": [
         "GEN9NATIONALDEX"
       ]
@@ -680,6 +716,7 @@
       "Item": "ITEM_NORMALIUM_Z",
       "Nature": "NATURE_JOLLY",
       "HiddenPower": null,
+      "Name": "Showdown Usage",
       "SourceTiers": [
         "GEN9NATIONALDEX"
       ]
@@ -695,6 +732,7 @@
       "Item": "ITEM_LEFTOVERS",
       "Nature": "NATURE_CAREFUL",
       "HiddenPower": null,
+      "Name": "Specially Defensive (Psychic)",
       "SourceTiers": [
         "GEN9MONOTYPE"
       ]
@@ -710,6 +748,7 @@
       "Item": "ITEM_CHOICE_SCARF",
       "Nature": "NATURE_JOLLY",
       "HiddenPower": null,
+      "Name": "Choice Scarf (Psychic)",
       "SourceTiers": [
         "GEN9MONOTYPE",
         "GEN9NATIONALDEXMONOTYPE"
@@ -726,6 +765,7 @@
       "Item": "ITEM_CHOICE_SCARF",
       "Nature": "NATURE_JOLLY",
       "HiddenPower": null,
+      "Name": "Choice Scarf (Steel)",
       "SourceTiers": [
         "GEN9MONOTYPE"
       ]
@@ -741,6 +781,7 @@
       "Item": "ITEM_LEFTOVERS",
       "Nature": "NATURE_CAREFUL",
       "HiddenPower": null,
+      "Name": "Specially Defensive (Psychic)",
       "SourceTiers": [
         "GEN9NATIONALDEXMONOTYPE"
       ]
@@ -756,6 +797,7 @@
       "Item": "ITEM_NORMALIUM_Z",
       "Nature": "NATURE_NAIVE",
       "HiddenPower": null,
+      "Name": "Z-Happy Hour (Psychic)",
       "SourceTiers": [
         "GEN9NATIONALDEXMONOTYPE"
       ]
@@ -771,6 +813,7 @@
       "Item": "ITEM_NORMALIUM_Z",
       "Nature": "NATURE_JOLLY",
       "HiddenPower": null,
+      "Name": "Showdown Usage",
       "SourceTiers": [
         "GEN9NATIONALDEXMONOTYPE"
       ]

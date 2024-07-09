@@ -1,0 +1,493 @@
+{
+    "Species": "SPECIES_XATU",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_AIR_SLASH",
+            "Level": "0"
+        },
+        {
+            "Move": "MOVE_AIR_SLASH",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_TAILWIND",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_QUICK_ATTACK",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_PECK",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_LEER",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_NIGHT_SHADE",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_TELEPORT",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_NIGHT_SHADE",
+            "Level": "6"
+        },
+        {
+            "Move": "MOVE_TELEPORT",
+            "Level": "9"
+        },
+        {
+            "Move": "MOVE_LUCKY_CHANT",
+            "Level": "12"
+        },
+        {
+            "Move": "MOVE_CONFUSION",
+            "Level": "15"
+        },
+        {
+            "Move": "MOVE_STORED_POWER",
+            "Level": "17"
+        },
+        {
+            "Move": "MOVE_OMINOUS_WIND",
+            "Level": "20"
+        },
+        {
+            "Move": "MOVE_CONFUSE_RAY",
+            "Level": "23"
+        },
+        {
+            "Move": "MOVE_WISH",
+            "Level": "29"
+        },
+        {
+            "Move": "MOVE_PSYCHIC",
+            "Level": "35"
+        },
+        {
+            "Move": "MOVE_MIRACLE_EYE",
+            "Level": "39"
+        },
+        {
+            "Move": "MOVE_PSYCHO_SHIFT",
+            "Level": "43"
+        },
+        {
+            "Move": "MOVE_SYNCHRONOISE",
+            "Level": "46"
+        },
+        {
+            "Move": "MOVE_FUTURE_SIGHT",
+            "Level": "49"
+        },
+        {
+            "Move": "MOVE_POWER_SWAP",
+            "Level": "53"
+        },
+        {
+            "Move": "MOVE_GUARD_SWAP",
+            "Level": "53"
+        },
+        {
+            "Move": "MOVE_ME_FIRST",
+            "Level": "57"
+        },
+        {
+            "Move": "MOVE_HURRICANE",
+            "Level": "60"
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_MAGIC_ROOM",
+        "MOVE_GIGA_DRAIN",
+        "MOVE_SOLAR_BEAM",
+        "MOVE_REFLECT",
+        "MOVE_GRASS_KNOT",
+        "MOVE_ATTRACT",
+        "MOVE_ZEN_HEADBUTT",
+        "MOVE_LIGHT_SCREEN",
+        "MOVE_PROTECT",
+        "MOVE_BATON_PASS",
+        "MOVE_SKILL_SWAP",
+        "MOVE_PSYSHOCK",
+        "MOVE_THIEF",
+        "MOVE_CALM_MIND",
+        "MOVE_HYPER_BEAM",
+        "MOVE_STEEL_WING",
+        "MOVE_SUBSTITUTE",
+        "MOVE_SUNNY_DAY",
+        "MOVE_FACADE",
+        "MOVE_TRICK",
+        "MOVE_DUAL_WINGBEAT",
+        "MOVE_EXPANDING_FORCE",
+        "MOVE_SHADOW_BALL",
+        "MOVE_SWIFT",
+        "MOVE_IMPRISON",
+        "MOVE_SLEEP_TALK",
+        "MOVE_FLY",
+        "MOVE_MYSTICAL_FIRE",
+        "MOVE_REST",
+        "MOVE_GIGA_IMPACT",
+        "MOVE_HEAT_WAVE",
+        "MOVE_ENDURE",
+        "MOVE_ROOST",
+        "MOVE_DAZZLING_GLEAM",
+        "MOVE_FOUL_PLAY",
+        "MOVE_COSMIC_POWER",
+        "MOVE_ROUND",
+        "MOVE_AURA_SPHERE",
+        "MOVE_THUNDER_WAVE",
+        "MOVE_SNORE",
+        "MOVE_TRICK_ROOM",
+        "MOVE_RAIN_DANCE",
+        "MOVE_U_TURN",
+        "MOVE_ALLY_SWITCH"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_U_TURN",
+                "MOVE_ROOST",
+                "MOVE_NIGHT_SHADE",
+                "MOVE_THUNDER_WAVE"
+            ],
+            "Ability": "ABILITY_MAGIC_BOUNCE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_IMPISH",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Defensive Pivot",
+            "SourceTiers": [
+                "GEN6RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_ROOST",
+                "MOVE_U_TURN",
+                "MOVE_PSYCHIC",
+                "MOVE_THUNDER_WAVE"
+            ],
+            "Ability": "ABILITY_MAGIC_BOUNCE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_PSYCHIC",
+                "MOVE_ROOST",
+                "MOVE_GRASS_KNOT",
+                "MOVE_U_TURN"
+            ],
+            "Ability": "ABILITY_MAGIC_BOUNCE",
+            "Item": "ITEM_ROCKY_HELMET",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Pivot",
+            "SourceTiers": [
+                "GEN6NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_CALM_MIND",
+                "MOVE_ROOST",
+                "MOVE_PSYSHOCK",
+                "MOVE_HEAT_WAVE"
+            ],
+            "Ability": "ABILITY_MAGIC_BOUNCE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Calm Mind",
+            "SourceTiers": [
+                "GEN6NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_PSYCHIC",
+                "MOVE_GRASS_KNOT",
+                "MOVE_HEAT_WAVE",
+                "MOVE_ROOST"
+            ],
+            "Ability": "ABILITY_MAGIC_BOUNCE",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Offensive",
+            "SourceTiers": [
+                "GEN6NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_ROOST",
+                "MOVE_PSYCHIC",
+                "MOVE_HEAT_WAVE",
+                "MOVE_PSYSHOCK"
+            ],
+            "Ability": "ABILITY_MAGIC_BOUNCE",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_REFLECT",
+                "MOVE_LIGHT_SCREEN",
+                "MOVE_U_TURN",
+                "MOVE_THUNDER_WAVE"
+            ],
+            "Ability": "ABILITY_MAGIC_BOUNCE",
+            "Item": "ITEM_LIGHT_CLAY",
+            "Nature": "NATURE_CALM",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Dual Screens",
+            "SourceTiers": [
+                "GEN7UU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_ROOST",
+                "MOVE_THUNDER_WAVE",
+                "MOVE_REFLECT",
+                "MOVE_GRASS_KNOT"
+            ],
+            "Ability": "ABILITY_MAGIC_BOUNCE",
+            "Item": "ITEM_ROCKY_HELMET",
+            "Nature": "NATURE_CALM",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7UU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_PSYSHOCK",
+                "MOVE_ROOST",
+                "MOVE_HEAT_WAVE",
+                "MOVE_U_TURN"
+            ],
+            "Ability": "ABILITY_MAGIC_BOUNCE",
+            "Item": "ITEM_ROCKY_HELMET",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Defensive",
+            "SourceTiers": [
+                "GEN7RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_ROOST",
+                "MOVE_U_TURN",
+                "MOVE_HEAT_WAVE",
+                "MOVE_PSYSHOCK"
+            ],
+            "Ability": "ABILITY_MAGIC_BOUNCE",
+            "Item": "ITEM_ROCKY_HELMET",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_NIGHT_SHADE",
+                "MOVE_ROOST",
+                "MOVE_U_TURN",
+                "MOVE_THUNDER_WAVE"
+            ],
+            "Ability": "ABILITY_MAGIC_BOUNCE",
+            "Item": "ITEM_ROCKY_HELMET",
+            "Nature": "NATURE_IMPISH",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Defensive Pivot",
+            "SourceTiers": [
+                "GEN7NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_ROOST",
+                "MOVE_U_TURN",
+                "MOVE_PSYCHIC",
+                "MOVE_NIGHT_SHADE"
+            ],
+            "Ability": "ABILITY_MAGIC_BOUNCE",
+            "Item": "ITEM_ROCKY_HELMET",
+            "Nature": "NATURE_IMPISH",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_ROOST",
+                "MOVE_THUNDER_WAVE",
+                "MOVE_TELEPORT",
+                "MOVE_NIGHT_SHADE"
+            ],
+            "Ability": "ABILITY_MAGIC_BOUNCE",
+            "Item": "ITEM_ROCKY_HELMET",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Magic Bounce",
+            "SourceTiers": [
+                "GEN8UBERS"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_PSYCHIC",
+                "MOVE_ROOST",
+                "MOVE_TELEPORT",
+                "MOVE_HEAT_WAVE"
+            ],
+            "Ability": "ABILITY_MAGIC_BOUNCE",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Magic Bounce",
+            "SourceTiers": [
+                "GEN8OU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FUTURE_SIGHT",
+                "MOVE_HEAT_WAVE",
+                "MOVE_ROOST",
+                "MOVE_TELEPORT"
+            ],
+            "Ability": "ABILITY_MAGIC_BOUNCE",
+            "Item": "ITEM_ROCKY_HELMET",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Magic Bounce",
+            "SourceTiers": [
+                "GEN8RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_ROOST",
+                "MOVE_TELEPORT",
+                "MOVE_HEAT_WAVE",
+                "MOVE_PSYCHIC"
+            ],
+            "Ability": "ABILITY_MAGIC_BOUNCE",
+            "Item": "ITEM_ROCKY_HELMET",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8RU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_PSYCHIC",
+                "MOVE_FOUL_PLAY",
+                "MOVE_ROOST",
+                "MOVE_TELEPORT"
+            ],
+            "Ability": "ABILITY_MAGIC_BOUNCE",
+            "Item": "ITEM_ROCKY_HELMET",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Defensive Pivot",
+            "SourceTiers": [
+                "GEN8NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_ROOST",
+                "MOVE_PSYCHIC",
+                "MOVE_TELEPORT",
+                "MOVE_FOUL_PLAY"
+            ],
+            "Ability": "ABILITY_MAGIC_BOUNCE",
+            "Item": "ITEM_ROCKY_HELMET",
+            "Nature": "NATURE_TIMID",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8NU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_AIR_SLASH",
+                "MOVE_ROOST",
+                "MOVE_TAILWIND",
+                "MOVE_WISH"
+            ],
+            "Ability": "ABILITY_MAGIC_BOUNCE",
+            "Item": "ITEM_ROCKY_HELMET",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8NATIONALDEX"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_LIGHT_SCREEN",
+                "MOVE_REFLECT",
+                "MOVE_U_TURN",
+                "MOVE_THUNDER_WAVE"
+            ],
+            "Ability": "ABILITY_MAGIC_BOUNCE",
+            "Item": "ITEM_LIGHT_CLAY",
+            "Nature": "NATURE_JOLLY",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Xatu (Flying)",
+            "SourceTiers": [
+                "GEN8MONOTYPE"
+            ]
+        }
+    ]
+}

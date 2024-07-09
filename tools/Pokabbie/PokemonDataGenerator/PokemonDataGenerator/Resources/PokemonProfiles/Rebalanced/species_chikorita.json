@@ -1,0 +1,178 @@
+{
+    "Species": "SPECIES_CHIKORITA",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_TACKLE",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_GROWL",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_RAZOR_LEAF",
+            "Level": "6"
+        },
+        {
+            "Move": "MOVE_POISON_POWDER",
+            "Level": "9"
+        },
+        {
+            "Move": "MOVE_SYNTHESIS",
+            "Level": "12"
+        },
+        {
+            "Move": "MOVE_REFLECT",
+            "Level": "17"
+        },
+        {
+            "Move": "MOVE_LIGHT_SCREEN",
+            "Level": "17"
+        },
+        {
+            "Move": "MOVE_MAGICAL_LEAF",
+            "Level": "20"
+        },
+        {
+            "Move": "MOVE_NATURAL_GIFT",
+            "Level": "23"
+        },
+        {
+            "Move": "MOVE_DRAINING_KISS",
+            "Level": "25"
+        },
+        {
+            "Move": "MOVE_SWEET_SCENT",
+            "Level": "28"
+        },
+        {
+            "Move": "MOVE_MOONBLAST",
+            "Level": "31"
+        },
+        {
+            "Move": "MOVE_BODY_SLAM",
+            "Level": "34"
+        },
+        {
+            "Move": "MOVE_SAFEGUARD",
+            "Level": "39"
+        },
+        {
+            "Move": "MOVE_AROMATHERAPY",
+            "Level": "42"
+        },
+        {
+            "Move": "MOVE_SOLAR_BEAM",
+            "Level": "45"
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_GRASS_PLEDGE",
+        "MOVE_INGRAIN",
+        "MOVE_GRASSY_TERRAIN",
+        "MOVE_HELPING_HAND",
+        "MOVE_GIGA_DRAIN",
+        "MOVE_HEAL_PULSE",
+        "MOVE_GRASS_KNOT",
+        "MOVE_LEAF_STORM",
+        "MOVE_SWORDS_DANCE",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_PROTECT",
+        "MOVE_FLAIL",
+        "MOVE_BULLET_SEED",
+        "MOVE_DOUBLE_EDGE",
+        "MOVE_GRASSY_GLIDE",
+        "MOVE_SEED_BOMB",
+        "MOVE_TAKE_DOWN",
+        "MOVE_VINE_WHIP",
+        "MOVE_SUBSTITUTE",
+        "MOVE_SUNNY_DAY",
+        "MOVE_FACADE",
+        "MOVE_SLEEP_TALK",
+        "MOVE_ENERGY_BALL",
+        "MOVE_TRAILBLAZE",
+        "MOVE_MUD_SLAP",
+        "MOVE_ENCORE",
+        "MOVE_FAKE_TEARS",
+        "MOVE_ANCIENT_POWER",
+        "MOVE_SOLAR_BLADE",
+        "MOVE_TERA_BLAST",
+        "MOVE_CURSE",
+        "MOVE_ENDURE",
+        "MOVE_COUNTER",
+        "MOVE_DAZZLING_GLEAM",
+        "MOVE_PLAY_ROUGH",
+        "MOVE_CHARM",
+        "MOVE_REST"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_AROMATHERAPY",
+                "MOVE_SYNTHESIS",
+                "MOVE_GIGA_DRAIN",
+                "MOVE_HIDDEN_POWER"
+            ],
+            "Ability": "ABILITY_OVERGROW",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": "TYPE_FIRE",
+            "TeraType": null,
+            "Name": "Aromatherapy",
+            "SourceTiers": [
+                "GEN6LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_GIGA_DRAIN",
+                "MOVE_HIDDEN_POWER",
+                "MOVE_SYNTHESIS",
+                "MOVE_AROMATHERAPY"
+            ],
+            "Ability": "ABILITY_FILTER",
+            "Item": "ITEM_EVIOLITE",
+            "Nature": "NATURE_BOLD",
+            "HiddenPower": "TYPE_FIRE",
+            "TeraType": null,
+            "Name": "Defensive",
+            "SourceTiers": [
+                "GEN7LC"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_GIGA_DRAIN",
+                "MOVE_DRAINING_KISS",
+                "MOVE_SYNTHESIS",
+                "MOVE_AROMATHERAPY"
+            ],
+            "Item": "ITEM_EVIOLITE",
+            "Ability": "ABILITY_TRIAGE",
+            "HiddenPower": null,
+            "SourceTiers": [
+                "GEN7LC"
+            ],
+            "Name": "Triage",
+            "Nature": "NATURE_HARDY",
+            "TeraType": null
+        },
+        {
+            "Moves": [
+                "MOVE_GIGA_DRAIN",
+                "MOVE_AROMATHERAPY",
+                "MOVE_REFLECT",
+                "MOVE_LIGHT_SCREEN"
+            ],
+            "Item": "ITEM_LIGHT_CLAY",
+            "Ability": "ABILITY_FILTER",
+            "HiddenPower": null,
+            "SourceTiers": [
+                "GEN7LC"
+            ],
+            "Name": "Dual Screens",
+            "Nature": "NATURE_HARDY",
+            "TeraType": null
+        }
+    ]
+}

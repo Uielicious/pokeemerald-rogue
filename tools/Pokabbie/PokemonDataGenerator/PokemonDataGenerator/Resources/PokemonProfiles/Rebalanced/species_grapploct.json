@@ -1,0 +1,185 @@
+{
+    "Species": "SPECIES_GRAPPLOCT",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_OCTOLOCK",
+            "Level": "0"
+        },
+        {
+            "Move": "MOVE_OCTOLOCK",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_OCTAZOOKA",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_ROCK_SMASH",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_LEER",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_FEINT",
+            "Level": "4"
+        },
+        {
+            "Move": "MOVE_BUBBLE",
+            "Level": "8"
+        },
+        {
+            "Move": "MOVE_BIND",
+            "Level": "12"
+        },
+        {
+            "Move": "MOVE_DETECT",
+            "Level": "16"
+        },
+        {
+            "Move": "MOVE_BRICK_BREAK",
+            "Level": "20"
+        },
+        {
+            "Move": "MOVE_BULK_UP",
+            "Level": "24"
+        },
+        {
+            "Move": "MOVE_AQUA_JET",
+            "Level": "28"
+        },
+        {
+            "Move": "MOVE_SUBMISSION",
+            "Level": "32"
+        },
+        {
+            "Move": "MOVE_TAUNT",
+            "Level": "36"
+        },
+        {
+            "Move": "MOVE_REVERSAL",
+            "Level": "40"
+        },
+        {
+            "Move": "MOVE_MACH_PUNCH",
+            "Level": "44"
+        },
+        {
+            "Move": "MOVE_SUPERPOWER",
+            "Level": "48"
+        },
+        {
+            "Move": "MOVE_TOPSY_TURVY",
+            "Level": "52"
+        },
+        {
+            "Move": "MOVE_BRUTAL_SWING",
+            "Level": "56"
+        },
+        {
+            "Move": "MOVE_LIQUIDATION",
+            "Level": "60"
+        },
+        {
+            "Move": "MOVE_ARM_THRUST",
+            "Level": "64"
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_DIVE",
+        "MOVE_SUCKER_PUNCH",
+        "MOVE_POWER_UP_PUNCH",
+        "MOVE_SKITTER_SMACK",
+        "MOVE_ATTRACT",
+        "MOVE_FRUSTRATION",
+        "MOVE_REVENGE",
+        "MOVE_BRINE",
+        "MOVE_TOXIC",
+        "MOVE_COACHING",
+        "MOVE_WATERFALL",
+        "MOVE_HIDDEN_POWER",
+        "MOVE_WORK_UP",
+        "MOVE_PAYBACK",
+        "MOVE_PROTECT",
+        "MOVE_HYDRO_PUMP",
+        "MOVE_BODY_SLAM",
+        "MOVE_HYPER_BEAM",
+        "MOVE_SUBSTITUTE",
+        "MOVE_FACADE",
+        "MOVE_WHIRLPOOL",
+        "MOVE_STOMPING_TANTRUM",
+        "MOVE_SLEEP_TALK",
+        "MOVE_GIGA_IMPACT",
+        "MOVE_DIG",
+        "MOVE_CLOSE_COMBAT",
+        "MOVE_MUDDY_WATER",
+        "MOVE_ICE_PUNCH",
+        "MOVE_ENDURE",
+        "MOVE_RETURN",
+        "MOVE_MUD_SHOT",
+        "MOVE_FOCUS_BLAST",
+        "MOVE_SCARY_FACE",
+        "MOVE_ROUND",
+        "MOVE_SURF",
+        "MOVE_SNORE",
+        "MOVE_FLIP_TURN",
+        "MOVE_MEGA_PUNCH",
+        "MOVE_DRAIN_PUNCH",
+        "MOVE_RETALIATE",
+        "MOVE_REST"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_OCTOLOCK",
+                "MOVE_DRAIN_PUNCH",
+                "MOVE_ICE_PUNCH",
+                "MOVE_SUBSTITUTE"
+            ],
+            "Ability": "ABILITY_LIMBER",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Octolock",
+            "SourceTiers": [
+                "GEN8ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_DRAIN_PUNCH",
+                "MOVE_SUCKER_PUNCH",
+                "MOVE_POWER_UP_PUNCH",
+                "MOVE_BRUTAL_SWING"
+            ],
+            "Ability": "ABILITY_TECHNICIAN",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_AQUA_JET",
+                "MOVE_MACH_PUNCH",
+                "MOVE_FLIP_TURN",
+                "MOVE_ICE_PUNCH"
+            ],
+            "Item": "ITEM_ASSAULT_VEST",
+            "Ability": "ABILITY_TECHNICIAN",
+            "HiddenPower": null,
+            "SourceTiers": [
+                "GEN8UU"
+            ],
+            "Name": "Technician Pivot",
+            "Nature": "NATURE_HARDY",
+            "TeraType": null
+        }
+    ]
+}

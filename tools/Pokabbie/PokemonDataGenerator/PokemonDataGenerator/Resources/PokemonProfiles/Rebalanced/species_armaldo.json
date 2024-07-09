@@ -1,0 +1,364 @@
+{
+    "Species": "SPECIES_ARMALDO",
+    "LevelUpMoves": [
+        {
+            "Move": "MOVE_SCRATCH",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_HARDEN",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_MUD_SPORT",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_WATER_GUN",
+            "Level": "1"
+        },
+        {
+            "Move": "MOVE_MUD_SPORT",
+            "Level": "4"
+        },
+        {
+            "Move": "MOVE_WATER_GUN",
+            "Level": "7"
+        },
+        {
+            "Move": "MOVE_FURY_CUTTER",
+            "Level": "10"
+        },
+        {
+            "Move": "MOVE_SMACK_DOWN",
+            "Level": "13"
+        },
+        {
+            "Move": "MOVE_METAL_CLAW",
+            "Level": "17"
+        },
+        {
+            "Move": "MOVE_ANCIENT_POWER",
+            "Level": "21"
+        },
+        {
+            "Move": "MOVE_BUG_BITE",
+            "Level": "25"
+        },
+        {
+            "Move": "MOVE_BRINE",
+            "Level": "29"
+        },
+        {
+            "Move": "MOVE_SLASH",
+            "Level": "34"
+        },
+        {
+            "Move": "MOVE_CRUSH_CLAW",
+            "Level": "39"
+        },
+        {
+            "Move": "MOVE_X_SCISSOR",
+            "Level": "46"
+        },
+        {
+            "Move": "MOVE_PROTECT",
+            "Level": "53"
+        },
+        {
+            "Move": "MOVE_ROCK_BLAST",
+            "Level": "61"
+        },
+        {
+            "Move": "MOVE_FIRST_IMPRESSION",
+            "Level": "69"
+        }
+    ],
+    "TutorMoves": [
+        "MOVE_SUPERPOWER",
+        "MOVE_BRUTAL_SWING",
+        "MOVE_ATTRACT",
+        "MOVE_SWORDS_DANCE",
+        "MOVE_ROCK_TOMB",
+        "MOVE_EARTH_POWER",
+        "MOVE_RAPID_SPIN",
+        "MOVE_BULLDOZE",
+        "MOVE_STONE_EDGE",
+        "MOVE_KNOCK_OFF",
+        "MOVE_SHADOW_CLAW",
+        "MOVE_IRON_DEFENSE",
+        "MOVE_IRON_TAIL",
+        "MOVE_HYPER_BEAM",
+        "MOVE_SUBSTITUTE",
+        "MOVE_SUNNY_DAY",
+        "MOVE_BRICK_BREAK",
+        "MOVE_FACADE",
+        "MOVE_SCREECH",
+        "MOVE_STOMPING_TANTRUM",
+        "MOVE_LUNGE",
+        "MOVE_FALSE_SWIPE",
+        "MOVE_STEALTH_ROCK",
+        "MOVE_SLEEP_TALK",
+        "MOVE_REST",
+        "MOVE_GIGA_IMPACT",
+        "MOVE_DIG",
+        "MOVE_EARTHQUAKE",
+        "MOVE_BUG_BUZZ",
+        "MOVE_LIQUIDATION",
+        "MOVE_ENDURE",
+        "MOVE_MUD_SHOT",
+        "MOVE_METEOR_BEAM",
+        "MOVE_ROCK_CLIMB",
+        "MOVE_CROSS_POISON",
+        "MOVE_LOW_KICK",
+        "MOVE_ROUND",
+        "MOVE_SNORE",
+        "MOVE_ROCK_SLIDE",
+        "MOVE_SANDSTORM",
+        "MOVE_AQUA_JET",
+        "MOVE_BODY_SLAM",
+        "MOVE_FLASH_CANNON"
+    ],
+    "CompetitiveSets": [
+        {
+            "Moves": [
+                "MOVE_RAPID_SPIN",
+                "MOVE_STONE_EDGE",
+                "MOVE_KNOCK_OFF",
+                "MOVE_EARTHQUAKE"
+            ],
+            "Ability": "ABILITY_BATTLE_ARMOR",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Rapid Spin",
+            "SourceTiers": [
+                "GEN6PU",
+                "GEN6PU",
+                "GEN7PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_SWORDS_DANCE",
+                "MOVE_STONE_EDGE",
+                "MOVE_EARTHQUAKE",
+                "MOVE_AQUA_JET"
+            ],
+            "Ability": "ABILITY_SWIFT_SWIM",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Swift Swim",
+            "SourceTiers": [
+                "GEN6PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_RAPID_SPIN",
+                "MOVE_STONE_EDGE",
+                "MOVE_KNOCK_OFF",
+                "MOVE_STEALTH_ROCK"
+            ],
+            "Ability": "ABILITY_BATTLE_ARMOR",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN6MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_STONE_EDGE",
+                "MOVE_EARTHQUAKE",
+                "MOVE_RAPID_SPIN",
+                "MOVE_STEALTH_ROCK"
+            ],
+            "Ability": "ABILITY_BATTLE_ARMOR",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7PU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_STONE_EDGE",
+                "MOVE_KNOCK_OFF",
+                "MOVE_STEALTH_ROCK",
+                "MOVE_RAPID_SPIN"
+            ],
+            "Ability": "ABILITY_BATTLE_ARMOR",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Bulky Spinner",
+            "SourceTiers": [
+                "GEN7ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_STONE_EDGE",
+                "MOVE_X_SCISSOR",
+                "MOVE_KNOCK_OFF",
+                "MOVE_SWORDS_DANCE"
+            ],
+            "Ability": "ABILITY_SWIFT_SWIM",
+            "Item": "ITEM_LIFE_ORB",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Rain Sweeper",
+            "SourceTiers": [
+                "GEN7ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_STONE_EDGE",
+                "MOVE_RAPID_SPIN",
+                "MOVE_X_SCISSOR",
+                "MOVE_EARTHQUAKE"
+            ],
+            "Ability": "ABILITY_BATTLE_ARMOR",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_STEALTH_ROCK",
+                "MOVE_RAPID_SPIN",
+                "MOVE_KNOCK_OFF",
+                "MOVE_STONE_EDGE"
+            ],
+            "Ability": "ABILITY_BATTLE_ARMOR",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_CAREFUL",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Defensive Spinner (Bug)",
+            "SourceTiers": [
+                "GEN7MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_RAPID_SPIN",
+                "MOVE_STEALTH_ROCK",
+                "MOVE_KNOCK_OFF",
+                "MOVE_STONE_EDGE"
+            ],
+            "Ability": "ABILITY_BATTLE_ARMOR",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_CAREFUL",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN7MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_STEALTH_ROCK",
+                "MOVE_RAPID_SPIN",
+                "MOVE_STONE_EDGE",
+                "MOVE_KNOCK_OFF"
+            ],
+            "Ability": "ABILITY_BATTLE_ARMOR",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Offensive Utility",
+            "SourceTiers": [
+                "GEN8ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_RAPID_SPIN",
+                "MOVE_X_SCISSOR",
+                "MOVE_STONE_EDGE",
+                "MOVE_STEALTH_ROCK"
+            ],
+            "Ability": "ABILITY_BATTLE_ARMOR",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8ZU"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_RAPID_SPIN",
+                "MOVE_STEALTH_ROCK",
+                "MOVE_STONE_EDGE",
+                "MOVE_KNOCK_OFF"
+            ],
+            "Ability": "ABILITY_BATTLE_ARMOR",
+            "Item": "ITEM_LEFTOVERS",
+            "Nature": "NATURE_IMPISH",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8MONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_RAPID_SPIN",
+                "MOVE_STONE_EDGE",
+                "MOVE_KNOCK_OFF",
+                "MOVE_STEALTH_ROCK"
+            ],
+            "Ability": "ABILITY_BATTLE_ARMOR",
+            "Item": "ITEM_HEAVY_DUTY_BOOTS",
+            "Nature": "NATURE_ADAMANT",
+            "HiddenPower": null,
+            "TeraType": null,
+            "Name": "Showdown Usage",
+            "SourceTiers": [
+                "GEN8NATIONALDEXMONOTYPE"
+            ]
+        },
+        {
+            "Moves": [
+                "MOVE_FIRST_IMPRESSION",
+                "MOVE_ROCK_CLIMB",
+                "MOVE_KNOCK_OFF",
+                "MOVE_RAPID_SPIN"
+            ],
+            "Item": "ITEM_LEFTOVERS",
+            "Ability": "ABILITY_BATTLE_ARMOR",
+            "HiddenPower": null,
+            "SourceTiers": [
+                "GEN7ZU"
+            ],
+            "Name": "First Impression",
+            "Nature": "NATURE_HARDY",
+            "TeraType": null
+        }
+    ]
+}
