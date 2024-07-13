@@ -249,9 +249,9 @@ namespace PokemonDataGenerator.Pokedex
             bool isFRLGPlus = target.InternalName.Equals("kanto_plus", StringComparison.CurrentCultureIgnoreCase);
             bool isEmeraldPlus = target.InternalName.Equals("hoenn_plus", StringComparison.CurrentCultureIgnoreCase);
             bool isClassicPlus = target.InternalName.Equals("rogue_classicplus", StringComparison.CurrentCultureIgnoreCase)
-				|| target.InternalName.Equals("kanto_plus", StringComparison.CurrentCultureIgnoreCase)
+				//|| target.InternalName.Equals("kanto_plus", StringComparison.CurrentCultureIgnoreCase)
                 || target.InternalName.Equals("johto_plus", StringComparison.CurrentCultureIgnoreCase)
-                || target.InternalName.Equals("hoenn_plus", StringComparison.CurrentCultureIgnoreCase)
+                //|| target.InternalName.Equals("hoenn_plus", StringComparison.CurrentCultureIgnoreCase)
                 || target.InternalName.Equals("sinnoh_plus", StringComparison.CurrentCultureIgnoreCase)
                 || target.InternalName.Equals("unova_plus", StringComparison.CurrentCultureIgnoreCase)
                 || target.InternalName.Equals("unova_plus2", StringComparison.CurrentCultureIgnoreCase)
@@ -328,7 +328,8 @@ namespace PokemonDataGenerator.Pokedex
                     }
                     else if (isFRLGPlus)
                     {
-                        AppendDexMon_ExtraSeviiPlus(species, target); // UIE: Use this to add post-game Gen 2 mon to end of dex
+                        AppendDexMon_ExtraSeviiPlus(species, target);
+                        AppendDexMon_ExtraClassicPlus(species, target);
                     }
                     else if (isHGSS)
                     {
@@ -341,7 +342,8 @@ namespace PokemonDataGenerator.Pokedex
                     }
                     else if (isEmeraldPlus)
                     {
-                        AppendDexMon_ExtraEmeraldSafariPlus(species, target); // UIE: Use this to add the 40-ish post-game Gen 1 & 2 mon
+                        AppendDexMon_ExtraEmeraldSafariPlus(species, target);
+                        AppendDexMon_ExtraClassicPlus(species, target);
                     }
                     else if (isPinball)
                     {
