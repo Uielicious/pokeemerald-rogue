@@ -54,74 +54,83 @@ namespace PokemonDataGenerator.Pokedex
 				fullDexes.Add(GatherDexData("kanto_RBY", "Red/Blue/Yellow", 1, "kanto"));
                 fullDexes.Add(GatherDexData("kanto_FRLG", "FireRed/LeafGreen", 3, "kanto")); // UIE: New Dex: FRLG post-game dex, including new evos and post-game catchable Gen 2 Pokemon
                 fullDexes.Add(GatherDexData("kanto_letsgo", "Let's Go!", 7, "letsgo-kanto"));
-                fullDexes.Add(GatherDexData("kanto_plus", "FireRed/LeafGreen Plus", 9, "letsgo-kanto"));
+                fullDexes.Add(GatherDexData("kanto_plus", "FireRed/LeafGreen Plus", 9, "letsgo-kanto")); // UIE: New Dex: Based on FRLG dex, adds Gen 9 evos and Meltan/Melmetal
 
                 fullDexes.Add(GatherDexData("johto_GSC", "Gold/Silver/Crystal", 2, "original-johto"));
 				fullDexes.Add(GatherDexData("johto_HGSS", "HeartGold/SoulSilver", 4, "updated-johto"));
-                fullDexes.Add(GatherDexData("johto_plus", "Crystal Plus", 9, "original-johto"));
+                fullDexes.Add(GatherDexData("johto_plus", "Crystal Plus", 9, "original-johto")); // UIE: New Dex: Based on GSC dex, adds Gen 9 evos
 
                 fullDexes.Add(GatherDexData("hoenn_RS", "Ruby/Sapphire", 3, "hoenn"));
-                fullDexes.Add(GatherDexData("hoenn_emerald", "Emerald", 3, "hoenn"));
+                fullDexes.Add(GatherDexData("hoenn_E", "Emerald", 3, "hoenn")); // UIE: New Dex: Emerald post-game dex, adds Gen 2 Pokemon made available in post-game
                 //fullDexes.Add(GatherDexData("hoenn_pinball", "Ruby & Sapphire Pinball", 3, "hoenn")); // UIE: This is a joke
                 fullDexes.Add(GatherDexData("hoenn_ORAS", "OmegaRuby/AlphaSapphire", 6, "updated-hoenn"));
-                fullDexes.Add(GatherDexData("hoenn_plus", "Emerald Plus", 9, "hoenn"));
+                fullDexes.Add(GatherDexData("hoenn_plus", "Emerald Plus", 9, "hoenn")); // UIE: New Dex: Based on Emerald dex, adds Gen 9 evos
 
                 fullDexes.Add(GatherDexData("sinnoh_DP", "Diamond/Pearl", 4, "original-sinnoh"));
 				fullDexes.Add(GatherDexData("sinnoh_PL", "Platinum", 4, "extended-sinnoh"));
-                fullDexes.Add(GatherDexData("sinnoh_plus", "Platinum Plus", 9, "extended-sinnoh"));
+                fullDexes.Add(GatherDexData("sinnoh_plus", "Platinum Plus", 9, "extended-sinnoh")); // UIE: New Dex: Based on Platinum dex, adds Gen 9 evos
 
                 fullDexes.Add(GatherDexData("unova_BW", "Black/White", 5, "original-unova"));
-                fullDexes.Add(GatherDexData("unova_plus", "Black/White Plus", 5, "original-unova"));
+                fullDexes.Add(GatherDexData("unova_plus", "Black/White Plus", 5, "original-unova")); // UIE: New Dex: Based on Black/White dex, adds Gen 9 evos
                 fullDexes.Add(GatherDexData("unova_BW2", "Black 2/White 2", 5, "updated-unova"));
-                fullDexes.Add(GatherDexData("unova_plus2", "Black 2/White 2 Plus", 9, "updated-unova"));
+                fullDexes.Add(GatherDexData("unova_plus2", "Black 2/White 2 Plus", 9, "updated-unova")); // UIE: New Dex: Based on Black 2/White 2 dex, adds Gen 9 evos
 
                 fullDexes.Add(GatherDexData("kalos_XY", "X/Y", 6, "kalos-central", "kalos-coastal", "kalos-mountain"));
-                fullDexes.Add(GatherDexData("kalos_central", "Central Kalos", 6, "kalos-central"));
-                fullDexes.Add(GatherDexData("kalos_coastal", "Coastal Kalos", 6, "kalos-coastal"));
-                fullDexes.Add(GatherDexData("kalos_mountain", "Mountain Kalos", 6, "kalos-mountain"));
-                fullDexes.Add(GatherDexData("kalos_plus", "X/Y Plus", 9, "kalos-central", "kalos-coastal", "kalos-mountain"));
+                fullDexes.Add(GatherDexData("kalos_central", "Central Kalos", 6, "kalos-central")); // UIE: New Dex: Only contains mon in Central Kalos dex
+                fullDexes.Add(GatherDexData("kalos_coastal", "Coastal Kalos", 6, "kalos-coastal")); // UIE: New Dex: Only contains mon in Coastal Kalos dex
+                fullDexes.Add(GatherDexData("kalos_mountain", "Mountain Kalos", 6, "kalos-mountain")); // UIE: New Dex: Only contains mon in Mountain Kalos dex
+                fullDexes.Add(GatherDexData("kalos_plus", "X/Y Plus", 9, "kalos-central", "kalos-coastal", "kalos-mountain")); // UIE: New Dex: Based on X/Y dex, adds Gen 9 evos
 
                 fullDexes.Add(GatherDexData("alola_SM", "Sun/Moon", 7, "original-alola", "original-melemele", "original-akala", "original-ulaula", "original-poni"));
                 fullDexes.Add(GatherDexData("alola_USUM", "UltraSun/UltraMoon", 7, "updated-alola", "updated-melemele", "updated-akala", "updated-ulaula", "updated-poni"));
-                fullDexes.Add(GatherDexData("alola_melemele", "Melemele Island (US/UM)", 7, "updated-melemele"));
-                fullDexes.Add(GatherDexData("alola_akala", "Akala Island (US/UM)", 7, "updated-akala"));
-                fullDexes.Add(GatherDexData("alola_ulaula", "Ula'ula Island (US/UM)", 7, "updated-ulaula"));
-                fullDexes.Add(GatherDexData("alola_poni", "Poni Island (US/UM)", 7, "updated-poni"));
-                fullDexes.Add(GatherDexData("alola_plus", "UltraSun/UltraMoon Plus", 9, "updated-alola", "updated-melemele", "updated-akala", "updated-ulaula", "updated-poni"));
+                fullDexes.Add(GatherDexData("alola_melemele", "Melemele Island", 7, "updated-melemele")); // UIE: New Dex: Only contains mon in Melemele dex
+                fullDexes.Add(GatherDexData("alola_akala", "Akala Island", 7, "updated-akala")); // UIE: New Dex: Only contains mon in Akala dex
+                fullDexes.Add(GatherDexData("alola_ulaula", "Ula'ula Island", 7, "updated-ulaula")); // UIE: New Dex: Only contains mon in Ula'Ula dex
+                fullDexes.Add(GatherDexData("alola_poni", "Poni Island", 7, "updated-poni")); // UIE: New Dex: Only contains mon in Poni dex
+                fullDexes.Add(GatherDexData("alola_plus", "UltraSun/UltraMoon Plus", 9, "updated-alola", "updated-melemele", "updated-akala", "updated-ulaula", "updated-poni")); // UIE: New Dex: Based on UltraSun/UltraMoon dex, adds Gen 9 evos
 
                 fullDexes.Add(GatherDexData("galar_swsh", "Sword/Shield", 8, "galar"));
 				fullDexes.Add(GatherDexData("galar_isleofarmor", "Isle of Armor", 8, "isle-of-armor"));
 				fullDexes.Add(GatherDexData("galar_crowntundra", "Crown Tundra", 8, "crown-tundra"));
 				fullDexes.Add(GatherDexData("galar_fulldlc", "Sword/Shield + DLC", 8, "galar", "isle-of-armor", "crown-tundra"));
-                fullDexes.Add(GatherDexData("galar_plus", "Sword/Shield Plus", 9, "galar", "isle-of-armor", "crown-tundra"));
+                fullDexes.Add(GatherDexData("galar_plus", "Sword/Shield Plus", 9, "galar", "isle-of-armor", "crown-tundra")); // UIE: New Dex: Based on Full DLC dex, adds Gen 9 evos
 
                 fullDexes.Add(GatherDexData("paldea_scvi", "Scarlet/Violet", 9, "paldea"));
 				fullDexes.Add(GatherDexData("paldea_kitakami", "The Teal Mask", 9, "kitakami"));
 				fullDexes.Add(GatherDexData("paldea_blueberry", "Indigo Disk", 9, "blueberry"));
 				fullDexes.Add(GatherDexData("paldea_fulldlc", "Scarlet/Violet + DLC", 9, "paldea", "kitakami", "blueberry"));
-                fullDexes.Add(GatherDexData("paldea_plus", "Scarlet/Violet Plus", 9, "paldea", "kitakami", "blueberry"));
+                fullDexes.Add(GatherDexData("paldea_plus", "Scarlet/Violet Plus", 9, "paldea", "kitakami", "blueberry")); // UIE: New Dex: Based on Full DLC dex, adds Hisui evos
 
-                fullDexes.Add(GatherResourceDexData("orre_colosseum", "Colosseum", 3, "Orre/Colo Dex.csv"));
-                fullDexes.Add(GatherResourceDexData("orre_XD", "XD: Gale of Darkness", 3, "Orre/XD Dex.csv"));
-                fullDexes.Add(GatherResourceDexData("orre_coloXD", "Colosseum & XD", 3, "Orre/Orre Dex.csv"));
-                fullDexes.Add(GatherResourceDexData("orre_plus", "Colosseum & XD Plus", 9, "Orre/Orre Dex Plus.csv"));
+                fullDexes.Add(GatherResourceDexData("orre_colosseum", "Colosseum", 3, "Orre/Colo Dex.csv")); // UIE: New Dex: Based on Pokemon Colosseum
+                fullDexes.Add(GatherResourceDexData("orre_XD", "XD: Gale of Darkness", 3, "Orre/XD Dex.csv")); // UIE: New Dex: Based on Pokemon XD
+                fullDexes.Add(GatherResourceDexData("orre_coloXD", "Colosseum & XD", 3, "Orre/Orre Dex.csv")); // UIE: New Dex: Combines Colosseum and XD dexes
+                fullDexes.Add(GatherResourceDexData("orre_plus", "Colosseum & XD Plus", 9, "Orre/Orre Dex Plus.csv")); // UIE: New Dex: adds Gen 9 evos
 
-                fullDexes.Add(GatherResourceDexData("fiore_ranger", "Ranger", 3, "Ranger/Fiore Dex.csv"));
-                fullDexes.Add(GatherResourceDexData("fiore_plus", "Ranger Plus", 9, "Ranger/Fiore Dex Plus.csv"));
+                fullDexes.Add(GatherResourceDexData("fiore_ranger", "Ranger", 3, "Ranger/Fiore Dex.csv")); // UIE: New Dex: Based on Pokemon Ranger
+                fullDexes.Add(GatherResourceDexData("fiore_plus", "Ranger Plus", 9, "Ranger/Fiore Dex Plus.csv")); // UIE: New Dex: adds Gen 9 evos
 
-                fullDexes.Add(GatherResourceDexData("almia_shadows", "Shadows of Almia", 4, "Ranger/Almia Dex.csv"));
-                fullDexes.Add(GatherResourceDexData("almia_plus", "Shadows of Almia Plus", 9, "Ranger/Almia Dex Plus.csv"));
+                fullDexes.Add(GatherResourceDexData("almia_shadows", "Shadows of Almia", 4, "Ranger/Almia Dex.csv")); // UIE: New Dex: Based on Pokemon Ranger: Shadows of Almia
+                fullDexes.Add(GatherResourceDexData("almia_plus", "Shadows of Almia Plus", 9, "Ranger/Almia Dex Plus.csv")); // UIE: New Dex: adds Gen 9 evos
 
-                fullDexes.Add(GatherResourceDexData("oblivia_guardian", "Guardian Signs", 4, "Ranger/Oblivia Dex.csv"));
-                fullDexes.Add(GatherResourceDexData("oblivia_plus", "Guardian Signs Plus", 9, "Ranger/Oblivia Dex Plus.csv"));
+                fullDexes.Add(GatherResourceDexData("oblivia_guardian", "Guardian Signs", 4, "Ranger/Oblivia Dex.csv")); // UIE: New Dex: Based on Pokemon Ranger: Guardian Signs
+                fullDexes.Add(GatherResourceDexData("oblivia_plus", "Guardian Signs Plus", 9, "Ranger/Oblivia Dex Plus.csv")); // UIE: New Dex: adds Gen 9 evos
 
                 fullDexes.Add(GatherDexData("ransei_conquest", "Conquest", 5, "conquest-gallery"));
-                fullDexes.Add(GatherDexData("ransei_plus", "Conquest Plus", 9, "conquest-gallery"));
+                fullDexes.Add(GatherDexData("ransei_plus", "Conquest Plus", 9, "conquest-gallery")); // UIE: New Dex: adds Gen 9 evos
 
                 fullDexes.Add(GatherDexData("hisui_legendsarceus", "Legends Arceus", 9, "hisui"));
-                fullDexes.Add(GatherDexData("hisui_plus", "Legends Arceus Plus", 9, "hisui"));
+                fullDexes.Add(GatherDexData("hisui_plus", "Legends Arceus Plus", 9, "hisui")); // UIE: New Dex: adds Gen 9 evos
 
                 //fullDexes.Add(GatherResourceDexData("extras_unown", "Unown Dex", 9, "Extras/Unown Dex.csv")); //DOES NOT WORK, defaults to Magikarp 99% of the time
+                fullDexes.Add(GatherResourceDexData("extras_lc", "Little Cup (Gen. 9)", 9, "Extras/Little Cup Dex.csv")); // UIE: New Dex: Only contains unevolved Pokemon that can evolve
+                fullDexes.Add(GatherResourceDexData("extras_stadium", "Stadium (Japan)", 1, "Extras/Stadium Dex.csv")); // UIE: New Dex: Only contains the 40 Pokemon usable in the original Stadium, experimental
+                //fullDexes.Add(GatherResourceDexData("extras_nsnap", "Pokemon Island (Snap)", 8, "Extras/Snap Dex.csv")); // UIE: New Dex: Based on Pokemon Snap. Disabled because it's kinda pointless, but here for completeness.
+                fullDexes.Add(GatherResourceDexData("extras_nsnap", "Lental (New Snap)", 8, "Extras/Lental Dex.csv")); // UIE: New Dex: Based on New Pokemon Snap
+                fullDexes.Add(GatherResourceDexData("extras_sleep", "Sleep", 9, "Extras/Sleep Dex.csv")); // UIE: New Dex: Based on Pokemon Sleep
+                // Mystery Dungeon dexes, in Extras for now until I can find a good name for the "region"
+                fullDexes.Add(GatherResourceDexData("extras_blazing", "Blazing Adventure Squad", 4, "Mystery/Blazing Dex.csv")); // UIE: New Dex: Based on Pokemon Mystery Dungeon: Keep Going! Blazing Adventure Squad
+                fullDexes.Add(GatherResourceDexData("extras_stormy", "Stormy Adventure Squad", 4, "Mystery/Stormy Dex.csv")); // UIE: New Dex: Based on Pokemon Mystery Dungeon: Let's Go! Stormy Adventure Squad
+                fullDexes.Add(GatherResourceDexData("extras_light", "Light Adventure Squad", 4, "Mystery/Light Dex.csv")); // UIE: New Dex: Based on Pokemon Mystery Dungeon: Go For It! Light Adventure Squad
 
                 fullDexes.Add(GatherDexData("national_gen1", "Gen. 1", 1, "national"));
 				fullDexes.Add(GatherDexData("national_gen2", "Gen. 2", 2, "national"));
@@ -234,8 +243,9 @@ namespace PokemonDataGenerator.Pokedex
 
             bool isFRLG = target.InternalName.Equals("kanto_FRLG", StringComparison.CurrentCultureIgnoreCase);
             bool isHGSS = target.InternalName.Equals("johto_HGSS", StringComparison.CurrentCultureIgnoreCase);
-            bool isEmerald = target.InternalName.Equals("hoenn_emerald", StringComparison.CurrentCultureIgnoreCase);
+            bool isEmerald = target.InternalName.Equals("hoenn_E", StringComparison.CurrentCultureIgnoreCase);
             bool isORAS = target.InternalName.Equals("hoenn_ORAS", StringComparison.CurrentCultureIgnoreCase);
+            bool isPlatinum = target.InternalName.Equals("sinnoh_PL", StringComparison.CurrentCultureIgnoreCase);
             bool isBDSP = target.InternalName.Equals("sinnoh_BDSP", StringComparison.CurrentCultureIgnoreCase);
             bool isSM = target.InternalName.Equals("alola_SM", StringComparison.CurrentCultureIgnoreCase);
             bool isUSUM = target.InternalName.Equals("alola_USUM", StringComparison.CurrentCultureIgnoreCase);
@@ -334,7 +344,7 @@ namespace PokemonDataGenerator.Pokedex
                     else if (isHGSS)
                     {
                         AppendDexMon_ExtraHGSS(species, target); // HGSS dex is missing a lot of evos from regional dex, as they weren't techincally obtainable until post game so forcefully insert them here
-                        //AppendDexMon_ExtraHGSSPostGame(species, target); // HGSS dex is missing a lot of evos from regional dex, as they weren't techincally obtainable until post game so forcefully insert them here
+                        //AppendDexMon_ExtraHGSSPostGame(species, target); // Disabled because it makes HGSS almost identical to Nat Dex (Gen. 4)
                     }
                     else if (isEmerald)
                     {
@@ -353,6 +363,11 @@ namespace PokemonDataGenerator.Pokedex
                     {
                         AppendDexMon_ExtraORASDexNav(species, target);
                         //AppendDexMon_ExtraMirageSpots(species, target);
+                    }
+                    else if (isPlatinum)
+                    {
+                        AppendDexMon_ExtraDualSlot(species, target);
+                        AppendDexMon_ExtraPlatinum(species, target);
                     }
                     else if (isBDSP)
                     {
@@ -1284,7 +1299,78 @@ namespace PokemonDataGenerator.Pokedex
         }
         // Adds (3) [Gen 2], (7) [Gen 4], & (9) [Gen 5] Legendaries obtainable from Mirage Spots in ORAS (Total: 19)
 
-
+        private static void AppendDexMon_ExtraPlatinum(string species, PokedexData target)
+        {
+            if (species.Equals("manaphy", StringComparison.CurrentCultureIgnoreCase))
+            {
+                target.Mons[target.Mons.Count - 1] = "phione";
+                target.Mons.Add("manaphy");
+            }
+            if (species.Equals("giratina", StringComparison.CurrentCultureIgnoreCase))
+            {
+                target.Mons.Add("heatran");
+                target.Mons.Add("regigigas");
+                target.Mons.Add("cresselia");
+                target.Mons.Add("darkrai");
+                target.Mons.Add("shaymin");
+                target.Mons.Add("arceus");
+            }
+        }
+        // Adds (7) [Gen 4] Legendaries not listed in the Diamond/Pearl or Platinum dexes. Currently only appending these to the Platinum dex, but they are available in Diamond/Pearl too.
+        private static void AppendDexMon_ExtraDualSlot(string species, PokedexData target)
+        {
+            //if (species.Equals("manaphy", StringComparison.CurrentCultureIgnoreCase))
+            if (species.Equals("rotom", StringComparison.CurrentCultureIgnoreCase))
+            {
+                // Ruby
+                target.Mons.Add("seedot");
+                target.Mons.Add("nuzleaf");
+                target.Mons.Add("shiftry");
+                target.Mons.Add("mawile");
+                target.Mons.Add("zangoose");
+                target.Mons.Add("solrock");
+                // Sapphire
+                target.Mons.Add("lotad");
+                target.Mons.Add("lombre");
+                target.Mons.Add("ludicolo");
+                target.Mons.Add("sableye");
+                target.Mons.Add("seviper");
+                target.Mons.Add("lunatone");
+                // FireRed
+                target.Mons.Add("caterpie");
+                target.Mons.Add("metapod");
+                target.Mons.Add("butterfree");
+                target.Mons.Add("ekans");
+                target.Mons.Add("arbok");
+                target.Mons.Add("growlithe");
+                target.Mons.Add("arcanine");
+                //target.Mons.Add("elekid"); // Already in Platinum Dex, missing from DP Dex
+                //target.Mons.Add("electabuzz");
+                //target.Mons.Add("electivire");
+                // LeafGreen
+                target.Mons.Add("weedle");
+                target.Mons.Add("kakuna");
+                target.Mons.Add("beedrill");
+                target.Mons.Add("sandshrew");
+                target.Mons.Add("sandslash");
+                target.Mons.Add("vulpix");
+                target.Mons.Add("ninetales");
+                //target.Mons.Add("magby"); // Already in Platinum Dex, missing from DP Dex
+                //target.Mons.Add("magmar");
+                //target.Mons.Add("magmortar");
+                // Emerald
+                target.Mons.Add("teddiursa");
+                target.Mons.Add("ursaring");
+                target.Mons.Add("pineco");
+                target.Mons.Add("forretress");
+                //target.Mons.Add("gligar"); // Already in Platinum Dex, missing from DP Dex
+                //target.Mons.Add("gliscor");
+                target.Mons.Add("shuckle");
+            }
+        }
+        // Adds (31) [Gen 1-3] Pokemon obtainable by having a Gen III game cartridge inserted while playing Diamond/Pearl or Platinum.
+        // Currently appends after Rotom, meaning it only works with the Platinum Dex.
+        // Optionally included commented out line to append after Manaphy instead for Diamond/Pearl Dex compatibility.
         private static void AppendDexMon_ExtraRamanasPark(string species, PokedexData target)
         {
             if (species.Equals("deoxys", StringComparison.CurrentCultureIgnoreCase))
@@ -1308,7 +1394,7 @@ namespace PokemonDataGenerator.Pokedex
                 target.Mons.Add("mewtwo");
             }
         }
-        // Adds (4) [Gen 1], (5) [Gen 2], & (8) [Gen 3] Legendaries obtainable from Mirage Spots in ORAS (Total: 17)
+        // Adds (4) [Gen 1], (5) [Gen 2], & (8) [Gen 3] Legendaries obtainable from Ramanas Park in BDSP (Total: 17)
 
         private static void AppendDexMon_ExtraIslandScanSM(string species, PokedexData target)
         {
