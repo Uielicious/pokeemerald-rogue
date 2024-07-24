@@ -71,7 +71,7 @@ namespace PokemonDataGenerator.Pokedex
                 fullDexes.Add(GatherDexData("sinnoh_plus", "Platinum Plus", 9, "extended-sinnoh")); // UIE: New Dex: Based on Platinum dex, adds Gen 9 evos
 
                 fullDexes.Add(GatherDexData("unova_BW", "Black/White", 5, "original-unova"));
-                fullDexes.Add(GatherDexData("unova_plus", "Black/White Plus", 5, "original-unova")); // UIE: New Dex: Based on Black/White dex, adds Gen 9 evos
+                fullDexes.Add(GatherDexData("unova_plus", "Black/White Plus", 9, "original-unova")); // UIE: New Dex: Based on Black/White dex, adds Gen 9 evos
                 fullDexes.Add(GatherDexData("unova_BW2", "Black 2/White 2", 5, "updated-unova"));
                 fullDexes.Add(GatherDexData("unova_plus2", "Black 2/White 2 Plus", 9, "updated-unova")); // UIE: New Dex: Based on Black 2/White 2 dex, adds Gen 9 evos
 
@@ -98,7 +98,7 @@ namespace PokemonDataGenerator.Pokedex
                 fullDexes.Add(GatherDexData("paldea_scvi", "Scarlet/Violet", 9, "paldea"));
 				fullDexes.Add(GatherDexData("paldea_kitakami", "The Teal Mask", 9, "kitakami"));
 				fullDexes.Add(GatherDexData("paldea_blueberry", "Indigo Disk", 9, "blueberry"));
-				fullDexes.Add(GatherDexData("paldea_fulldlc", "Scarlet/Violet + DLC", 9, "paldea", "kitakami", "blueberry"));
+                fullDexes.Add(GatherDexData("paldea_fulldlc", "Scarlet/Violet + DLC", 9, "paldea", "kitakami", "blueberry"));
                 fullDexes.Add(GatherDexData("paldea_plus", "Scarlet/Violet Plus", 9, "paldea", "kitakami", "blueberry")); // UIE: New Dex: Based on Full DLC dex, adds Hisui evos
 
                 fullDexes.Add(GatherResourceDexData("orre_colosseum", "Colosseum", 3, "Orre/Colo Dex.csv")); // UIE: New Dex: Based on Pokemon Colosseum
@@ -121,16 +121,25 @@ namespace PokemonDataGenerator.Pokedex
                 fullDexes.Add(GatherDexData("hisui_legendsarceus", "Legends Arceus", 9, "hisui"));
                 fullDexes.Add(GatherDexData("hisui_plus", "Legends Arceus Plus", 9, "hisui")); // UIE: New Dex: adds Gen 9 evos
 
+                //fullDexes.Add(GatherDexData("mystery_rescueteam", "Rescue Team DX", 3, "national")); // UIE: New Dex: Based on Pokemon Mystery Dungeon: Rescue Team DX. Literally just Nat Dex Gen. 3 with Gen 6 evos and Riolu/Lucario. Reordered to put starters at the top.
+                //fullDexes.Add(GatherDexData("mystery_explorers", "Explorers of Sky", 4, "national")); // UIE: New Dex: Based on Pokemon Mystery Dungeon: Explorers of Sky. Literally just Nat Dex Gen .4 minus Arceus. Reordered to put starters at the top.
+                fullDexes.Add(GatherResourceDexData("mystery_blazing", "Blazing Adventure Squad", 4, "Mystery/Blazing Dex.csv")); // UIE: New Dex: Based on Pokemon Mystery Dungeon: Keep Going! Blazing Adventure Squad
+                fullDexes.Add(GatherResourceDexData("mystery_stormy", "Stormy Adventure Squad", 4, "Mystery/Stormy Dex.csv")); // UIE: New Dex: Based on Pokemon Mystery Dungeon: Let's Go! Stormy Adventure Squad
+                fullDexes.Add(GatherResourceDexData("mystery_light", "Light Adventure Squad", 4, "Mystery/Light Dex.csv")); // UIE: New Dex: Based on Pokemon Mystery Dungeon: Go For It! Light Adventure Squad
+                //fullDexes.Add(GatherResourceDexData("extras_infinity", "Gates to Infinity", 5, "Mystery/Infinity Dex.csv")); // UIE: New Dex: Based on Pokemon Mystery Dungeon: Gates to Infinity
+                //fullDexes.Add(GatherDexData("mystery_super", "Super Mystery Dungeon", 6, "national")); // UIE: New Dex: Based on Pokemon Mystery Dungeon: Rescue Team DX. Literally just Nat Dex Gen. 6 minus Volcanion. Reordered to put starters at the top.
+
                 //fullDexes.Add(GatherResourceDexData("extras_unown", "Unown Dex", 9, "Extras/Unown Dex.csv")); //DOES NOT WORK, defaults to Magikarp 99% of the time
                 fullDexes.Add(GatherResourceDexData("extras_lc", "Little Cup (Gen. 9)", 9, "Extras/Little Cup Dex.csv")); // UIE: New Dex: Only contains unevolved Pokemon that can evolve
                 fullDexes.Add(GatherResourceDexData("extras_stadium", "Stadium (Japan)", 1, "Extras/Stadium Dex.csv")); // UIE: New Dex: Only contains the 40 Pokemon usable in the original Stadium, experimental
-                //fullDexes.Add(GatherResourceDexData("extras_nsnap", "Pokemon Island (Snap)", 8, "Extras/Snap Dex.csv")); // UIE: New Dex: Based on Pokemon Snap. Disabled because it's kinda pointless, but here for completeness.
-                fullDexes.Add(GatherResourceDexData("extras_nsnap", "Lental (New Snap)", 8, "Extras/Lental Dex.csv")); // UIE: New Dex: Based on New Pokemon Snap
-                fullDexes.Add(GatherResourceDexData("extras_sleep", "Sleep", 9, "Extras/Sleep Dex.csv")); // UIE: New Dex: Based on Pokemon Sleep
-                // Mystery Dungeon dexes, in Extras for now until I can find a good name for the "region"
-                fullDexes.Add(GatherResourceDexData("extras_blazing", "Blazing Adventure Squad", 4, "Mystery/Blazing Dex.csv")); // UIE: New Dex: Based on Pokemon Mystery Dungeon: Keep Going! Blazing Adventure Squad
-                fullDexes.Add(GatherResourceDexData("extras_stormy", "Stormy Adventure Squad", 4, "Mystery/Stormy Dex.csv")); // UIE: New Dex: Based on Pokemon Mystery Dungeon: Let's Go! Stormy Adventure Squad
-                fullDexes.Add(GatherResourceDexData("extras_light", "Light Adventure Squad", 4, "Mystery/Light Dex.csv")); // UIE: New Dex: Based on Pokemon Mystery Dungeon: Go For It! Light Adventure Squad
+                //fullDexes.Add(GatherResourceDexData("extras_nsnap", "Snap", 1, "Extras/Snap Dex.csv")); // UIE: New Dex: Based on Pokemon Snap. Disabled because it's kinda pointless, but here for completeness.
+                //fullDexes.Add(GatherResourceDexData("extras_rumble", "Rumble", 4, "Extras/Rumble Dex.csv")); // UIE: New Dex: Based on Pokemon Rumble. Disabled because it's just the dexes of Gen 1 & Gen 4. Unsure how game handles Porygon2 not being here.
+                //fullDexes.Add(GatherResourceDexData("extras_rush", "Rumble Rush", 7, "Extras/Rumble Rush Dex.csv")); // UIE: New Dex: Based on Pokemon Rumble Rush. Basically just Nat Dex Gen. 7 with a few Gen 6 & 7 Pokemon missing.
+                //fullDexes.Add(GatherResourceDexData("extras_typing", "Battle & Go! Typing", 4, "Extras/Typing Dex.csv")); // UIE: New Dex: Based on Pokemon Battle & Go! Typing. 400 Pokemon in ALPHABETICAL ORDER is hilarious. Disabled for now though.
+                //fullDexes.Add(GatherResourceDexData("extras_nsnap", "New Snap (Lental)", 8, "Extras/Lental Dex.csv")); // UIE: New Dex: Based on New Pokemon Snap
+                //fullDexes.Add(GatherResourceDexData("extras_cafe", "Cafe ReMix", 9, "Extras/Sleep Dex.csv")); // UIE: New Dex: Based on Pokemon Cafe ReMix
+                //fullDexes.Add(GatherResourceDexData("extras_sleep", "Sleep", 9, "Extras/Sleep Dex.csv")); // UIE: New Dex: Based on Pokemon Sleep
+                //fullDexes.Add(GatherResourceDexData("extras_smash", "Super Smash Bros.", 9, "Extras/Sleep Dex.csv")); // UIE: New Dex: Based on the Super Smash Bros. series
 
                 fullDexes.Add(GatherDexData("national_gen1", "Gen. 1", 1, "national"));
 				fullDexes.Add(GatherDexData("national_gen2", "Gen. 2", 2, "national"));
@@ -241,27 +250,34 @@ namespace PokemonDataGenerator.Pokedex
 			string uri = m_DexApiLinks[dexId];
 			JObject dex = ContentCache.GetJsonContent(uri);
 
-            bool isFRLG = target.InternalName.Equals("kanto_FRLG", StringComparison.CurrentCultureIgnoreCase);
+            bool isFRLG = target.InternalName.Equals("kanto_FRLG", StringComparison.CurrentCultureIgnoreCase)
+                || target.InternalName.Equals("kanto_plus", StringComparison.CurrentCultureIgnoreCase);
             bool isHGSS = target.InternalName.Equals("johto_HGSS", StringComparison.CurrentCultureIgnoreCase);
-            bool isEmerald = target.InternalName.Equals("hoenn_E", StringComparison.CurrentCultureIgnoreCase);
+            bool isEmerald = target.InternalName.Equals("hoenn_E", StringComparison.CurrentCultureIgnoreCase)
+                || target.InternalName.Equals("hoenn_plus", StringComparison.CurrentCultureIgnoreCase);
             bool isORAS = target.InternalName.Equals("hoenn_ORAS", StringComparison.CurrentCultureIgnoreCase);
-            bool isPlatinum = target.InternalName.Equals("sinnoh_PL", StringComparison.CurrentCultureIgnoreCase);
+            bool isPlatinum = target.InternalName.Equals("sinnoh_PL", StringComparison.CurrentCultureIgnoreCase)
+                || target.InternalName.Equals("sinnoh_plus", StringComparison.CurrentCultureIgnoreCase);
             bool isBDSP = target.InternalName.Equals("sinnoh_BDSP", StringComparison.CurrentCultureIgnoreCase);
             bool isSM = target.InternalName.Equals("alola_SM", StringComparison.CurrentCultureIgnoreCase);
-            bool isUSUM = target.InternalName.Equals("alola_USUM", StringComparison.CurrentCultureIgnoreCase);
+            bool isUSUM = target.InternalName.Equals("alola_USUM", StringComparison.CurrentCultureIgnoreCase)
+                || target.InternalName.Equals("alola_plus", StringComparison.CurrentCultureIgnoreCase);
             bool isSwSh = target.InternalName.Equals("galar_crowntundra", StringComparison.CurrentCultureIgnoreCase)
-                || target.InternalName.Equals("galar_fulldlc", StringComparison.CurrentCultureIgnoreCase);
+                || target.InternalName.Equals("galar_fulldlc", StringComparison.CurrentCultureIgnoreCase)
+                || target.InternalName.Equals("galar_plus", StringComparison.CurrentCultureIgnoreCase);
             bool isScVi = target.InternalName.Equals("paldea_blueberry", StringComparison.CurrentCultureIgnoreCase)
-                || target.InternalName.Equals("paldea_fulldlc", StringComparison.CurrentCultureIgnoreCase);
+                || target.InternalName.Equals("paldea_fulldlc", StringComparison.CurrentCultureIgnoreCase)
+                || target.InternalName.Equals("paldea_plus", StringComparison.CurrentCultureIgnoreCase);
 
             bool isPinball = target.InternalName.Equals("hoenn_pinball", StringComparison.CurrentCultureIgnoreCase); // UIE: This is a joke
+            bool isRescueTeam = target.InternalName.Equals("mystery_rescueteam", StringComparison.CurrentCultureIgnoreCase);
+            bool isExplorers = target.InternalName.Equals("mystery_explorers", StringComparison.CurrentCultureIgnoreCase);
+            bool isSuper = target.InternalName.Equals("mystery_super", StringComparison.CurrentCultureIgnoreCase);
 
-            bool isFRLGPlus = target.InternalName.Equals("kanto_plus", StringComparison.CurrentCultureIgnoreCase);
-            bool isEmeraldPlus = target.InternalName.Equals("hoenn_plus", StringComparison.CurrentCultureIgnoreCase);
             bool isClassicPlus = target.InternalName.Equals("rogue_classicplus", StringComparison.CurrentCultureIgnoreCase)
-				//|| target.InternalName.Equals("kanto_plus", StringComparison.CurrentCultureIgnoreCase)
+				|| target.InternalName.Equals("kanto_plus", StringComparison.CurrentCultureIgnoreCase)
                 || target.InternalName.Equals("johto_plus", StringComparison.CurrentCultureIgnoreCase)
-                //|| target.InternalName.Equals("hoenn_plus", StringComparison.CurrentCultureIgnoreCase)
+                || target.InternalName.Equals("hoenn_plus", StringComparison.CurrentCultureIgnoreCase)
                 || target.InternalName.Equals("sinnoh_plus", StringComparison.CurrentCultureIgnoreCase)
                 || target.InternalName.Equals("unova_plus", StringComparison.CurrentCultureIgnoreCase)
                 || target.InternalName.Equals("unova_plus2", StringComparison.CurrentCultureIgnoreCase)
@@ -309,61 +325,74 @@ namespace PokemonDataGenerator.Pokedex
 								continue;
 							break;
 						case 4:
-							if (GameDataHelpers.GetSpeciesNum(speciesDefine) > GameDataHelpers.GetSpeciesNum("SPECIES_ARCEUS"))
-								continue;
-							break;
+                            if (isExplorers)
+                                if (GameDataHelpers.GetSpeciesNum(speciesDefine) > GameDataHelpers.GetSpeciesNum("SPECIES_SHAYMIN"))
+                                    continue;
+                            if (GameDataHelpers.GetSpeciesNum(speciesDefine) > GameDataHelpers.GetSpeciesNum("SPECIES_ARCEUS"))
+                                    continue;
+                            break;
 						case 5:
 							if (GameDataHelpers.GetSpeciesNum(speciesDefine) > GameDataHelpers.GetSpeciesNum("SPECIES_MELOETTA"))
 								continue;
 							break;
-						case 7:
-							if (GameDataHelpers.GetSpeciesNum(speciesDefine) > GameDataHelpers.GetSpeciesNum("SPECIES_VOLCANION"))
+						case 6:
+                            if (isSuper)
+                                if (GameDataHelpers.GetSpeciesNum(speciesDefine) > GameDataHelpers.GetSpeciesNum("SPECIES_HOOPA"))
+                                    continue;
+                            if (GameDataHelpers.GetSpeciesNum(speciesDefine) > GameDataHelpers.GetSpeciesNum("SPECIES_VOLCANION"))
 								continue;
 							break;
-						case 8:
+                        case 7:
+                            if (GameDataHelpers.GetSpeciesNum(speciesDefine) > GameDataHelpers.GetSpeciesNum("SPECIES_MELMETAL"))
+                                continue;
+                            break;
+                        case 8:
 							if (GameDataHelpers.GetSpeciesNum(speciesDefine) > GameDataHelpers.GetSpeciesNum("SPECIES_ENAMORUS"))
 								continue;
 							break;
-					}
+                    }
 				}
 
-				if (!target.Mons.Contains(species))
+                if (!target.Mons.Contains(species))
 				{
 					target.Mons.Add(species);
-
-					if (isFRLG)
+                    // Kanto Dex Extras
+                    if (isFRLG)
                     {
-                        AppendDexMon_ExtraFRLG(species, target); // UIE: Use this to add post-game locked evos to RBY dex
-                        AppendDexMon_ExtraSevii(species, target); // UIE: Use this to add post-game Gen 2 mon to end of dex
+                        if (isClassicPlus)
+                        {
+                            AppendDexMon_ExtraSeviiPlus(species, target);
+                        }
+                        else
+                        {
+                            AppendDexMon_ExtraFRLG(species, target); // UIE: Use this to add post-game locked evos to RBY dex
+                            AppendDexMon_ExtraSevii(species, target); // UIE: Use this to add post-game Gen 2 mon to end of dex
+                        }
                     }
-                    else if (isFRLGPlus)
-                    {
-                        AppendDexMon_ExtraSeviiPlus(species, target);
-                        AppendDexMon_ExtraClassicPlus(species, target);
-                    }
+                    // Johto Dex Extras
                     else if (isHGSS)
                     {
                         AppendDexMon_ExtraHGSS(species, target); // HGSS dex is missing a lot of evos from regional dex, as they weren't techincally obtainable until post game so forcefully insert them here
                         //AppendDexMon_ExtraHGSSPostGame(species, target); // Disabled because it makes HGSS almost identical to Nat Dex (Gen. 4)
                     }
+                    // Hoenn Dex Extras
                     else if (isEmerald)
                     {
-                        AppendDexMon_ExtraEmeraldSafari(species, target); // UIE: Use this to add the 40-ish post-game Gen 1 & 2 mon
-                    }
-                    else if (isEmeraldPlus)
-                    {
-                        AppendDexMon_ExtraEmeraldSafariPlus(species, target);
-                        AppendDexMon_ExtraClassicPlus(species, target);
-                    }
-                    else if (isPinball)
-                    {
-                        AppendDexMon_ExtraPinball(species, target); // UIE: This is a joke
+                        if (isClassicPlus)
+                        {
+                            AppendDexMon_ExtraEmeraldSafariPlus(species, target);
+                        }
+                        else
+                        {
+                            AppendDexMon_ExtraEmeraldSafari(species, target); // UIE: Use this to add the 40-ish post-game Gen 1 & 2 mon
+                        }
                     }
                     else if (isORAS)
                     {
                         AppendDexMon_ExtraORASDexNav(species, target);
                         //AppendDexMon_ExtraMirageSpots(species, target);
                     }
+                    // Sinnoh Dex Extras
                     else if (isPlatinum)
                     {
                         AppendDexMon_ExtraDualSlot(species, target);
@@ -373,6 +402,7 @@ namespace PokemonDataGenerator.Pokedex
                     {
                         //AppendDexMon_ExtraRamanasPark(species, target);
                     }
+                    // Alola Dex Extras
                     else if (isSM)
                     {
                         //AppendDexMon_ExtraIslandScanSM(species, target);
@@ -382,25 +412,45 @@ namespace PokemonDataGenerator.Pokedex
                         //AppendDexMon_ExtraIslandScanUSUM(species, target);
                         //AppendDexMon_ExtraUltraSpace(species, target);
                     }
+                    // Galar Dex Extras
                     else if (isSwSh)
                     {
-                        AppendDexMon_ExtraSwSh(species, target);
+                        AppendDexMon_ExtraSwShCrownTundra(species, target);
                         //AppendDexMon_ExtraDynaAdv(species, target);
                         //AppendDexMon_ExtraSwShCompatible(species, target);
                     }
+                    // Paldea Dex Extras
                     else if (isScVi)
                     {
-                        AppendDexMon_ExtraScVi(species, target);
+                        AppendDexMon_ExtraScViBlueberry(species, target);
                         //AppendDexMon_ExtraSnacksworth(species, target);
                         //AppendDexMon_ExtraScViCompatible(species, target);
                     }
-                    else if (isClassicPlus) // UIE: I've majorly expanded this function to accomodate up to Gen 9. Seems to correctly ignore mon that don't exist in the dex or don't need to be added
+                    else if (dexId == "blueberry")
+                        AppendDexMon_ScViBlueberry(species, target);
+                    // Spin-Off Dex Extras
+                    else if (isPinball)
+                    {
+                        AppendDexMon_ExtraPinball(species, target); // UIE: This is a joke
+                    }
+                    // Mystery Dungeon Dex Extras
+                    else if (isRescueTeam)
+                    {
+                        AppendDexMon_ExtraRescueTeamDX(species, target);
+                    }
+                    else if (isExplorers)
+                    {
+                        AppendDexMon_HeroExplorersOfSky(species, target);
+                    }
+                    else if (isSuper)
+                    {
+                        AppendDexMon_HeroSuperMysteryDungeon(species, target);
+                    }
+                    // Plus Dex Extras (all generations)
+                    if (isClassicPlus) // UIE: I've majorly expanded this function to accomodate up to Gen 9. Seems to correctly ignore mon that don't exist in the dex or don't need to be added
                     {
                         AppendDexMon_ExtraClassicPlus(species, target);
                     }
-
-                    if (dexId == "blueberry")
-						AppendDexMon_ScViBlueberry(species, target);
 				}
 			}
 
@@ -1084,18 +1134,6 @@ namespace PokemonDataGenerator.Pokedex
             }
         }
         // Copy of the above function with ExtraClassic evolutions manually added because I don't know how to code
-        private static void AppendDexMon_ExtraPinball(string species, PokedexData target) // This is a joke
-        {
-            if (species.Equals("deoxys", StringComparison.CurrentCultureIgnoreCase))
-            {
-                target.Mons[target.Mons.Count - 1] = "chikorita";
-                target.Mons.Add("cyndaquil");
-                target.Mons.Add("totodile");
-                target.Mons.Add("aerodactyl");
-            }
-        }
-        // Adds (3) [Gen 2] Starters
-        // Adds (1) [Gen 1] Pokemon
         private static void AppendDexMon_ExtraORASDexNav(string species, PokedexData target)
         {
             if (species.Equals("deoxys", StringComparison.CurrentCultureIgnoreCase))
@@ -1764,7 +1802,7 @@ namespace PokemonDataGenerator.Pokedex
         }
         // Adds (39) [Gen 1-6] Pokemon and (37) Legendaries obtainable through Ultra Space Wormholes in USUM
 
-        private static void AppendDexMon_ExtraSwSh(string species, PokedexData target)
+        private static void AppendDexMon_ExtraSwShCrownTundra(string species, PokedexData target)
         {
             if (species.Equals("eternatus", StringComparison.CurrentCultureIgnoreCase))
             {
@@ -1868,8 +1906,15 @@ namespace PokemonDataGenerator.Pokedex
         }
         // Adds (12) Legendaries that can be transferred to SwSh, but not obtained within it
 
-
-        private static void AppendDexMon_ExtraScVi(string species, PokedexData target)
+        private static void AppendDexMon_ScViBlueberry(string species, PokedexData target)
+        {
+            if (species.Equals("archaludon", StringComparison.CurrentCultureIgnoreCase))
+            {
+                target.Mons.Add("applin");
+                target.Mons.Add("dipplin");
+            }
+        }
+        private static void AppendDexMon_ExtraScViBlueberry(string species, PokedexData target)
         {
             if (species.Equals("miraidon", StringComparison.CurrentCultureIgnoreCase))
             {
@@ -1963,6 +2008,367 @@ namespace PokemonDataGenerator.Pokedex
             }
         }
         // Adds (38) Legendaries and (4) regional form evos that can be transferred to ScVi, but not obtained within it
+
+        private static void AppendDexMon_ExtraPinball(string species, PokedexData target) // This is a joke
+        {
+            if (species.Equals("deoxys", StringComparison.CurrentCultureIgnoreCase))
+            {
+                target.Mons[target.Mons.Count - 1] = "chikorita";
+                target.Mons.Add("cyndaquil");
+                target.Mons.Add("totodile");
+                target.Mons.Add("aerodactyl");
+            }
+        }
+        // Adds (3) [Gen 2] Starters
+        // Adds (1) [Gen 1] Pokemon
+        private static void AppendDexMon_ExtraRescueTeamDX(string species, PokedexData target)
+        {
+            if (species.Equals("blastoise", StringComparison.CurrentCultureIgnoreCase))
+            {
+                target.Mons.Add("pichu");
+                target.Mons.Add("pikachu");
+                target.Mons.Add("raichu");
+                target.Mons.Add("meowth");
+                target.Mons.Add("persian");
+                target.Mons.Add("psyduck");
+                target.Mons.Add("golduck");
+                target.Mons.Add("machop");
+                target.Mons.Add("machoke");
+                target.Mons.Add("machamp");
+                target.Mons.Add("cubone");
+                target.Mons.Add("marowak");
+                target.Mons.Add("eevee");
+                target.Mons.Add("vaporeon");
+                target.Mons.Add("jolteon");
+                target.Mons.Add("flareon");
+                target.Mons.Add("espeon");
+                target.Mons.Add("umbreon");
+                target.Mons.Add("leafeon");
+                target.Mons.Add("glaceon");
+                target.Mons.Add("sylveon");
+                target.Mons.Add("chikorita");
+                target.Mons.Add("bayleef");
+                target.Mons.Add("meganium");
+                target.Mons.Add("cyndaquil");
+                target.Mons.Add("quilava");
+                target.Mons.Add("typhlosion");
+                target.Mons.Add("totodile");
+                target.Mons.Add("croconaw");
+                target.Mons.Add("feraligatr");
+                target.Mons.Add("treecko");
+                target.Mons.Add("grovyle");
+                target.Mons.Add("sceptile");
+                target.Mons.Add("torchic");
+                target.Mons.Add("combusken");
+                target.Mons.Add("blaziken");
+                target.Mons.Add("mudkip");
+                target.Mons.Add("marshtomp");
+                target.Mons.Add("swampert");
+                target.Mons.Add("skitty");
+                target.Mons.Add("delcatty");
+            }
+            else if (species.Equals("clefairy", StringComparison.CurrentCultureIgnoreCase))
+            {
+                target.Mons[target.Mons.Count - 1] = "cleffa";
+                target.Mons.Add("clefairy");
+            }
+            else if (species.Equals("jigglypuff", StringComparison.CurrentCultureIgnoreCase))
+            {
+                target.Mons[target.Mons.Count - 1] = "igglybuff";
+                target.Mons.Add("jigglypuff");
+            }
+            else if (species.Equals("golbat", StringComparison.CurrentCultureIgnoreCase))
+            {
+                target.Mons.Add("crobat");
+            }
+            else if (species.Equals("vileplume", StringComparison.CurrentCultureIgnoreCase))
+            {
+                target.Mons.Add("bellossom");
+            }
+            else if (species.Equals("poliwrath", StringComparison.CurrentCultureIgnoreCase))
+            {
+                target.Mons.Add("politoed");
+            }
+            else if (species.Equals("slowbro", StringComparison.CurrentCultureIgnoreCase))
+            {
+                target.Mons.Add("slowking");
+            }
+            else if (species.Equals("onix", StringComparison.CurrentCultureIgnoreCase))
+            {
+                target.Mons.Add("steelix");
+            }
+            else if (species.Equals("hitmonlee", StringComparison.CurrentCultureIgnoreCase))
+            {
+                target.Mons[target.Mons.Count - 1] = "tyrogue";
+                target.Mons.Add("hitmonlee");
+            }
+            else if (species.Equals("hitmonchan", StringComparison.CurrentCultureIgnoreCase))
+            {
+                target.Mons.Add("hitmontop");
+            }
+            else if (species.Equals("chansey", StringComparison.CurrentCultureIgnoreCase))
+            {
+                target.Mons[target.Mons.Count - 1] = "happiny";
+                target.Mons.Add("chansey");
+                target.Mons.Add("blissey");
+            }
+            else if (species.Equals("seadra", StringComparison.CurrentCultureIgnoreCase))
+            {
+                target.Mons.Add("kingdra");
+            }
+            else if (species.Equals("scyther", StringComparison.CurrentCultureIgnoreCase))
+            {
+                target.Mons.Add("scizor");
+            }
+            else if (species.Equals("jynx", StringComparison.CurrentCultureIgnoreCase))
+            {
+                target.Mons[target.Mons.Count - 1] = "smoochum";
+                target.Mons.Add("jynx");
+            }
+            else if (species.Equals("electabuzz", StringComparison.CurrentCultureIgnoreCase))
+            {
+                target.Mons[target.Mons.Count - 1] = "elekid";
+                target.Mons.Add("electabuzz");
+                target.Mons.Add("electivire");
+            }
+            else if (species.Equals("magmar", StringComparison.CurrentCultureIgnoreCase))
+            {
+                target.Mons[target.Mons.Count - 1] = "magby";
+                target.Mons.Add("magmar");
+                target.Mons.Add("magmortar");
+            }
+            else if (species.Equals("porygon", StringComparison.CurrentCultureIgnoreCase))
+            {
+                target.Mons.Add("porygon2");
+                target.Mons.Add("porygon-z");
+            }
+            else if (species.Equals("marill", StringComparison.CurrentCultureIgnoreCase))
+            {
+                target.Mons[target.Mons.Count - 1] = "azurill";
+                target.Mons.Add("marill");
+            }
+            else if (species.Equals("wobbuffet", StringComparison.CurrentCultureIgnoreCase))
+            {
+                target.Mons[target.Mons.Count - 1] = "wynaut";
+                target.Mons.Add("wobbuffet");
+            }
+            if (species.Equals("magneton", StringComparison.CurrentCultureIgnoreCase))
+            {
+                target.Mons.Add("magnezone");
+            }
+            else if (species.Equals("lickitung", StringComparison.CurrentCultureIgnoreCase))
+            {
+                target.Mons.Add("lickilicky");
+            }
+            else if (species.Equals("rhydon", StringComparison.CurrentCultureIgnoreCase))
+            {
+                target.Mons.Add("rhyperior");
+            }
+            else if (species.Equals("tangela", StringComparison.CurrentCultureIgnoreCase))
+            {
+                target.Mons.Add("tangrowth");
+            }
+            else if (species.Equals("mr-mime", StringComparison.CurrentCultureIgnoreCase))
+            {
+                target.Mons[target.Mons.Count - 1] = "mime-jr";
+                target.Mons.Add("mr-mime");
+            }
+            else if (species.Equals("snorlax", StringComparison.CurrentCultureIgnoreCase))
+            {
+                target.Mons[target.Mons.Count - 1] = "munchlax";
+                target.Mons.Add("snorlax");
+            }
+            else if (species.Equals("sudowoodo", StringComparison.CurrentCultureIgnoreCase))
+            {
+                target.Mons[target.Mons.Count - 1] = "bonsly";
+                target.Mons.Add("sudowoodo");
+            }
+            else if (species.Equals("aipom", StringComparison.CurrentCultureIgnoreCase))
+            {
+                target.Mons.Add("ambipom");
+            }
+            else if (species.Equals("yanma", StringComparison.CurrentCultureIgnoreCase))
+            {
+                target.Mons.Add("yanmega");
+            }
+            if (species.Equals("sneasel", StringComparison.CurrentCultureIgnoreCase))
+            {
+                target.Mons.Add("weavile");
+            }
+            else if (species.Equals("murkrow", StringComparison.CurrentCultureIgnoreCase))
+            {
+                target.Mons.Add("honchkrow");
+            }
+            else if (species.Equals("misdreavus", StringComparison.CurrentCultureIgnoreCase))
+            {
+                target.Mons.Add("mismagius");
+            }
+            else if (species.Equals("gligar", StringComparison.CurrentCultureIgnoreCase))
+            {
+                target.Mons.Add("gliscor");
+            }
+            else if (species.Equals("mantine", StringComparison.CurrentCultureIgnoreCase))
+            {
+                target.Mons[target.Mons.Count - 1] = "mantyke";
+                target.Mons.Add("mantine");
+            }
+            else if (species.Equals("togetic", StringComparison.CurrentCultureIgnoreCase))
+            {
+                target.Mons.Add("togekiss");
+            }
+            else if (species.Equals("piloswine", StringComparison.CurrentCultureIgnoreCase))
+            {
+                target.Mons.Add("mamoswine");
+            }
+            else if (species.Equals("gardevoir", StringComparison.CurrentCultureIgnoreCase))
+            {
+                target.Mons.Add("gallade");
+            }
+            else if (species.Equals("nosepass", StringComparison.CurrentCultureIgnoreCase))
+            {
+                target.Mons.Add("probopass");
+            }
+            else if (species.Equals("roselia", StringComparison.CurrentCultureIgnoreCase))
+            {
+                target.Mons[target.Mons.Count - 1] = "budew";
+                target.Mons.Add("roselia");
+                target.Mons.Add("roserade");
+            }
+            else if (species.Equals("dusclops", StringComparison.CurrentCultureIgnoreCase))
+            {
+                target.Mons.Add("dusknoir");
+            }
+            else if (species.Equals("chimecho", StringComparison.CurrentCultureIgnoreCase))
+            {
+                target.Mons[target.Mons.Count - 1] = "chingling";
+                target.Mons.Add("chimecho");
+            }
+            else if (species.Equals("glalie", StringComparison.CurrentCultureIgnoreCase))
+            {
+                target.Mons.Add("froslass");
+            }
+            else if (species.Equals("deoxys", StringComparison.CurrentCultureIgnoreCase))
+            {
+                target.Mons.Add("riolu");
+                target.Mons.Add("lucario");
+            }
+        }
+        // Adds [Gen 4-6] evolutions and (2) [Gen 4] Pokemon (Riolu & Lucario)
+        private static void AppendDexMon_HeroExplorersOfSky(string species, PokedexData target)
+        {
+            if (species.Equals("blastoise", StringComparison.CurrentCultureIgnoreCase))
+            {
+                target.Mons.Add("pichu");
+                target.Mons.Add("pikachu");
+                target.Mons.Add("raichu");
+                target.Mons.Add("vulpix");
+                target.Mons.Add("ninetales");
+                target.Mons.Add("meowth");
+                target.Mons.Add("persian");
+                target.Mons.Add("eevee");
+                target.Mons.Add("vaporeon");
+                target.Mons.Add("jolteon");
+                target.Mons.Add("flareon");
+                target.Mons.Add("espeon");
+                target.Mons.Add("umbreon");
+                target.Mons.Add("leafeon");
+                target.Mons.Add("glaceon");
+                target.Mons.Add("chikorita");
+                target.Mons.Add("bayleef");
+                target.Mons.Add("meganium");
+                target.Mons.Add("cyndaquil");
+                target.Mons.Add("quilava");
+                target.Mons.Add("typhlosion");
+                target.Mons.Add("totodile");
+                target.Mons.Add("croconaw");
+                target.Mons.Add("feraligatr");
+                target.Mons.Add("phanpy");
+                target.Mons.Add("donphan");
+                target.Mons.Add("treecko");
+                target.Mons.Add("grovyle");
+                target.Mons.Add("sceptile");
+                target.Mons.Add("torchic");
+                target.Mons.Add("combusken");
+                target.Mons.Add("blaziken");
+                target.Mons.Add("mudkip");
+                target.Mons.Add("marshtomp");
+                target.Mons.Add("swampert");
+                target.Mons.Add("skitty");
+                target.Mons.Add("delcatty");
+                target.Mons.Add("turtwig");
+                target.Mons.Add("grotle");
+                target.Mons.Add("torterra");
+                target.Mons.Add("chimchar");
+                target.Mons.Add("monferno");
+                target.Mons.Add("infernape");
+                target.Mons.Add("piplup");
+                target.Mons.Add("prinplup");
+                target.Mons.Add("empoleon");
+                target.Mons.Add("shinx");
+                target.Mons.Add("luxio");
+                target.Mons.Add("luxray");
+                target.Mons.Add("munchlax");
+                target.Mons.Add("snorlax");
+                target.Mons.Add("riolu");
+                target.Mons.Add("lucario");
+            }
+        }
+        private static void AppendDexMon_HeroSuperMysteryDungeon(string species, PokedexData target)
+        {
+            if (species.Equals("blastoise", StringComparison.CurrentCultureIgnoreCase))
+            {
+                target.Mons.Add("pichu");
+                target.Mons.Add("pikachu");
+                target.Mons.Add("raichu");
+                target.Mons.Add("chikorita");
+                target.Mons.Add("bayleef");
+                target.Mons.Add("meganium");
+                target.Mons.Add("cyndaquil");
+                target.Mons.Add("quilava");
+                target.Mons.Add("typhlosion");
+                target.Mons.Add("totodile");
+                target.Mons.Add("croconaw");
+                target.Mons.Add("feraligatr");
+                target.Mons.Add("treecko");
+                target.Mons.Add("grovyle");
+                target.Mons.Add("sceptile");
+                target.Mons.Add("torchic");
+                target.Mons.Add("combusken");
+                target.Mons.Add("blaziken");
+                target.Mons.Add("mudkip");
+                target.Mons.Add("marshtomp");
+                target.Mons.Add("swampert");
+                target.Mons.Add("turtwig");
+                target.Mons.Add("grotle");
+                target.Mons.Add("torterra");
+                target.Mons.Add("chimchar");
+                target.Mons.Add("monferno");
+                target.Mons.Add("infernape");
+                target.Mons.Add("piplup");
+                target.Mons.Add("prinplup");
+                target.Mons.Add("empoleon");
+                target.Mons.Add("riolu");
+                target.Mons.Add("lucario");
+                target.Mons.Add("snivy");
+                target.Mons.Add("servine");
+                target.Mons.Add("serperior");
+                target.Mons.Add("tepig");
+                target.Mons.Add("pignite");
+                target.Mons.Add("emboar");
+                target.Mons.Add("oshawott");
+                target.Mons.Add("dewott");
+                target.Mons.Add("samurott");
+                target.Mons.Add("chespin");
+                target.Mons.Add("quilladin");
+                target.Mons.Add("chesnaught");
+                target.Mons.Add("fennekin");
+                target.Mons.Add("braixen");
+                target.Mons.Add("delphox");
+                target.Mons.Add("froakie");
+                target.Mons.Add("frogadier");
+                target.Mons.Add("greninja");
+            }
+        }
 
         private static void AppendDexMon_ExtraClassicPlus(string species, PokedexData target)
         {
@@ -2333,15 +2739,6 @@ namespace PokemonDataGenerator.Pokedex
                 target.Mons.Add("sinistcha");
             }
         }
-
-        private static void AppendDexMon_ScViBlueberry(string species, PokedexData target)
-		{
-			if (species.Equals("archaludon", StringComparison.CurrentCultureIgnoreCase))
-			{
-				target.Mons.Add("applin");
-				target.Mons.Add("dipplin");
-			}
-		}
 
 		private static void ExportConstants(string fileName, List<PokedexData> data, Dictionary<string, List<PokedexData>> regionData)
 		{
