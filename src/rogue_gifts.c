@@ -407,41 +407,41 @@ static u16 SelectTypeBasedExtraMove(u8 type, u8 rng)
     switch (type)
     {        
     case TYPE_NORMAL:
-        return rng ? MOVE_BOOMBURST;
+        return MOVE_BOOMBURST;
     case TYPE_FIGHTING:
-        return rng ? MOVE_FOCUS_BLAST;
+        return MOVE_FOCUS_BLAST;
     case TYPE_FLYING:
-        return rng ? MOVE_HURRICANE;
+        return MOVE_HURRICANE;
     case TYPE_POISON:
-        return rng ? MOVE_SLUDGE_BOMB;
+        return MOVE_SLUDGE_BOMB;
     case TYPE_GROUND:
-        return rng ? MOVE_EARTHQUAKE;
+        return MOVE_EARTHQUAKE;
     case TYPE_ROCK:
-        return rng ? MOVE_ROCK_SLIDE;
+        return MOVE_ROCK_SLIDE;
     case TYPE_BUG:
-        return rng ? MOVE_LUNGE;
+        return MOVE_LUNGE;
     case TYPE_GHOST:
-        return rng ? MOVE_SHADOW_BALL;
+        return MOVE_SHADOW_BALL;
     case TYPE_STEEL:
-        return rng ? MOVE_IRON_HEAD;
+        return MOVE_IRON_HEAD;
     case TYPE_FIRE:
-        return rng ? MOVE_OVERHEAT;
+        return MOVE_OVERHEAT;
     case TYPE_WATER:
-        return rng ? MOVE_LIQUIDATION;
+        return MOVE_LIQUIDATION;
     case TYPE_GRASS:
-        return rng ? MOVE_GIGA_DRAIN;
+        return MOVE_GIGA_DRAIN;
     case TYPE_ELECTRIC:
-        return rng ? MOVE_THUNDERCLAP;
+        return MOVE_THUNDERCLAP;
     case TYPE_PSYCHIC:
-        return rng ? MOVE_PSYCHIC;
+        return MOVE_PSYCHIC;
     case TYPE_ICE:
-        return rng ? MOVE_ICE_BEAM;
+        return MOVE_ICE_BEAM;
     case TYPE_DRAGON:
-        return rng ? MOVE_DRACO_METEOR;
+        return MOVE_DRACO_METEOR;
     case TYPE_DARK:
-        return rng ? MOVE_DARK_PULSE;
+        return MOVE_DARK_PULSE;
     case TYPE_FAIRY:
-        return rng ? MOVE_MOONBLAST;
+        return MOVE_MOONBLAST;
     }
 #else
 
