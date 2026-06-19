@@ -408,7 +408,7 @@
                     "MOVE_FLY",
                     "MOVE_FLIP_TURN",
                     "MOVE_EXTREME_SPEED",
-                    "MOVE_MOONBLAST"
+                    "MOVE_VOLT_TACKLE"
                 ],
                 "abilities":
                 [
@@ -467,7 +467,7 @@
 
 
             {
-                "#if": "!defined(ROGUE_EXPANSION)",
+                "#if": "defined(ROGUE_EXPANSION)",
                 "species": "SPECIES_CHIMECHO",
                 "trainer": "Exotic",
                 "pokeball": "ITEM_ROGUE_BALL",
@@ -505,7 +505,7 @@
             },
 
             {
-                "#if": "!defined(ROGUE_EXPANSION)",
+                "#if": "defined(ROGUE_EXPANSION)",
                 "species": "SPECIES_ARON",
                 "trainer": "Exotic",
                 "pokeball": "ITEM_ROGUE_BALL",
@@ -543,7 +543,7 @@
             },
 
             {
-                "#if": "!defined(ROGUE_EXPANSION)",
+                "#if": "defined(ROGUE_EXPANSION)",
                 "species": "SPECIES_MISDREAVUS",
                 "trainer": "Exotic",
                 "pokeball": "ITEM_ROGUE_BALL",
@@ -582,7 +582,7 @@
             },
 
             {
-                "#if": "!defined(ROGUE_EXPANSION)",
+                "#if": "defined(ROGUE_EXPANSION)",
                 "species": "SPECIES_HOOTHOOT",
                 "trainer": "Exotic",
                 "pokeball": "ITEM_ROGUE_BALL",
@@ -620,7 +620,7 @@
             },
 
             {
-                "#if": "!defined(ROGUE_EXPANSION)",
+                "#if": "defined(ROGUE_EXPANSION)",
                 "species": "SPECIES_AZURILL",
                 "trainer": "Exotic",
                 "pokeball": "ITEM_ROGUE_BALL",
@@ -659,7 +659,7 @@
             },
 
             {
-                "#if": "!defined(ROGUE_EXPANSION)",
+                "#if": "defined(ROGUE_EXPANSION)",
                 "species": "SPECIES_EKANS",
                 "trainer": "Exotic",
                 "pokeball": "ITEM_ROGUE_BALL",
@@ -727,7 +727,7 @@
                 "trainer": "Exotic",
                 "pokeball": "ITEM_ROGUE_BALL",
                 "held_item": "ITEM_NONE",
-                "is_default_spawn": false,
+                "is_default_spawn": true,
                 "types":
                 [
                     "TYPE_DARK",
@@ -752,7 +752,7 @@
                 "trainer": "Exotic",
                 "pokeball": "ITEM_ROGUE_BALL",
                 "held_item": "ITEM_NONE",
-                "is_default_spawn": false,
+                "is_default_spawn": true,
                 "types":
                 [
                     "TYPE_DARK",
